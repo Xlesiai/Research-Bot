@@ -4,24 +4,26 @@ Tasks:
  - Play YouTube videos
  - Download websites, images, videos
  - Open, close, override, create, and delete notepads
- - ReadME.md
 """
 
 # Imports
-from os import system, open as os_open, getcwd
+import numpy as np
+import pandas as pd
 from re import search
 from time import sleep
-from webbrowser import open as web_open
+from collections import Counter
 from urllib.request import urlretrieve
+from webbrowser import open as web_open
+from os import system, open as os_open, getcwd
 
 
 class SimplifiedBot:
     # ----------------Searching----------------
-    """
-    This opens a new tab with the url
-    """
     @staticmethod
     def web_search(url):
+        """
+            This function opens a new tab with the url if specified
+        """
         print("web searching...")
         sleep(15)
         try:
@@ -31,11 +33,11 @@ class SimplifiedBot:
             # if any error has occurred print it out
             print(e)
 
-    """
-        This google searches the term parameter, if none then just open up google
-    """
     @staticmethod
     def google_search(term=None):
+        """
+            This google searches the term parameter, if none then just open up google
+        """
         print("Google searching...")
         sleep(15)
         # if term is none open a new Google search
@@ -50,12 +52,12 @@ class SimplifiedBot:
                 # if there is any errors it will print it out
                 print(e)
 
-    """
-        this function google searches the image parameter on google images, if the image
-        parameter is not specified then open up google images
-    """
     @staticmethod
     def google_image_search(image=None):
+        """
+            this function google searches the image parameter on google images, if the image
+            parameter is not specified then open up google images
+        """
         print("Google image searching...")
         sleep(15)
         # if term is none open a new Google search
@@ -70,12 +72,12 @@ class SimplifiedBot:
                 # if there is any errors it will print it out
                 print(e)
 
-    """
-        this function google searches the video parameter on google videos, if the video
-        parameter is not specified then open up google video
-    """
     @staticmethod
     def google_video_search(video=None):
+        """
+            this function google searches the video parameter on google videos, if the video
+            parameter is not specified then open up google video
+        """
         print("Google video searching...")
         sleep(15)
         # if term is none open a new Google search
@@ -91,11 +93,12 @@ class SimplifiedBot:
                 print(e)
 
     # ----------------Video-Playing----------------
-    """
-    this function opens up a youtube video thru the url parameter, if the url is not specified then it opens youtube's homepage
-    """
     @staticmethod
     def play_youtube_video(url=None):
+        """
+           this function opens up a youtube video thru the url parameter,
+           if the url is not specified then it opens YouTube's homepage
+        """
         print("YouTube searching...")
         sleep(15)
         # if term is none, open YouTube
@@ -117,14 +120,21 @@ class SimplifiedBot:
     # ----------------NotePad----------------
     @staticmethod
     def open_notepad(path=None):
+        """
+            this function opens up window's notepad or opens up a txt document when a path is specified
+        """
         print("opening notepad...")
         sleep(15)
+        # if the path is not specified then open a untitled/default notepad
         if path is None:
             system("start notepad.exe")
         else:
+            # checks if it has the '.txt' extension at the end of the path
             if search("\.txt", path):
                 try:
+                    # it will try to find and open the txt document in the path
                     os_open(path)
+                # if it failed then it will print out the error
                 except Exception as e:
                     print(e)
             else:
@@ -132,48 +142,116 @@ class SimplifiedBot:
 
     @staticmethod
     def close_notepad():
+        """
+            this function closes all instances of the notepad program
+        """
         print("closing notepad...")
         sleep(15)
         try:
+            # this will try to kill all notepad instances
             system("TASKKILL /F /IM notepad.exe")
+        # if it failed then print out the error
         except Exception as e:
             print(e)
 
     # ----------------Operations----------------
     @staticmethod
-    def download(url, filename, filepath=None):
-        print("downloading...")
-        sleep(15)
-        if filepath is None:
-            filepath = getcwd()
-        try:
-            filepath = filepath + "\\" + filename
-            urlretrieve(url, filepath)
-        except Exception as e:
-            print(e)
-
-    @staticmethod
-    def open_file(path):
-        print("opening...")
-        sleep(15)
-        try:
-            os_open(path)
-        except Exception as e:
-            print(e)
-
-    @staticmethod
     def run_virus(virus_name):
+        """
+            this function runs the virus in the cuckoo machine
+        """
         print("running virus...")
         sleep(15)
+        # this will look at the path and look for the virus and try to run it
         system("start C:\\Users\\Administrator\\Desktop" + "\\" + virus_name)
 
     @staticmethod
     def filter_logs(log_path, file_name):
+        """
+            this function filters paths from a file
+        """
+        # this will store the file into a variable
         file = open(log_path)
+        # this will create a file and be used to store the filtered file
         temp_log = open(file_name, "a")
-
+        # this runs the file line by line
         for line in file:
+            # this searches for a valid path in the line
             r = search(r"[A-Z]\:(([\\].*)||([\/].*))\w+\.[A-Za-z0-9]{2,100}", line)
+            # if it has been found then store it into the temp file
             if r:
                 temp_log.write(r.group() + ".\n")
 
+    @staticmethod
+    def download(url, filename, filepath=None):
+        """
+            this goes and downloads what url the user specifies
+        """
+        print("downloading...")
+        sleep(15)
+        # if the user has not specified a download path then we download where the program is stored
+        if filepath is None:
+            filepath = getcwd()
+        try:
+            # this creates the path to download
+            filepath = filepath + "\\" + filename
+            # this downloads the file
+            urlretrieve(url, filepath)
+        # if the download fails then print out the error
+        except Exception as e:
+            print(e)
+
+    @staticmethod
+    def tf_idf(docs, column):
+        """
+        idea: have a array parameter for the columns, to have multiple columns
+            the columns get tf-idf and added to the new csv and can either be
+            added with target or used as a test
+
+        if unique add column
+        iterate thru docs
+            iterate thru csv
+                update tf-idf
+            update
+
+
+            unique = [["tcp", 15, 1], ["udp", 2, 1], ... , ["http", 45, 2]]
+        """
+        if type(column) is type(list()):  # multiple columns
+            unique = dict()
+            if type(docs) is type(list()):  # multiple csv
+                for csv in docs:
+                    unique = dict(Counter(csv[column]))
+                    print(unique)
+
+            else:  # singular csv
+                unique = dict(Counter(docs[column]))
+                for key, value in unique.items():
+                    tf = value / len(unique.values())
+                    idf = value
+                    unique[key] = tf * idf
+                new_csv = pd.DataFrame(unique, index=[0])
+                return new_csv
+
+        else:  # singular columns
+            unique = dict()
+            new_csv = pd.DataFrame()
+            if type(docs) is type(list()):  # multiple csv
+                for csv in docs:
+                    unique = dict(Counter(csv[column]))
+                    for key, value in unique.items():
+                        tf = value / len(unique.values())
+                        idf = value / len(docs)
+                        unique[key] = tf * idf
+                    new_csv.loc[len(new_csv.index)] = pd.DataFrame(unique, index=[0])
+                return new_csv
+
+
+            else:  # singular csv
+                unique = dict(Counter(docs[column]))
+                for key, value in unique.items():
+                    tf = value / len(unique.values())
+                    idf = value
+                    unique[key] = tf * idf
+                new_csv = pd.DataFrame(unique, index=[0])
+                return new_csv
