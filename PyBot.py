@@ -202,7 +202,10 @@ class SimplifiedBot:
             print(e)
 
     @staticmethod
-    def tf_idf(docs, column):
+    def modify_column(frame, column, string):
+        frame[column] = string + frame[column]
+    @staticmethod
+    def tf_idf(docs, columns):
         """
         idea: have a array parameter for the columns, to have multiple columns
             the columns get tf-idf and added to the new csv and can either be
@@ -216,26 +219,35 @@ class SimplifiedBot:
         """
         unique = dict()
         new_csv = pd.DataFrame()
-        if type(column) is type(list()):  # multiple columns
-            if type(docs) is type(list()):  # multiple csv
+
+        # multiple columns ✓
+        if type(columns) is type(list()):
+            # multiple csv | multiple columns ✓
+            if type(docs) is type(list()):
                 for csv in docs:
-                    unique = dict(Counter(csv[column]))
-                    print(unique)
+                    temp2 = pd.DataFrame()
+                    for col in columns:
+                        # creates a dictionary each key is a unique item, and its value is its frequency in the document
+                        unique = dict(Counter(csv[col]))
+                        # tf-idf
+                        for key, value in unique.items():  # iterates through the dict
+                            # finds the tf
+                            tf = value / len(unique.values())
+                            # finds the idf
+                            idf = value / len(docs)
+                            # calculates it and saves it to the existing dict
+                            unique[key] = tf * idf
+                        # adds it to the dataframe
+                        temp = pd.DataFrame(unique, index=[0])
+                        temp2 = pd.concat([temp, temp2], axis=1)
+                    new_csv = pd.concat([temp2, new_csv])
+                return new_csv.fillna(0)
 
-            else:  # singular csv
-                unique = dict(Counter(docs[column]))
-                for key, value in unique.items():
-                    tf = value / len(unique.values())
-                    idf = value
-                    unique[key] = tf * idf
-                new_csv = pd.DataFrame(unique, index=[0])
-                return new_csv
-
-        else:  # singular columns
-            if type(docs) is type(list()):  # multiple csv
-                for csv in docs:  # iterates through each csv
+            # single csv | multiple columns ✓
+            else:
+                for col in columns:
                     # creates a dictionary each key is a unique item, and its value is its frequency in the document
-                    unique = dict(Counter(csv[column]))
+                    unique = dict(Counter(docs[col]))
                     # tf-idf
                     for key, value in unique.items():  # iterates through the dict
                         # finds the tf
@@ -245,14 +257,38 @@ class SimplifiedBot:
                         # calculates it and saves it to the existing dict
                         unique[key] = tf * idf
                     # adds it to the dataframe
-                    temp = pd.DataFrame.from_dict(unique, orient='index')
-                    print(temp)
-                    pd.concat([temp, new_csv])
-                return new_csv.T
+                    temp = pd.DataFrame(unique, index=[0])
+                    new_csv = pd.concat([temp, new_csv], axis=1)
+                return new_csv.fillna(0)
 
-            else:  # singular csv ✓
+        # singular columns ✓
+        else:
+            # multiple csv | single column ✓
+            if type(docs) is type(list()):
+                for csv in docs:  # iterates through each csv
+                    # creates a dictionary each key is a unique item, and its value is its frequency in the document
+                    unique = dict(Counter(csv[columns]))
+                    # tf-idf
+                    for key, value in unique.items():  # iterates through the dict
+                        # finds the tf
+                        tf = value / len(unique.values())
+                        # finds the idf
+                        idf = value / len(docs)
+                        # calculates it and saves it to the existing dict
+                        unique[key] = tf * idf
+                    # adds it to the dataframe
+                    temp = pd.DataFrame.from_dict(unique, orient='index').T
+
+                    if new_csv.empty:
+                        new_csv = temp
+                    else:
+                        new_csv = new_csv.append(unique, ignore_index=True)
+                return new_csv.fillna(0)
+
+            # single csv | single column ✓
+            else:
                 # creates a dictionary each key is a unique item, and its value is its frequency in the document
-                unique = dict(Counter(docs[column]))
+                unique = dict(Counter(docs[columns]))
                 # tf-idf
                 for key, value in unique.items():  # iterates through the dict
                     # finds the tf
@@ -264,4 +300,4 @@ class SimplifiedBot:
                 # turns it into a dataframe
                 new_csv = pd.DataFrame(unique, index=[0])
                 # returns the dataframe
-                return new_csv
+                return new_csv.fillna(0)
