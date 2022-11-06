@@ -1,0 +1,159 @@
+2022-08-18 12:23:47,015 [analyzer] DEBUG: Starting analyzer from: C:\tmpbatf7k
+2022-08-18 12:23:47,015 [analyzer] DEBUG: Pipe server name: \??\PIPE\aTTPteVTCijlzfxRQlFPQezE
+2022-08-18 12:23:47,015 [analyzer] DEBUG: Log pipe server name: \??\PIPE\jyNnQAQwUeprOMhJJtl
+2022-08-18 12:23:47,078 [analyzer] DEBUG: Started auxiliary module DbgView
+2022-08-18 12:23:52,858 [analyzer] DEBUG: Started auxiliary module Disguise
+2022-08-18 12:23:53,155 [analyzer] DEBUG: Loaded monitor into process with pid 504
+2022-08-18 12:23:53,155 [analyzer] DEBUG: Started auxiliary module DumpTLSMasterSecrets
+2022-08-18 12:23:53,171 [analyzer] DEBUG: Started auxiliary module Human
+2022-08-18 12:23:53,171 [analyzer] DEBUG: Started auxiliary module InstallCertificate
+2022-08-18 12:23:53,171 [analyzer] DEBUG: Started auxiliary module Reboot
+2022-08-18 12:23:53,328 [analyzer] DEBUG: Started auxiliary module RecentFiles
+2022-08-18 12:23:53,328 [modules.auxiliary.screenshots] INFO: Python Image Library (either PIL or Pillow) is not installed, screenshots are disabled.
+2022-08-18 12:23:53,328 [analyzer] DEBUG: Started auxiliary module Screenshots
+2022-08-18 12:23:53,328 [analyzer] DEBUG: Started auxiliary module LoadZer0m0n
+2022-08-18 12:23:53,608 [lib.api.process] INFO: Successfully executed process from path u'C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\SimplifiedBot_5_NV.exe' with arguments '' and pid 1020
+2022-08-18 12:23:54,015 [analyzer] DEBUG: Loaded monitor into process with pid 1020
+2022-08-18 12:23:54,125 [analyzer] INFO: Added new file to list with pid 1020 and path C:\Users\Administrator\AppData\Local\Temp\_MEI10202\VCRUNTIME140.dll
+2022-08-18 12:23:54,217 [analyzer] INFO: Added new file to list with pid 1020 and path C:\Users\Administrator\AppData\Local\Temp\_MEI10202\_bz2.pyd
+2022-08-18 12:23:54,328 [analyzer] INFO: Added new file to list with pid 1020 and path C:\Users\Administrator\AppData\Local\Temp\_MEI10202\_hashlib.pyd
+2022-08-18 12:23:54,375 [analyzer] INFO: Added new file to list with pid 1020 and path C:\Users\Administrator\AppData\Local\Temp\_MEI10202\_lzma.pyd
+2022-08-18 19:41:34,161 [analyzer] INFO: Added new file to list with pid 1020 and path C:\Users\Administrator\AppData\Local\Temp\_MEI10202\_socket.pyd
+2022-08-18 19:41:34,253 [analyzer] INFO: Added new file to list with pid 1020 and path C:\Users\Administrator\AppData\Local\Temp\_MEI10202\_ssl.pyd
+2022-08-18 19:41:34,378 [analyzer] INFO: Added new file to list with pid 1020 and path C:\Users\Administrator\AppData\Local\Temp\_MEI10202\libcrypto-1_1-x64.dll
+2022-08-18 19:41:36,786 [analyzer] INFO: Added new file to list with pid 1020 and path C:\Users\Administrator\AppData\Local\Temp\_MEI10202\libssl-1_1-x64.dll
+2022-08-18 19:41:37,332 [analyzer] INFO: Added new file to list with pid 1020 and path C:\Users\Administrator\AppData\Local\Temp\_MEI10202\python37.dll
+2022-08-18 19:41:41,473 [analyzer] INFO: Added new file to list with pid 1020 and path C:\Users\Administrator\AppData\Local\Temp\_MEI10202\select.pyd
+2022-08-18 19:41:41,503 [analyzer] INFO: Added new file to list with pid 1020 and path C:\Users\Administrator\AppData\Local\Temp\_MEI10202\unicodedata.pyd
+2022-08-18 19:41:42,582 [analyzer] INFO: Added new file to list with pid 1020 and path C:\Users\Administrator\AppData\Local\Temp\_MEI10202\base_library.zip
+2022-08-18 19:41:43,519 [analyzer] INFO: Injected into process with pid 2168 and name u'SimplifiedBot_5_NV.exe'
+2022-08-18 19:41:43,832 [analyzer] DEBUG: Loaded monitor into process with pid 2168
+2022-08-18 19:42:07,707 [analyzer] INFO: Injected into process with pid 3024 and name u'firefox.exe'
+2022-08-18 19:42:08,161 [analyzer] DEBUG: Loaded monitor into process with pid 3024
+2022-08-18 19:42:08,411 [analyzer] INFO: Injected into process with pid 3028 and name u'firefox.exe'
+2022-08-18 19:42:08,878 [lib.api.process] INFO: Memory dump of process with pid 3028 completed
+2022-08-18 19:42:09,191 [analyzer] DEBUG: Loaded monitor into process with pid 3028
+2022-08-18 19:42:14,957 [analyzer] INFO: Injected into process with pid 1244 and name u'firefox.exe'
+2022-08-18 19:42:15,378 [analyzer] DEBUG: Loaded monitor into process with pid 1244
+2022-08-18 19:42:15,723 [analyzer] INFO: Added new file to list with pid 1244 and path \Device\NamedPipe\gecko-crash-server-pipe.3028
+2022-08-18 19:42:15,832 [analyzer] INFO: Added new file to list with pid 1244 and path \Device\NamedPipe\chrome.3028.0.194420587
+2022-08-18 19:42:15,911 [analyzer] INFO: Injected into process with pid 2576 and name u'firefox.exe'
+2022-08-18 19:42:16,676 [lib.api.process] INFO: Memory dump of process with pid 2576 completed
+2022-08-18 19:42:16,769 [analyzer] INFO: Added new file to list with pid 3028 and path \Device\NamedPipe\lsass
+2022-08-18 19:42:17,334 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\cookies.sqlite
+2022-08-18 19:42:17,881 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\prefs-1.js
+2022-08-18 19:42:18,131 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\sessionCheckpoints.json.tmp
+2022-08-18 19:42:19,911 [lib.api.process] INFO: Memory dump of process with pid 3024 completed
+2022-08-18 19:42:20,381 [analyzer] INFO: Process with pid 3024 has terminated
+2022-08-18 19:42:21,177 [analyzer] INFO: Injected into process with pid 2592 and name u'firefox.exe'
+2022-08-18 19:42:21,772 [lib.api.process] INFO: Memory dump of process with pid 2592 completed
+2022-08-18 19:42:23,099 [analyzer] INFO: Injected into process with pid 2980 and name u'firefox.exe'
+2022-08-18 19:42:23,772 [lib.api.process] INFO: Memory dump of process with pid 2980 completed
+2022-08-18 19:42:25,334 [analyzer] INFO: Injected into process with pid 1228 and name u'firefox.exe'
+2022-08-18 19:42:25,756 [analyzer] DEBUG: Loaded monitor into process with pid 1228
+2022-08-18 19:42:26,224 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\sessionCheckpoints.json.tmp
+2022-08-18 19:42:26,302 [analyzer] INFO: Injected into process with pid 2684 and name u'firefox.exe'
+2022-08-18 19:42:27,240 [lib.api.process] INFO: Memory dump of process with pid 2684 completed
+2022-08-18 19:42:27,756 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\prefs-1.js
+2022-08-18 19:42:28,147 [analyzer] DEBUG: Loaded monitor into process with pid 2684
+2022-08-18 19:42:31,115 [analyzer] INFO: Injected into process with pid 3064 and name u'firefox.exe'
+2022-08-18 19:42:31,802 [lib.api.process] INFO: Memory dump of process with pid 3064 completed
+2022-08-18 19:42:32,177 [analyzer] INFO: Injected into process with pid 2604 and name u'firefox.exe'
+2022-08-18 19:42:32,615 [lib.api.process] INFO: Memory dump of process with pid 2604 completed
+2022-08-18 19:42:33,272 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\cookies.sqlite-wal
+2022-08-18 19:42:37,365 [analyzer] INFO: Injected into process with pid 2616 and name u'firefox.exe'
+2022-08-18 19:42:37,959 [analyzer] ERROR: Pipe command handler exception occurred (command DUMPMEM args '2616').
+Traceback (most recent call last):
+  File "C:/tmpbatf7k/analyzer.py", line 405, in dispatch
+    response = fn(arguments)
+  File "C:/tmpbatf7k/analyzer.py", line 347, in _handle_dumpmem
+    dump_memory(int(data))
+  File "C:\tmpbatf7k\lib\common\decide.py", line 11, in dump_memory
+    Process(pid=pid).dump_memory()
+  File "C:\tmpbatf7k\lib\api\process.py", line 579, in dump_memory
+    os.unlink(dump_path)
+WindowsError: [Error 32] The process cannot access the file because it is being used by another process: 'c:\\users\\admini~1\\appdata\\local\\temp\\tmpryy1qi'
+2022-08-18 19:42:38,272 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\cache2\entries\6D89348819C8881868053197CA0754F36784BF5F
+2022-08-18 19:42:38,411 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\prefs-1.js
+2022-08-18 19:42:40,286 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\prefs-1.js
+2022-08-18 19:42:40,286 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\cache2\entries\84A5EAC46BD04E39D369CEFA91172BD9A892410B
+2022-08-18 19:42:40,319 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\places.sqlite-wal
+2022-08-18 19:42:40,819 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\cache2\entries\6D89348819C8881868053197CA0754F36784BF5F
+2022-08-18 19:42:41,786 [analyzer] INFO: Injected into process with pid 2256 and name u'cmd.exe'
+2022-08-18 19:42:42,835 [analyzer] DEBUG: Loaded monitor into process with pid 2256
+2022-08-18 19:42:43,460 [lib.api.process] INFO: Memory dump of process with pid 1228 completed
+2022-08-18 19:42:43,618 [analyzer] INFO: Process with pid 1228 has terminated
+2022-08-18 19:42:44,132 [analyzer] INFO: Injected into process with pid 1524 and name u'notepad.exe'
+2022-08-18 19:42:44,868 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\prefs-1.js
+2022-08-18 19:42:44,976 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\datareporting\glean\db\data.safe.bin
+2022-08-18 19:42:45,118 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\datareporting\glean\tmp\e3d9cec9-4369-425d-b460-7322e2d7162e
+2022-08-18 19:42:45,196 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\datareporting\glean\tmp\dc3444ab-9104-440f-8789-adc12975fcdb
+2022-08-18 19:42:45,368 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\datareporting\glean\tmp\828807cb-bcb5-47e7-97b7-a84f85f8ffe5
+2022-08-18 19:42:45,585 [analyzer] INFO: Added new file to list with pid 3028 and path C:\ProgramData\Mozilla-1de4eec8-1241-4177-a864-e594e8d1fb38\updates\E7CF176E110C211B\active-update.xml.tmp
+2022-08-18 19:42:45,696 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\search.json.mozlz4.tmp
+2022-08-18 19:42:45,789 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\sessionstore-backups\recovery.jsonlz4.tmp
+2022-08-18 19:42:46,257 [analyzer] DEBUG: Loaded monitor into process with pid 1524
+2022-08-18 19:42:46,430 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 1524.
+2022-08-18 19:42:49,101 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\prefs-1.js
+2022-08-18 19:42:50,680 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\cache2\entries\EFF26F0BBB9DD36643E566AF00C841555933CA6D
+2022-08-18 19:42:51,180 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\cache2\entries\254256B27E0C48CF9B80B695F0B3B8CA84610495
+2022-08-18 19:42:51,539 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\cache2\entries\ADD7EECE898D520B190C089D89D892C6F214A272
+2022-08-18 19:42:51,835 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\cache2\entries\A540EDC5C2070CD702791BFBFD9A22CC102B473E
+2022-08-18 19:42:52,289 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\prefs-1.js
+2022-08-18 19:42:54,523 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\xulstore.json.tmp
+2022-08-18 19:42:54,601 [lib.api.process] INFO: Memory dump of process with pid 2256 completed
+2022-08-18 19:42:55,321 [analyzer] INFO: Process with pid 2256 has terminated
+2022-08-18 19:42:56,539 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\startupCache\urlCache-new.bin
+2022-08-18 19:42:56,821 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\startupCache\scriptCache-new.bin
+2022-08-18 19:43:01,430 [lib.api.process] INFO: Memory dump of process with pid 2592 completed
+2022-08-18 19:43:01,430 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\safebrowsing-updating\google4\goog-phish-proto.vlpset
+2022-08-18 19:43:01,632 [lib.api.process] WARNING: The process with pid 2592 is not alive, memory dump aborted
+2022-08-18 19:43:01,789 [analyzer] INFO: Process with pid 2592 has terminated
+2022-08-18 19:43:01,851 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\sessionstore-backups\recovery.jsonlz4.tmp
+2022-08-18 19:43:02,507 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\safebrowsing-updating\google4\goog-phish-proto.metadata
+2022-08-18 19:43:02,571 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\safebrowsing-updating\google4\goog-malware-proto.vlpset
+2022-08-18 19:43:02,601 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\safebrowsing-updating\google4\goog-malware-proto.metadata
+2022-08-18 19:43:02,648 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\safebrowsing-updating\google4\goog-unwanted-proto.vlpset
+2022-08-18 19:43:02,664 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\safebrowsing-updating\google4\goog-unwanted-proto.metadata
+2022-08-18 19:43:02,821 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\safebrowsing-updating\google4\goog-badbinurl-proto.vlpset
+2022-08-18 19:43:02,851 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\safebrowsing-updating\google4\goog-badbinurl-proto.metadata
+2022-08-18 19:43:02,868 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\safebrowsing-updating\google4\goog-downloadwhite-proto.vlpset
+2022-08-18 19:43:02,882 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\safebrowsing-updating\google4\goog-downloadwhite-proto.metadata
+2022-08-18 19:43:05,821 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\prefs-1.js
+2022-08-18 19:43:05,882 [lib.api.process] INFO: Memory dump of process with pid 2684 completed
+2022-08-18 19:43:06,789 [analyzer] INFO: Process with pid 2684 has terminated
+2022-08-18 19:43:08,757 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\safebrowsing-updating\mozplugin-block-digest256.sbstore
+2022-08-18 19:43:08,773 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\safebrowsing-updating\mozplugin-block-digest256.vlpset
+2022-08-18 19:43:08,805 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\safebrowsing-updating\except-flashallow-digest256.sbstore
+2022-08-18 19:43:08,821 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\safebrowsing-updating\except-flashallow-digest256.vlpset
+2022-08-18 19:43:08,851 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\safebrowsing-updating\block-flash-digest256.sbstore
+2022-08-18 19:43:08,851 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\safebrowsing-updating\block-flash-digest256.vlpset
+2022-08-18 19:43:08,882 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\safebrowsing-updating\except-flash-digest256.sbstore
+2022-08-18 19:43:08,882 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\safebrowsing-updating\except-flash-digest256.vlpset
+2022-08-18 19:43:08,914 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\safebrowsing-updating\block-flashsubdoc-digest256.sbstore
+2022-08-18 19:43:08,930 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\safebrowsing-updating\block-flashsubdoc-digest256.vlpset
+2022-08-18 19:43:08,946 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\safebrowsing-updating\except-flashsubdoc-digest256.sbstore
+2022-08-18 19:43:08,960 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\safebrowsing-updating\except-flashsubdoc-digest256.vlpset
+2022-08-18 19:43:10,055 [analyzer] INFO: Added new file to list with pid 2168 and path C:\Users\Administrator\AppData\Local\Temp\Pets.jpeg
+2022-08-18 19:43:11,882 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\prefs-1.js
+2022-08-18 19:43:14,243 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\prefs-1.js
+2022-08-18 19:43:14,789 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\crashes\store.json.mozlz4.tmp
+2022-08-18 19:43:18,351 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\datareporting\session-state.json.tmp
+2022-08-18 19:43:18,523 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\saved-telemetry-pings\a492f0e6-1aba-46e0-9a84-86ae97843f1f.tmp
+2022-08-18 19:43:18,571 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\datareporting\archived\2022-08\1660673693507.a492f0e6-1aba-46e0-9a84-86ae97843f1f.main.jsonlz4.tmp
+2022-08-18 19:43:18,821 [analyzer] INFO: Added new file to list with pid 3028 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\datareporting\aborted-session-ping.tmp
+2022-08-18 19:43:19,039 [analyzer] INFO: Added new file to list with pid 3028 and path C:\ProgramData\Mozilla-1de4eec8-1241-4177-a864-e594e8d1fb38\uninstall_ping_E7CF176E110C211B_5e98eb6e-4620-4309-9da0-67f036dfb5ba.json.tmp
+2022-08-18 19:43:25,430 [analyzer] INFO: Injected into process with pid 3248 and name u'cmd.exe'
+2022-08-18 19:43:25,882 [analyzer] DEBUG: Loaded monitor into process with pid 3248
+2022-08-18 19:43:26,226 [analyzer] INFO: Injected into process with pid 3296 and name u'taskkill.exe'
+2022-08-18 19:43:26,618 [analyzer] DEBUG: Loaded monitor into process with pid 3296
+2022-08-18 19:43:32,023 [lib.api.process] INFO: Memory dump of process with pid 1524 completed
+2022-08-18 19:43:32,789 [analyzer] INFO: Process with pid 1524 has terminated
+2022-08-18 19:43:34,632 [lib.api.process] INFO: Memory dump of process with pid 3296 completed
+2022-08-18 19:43:34,789 [analyzer] INFO: Analysis timeout hit, terminating analysis.
+2022-08-18 19:43:35,993 [lib.api.process] INFO: Memory dump of process with pid 1020 completed
+2022-08-18 19:43:36,805 [lib.api.process] INFO: Memory dump of process with pid 3248 completed
+2022-08-18 19:43:44,273 [lib.api.process] INFO: Memory dump of process with pid 2168 completed
+2022-08-18 19:43:44,289 [lib.api.process] INFO: Memory dump of process with pid 2168 completed
+2022-08-18 19:43:47,726 [lib.api.process] INFO: Memory dump of process with pid 1020 completed
+2022-08-18 19:44:18,164 [lib.api.process] INFO: Memory dump of process with pid 3028 completed

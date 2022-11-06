@@ -1,0 +1,229 @@
+2022-08-18 12:23:47,000 [analyzer] DEBUG: Starting analyzer from: C:\tmpbatf7k
+2022-08-18 12:23:47,000 [analyzer] DEBUG: Pipe server name: \??\PIPE\fvsuzxZhIiLTZUmkktEwToDfgWBdmC
+2022-08-18 12:23:47,000 [analyzer] DEBUG: Log pipe server name: \??\PIPE\xGhVthrgMOyfyMyEbQGm
+2022-08-18 12:23:47,062 [analyzer] DEBUG: Started auxiliary module DbgView
+2022-08-18 12:23:52,640 [analyzer] DEBUG: Started auxiliary module Disguise
+2022-08-18 12:23:52,953 [analyzer] DEBUG: Loaded monitor into process with pid 504
+2022-08-18 12:23:52,953 [analyzer] DEBUG: Started auxiliary module DumpTLSMasterSecrets
+2022-08-18 12:23:52,953 [analyzer] DEBUG: Started auxiliary module Human
+2022-08-18 12:23:52,953 [analyzer] DEBUG: Started auxiliary module InstallCertificate
+2022-08-18 12:23:52,967 [analyzer] DEBUG: Started auxiliary module Reboot
+2022-08-18 12:23:53,140 [analyzer] DEBUG: Started auxiliary module RecentFiles
+2022-08-18 12:23:53,140 [modules.auxiliary.screenshots] INFO: Python Image Library (either PIL or Pillow) is not installed, screenshots are disabled.
+2022-08-18 12:23:53,140 [analyzer] DEBUG: Started auxiliary module Screenshots
+2022-08-18 12:23:53,140 [analyzer] DEBUG: Started auxiliary module LoadZer0m0n
+2022-08-18 12:23:53,437 [lib.api.process] INFO: Successfully executed process from path u'C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\SimplifiedBot_9_NV.exe' with arguments '' and pid 2632
+2022-08-18 12:23:53,858 [analyzer] DEBUG: Loaded monitor into process with pid 2632
+2022-08-18 12:23:53,937 [analyzer] INFO: Added new file to list with pid 2632 and path C:\Users\Administrator\AppData\Local\Temp\_MEI26322\VCRUNTIME140.dll
+2022-08-18 12:23:54,046 [analyzer] INFO: Added new file to list with pid 2632 and path C:\Users\Administrator\AppData\Local\Temp\_MEI26322\_bz2.pyd
+2022-08-18 12:23:54,140 [analyzer] INFO: Added new file to list with pid 2632 and path C:\Users\Administrator\AppData\Local\Temp\_MEI26322\_hashlib.pyd
+2022-08-18 12:23:54,203 [analyzer] INFO: Added new file to list with pid 2632 and path C:\Users\Administrator\AppData\Local\Temp\_MEI26322\_lzma.pyd
+2022-08-18 12:23:54,467 [analyzer] INFO: Added new file to list with pid 2632 and path C:\Users\Administrator\AppData\Local\Temp\_MEI26322\_socket.pyd
+2022-08-18 19:28:54,459 [analyzer] INFO: Added new file to list with pid 2632 and path C:\Users\Administrator\AppData\Local\Temp\_MEI26322\_ssl.pyd
+2022-08-18 19:28:54,598 [analyzer] INFO: Added new file to list with pid 2632 and path C:\Users\Administrator\AppData\Local\Temp\_MEI26322\libcrypto-1_1-x64.dll
+2022-08-18 19:28:56,990 [analyzer] INFO: Added new file to list with pid 2632 and path C:\Users\Administrator\AppData\Local\Temp\_MEI26322\libssl-1_1-x64.dll
+2022-08-18 19:28:57,490 [analyzer] INFO: Added new file to list with pid 2632 and path C:\Users\Administrator\AppData\Local\Temp\_MEI26322\python37.dll
+2022-08-18 19:29:01,520 [analyzer] INFO: Added new file to list with pid 2632 and path C:\Users\Administrator\AppData\Local\Temp\_MEI26322\select.pyd
+2022-08-18 19:29:01,598 [analyzer] INFO: Added new file to list with pid 2632 and path C:\Users\Administrator\AppData\Local\Temp\_MEI26322\unicodedata.pyd
+2022-08-18 19:29:02,723 [analyzer] INFO: Added new file to list with pid 2632 and path C:\Users\Administrator\AppData\Local\Temp\_MEI26322\base_library.zip
+2022-08-18 19:29:03,693 [analyzer] INFO: Injected into process with pid 2228 and name u'SimplifiedBot_9_NV.exe'
+2022-08-18 19:29:04,006 [analyzer] DEBUG: Loaded monitor into process with pid 2228
+2022-08-18 19:29:31,427 [analyzer] INFO: Injected into process with pid 2972 and name u'firefox.exe'
+2022-08-18 19:29:31,834 [analyzer] DEBUG: Loaded monitor into process with pid 2972
+2022-08-18 19:29:32,068 [analyzer] INFO: Injected into process with pid 3048 and name u'firefox.exe'
+2022-08-18 19:29:32,506 [lib.api.process] INFO: Memory dump of process with pid 3048 completed
+2022-08-18 19:29:32,802 [analyzer] DEBUG: Loaded monitor into process with pid 3048
+2022-08-18 19:29:38,411 [analyzer] INFO: Injected into process with pid 352 and name u'firefox.exe'
+2022-08-18 19:29:38,943 [analyzer] DEBUG: Loaded monitor into process with pid 352
+2022-08-18 19:29:39,256 [analyzer] INFO: Injected into process with pid 2604 and name u'firefox.exe'
+2022-08-18 19:29:39,348 [analyzer] INFO: Added new file to list with pid 352 and path \Device\NamedPipe\gecko-crash-server-pipe.3048
+2022-08-18 19:29:39,411 [analyzer] INFO: Added new file to list with pid 352 and path \Device\NamedPipe\chrome.3048.0.43816303
+2022-08-18 19:29:40,490 [lib.api.process] INFO: Memory dump of process with pid 2604 completed
+2022-08-18 19:29:40,661 [analyzer] INFO: Added new file to list with pid 3048 and path \Device\NamedPipe\lsass
+2022-08-18 19:29:41,069 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\cookies.sqlite
+2022-08-18 19:29:41,617 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\prefs-1.js
+2022-08-18 19:29:41,710 [lib.api.process] INFO: Memory dump of process with pid 2972 completed
+2022-08-18 19:29:41,881 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\sessionCheckpoints.json.tmp
+2022-08-18 19:29:42,414 [analyzer] INFO: Process with pid 2972 has terminated
+2022-08-18 19:29:44,694 [analyzer] INFO: Injected into process with pid 2596 and name u'firefox.exe'
+2022-08-18 19:29:45,256 [lib.api.process] INFO: Memory dump of process with pid 2596 completed
+2022-08-18 19:29:46,476 [analyzer] INFO: Injected into process with pid 3016 and name u'firefox.exe'
+2022-08-18 19:29:47,117 [lib.api.process] INFO: Memory dump of process with pid 3016 completed
+2022-08-18 19:29:49,273 [analyzer] INFO: Injected into process with pid 2432 and name u'firefox.exe'
+2022-08-18 19:29:49,428 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\sessionCheckpoints.json.tmp
+2022-08-18 19:29:49,756 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\prefs-1.js
+2022-08-18 19:29:49,914 [analyzer] DEBUG: Loaded monitor into process with pid 2432
+2022-08-18 19:29:50,351 [analyzer] INFO: Injected into process with pid 3008 and name u'firefox.exe'
+2022-08-18 19:29:51,256 [lib.api.process] INFO: Memory dump of process with pid 3008 completed
+2022-08-18 19:29:51,631 [analyzer] DEBUG: Loaded monitor into process with pid 3008
+2022-08-18 19:29:56,367 [analyzer] INFO: Injected into process with pid 2760 and name u'firefox.exe'
+2022-08-18 19:29:57,178 [lib.api.process] INFO: Memory dump of process with pid 2760 completed
+2022-08-18 19:29:58,351 [analyzer] INFO: Injected into process with pid 1788 and name u'firefox.exe'
+2022-08-18 19:30:00,023 [lib.api.process] INFO: Memory dump of process with pid 1788 completed
+2022-08-18 19:30:00,319 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\cache2\entries\6D89348819C8881868053197CA0754F36784BF5F
+2022-08-18 19:30:00,335 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\cookies.sqlite-wal
+2022-08-18 19:30:00,960 [analyzer] INFO: Injected into process with pid 2468 and name u'firefox.exe'
+2022-08-18 19:30:01,617 [lib.api.process] INFO: Memory dump of process with pid 2468 completed
+2022-08-18 19:30:02,319 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\prefs-1.js
+2022-08-18 19:30:05,553 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\cache2\entries\4214875F88F4D44D62F438E06B2A93E20AA4F50A
+2022-08-18 19:30:06,226 [lib.api.process] INFO: Memory dump of process with pid 2432 completed
+2022-08-18 19:30:07,148 [analyzer] INFO: Process with pid 2432 has terminated
+2022-08-18 19:30:07,928 [analyzer] INFO: Injected into process with pid 928 and name u'firefox.exe'
+2022-08-18 19:30:08,631 [analyzer] DEBUG: Loaded monitor into process with pid 928
+2022-08-18 19:30:09,289 [analyzer] INFO: Injected into process with pid 2952 and name u'firefox.exe'
+2022-08-18 19:30:10,148 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\places.sqlite-wal
+2022-08-18 19:30:10,381 [lib.api.process] INFO: Memory dump of process with pid 2952 completed
+2022-08-18 19:30:11,148 [analyzer] DEBUG: Loaded monitor into process with pid 2952
+2022-08-18 19:30:11,381 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\cache2\entries\6D89348819C8881868053197CA0754F36784BF5F
+2022-08-18 19:30:12,006 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\prefs-1.js
+2022-08-18 19:30:12,648 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\prefs-1.js
+2022-08-18 19:30:15,256 [analyzer] INFO: Injected into process with pid 2180 and name u'firefox.exe'
+2022-08-18 19:30:15,256 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\cache2\entries\84A5EAC46BD04E39D369CEFA91172BD9A892410B
+2022-08-18 19:30:15,256 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\datareporting\glean\db\data.safe.bin
+2022-08-18 19:30:15,381 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\prefs-1.js
+2022-08-18 19:30:15,585 [analyzer] INFO: Added new file to list with pid 3048 and path C:\ProgramData\Mozilla-1de4eec8-1241-4177-a864-e594e8d1fb38\updates\E7CF176E110C211B\active-update.xml.tmp
+2022-08-18 19:30:18,319 [lib.api.process] INFO: Memory dump of process with pid 2180 completed
+2022-08-18 19:30:18,335 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\datareporting\glean\tmp\2a03316b-390a-4d56-9b72-293011428d2d
+2022-08-18 19:30:18,398 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\sessionstore-backups\recovery.jsonlz4.tmp
+2022-08-18 19:30:18,506 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\search.json.mozlz4.tmp
+2022-08-18 19:30:18,553 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\datareporting\glean\tmp\7e4a6709-30e4-42f3-9ff7-7e1f6789a292
+2022-08-18 19:30:18,756 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\datareporting\glean\tmp\4acfe67d-3a7a-4dd1-9577-906056665d8d
+2022-08-18 19:30:18,756 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\cache2\entries\254256B27E0C48CF9B80B695F0B3B8CA84610495
+2022-08-18 19:30:19,194 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\xulstore.json.tmp
+2022-08-18 19:30:19,803 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\places.sqlite
+2022-08-18 19:30:20,631 [analyzer] INFO: Injected into process with pid 3184 and name u'firefox.exe'
+2022-08-18 19:30:21,335 [analyzer] ERROR: Pipe command handler exception occurred (command DUMPMEM args '3184').
+Traceback (most recent call last):
+  File "C:/tmpbatf7k/analyzer.py", line 405, in dispatch
+    response = fn(arguments)
+  File "C:/tmpbatf7k/analyzer.py", line 347, in _handle_dumpmem
+    dump_memory(int(data))
+  File "C:\tmpbatf7k\lib\common\decide.py", line 11, in dump_memory
+    Process(pid=pid).dump_memory()
+  File "C:\tmpbatf7k\lib\api\process.py", line 579, in dump_memory
+    os.unlink(dump_path)
+WindowsError: [Error 32] The process cannot access the file because it is being used by another process: 'c:\\users\\admini~1\\appdata\\local\\temp\\tmpintonv'
+2022-08-18 19:30:22,381 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\cache2\entries\254256B27E0C48CF9B80B695F0B3B8CA84610495
+2022-08-18 19:30:22,875 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\cache2\entries\65E81C43491FBC4AD73A91CEAFEF15A36C1DFE71
+2022-08-18 19:30:23,414 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\storage.sqlite-journal
+2022-08-18 19:30:23,414 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\cache2\entries\D774C1A60B73BED05C4E248EAF7A8A55EEF88DC3
+2022-08-18 19:30:23,710 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\cache2\entries\D99C29589240F730164DDA573575FE35ED1C9E7D
+2022-08-18 19:30:23,894 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\storage.sqlite
+2022-08-18 19:30:23,996 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\prefs-1.js
+2022-08-18 19:30:24,549 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\cache2\entries\7046925D89FD1F9C0D3E9F3013501E808867630D
+2022-08-18 19:30:24,549 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\storage\default\https+++www.youtube.com\cache\caches.sqlite-wal
+2022-08-18 19:30:27,678 [lib.api.process] INFO: Memory dump of process with pid 928 completed
+2022-08-18 19:30:27,921 [analyzer] INFO: Process with pid 928 has terminated
+2022-08-18 19:30:29,253 [analyzer] INFO: Injected into process with pid 3316 and name u'firefox.exe'
+2022-08-18 19:30:30,144 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\cache2\entries\1FF9FC80CF39083D96E02A745517FF30CC74D1A1
+2022-08-18 19:30:30,237 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\storage\default\https+++www.youtube.com\cache\morgue\141\{0bde9235-5d61-4842-90ee-c898a46fd98d}.tmp
+2022-08-18 19:30:30,242 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\storage\default\https+++www.youtube.com\cache\morgue\141\{40bd4856-d3e0-48cd-82d4-8fa02c0cbd8d}.tmp
+2022-08-18 19:30:30,250 [analyzer] DEBUG: Loaded monitor into process with pid 3316
+2022-08-18 19:30:30,260 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\cache2\entries\7F66C4F1FF302A27FE06BE05A4D3ACFE822DF913
+2022-08-18 19:30:31,378 [analyzer] INFO: Injected into process with pid 3376 and name u'firefox.exe'
+2022-08-18 19:30:32,996 [lib.api.process] INFO: Memory dump of process with pid 3376 completed
+2022-08-18 19:30:33,414 [analyzer] DEBUG: Loaded monitor into process with pid 3376
+2022-08-18 19:30:33,971 [lib.api.process] INFO: Memory dump of process with pid 2596 completed
+2022-08-18 19:30:34,019 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\startupCache\urlCache-new.bin
+2022-08-18 19:30:34,316 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\sessionstore-backups\recovery.jsonlz4.tmp
+2022-08-18 19:30:35,446 [analyzer] INFO: Injected into process with pid 3472 and name u'firefox.exe'
+2022-08-18 19:30:37,414 [analyzer] INFO: Process with pid 2596 has terminated
+2022-08-18 19:30:38,239 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 2596.
+2022-08-18 19:30:38,286 [lib.api.process] WARNING: The process with pid 2596 is not alive, memory dump aborted
+2022-08-18 19:30:39,676 [lib.api.process] INFO: Memory dump of process with pid 3472 completed
+2022-08-18 19:30:39,680 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\crashes\store.json.mozlz4.tmp
+2022-08-18 19:30:39,832 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\safebrowsing-updating\google4\goog-phish-proto.vlpset
+2022-08-18 19:30:40,321 [analyzer] INFO: Injected into process with pid 3604 and name u'firefox.exe'
+2022-08-18 19:30:41,355 [lib.api.process] INFO: Memory dump of process with pid 3604 completed
+2022-08-18 19:30:44,676 [analyzer] INFO: Added new file to list with pid 2228 and path C:\Users\Administrator\AppData\Local\Temp\mall.jpeg
+2022-08-18 19:30:45,851 [analyzer] ERROR: Pipe command handler exception occurred (command KILL args '3016').
+Traceback (most recent call last):
+  File "C:/tmpbatf7k/analyzer.py", line 405, in dispatch
+    response = fn(arguments)
+  File "C:/tmpbatf7k/analyzer.py", line 339, in _handle_kill
+    dump_memory(int(data))
+  File "C:\tmpbatf7k\lib\common\decide.py", line 11, in dump_memory
+    Process(pid=pid).dump_memory()
+  File "C:\tmpbatf7k\lib\api\process.py", line 579, in dump_memory
+    os.unlink(dump_path)
+WindowsError: [Error 32] The process cannot access the file because it is being used by another process: 'c:\\users\\admini~1\\appdata\\local\\temp\\tmpe_9hdx'
+2022-08-18 19:30:46,755 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\prefs-1.js
+2022-08-18 19:30:47,854 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\safebrowsing-updating\google4\goog-phish-proto.metadata
+2022-08-18 19:30:47,913 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\datareporting\session-state.json.tmp
+2022-08-18 19:30:48,296 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\safebrowsing-updating\google4\goog-malware-proto.vlpset
+2022-08-18 19:30:50,220 [analyzer] INFO: Process with pid 3016 has terminated
+2022-08-18 19:30:50,960 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 3016.
+2022-08-18 19:30:50,963 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\saved-telemetry-pings\a492f0e6-1aba-46e0-9a84-86ae97843f1f.tmp
+2022-08-18 19:30:51,038 [lib.api.process] WARNING: The process with pid 3016 is not alive, memory dump aborted
+2022-08-18 19:30:51,151 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\safebrowsing-updating\google4\goog-malware-proto.metadata
+2022-08-18 19:30:51,194 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\sessionstore-backups\recovery.jsonlz4.tmp
+2022-08-18 19:30:51,224 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\safebrowsing-updating\google4\goog-unwanted-proto.vlpset
+2022-08-18 19:30:51,244 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\safebrowsing-updating\google4\goog-unwanted-proto.metadata
+2022-08-18 19:30:51,506 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\datareporting\archived\2022-08\1660673693507.a492f0e6-1aba-46e0-9a84-86ae97843f1f.main.jsonlz4.tmp
+2022-08-18 19:30:51,994 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\datareporting\aborted-session-ping.tmp
+2022-08-18 19:30:52,424 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\safebrowsing-updating\google4\goog-badbinurl-proto.vlpset
+2022-08-18 19:30:54,003 [lib.api.process] INFO: Memory dump of process with pid 3316 completed
+2022-08-18 19:30:54,799 [analyzer] INFO: Added new file to list with pid 3048 and path C:\ProgramData\Mozilla-1de4eec8-1241-4177-a864-e594e8d1fb38\uninstall_ping_E7CF176E110C211B_86550e87-46cd-4f93-be02-12e6645f9570.json.tmp
+2022-08-18 19:30:54,826 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\safebrowsing-updating\google4\goog-badbinurl-proto.metadata
+2022-08-18 19:30:54,897 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\safebrowsing-updating\google4\goog-downloadwhite-proto.vlpset
+2022-08-18 19:30:54,908 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\safebrowsing-updating\google4\goog-downloadwhite-proto.metadata
+2022-08-18 19:30:55,119 [analyzer] INFO: Process with pid 3316 has terminated
+2022-08-18 19:30:58,276 [analyzer] INFO: Analysis timeout hit, terminating analysis.
+2022-08-18 19:30:59,326 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\prefs-1.js
+2022-08-18 19:31:01,826 [analyzer] ERROR: Pipe command handler exception occurred (command KILL args '3008').
+Traceback (most recent call last):
+  File "C:/tmpbatf7k/analyzer.py", line 405, in dispatch
+    response = fn(arguments)
+  File "C:/tmpbatf7k/analyzer.py", line 339, in _handle_kill
+    dump_memory(int(data))
+  File "C:\tmpbatf7k\lib\common\decide.py", line 11, in dump_memory
+    Process(pid=pid).dump_memory()
+  File "C:\tmpbatf7k\lib\api\process.py", line 579, in dump_memory
+    os.unlink(dump_path)
+WindowsError: [Error 32] The process cannot access the file because it is being used by another process: 'c:\\users\\admini~1\\appdata\\local\\temp\\tmpuwsgus'
+2022-08-18 19:31:03,763 [lib.api.process] INFO: Memory dump of process with pid 2632 completed
+2022-08-18 19:31:06,631 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\sessionstore-backups\recovery.jsonlz4.tmp
+2022-08-18 19:31:08,927 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\safebrowsing-updating\mozplugin-block-digest256.sbstore
+2022-08-18 19:31:08,951 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\safebrowsing-updating\mozplugin-block-digest256.vlpset
+2022-08-18 19:31:08,967 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\safebrowsing-updating\allow-flashallow-digest256.sbstore
+2022-08-18 19:31:08,983 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\safebrowsing-updating\allow-flashallow-digest256.vlpset
+2022-08-18 19:31:08,999 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\safebrowsing-updating\except-flashallow-digest256.sbstore
+2022-08-18 19:31:09,009 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\safebrowsing-updating\except-flashallow-digest256.vlpset
+2022-08-18 19:31:09,026 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\safebrowsing-updating\block-flash-digest256.sbstore
+2022-08-18 19:31:09,042 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\safebrowsing-updating\block-flash-digest256.vlpset
+2022-08-18 19:31:09,056 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\safebrowsing-updating\except-flash-digest256.sbstore
+2022-08-18 19:31:09,069 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\safebrowsing-updating\except-flash-digest256.vlpset
+2022-08-18 19:31:09,124 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\safebrowsing-updating\block-flashsubdoc-digest256.sbstore
+2022-08-18 19:31:09,142 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\safebrowsing-updating\block-flashsubdoc-digest256.vlpset
+2022-08-18 19:31:09,210 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\safebrowsing-updating\except-flashsubdoc-digest256.sbstore
+2022-08-18 19:31:09,229 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\whs4hv3s.default\safebrowsing-updating\except-flashsubdoc-digest256.vlpset
+2022-08-18 19:31:10,611 [analyzer] ERROR: Pipe command handler exception occurred (command KILL args '2952').
+Traceback (most recent call last):
+  File "C:/tmpbatf7k/analyzer.py", line 405, in dispatch
+    response = fn(arguments)
+  File "C:/tmpbatf7k/analyzer.py", line 339, in _handle_kill
+    dump_memory(int(data))
+  File "C:\tmpbatf7k\lib\common\decide.py", line 11, in dump_memory
+    Process(pid=pid).dump_memory()
+  File "C:\tmpbatf7k\lib\api\process.py", line 579, in dump_memory
+    os.unlink(dump_path)
+WindowsError: [Error 32] The process cannot access the file because it is being used by another process: 'c:\\users\\admini~1\\appdata\\local\\temp\\tmp0r11nw'
+2022-08-18 19:31:14,845 [lib.api.process] INFO: Memory dump of process with pid 2228 completed
+2022-08-18 19:31:15,869 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 2228.
+2022-08-18 19:31:19,381 [analyzer] ERROR: Pipe command handler exception occurred (command KILL args '3376').
+Traceback (most recent call last):
+  File "C:/tmpbatf7k/analyzer.py", line 405, in dispatch
+    response = fn(arguments)
+  File "C:/tmpbatf7k/analyzer.py", line 339, in _handle_kill
+    dump_memory(int(data))
+  File "C:\tmpbatf7k\lib\common\decide.py", line 11, in dump_memory
+    Process(pid=pid).dump_memory()
+  File "C:\tmpbatf7k\lib\api\process.py", line 579, in dump_memory
+    os.unlink(dump_path)
+WindowsError: [Error 32] The process cannot access the file because it is being used by another process: 'c:\\users\\admini~1\\appdata\\local\\temp\\tmptaopwy'
+2022-08-18 19:31:20,289 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\prefs-1.js
+2022-08-18 19:31:21,523 [lib.api.process] INFO: Memory dump of process with pid 2632 completed
+2022-08-18 19:31:25,164 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\storage\default\https+++www.youtube.com\cache\caches.sqlite
+2022-08-18 19:31:25,460 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\storage\default\https+++www.youtube.com\.metadata-v2
+2022-08-18 19:31:33,069 [lib.api.process] ERROR: Failed to dump memory of 32-bit process with pid 3048.
+2022-08-18 19:31:35,914 [analyzer] INFO: Added new file to list with pid 3048 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\whs4hv3s.default\storage\default\https+++www.youtube.com\cache\caches.sqlite-wal

