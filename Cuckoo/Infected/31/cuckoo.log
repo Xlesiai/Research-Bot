@@ -1,0 +1,605 @@
+2022-11-11 13:45:12,031 [cuckoo.core.scheduler] INFO: Task #31: acquired machine 192.168.56.1011 (label=192.168.56.1011)
+2022-11-11 13:45:12,031 [cuckoo.core.resultserver] DEBUG: Now tracking machine 192.168.56.101 for task #31
+2022-11-11 13:45:12,032 [cuckoo.core.plugins] DEBUG: Started auxiliary module: Replay
+2022-11-11 13:45:12,037 [cuckoo.auxiliary.sniffer] INFO: Started sniffer with PID 8592 (interface=vboxnet0, host=192.168.56.101)
+2022-11-11 13:45:12,039 [cuckoo.core.plugins] DEBUG: Started auxiliary module: Sniffer
+2022-11-11 13:45:12,076 [cuckoo.machinery.virtualbox] DEBUG: Starting vm 192.168.56.1011
+2022-11-11 13:45:12,168 [cuckoo.machinery.virtualbox] DEBUG: Restoring virtual machine 192.168.56.1011 to its current snapshot
+2022-11-11 13:45:14,462 [cuckoo.core.guest] INFO: Starting analysis #31 on guest (id=192.168.56.1011, ip=192.168.56.101)
+2022-11-11 13:45:15,505 [cuckoo.core.guest] DEBUG: 192.168.56.1011: not ready yet
+2022-11-11 13:45:16,509 [cuckoo.core.guest] DEBUG: 192.168.56.1011: not ready yet
+2022-11-11 13:45:17,512 [cuckoo.core.guest] DEBUG: 192.168.56.1011: not ready yet
+2022-11-11 13:45:18,516 [cuckoo.core.guest] DEBUG: 192.168.56.1011: not ready yet
+2022-11-11 13:45:19,518 [cuckoo.core.guest] DEBUG: 192.168.56.1011: not ready yet
+2022-11-11 13:45:20,524 [cuckoo.core.guest] DEBUG: 192.168.56.1011: not ready yet
+2022-11-11 13:45:21,526 [cuckoo.core.guest] DEBUG: 192.168.56.1011: not ready yet
+2022-11-11 13:45:22,528 [cuckoo.core.guest] DEBUG: 192.168.56.1011: not ready yet
+2022-11-11 13:45:23,531 [cuckoo.core.guest] DEBUG: 192.168.56.1011: not ready yet
+2022-11-11 13:45:24,534 [cuckoo.core.guest] DEBUG: 192.168.56.1011: not ready yet
+2022-11-11 13:45:25,538 [cuckoo.core.guest] DEBUG: 192.168.56.1011: not ready yet
+2022-11-11 13:45:26,569 [cuckoo.core.guest] DEBUG: 192.168.56.1011: not ready yet
+2022-11-11 13:45:27,586 [cuckoo.core.guest] DEBUG: 192.168.56.1011: not ready yet
+2022-11-11 13:45:28,589 [cuckoo.core.guest] DEBUG: 192.168.56.1011: not ready yet
+2022-11-11 13:45:29,592 [cuckoo.core.guest] DEBUG: 192.168.56.1011: not ready yet
+2022-11-11 13:45:30,596 [cuckoo.core.guest] DEBUG: 192.168.56.1011: not ready yet
+2022-11-11 13:45:31,598 [cuckoo.core.guest] DEBUG: 192.168.56.1011: not ready yet
+2022-11-11 13:45:32,601 [cuckoo.core.guest] DEBUG: 192.168.56.1011: not ready yet
+2022-11-11 13:45:33,603 [cuckoo.core.guest] DEBUG: 192.168.56.1011: not ready yet
+2022-11-11 13:45:34,607 [cuckoo.core.guest] DEBUG: 192.168.56.1011: not ready yet
+2022-11-11 13:45:35,610 [cuckoo.core.guest] DEBUG: 192.168.56.1011: not ready yet
+2022-11-11 13:45:36,614 [cuckoo.core.guest] DEBUG: 192.168.56.1011: not ready yet
+2022-11-11 13:45:37,617 [cuckoo.core.guest] DEBUG: 192.168.56.1011: not ready yet
+2022-11-11 13:45:38,167 [cuckoo.core.guest] DEBUG: 192.168.56.1011: not ready yet
+2022-11-11 13:45:40,172 [cuckoo.core.guest] DEBUG: 192.168.56.1011: not ready yet
+2022-11-11 13:45:41,175 [cuckoo.core.guest] DEBUG: 192.168.56.1011: not ready yet
+2022-11-11 13:45:41,335 [cuckoo.core.guest] DEBUG: 192.168.56.1011: not ready yet
+2022-11-11 13:45:43,341 [cuckoo.core.guest] DEBUG: 192.168.56.1011: not ready yet
+2022-11-11 13:45:44,343 [cuckoo.core.guest] DEBUG: 192.168.56.1011: not ready yet
+2022-11-11 13:45:45,346 [cuckoo.core.guest] DEBUG: 192.168.56.1011: not ready yet
+2022-11-11 13:45:45,400 [cuckoo.core.guest] DEBUG: 192.168.56.1011: not ready yet
+2022-11-11 13:45:47,405 [cuckoo.core.guest] DEBUG: 192.168.56.1011: not ready yet
+2022-11-11 13:45:48,407 [cuckoo.core.guest] DEBUG: 192.168.56.1011: not ready yet
+2022-11-11 13:45:49,411 [cuckoo.core.guest] DEBUG: 192.168.56.1011: not ready yet
+2022-11-11 13:45:49,462 [cuckoo.core.guest] DEBUG: 192.168.56.1011: not ready yet
+2022-11-11 13:45:50,556 [cuckoo.core.guest] INFO: Guest is running Cuckoo Agent 0.10 (id=192.168.56.1011, ip=192.168.56.101)
+2022-11-11 13:45:50,576 [cuckoo.core.guest] DEBUG: Uploading analyzer to guest (id=192.168.56.1011, ip=192.168.56.101, monitor=latest, size=3884763)
+2022-11-11 13:45:51,793 [cuckoo.core.resultserver] DEBUG: Task #31: live log analysis.log initialized.
+2022-11-11 13:45:56,254 [cuckoo.core.guest] DEBUG: 192.168.56.1011: analysis #31 still processing
+2022-11-11 13:45:58,622 [cuckoo.core.resultserver] DEBUG: Task #31 is sending a BSON stream
+2022-11-11 13:45:59,472 [cuckoo.core.resultserver] DEBUG: Task #31 is sending a BSON stream
+2022-11-11 13:46:01,280 [cuckoo.core.guest] DEBUG: 192.168.56.1011: analysis #31 still processing
+2022-11-11 13:46:06,305 [cuckoo.core.guest] DEBUG: 192.168.56.1011: analysis #31 still processing
+2022-11-11 13:46:11,330 [cuckoo.core.guest] DEBUG: 192.168.56.1011: analysis #31 still processing
+2022-11-11 13:46:15,684 [cuckoo.core.resultserver] DEBUG: Task #31 is sending a BSON stream
+2022-11-11 13:46:16,249 [cuckoo.core.resultserver] DEBUG: Task #31 is sending a BSON stream
+2022-11-11 13:46:16,354 [cuckoo.core.guest] DEBUG: 192.168.56.1011: analysis #31 still processing
+2022-11-11 13:46:18,668 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'memory/1608-1.dmp'
+2022-11-11 13:46:19,341 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 33121104
+2022-11-11 13:46:20,557 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'memory/2720-1.dmp'
+2022-11-11 13:46:21,079 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 19776264
+2022-11-11 13:46:21,382 [cuckoo.core.guest] DEBUG: 192.168.56.1011: analysis #31 still processing
+2022-11-11 13:46:26,413 [cuckoo.core.guest] DEBUG: 192.168.56.1011: analysis #31 still processing
+2022-11-11 13:46:31,438 [cuckoo.core.guest] DEBUG: 192.168.56.1011: analysis #31 still processing
+2022-11-11 13:46:36,476 [cuckoo.core.guest] DEBUG: 192.168.56.1011: analysis #31 still processing
+2022-11-11 13:46:37,170 [cuckoo.core.resultserver] DEBUG: Task #31 is sending a BSON stream
+2022-11-11 13:46:41,503 [cuckoo.core.guest] DEBUG: 192.168.56.1011: analysis #31 still processing
+2022-11-11 13:46:46,531 [cuckoo.core.guest] DEBUG: 192.168.56.1011: analysis #31 still processing
+2022-11-11 13:46:51,561 [cuckoo.core.guest] DEBUG: 192.168.56.1011: analysis #31 still processing
+2022-11-11 13:46:52,309 [cuckoo.core.resultserver] DEBUG: Task #31 is sending a BSON stream
+2022-11-11 13:46:52,824 [cuckoo.core.resultserver] DEBUG: Task #31 is sending a BSON stream
+2022-11-11 13:46:55,068 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'memory/3064-1.dmp'
+2022-11-11 13:46:55,410 [cuckoo.core.resultserver] DEBUG: Task #31 is sending a BSON stream
+2022-11-11 13:46:55,638 [cuckoo.core.resultserver] DEBUG: Task #31 is sending a BSON stream
+2022-11-11 13:46:55,732 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 19796648
+2022-11-11 13:46:56,590 [cuckoo.core.guest] DEBUG: 192.168.56.1011: analysis #31 still processing
+2022-11-11 13:46:57,597 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'memory/2680-1.dmp'
+2022-11-11 13:46:57,907 [cuckoo.core.resultserver] DEBUG: Task #31 is sending a BSON stream
+2022-11-11 13:46:58,132 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 15745368
+2022-11-11 13:46:58,373 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/e3b0c44298fc1c14_~SD8B00.tmp'
+2022-11-11 13:46:58,384 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 0
+2022-11-11 13:46:58,907 [cuckoo.core.resultserver] DEBUG: Task #31 is sending a BSON stream
+2022-11-11 13:46:59,603 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'memory/2928-1.dmp'
+2022-11-11 13:46:59,679 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'memory/1888-1.dmp'
+2022-11-11 13:47:00,019 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 11415248
+2022-11-11 13:47:00,074 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 9399056
+2022-11-11 13:47:01,641 [cuckoo.core.guest] DEBUG: 192.168.56.1011: analysis #31 still processing
+2022-11-11 13:47:01,667 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'memory/1692-1.dmp'
+2022-11-11 13:47:02,346 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 19604040
+2022-11-11 13:47:06,669 [cuckoo.core.guest] DEBUG: 192.168.56.1011: analysis #31 still processing
+2022-11-11 13:47:11,636 [cuckoo.core.resultserver] DEBUG: Task #31 is sending a BSON stream
+2022-11-11 13:47:11,727 [cuckoo.core.guest] DEBUG: 192.168.56.1011: analysis #31 still processing
+2022-11-11 13:47:13,583 [cuckoo.core.resultserver] DEBUG: Task #31 is sending a BSON stream
+2022-11-11 13:47:14,529 [cuckoo.core.resultserver] DEBUG: Task #31 is sending a BSON stream
+2022-11-11 13:47:17,022 [cuckoo.core.guest] DEBUG: 192.168.56.1011: analysis #31 still processing
+2022-11-11 13:47:25,087 [cuckoo.core.guest] DEBUG: 192.168.56.1011: analysis #31 still processing
+2022-11-11 13:47:29,259 [cuckoo.core.resultserver] DEBUG: Task #31 is sending a BSON stream
+2022-11-11 13:47:30,114 [cuckoo.core.guest] DEBUG: 192.168.56.1011: analysis #31 still processing
+2022-11-11 13:47:30,864 [cuckoo.core.resultserver] DEBUG: Task #31 is sending a BSON stream
+2022-11-11 13:47:32,671 [cuckoo.core.resultserver] DEBUG: Task #31 is sending a BSON stream
+2022-11-11 13:47:34,857 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'memory/1652-1.dmp'
+2022-11-11 13:47:35,380 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 9374480
+2022-11-11 13:47:35,824 [cuckoo.core.guest] DEBUG: 192.168.56.1011: analysis #31 still processing
+2022-11-11 13:47:40,308 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'memory/2836-1.dmp'
+2022-11-11 13:47:41,070 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 24926928
+2022-11-11 13:47:41,096 [cuckoo.core.guest] DEBUG: 192.168.56.1011: analysis #31 still processing
+2022-11-11 13:47:44,878 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'memory/3032-1.dmp'
+2022-11-11 13:47:45,851 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 22852384
+2022-11-11 13:47:46,127 [cuckoo.core.guest] DEBUG: 192.168.56.1011: analysis #31 still processing
+2022-11-11 13:47:51,158 [cuckoo.core.guest] DEBUG: 192.168.56.1011: analysis #31 still processing
+2022-11-11 13:47:51,658 [cuckoo.core.resultserver] DEBUG: Task #31 is sending a BSON stream
+2022-11-11 13:47:52,472 [cuckoo.core.resultserver] DEBUG: Task #31 is sending a BSON stream
+2022-11-11 13:47:53,477 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'memory/2436-1.dmp'
+2022-11-11 13:47:55,844 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 58409864
+2022-11-11 13:47:56,297 [cuckoo.core.guest] DEBUG: 192.168.56.1011: analysis #31 still processing
+2022-11-11 13:47:57,458 [cuckoo.core.resultserver] DEBUG: Task #31 is sending a BSON stream
+2022-11-11 13:48:00,619 [cuckoo.core.resultserver] DEBUG: Task #31 is sending a BSON stream
+2022-11-11 13:48:01,287 [cuckoo.core.resultserver] DEBUG: Task #31 is sending a BSON stream
+2022-11-11 13:48:01,678 [cuckoo.core.guest] DEBUG: 192.168.56.1011: analysis #31 still processing
+2022-11-11 13:48:02,087 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'memory/1160-1.dmp'
+2022-11-11 13:48:02,364 [cuckoo.core.resultserver] DEBUG: Task #31 is sending a BSON stream
+2022-11-11 13:48:05,124 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/aac4ac970ec47cd9_WelcomeScan.jpg'
+2022-11-11 13:48:05,300 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 516424
+2022-11-11 13:48:06,493 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/d3e8d47e8c1622ec_background.png'
+2022-11-11 13:48:06,519 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 129745
+2022-11-11 13:48:06,694 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/609824cc9c4f6c26_device.png'
+2022-11-11 13:48:06,729 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 44488
+2022-11-11 13:48:06,732 [cuckoo.core.guest] DEBUG: 192.168.56.1011: analysis #31 still processing
+2022-11-11 13:48:06,889 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/5c5b0de42d55486e_overlay.png'
+2022-11-11 13:48:06,934 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 28865
+2022-11-11 13:48:08,250 [cuckoo.core.resultserver] DEBUG: Task #31 is sending a BSON stream
+2022-11-11 13:48:09,784 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/0f35ace5268db339_superbar.png'
+2022-11-11 13:48:09,833 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 39379
+2022-11-11 13:48:10,213 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/8bf0705e02cfee44_usertile10.bmp'
+2022-11-11 13:48:10,235 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 49208
+2022-11-11 13:48:10,545 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 37847984
+2022-11-11 13:48:10,550 [cuckoo.core.resultserver] DEBUG: Task #31 is sending a BSON stream
+2022-11-11 13:48:10,557 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'memory/2248-1.dmp'
+2022-11-11 13:48:10,718 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/b3de971f88cdd821_usertile11.bmp'
+2022-11-11 13:48:10,744 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 49208
+2022-11-11 13:48:10,784 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/96a7352a3a51d1a1_usertile12.bmp'
+2022-11-11 13:48:11,066 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 49208
+2022-11-11 13:48:11,094 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/18d6564632c7a550_usertile13.bmp'
+2022-11-11 13:48:11,136 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 48824
+2022-11-11 13:48:11,182 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/665784bf5a2b6813_usertile14.bmp'
+2022-11-11 13:48:11,204 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 49208
+2022-11-11 13:48:11,293 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/f120cb4f7f753941_usertile15.bmp'
+2022-11-11 13:48:11,315 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 49208
+2022-11-11 13:48:11,413 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/0618d6fc5a05288b_usertile16.bmp'
+2022-11-11 13:48:11,475 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 49208
+2022-11-11 13:48:11,528 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/43d3192d31ad7b39_0.WNCRYT'
+2022-11-11 13:48:11,530 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 11099952
+2022-11-11 13:48:11,561 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/b633e58cd5b32398_usertile17.bmp'
+2022-11-11 13:48:11,584 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 49208
+2022-11-11 13:48:11,620 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 334
+2022-11-11 13:48:11,644 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/2e6c724b2aae1602_usertile18.bmp'
+2022-11-11 13:48:11,673 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/3104c888a6b0a16a_1.WNCRYT'
+2022-11-11 13:48:11,678 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 49208
+2022-11-11 13:48:11,710 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 944428
+2022-11-11 13:48:11,732 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/80134f6d607ea57b_usertile19.bmp'
+2022-11-11 13:48:11,766 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 49208
+2022-11-11 13:48:11,769 [cuckoo.core.guest] DEBUG: 192.168.56.1011: analysis #31 still processing
+2022-11-11 13:48:11,771 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/3cbf79cdd465954f_10.WNCRYT'
+2022-11-11 13:48:11,798 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/7defc9af8087ee56_usertile20.bmp'
+2022-11-11 13:48:11,896 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 975325
+2022-11-11 13:48:11,896 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 49208
+2022-11-11 13:48:12,334 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/4f32e1518be3270f_100.WNCRYT'
+2022-11-11 13:48:12,357 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 1167
+2022-11-11 13:48:12,370 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/13248fde6c300667_usertile21.bmp'
+2022-11-11 13:48:12,394 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/30a142a48e57f194_101.WNCRYT'
+2022-11-11 13:48:12,406 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 49208
+2022-11-11 13:48:12,428 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 1835
+2022-11-11 13:48:12,468 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/42c34d02a6079c4d_102.WNCRYT'
+2022-11-11 13:48:12,501 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 2102
+2022-11-11 13:48:12,530 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/f9641a6ebe3845ce_103.WNCRYT'
+2022-11-11 13:48:12,558 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 2305
+2022-11-11 13:48:12,584 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/df7c4ba67457cb47_104.WNCRYT'
+2022-11-11 13:48:12,725 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 1133
+2022-11-11 13:48:12,760 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/54ae6d82446e0b02_105.WNCRYT'
+2022-11-11 13:48:12,783 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 2113
+2022-11-11 13:48:12,822 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/9c69094c0bd52d5a_106.WNCRYT'
+2022-11-11 13:48:12,861 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/9dde341957aa40a4_usertile22.bmp'
+2022-11-11 13:48:12,936 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 49208
+2022-11-11 13:48:12,985 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 1421
+2022-11-11 13:48:13,057 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/fec9aafbd19c3dac_usertile23.bmp'
+2022-11-11 13:48:13,069 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/ef81b41ec69f67a3_107.WNCRYT'
+2022-11-11 13:48:13,110 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 49208
+2022-11-11 13:48:13,137 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 3330
+2022-11-11 13:48:13,179 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/1800c8ec457feaef_108.WNCRYT'
+2022-11-11 13:48:13,205 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/eaed558d6439df7f_usertile24.bmp'
+2022-11-11 13:48:13,221 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 4466
+2022-11-11 13:48:13,251 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 49208
+2022-11-11 13:48:13,277 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/a8d03aaaf372a201_109.WNCRYT'
+2022-11-11 13:48:13,305 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 3890
+2022-11-11 13:48:13,332 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/92cc16e48749309c_usertile25.bmp'
+2022-11-11 13:48:13,400 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 49208
+2022-11-11 13:48:13,443 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/bd5c24dbe0dd5882_11.WNCRYT'
+2022-11-11 13:48:13,472 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 694304
+2022-11-11 13:48:13,500 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/c10a183c31acc75a_110.WNCRYT'
+2022-11-11 13:48:13,522 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 6769
+2022-11-11 13:48:13,579 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/a3419af7bdefcb89_111.WNCRYT'
+2022-11-11 13:48:13,602 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 4506
+2022-11-11 13:48:14,227 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/6d58d7f39876ff0a_112.WNCRYT'
+2022-11-11 13:48:14,274 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 3866
+2022-11-11 13:48:14,304 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/33ecaea6cfcb597b_113.WNCRYT'
+2022-11-11 13:48:14,339 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 3937
+2022-11-11 13:48:14,399 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/5544e31148edf7d0_114.WNCRYT'
+2022-11-11 13:48:14,425 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 8609
+2022-11-11 13:48:14,467 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/b8158342926da30f_115.WNCRYT'
+2022-11-11 13:48:14,491 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 2793
+2022-11-11 13:48:14,519 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/ed651a2c8eea8b37_116.WNCRYT'
+2022-11-11 13:48:14,553 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 3845
+2022-11-11 13:48:14,583 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/f9d5d6c76d7af143_117.WNCRYT'
+2022-11-11 13:48:14,624 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 3924
+2022-11-11 13:48:14,688 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/e7ba2f7a95679695_118.WNCRYT'
+2022-11-11 13:48:14,734 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 3727
+2022-11-11 13:48:14,850 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/76453fec72c59fd8_119.WNCRYT'
+2022-11-11 13:48:14,885 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 4588
+2022-11-11 13:48:14,966 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/f0fad9bcc7cc48f4_12.WNCRYT'
+2022-11-11 13:48:15,029 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 882567
+2022-11-11 13:48:15,067 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/2e0fa36f75b191a2_120.WNCRYT'
+2022-11-11 13:48:15,097 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 3557
+2022-11-11 13:48:15,129 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/245a493cc7764886_121.WNCRYT'
+2022-11-11 13:48:15,159 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 7095
+2022-11-11 13:48:15,188 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/cb2d6f4ef8208837_122.WNCRYT'
+2022-11-11 13:48:15,219 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 3948
+2022-11-11 13:48:15,250 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/611fe4feb0fb3a8d_123.WNCRYT'
+2022-11-11 13:48:15,280 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 3973
+2022-11-11 13:48:15,312 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/45369c1c8853ee34_124.WNCRYT'
+2022-11-11 13:48:15,343 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 7105
+2022-11-11 13:48:15,373 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/3965322893101f48_125.WNCRYT'
+2022-11-11 13:48:15,405 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 3762
+2022-11-11 13:48:15,434 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/505ccfd91dc952c3_126.WNCRYT'
+2022-11-11 13:48:15,466 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 5816
+2022-11-11 13:48:15,497 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/3262c4bd1cd058cd_127.WNCRYT'
+2022-11-11 13:48:15,527 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 16182
+2022-11-11 13:48:15,688 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/3cac411fa6d2e9a3_128.WNCRYT'
+2022-11-11 13:48:15,714 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 3229
+2022-11-11 13:48:15,741 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/ec4a2514ff760192_129.WNCRYT'
+2022-11-11 13:48:15,767 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 1966
+2022-11-11 13:48:15,796 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/963c8205ddd468de_13.WNCRYT'
+2022-11-11 13:48:15,822 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 240732
+2022-11-11 13:48:15,851 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/0595a246eeda128a_130.WNCRYT'
+2022-11-11 13:48:15,874 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 18128
+2022-11-11 13:48:15,902 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/952303585658d59b_131.WNCRYT'
+2022-11-11 13:48:15,925 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 1381
+2022-11-11 13:48:15,951 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/8945d9f65c608be1_132.WNCRYT'
+2022-11-11 13:48:15,975 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 3809
+2022-11-11 13:48:16,005 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/7b34ff6cc5433bc8_133.WNCRYT'
+2022-11-11 13:48:16,031 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 2184
+2022-11-11 13:48:16,057 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/6f127b65cee198ef_134.WNCRYT'
+2022-11-11 13:48:16,084 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 12201
+2022-11-11 13:48:16,114 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/9e3114d945cfa1e3_135.WNCRYT'
+2022-11-11 13:48:16,144 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 1074
+2022-11-11 13:48:16,174 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/6168d264468f1ee8_136.WNCRYT'
+2022-11-11 13:48:16,206 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 2575
+2022-11-11 13:48:16,239 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/6d2cc6cd63e9a3a7_137.WNCRYT'
+2022-11-11 13:48:16,271 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 23871
+2022-11-11 13:48:16,366 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/9e7582c1f0b0b3b5_138.WNCRYT'
+2022-11-11 13:48:16,396 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 6406
+2022-11-11 13:48:16,433 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/4a0073b134e09cdf_139.WNCRYT'
+2022-11-11 13:48:16,470 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 4222
+2022-11-11 13:48:16,515 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/a32bea62bf7c116b_14.WNCRYT'
+2022-11-11 13:48:16,555 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 38573
+2022-11-11 13:48:16,597 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/a7247ac66453663d_140.WNCRYT'
+2022-11-11 13:48:16,707 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 2209
+2022-11-11 13:48:16,765 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/a4318d89fa4632a1_141.WNCRYT'
+2022-11-11 13:48:16,810 [cuckoo.core.guest] DEBUG: 192.168.56.1011: analysis #31 still processing
+2022-11-11 13:48:17,032 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'memory/1608-2.dmp'
+2022-11-11 13:48:17,062 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 2950
+2022-11-11 13:48:17,138 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/3faf84e3dc054023_142.WNCRYT'
+2022-11-11 13:48:17,189 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 6381
+2022-11-11 13:48:17,331 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/b5f9b106011e1d84_143.WNCRYT'
+2022-11-11 13:48:17,360 [cuckoo.core.resultserver] DEBUG: Task #31 is sending a BSON stream
+2022-11-11 13:48:17,392 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 5115
+2022-11-11 13:48:17,551 [cuckoo.core.resultserver] DEBUG: Task #31 is sending a BSON stream
+2022-11-11 13:48:17,592 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/f47bd5823032233e_144.WNCRYT'
+2022-11-11 13:48:17,721 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 3981
+2022-11-11 13:48:18,107 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/c0b56ef1b9203ef2_146.WNCRYT'
+2022-11-11 13:48:18,269 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'memory/2704-1.dmp'
+2022-11-11 13:48:18,344 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 14049
+2022-11-11 13:48:19,067 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/aaae8a1bfa511159_147.WNCRYT'
+2022-11-11 13:48:19,147 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 1920
+2022-11-11 13:48:19,299 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/bbfce1fd26089982_148.WNCRYT'
+2022-11-11 13:48:19,359 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 15776
+2022-11-11 13:48:19,548 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/94a431168af0bb3e_149.WNCRYT'
+2022-11-11 13:48:19,804 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 4734
+2022-11-11 13:48:20,042 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/b79db698a2626870_15.WNCRYT'
+2022-11-11 13:48:20,152 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 375685
+2022-11-11 13:48:20,957 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 47621472
+2022-11-11 13:48:21,102 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 22868792
+2022-11-11 13:48:21,263 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/5cd72812b9b4a54a_150.WNCRYT'
+2022-11-11 13:48:21,428 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 1990
+2022-11-11 13:48:21,502 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/410fd53c9634965c_usertile26.bmp'
+2022-11-11 13:48:21,521 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/f3403cc1d39070e9_151.WNCRYT'
+2022-11-11 13:48:21,579 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 49208
+2022-11-11 13:48:21,691 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 10569
+2022-11-11 13:48:21,755 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/cff71b59c648f096_usertile27.bmp'
+2022-11-11 13:48:21,802 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 49208
+2022-11-11 13:48:21,806 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/554444941e4ef36e_152.WNCRYT'
+2022-11-11 13:48:21,915 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 7505
+2022-11-11 13:48:21,984 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/a341b43e0a07fcb9_usertile28.bmp'
+2022-11-11 13:48:21,990 [cuckoo.core.guest] DEBUG: 192.168.56.1011: analysis #31 still processing
+2022-11-11 13:48:22,068 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 49208
+2022-11-11 13:48:22,210 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/75de8e9eb7a045c4_usertile29.bmp'
+2022-11-11 13:48:22,236 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/ff46dfd4d7644e20_153.WNCRYT'
+2022-11-11 13:48:22,354 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 49208
+2022-11-11 13:48:22,429 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/e69f8ed2ba8b1bf7_usertile30.bmp'
+2022-11-11 13:48:22,481 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 49208
+2022-11-11 13:48:22,547 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/622d8defdd6b6abd_usertile31.bmp'
+2022-11-11 13:48:22,593 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 49208
+2022-11-11 13:48:22,681 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/8aa19482c048d562_usertile32.bmp'
+2022-11-11 13:48:22,705 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 3650
+2022-11-11 13:48:22,760 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 49208
+2022-11-11 13:48:22,802 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/4ccae0bccf24ff17_154.WNCRYT'
+2022-11-11 13:48:23,238 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 3168
+2022-11-11 13:48:23,245 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/973dade5897208ac_usertile33.bmp'
+2022-11-11 13:48:23,312 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 49208
+2022-11-11 13:48:23,374 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/45035faa302ab6a4_usertile34.bmp'
+2022-11-11 13:48:23,429 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 49208
+2022-11-11 13:48:23,479 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/b0c2252a53340d41_usertile35.bmp'
+2022-11-11 13:48:23,522 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 49208
+2022-11-11 13:48:23,593 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/e7e85353e559a647_usertile36.bmp'
+2022-11-11 13:48:23,664 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 49208
+2022-11-11 13:48:23,759 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/c238df51bf8d9f5d_usertile37.bmp'
+2022-11-11 13:48:23,882 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 49208
+2022-11-11 13:48:23,941 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/bad04b1a9e50673c_usertile38.bmp'
+2022-11-11 13:48:24,010 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 49208
+2022-11-11 13:48:24,015 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/fabcf4ff64cb05a7_155.WNCRYT'
+2022-11-11 13:48:24,066 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/45f0957a66fcb8fb_usertile39.bmp'
+2022-11-11 13:48:24,111 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 49208
+2022-11-11 13:48:24,169 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/419b5f32629b747a_usertile40.bmp'
+2022-11-11 13:48:24,251 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 49208
+2022-11-11 13:48:24,345 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/34894323ff69b693_usertile41.bmp'
+2022-11-11 13:48:24,390 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 49208
+2022-11-11 13:48:24,445 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/1732b081443d1e29_usertile42.bmp'
+2022-11-11 13:48:24,557 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'memory/2400-1.dmp'
+2022-11-11 13:48:24,629 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 766115
+2022-11-11 13:48:24,681 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 49208
+2022-11-11 13:48:24,720 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/4ebdcd5903385b66_156.WNCRYT'
+2022-11-11 13:48:24,962 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/6403db3597d8f331_usertile43.bmp'
+2022-11-11 13:48:25,190 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 49208
+2022-11-11 13:48:25,319 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 7893
+2022-11-11 13:48:25,594 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/22326779f5599fe8_usertile44.bmp'
+2022-11-11 13:48:25,645 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/84119bd588b9a0d5_157.WNCRYT'
+2022-11-11 13:48:25,662 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 49208
+2022-11-11 13:48:25,722 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 1494
+2022-11-11 13:48:25,783 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/2782fc4ab279c01a_16.WNCRYT'
+2022-11-11 13:48:25,959 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/4a4c026852659981_WelcomeFax.tif'
+2022-11-11 13:48:26,007 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 89534
+2022-11-11 13:48:26,111 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 55208
+2022-11-11 13:48:26,438 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 19804840
+2022-11-11 13:48:26,675 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/da79a03fc1b5a980_17.WNCRYT'
+2022-11-11 13:48:26,730 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 2946
+2022-11-11 13:48:26,733 [cuckoo.core.resultserver] DEBUG: Task #31 is sending a BSON stream
+2022-11-11 13:48:26,900 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/954f7d96502b5c5f_171.WNCRYT'
+2022-11-11 13:48:27,019 [cuckoo.core.guest] DEBUG: 192.168.56.1011: analysis #31 still processing
+2022-11-11 13:48:27,463 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 879394
+2022-11-11 13:48:27,535 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/010f60d2927a35d0_172.WNCRYT'
+2022-11-11 13:48:27,597 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 845941
+2022-11-11 13:48:28,342 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/3b92fede080f9b0e_173.WNCRYT'
+2022-11-11 13:48:28,631 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 595284
+2022-11-11 13:48:28,707 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/6ca0eafb20496edf_174.WNCRYT'
+2022-11-11 13:48:28,774 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 775702
+2022-11-11 13:48:28,898 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/84a4da0e4c52c469_175.WNCRYT'
+2022-11-11 13:48:28,943 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 780831
+2022-11-11 13:48:29,299 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/ff86372ce43519d6_176.WNCRYT'
+2022-11-11 13:48:29,662 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 561276
+2022-11-11 13:48:29,733 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/7e5bdd023b6cf21e_177.WNCRYT'
+2022-11-11 13:48:29,779 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 777835
+2022-11-11 13:48:30,143 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/b9352f2565260219_178.WNCRYT'
+2022-11-11 13:48:30,397 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 620888
+2022-11-11 13:48:30,643 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/8a15abdcdffe2a97_179.WNCRYT'
+2022-11-11 13:48:30,715 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 46411
+2022-11-11 13:48:30,766 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/d13f073432749486_18.WNCRYT'
+2022-11-11 13:48:30,814 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 1070
+2022-11-11 13:48:30,860 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/8bc1a431896adc9f_180.WNCRYT'
+2022-11-11 13:48:31,003 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'memory/3144-1.dmp'
+2022-11-11 13:48:31,154 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 1144
+2022-11-11 13:48:31,382 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/400e6e276fc3fa82_181.WNCRYT'
+2022-11-11 13:48:31,461 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 1998
+2022-11-11 13:48:31,513 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/1582d6984b4fd2ed_182.WNCRYT'
+2022-11-11 13:48:31,563 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 1179
+2022-11-11 13:48:31,657 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/2dbfb55b484545b9_183.WNCRYT'
+2022-11-11 13:48:31,706 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 2879
+2022-11-11 13:48:31,836 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/e7e3bd136dd30acd_184.WNCRYT'
+2022-11-11 13:48:31,897 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 5139
+2022-11-11 13:48:32,099 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/df989bbb7b1a4258_185.WNCRYT'
+2022-11-11 13:48:32,132 [cuckoo.core.guest] DEBUG: 192.168.56.1011: analysis #31 still processing
+2022-11-11 13:48:32,147 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 3085
+2022-11-11 13:48:32,205 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/d0101474d455f487_186.WNCRYT'
+2022-11-11 13:48:32,258 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 3019
+2022-11-11 13:48:32,308 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/0e1a1e1ceb399532_187.WNCRYT'
+2022-11-11 13:48:32,356 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 4002
+2022-11-11 13:48:32,405 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/ca92756b1207c840_188.WNCRYT'
+2022-11-11 13:48:32,448 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 5189
+2022-11-11 13:48:32,496 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/49300611716876ea_189.WNCRYT'
+2022-11-11 13:48:32,539 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 1105
+2022-11-11 13:48:32,591 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/7694587b6473cb6c_19.WNCRYT'
+2022-11-11 13:48:32,647 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 5310
+2022-11-11 13:48:32,716 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/581414618cd495c4_190.WNCRYT'
+2022-11-11 13:48:32,772 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 1919
+2022-11-11 13:48:32,826 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/77957d6fed6c7aea_191.WNCRYT'
+2022-11-11 13:48:32,886 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 2078
+2022-11-11 13:48:32,998 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/a80ca694dccfe8ee_192.WNCRYT'
+2022-11-11 13:48:33,232 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 8552
+2022-11-11 13:48:33,282 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/7ff0cb06c85aadc1_193.WNCRYT'
+2022-11-11 13:48:33,328 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 2574
+2022-11-11 13:48:33,374 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/5dc15812e63ef17e_194.WNCRYT'
+2022-11-11 13:48:33,418 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 6781
+2022-11-11 13:48:33,473 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/10cb0fbb79f8a149_195.WNCRYT'
+2022-11-11 13:48:33,518 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 1399
+2022-11-11 13:48:33,664 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'memory/1160-2.dmp'
+2022-11-11 13:48:33,685 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/a19bd35eba154030_196.WNCRYT'
+2022-11-11 13:48:33,969 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 3759
+2022-11-11 13:48:34,374 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/bb86b4d452299e70_197.WNCRYT'
+2022-11-11 13:48:34,866 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 5710
+2022-11-11 13:48:34,995 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/77f62475a425617b_198.WNCRYT'
+2022-11-11 13:48:35,082 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 3272
+2022-11-11 13:48:35,509 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/a842aa7db2f2f34f_199.WNCRYT'
+2022-11-11 13:48:35,638 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 3071
+2022-11-11 13:48:35,906 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/52550ad924c27e00_2.WNCRYT'
+2022-11-11 13:48:36,183 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 771451
+2022-11-11 13:48:36,310 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 20177528
+2022-11-11 13:48:36,464 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/dcefd9a6548d6868_20.WNCRYT'
+2022-11-11 13:48:36,543 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 5461
+2022-11-11 13:48:36,679 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/3a1d05875283ca3f_200.WNCRYT'
+2022-11-11 13:48:36,915 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 2004
+2022-11-11 13:48:37,133 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/fe665be88c3e4ecb_201.WNCRYT'
+2022-11-11 13:48:37,169 [cuckoo.core.guest] DEBUG: 192.168.56.1011: analysis #31 still processing
+2022-11-11 13:48:37,396 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 2114
+2022-11-11 13:48:37,683 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/68ac598ebe79005a_202.WNCRYT'
+2022-11-11 13:48:38,035 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 2292
+2022-11-11 13:48:38,137 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/3a37729cbbf53546_203.WNCRYT'
+2022-11-11 13:48:38,421 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 2859
+2022-11-11 13:48:39,424 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/29e394069e5fa984_204.WNCRYT'
+2022-11-11 13:48:39,777 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 2581
+2022-11-11 13:48:39,896 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/bc061a5e252ae47c_205.WNCRYT'
+2022-11-11 13:48:40,005 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 4010
+2022-11-11 13:48:40,109 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/0d5634fa7f59a7b5_206.WNCRYT'
+2022-11-11 13:48:40,440 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 5943
+2022-11-11 13:48:40,794 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/ef500cb2de2c5e47_207.WNCRYT'
+2022-11-11 13:48:40,990 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 2899
+2022-11-11 13:48:41,160 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/13311653af62a8c0_208.WNCRYT'
+2022-11-11 13:48:41,350 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 3331
+2022-11-11 13:48:42,051 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/37dbbe5678f18aea_209.WNCRYT'
+2022-11-11 13:48:42,137 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 5158
+2022-11-11 13:48:42,232 [cuckoo.core.guest] DEBUG: 192.168.56.1011: analysis #31 still processing
+2022-11-11 13:48:42,240 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/1669275ec677b456_21.WNCRYT'
+2022-11-11 13:48:42,306 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 1448
+2022-11-11 13:48:42,928 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/baf8e694cdc878e7_210.WNCRYT'
+2022-11-11 13:48:42,979 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 39835
+2022-11-11 13:48:43,039 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/eea1b67304db7ddd_211.WNCRYT'
+2022-11-11 13:48:43,089 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 14317
+2022-11-11 13:48:43,141 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/552026c9f7d6bd49_212.WNCRYT'
+2022-11-11 13:48:43,192 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 4763
+2022-11-11 13:48:43,250 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/1906a1179872ef7b_213.WNCRYT'
+2022-11-11 13:48:43,302 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 1122
+2022-11-11 13:48:43,368 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/9c6388a80150ec70_214.WNCRYT'
+2022-11-11 13:48:43,417 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 1844
+2022-11-11 13:48:43,469 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/f6ca4e5a4dd4a0b7_215.WNCRYT'
+2022-11-11 13:48:43,523 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 1491
+2022-11-11 13:48:43,884 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/7d89705333dc5294_216.WNCRYT'
+2022-11-11 13:48:44,079 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 1186
+2022-11-11 13:48:44,203 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 56200008
+2022-11-11 13:48:44,237 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/5947425ea05ae206_217.WNCRYT'
+2022-11-11 13:48:44,289 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 2755
+2022-11-11 13:48:44,932 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/1cf0c958d0c5af88_218.WNCRYT'
+2022-11-11 13:48:45,081 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 1735
+2022-11-11 13:48:45,162 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/59d388833b6ca5af_219.WNCRYT'
+2022-11-11 13:48:45,216 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 21529
+2022-11-11 13:48:45,526 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/d081706c13111d28_22.WNCRYT'
+2022-11-11 13:48:45,687 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 5326
+2022-11-11 13:48:46,069 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/83154821961bfc6d_220.WNCRYT'
+2022-11-11 13:48:46,118 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 1299
+2022-11-11 13:48:46,171 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/efd94c0216af5fac_221.WNCRYT'
+2022-11-11 13:48:46,222 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 1363
+2022-11-11 13:48:46,278 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/b8c5242521cd089a_222.WNCRYT'
+2022-11-11 13:48:46,326 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 11985
+2022-11-11 13:48:46,378 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/cec3e309b6b30e3c_223.WNCRYT'
+2022-11-11 13:48:46,428 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 2055
+2022-11-11 13:48:46,479 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/852efa0d770c8c5b_224.WNCRYT'
+2022-11-11 13:48:46,529 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 8665
+2022-11-11 13:48:46,589 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/4f1469956af59a8d_225.WNCRYT'
+2022-11-11 13:48:46,760 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 3090
+2022-11-11 13:48:46,851 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/6069e8267e8379cb_226.WNCRYT'
+2022-11-11 13:48:46,901 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 8160
+2022-11-11 13:48:46,962 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/955fdcfc3c6ee3bc_227.WNCRYT'
+2022-11-11 13:48:47,011 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 6717
+2022-11-11 13:48:47,068 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/ea7fd7419fefe84b_228.WNCRYT'
+2022-11-11 13:48:47,132 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 4820
+2022-11-11 13:48:47,285 [cuckoo.core.guest] DEBUG: 192.168.56.1011: analysis #31 still processing
+2022-11-11 13:48:48,006 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/30371fac2fcc1817_229.WNCRYT'
+2022-11-11 13:48:49,950 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 33115
+2022-11-11 13:48:50,016 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/2535a956d292899a_23.WNCRYT'
+2022-11-11 13:48:50,065 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 1940
+2022-11-11 13:48:50,121 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/52542733943a17c4_230.WNCRYT'
+2022-11-11 13:48:50,170 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 6603
+2022-11-11 13:48:50,267 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/ac79e45b45318c58_231.WNCRYT'
+2022-11-11 13:48:50,330 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 1627
+2022-11-11 13:48:50,432 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/7bc48ad359298d96_232.WNCRYT'
+2022-11-11 13:48:50,497 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 21648
+2022-11-11 13:48:50,726 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/85299199b9561cfc_233.WNCRYT'
+2022-11-11 13:48:50,977 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 4507
+2022-11-11 13:48:51,048 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/ad7a9f69faa16046_234.WNCRYT'
+2022-11-11 13:48:51,112 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 7420
+2022-11-11 13:48:51,208 [cuckoo.core.resultserver] DEBUG: Task #31: File upload for 'files/6c39616a04ef5736_235.WNCRYT'
+2022-11-11 13:48:51,303 [cuckoo.core.guest] INFO: 192.168.56.1011: end of analysis reached!
+2022-11-11 13:48:51,310 [cuckoo.core.plugins] DEBUG: Stopped auxiliary module: Replay
+2022-11-11 13:48:51,367 [cuckoo.core.plugins] DEBUG: Stopped auxiliary module: Sniffer
+2022-11-11 13:48:51,368 [cuckoo.machinery.virtualbox] DEBUG: Stopping vm 192.168.56.1011
+2022-11-11 13:48:51,472 [cuckoo.core.resultserver] DEBUG: Task #31 uploaded file length: 1196
+2022-11-11 13:48:52,593 [cuckoo.core.resultserver] DEBUG: Stopped tracking machine 192.168.56.101 for task #31
+2022-11-11 13:48:52,593 [cuckoo.core.resultserver] DEBUG: Cancel <Context for BSON> for task 31
+2022-11-11 13:48:52,593 [cuckoo.core.resultserver] DEBUG: Cancel <Context for BSON> for task 31
+2022-11-11 13:48:52,593 [cuckoo.core.resultserver] DEBUG: Cancel <Context for BSON> for task 31
+2022-11-11 13:48:52,593 [cuckoo.core.resultserver] DEBUG: Cancel <Context for BSON> for task 31
+2022-11-11 13:48:52,593 [cuckoo.core.resultserver] DEBUG: Cancel <Context for BSON> for task 31
+2022-11-11 13:48:52,593 [cuckoo.core.resultserver] DEBUG: Cancel <Context for BSON> for task 31
+2022-11-11 13:48:52,593 [cuckoo.core.resultserver] DEBUG: Cancel <Context for BSON> for task 31
+2022-11-11 13:48:52,594 [cuckoo.core.resultserver] DEBUG: Cancel <Context for BSON> for task 31
+2022-11-11 13:48:52,594 [cuckoo.core.resultserver] DEBUG: Cancel <Context for BSON> for task 31
+2022-11-11 13:48:52,594 [cuckoo.core.resultserver] DEBUG: Cancel <Context for BSON> for task 31
+2022-11-11 13:48:52,594 [cuckoo.core.resultserver] DEBUG: Cancel <Context for BSON> for task 31
+2022-11-11 13:48:52,594 [cuckoo.core.resultserver] DEBUG: Cancel <Context for BSON> for task 31
+2022-11-11 13:48:52,594 [cuckoo.core.resultserver] DEBUG: Cancel <Context for BSON> for task 31
+2022-11-11 13:48:52,594 [cuckoo.core.resultserver] DEBUG: Cancel <Context for BSON> for task 31
+2022-11-11 13:48:52,594 [cuckoo.core.resultserver] DEBUG: Cancel <Context for BSON> for task 31
+2022-11-11 13:48:52,594 [cuckoo.core.resultserver] DEBUG: Cancel <Context for BSON> for task 31
+2022-11-11 13:48:52,594 [cuckoo.core.resultserver] DEBUG: Cancel <Context for BSON> for task 31
+2022-11-11 13:48:52,594 [cuckoo.core.resultserver] DEBUG: Cancel <Context for BSON> for task 31
+2022-11-11 13:48:52,594 [cuckoo.core.resultserver] DEBUG: Cancel <Context for BSON> for task 31
+2022-11-11 13:48:52,594 [cuckoo.core.resultserver] DEBUG: Cancel <Context for BSON> for task 31
+2022-11-11 13:48:52,594 [cuckoo.core.resultserver] DEBUG: Cancel <Context for BSON> for task 31
+2022-11-11 13:48:52,594 [cuckoo.core.resultserver] DEBUG: Cancel <Context for BSON> for task 31
+2022-11-11 13:48:52,594 [cuckoo.core.resultserver] DEBUG: Cancel <Context for BSON> for task 31
+2022-11-11 13:48:52,594 [cuckoo.core.resultserver] DEBUG: Cancel <Context for BSON> for task 31
+2022-11-11 13:48:52,594 [cuckoo.core.resultserver] DEBUG: Cancel <Context for BSON> for task 31
+2022-11-11 13:48:52,594 [cuckoo.core.resultserver] DEBUG: Cancel <Context for BSON> for task 31
+2022-11-11 13:48:52,594 [cuckoo.core.resultserver] DEBUG: Cancel <Context for LOG> for task 31
+2022-11-11 13:48:52,594 [cuckoo.core.resultserver] DEBUG: Cancel <Context for BSON> for task 31
+2022-11-11 13:48:52,594 [cuckoo.core.resultserver] DEBUG: Cancel <Context for BSON> for task 31
+2022-11-11 13:48:52,628 [cuckoo.core.scheduler] DEBUG: Released database task #31
+2022-11-11 13:48:52,649 [cuckoo.core.plugins] DEBUG: Executed processing module "AnalysisInfo" for task #31
+2022-11-11 13:48:53,836 [cuckoo.core.plugins] DEBUG: Executed processing module "BehaviorAnalysis" for task #31
+2022-11-11 13:48:54,435 [cuckoo.core.plugins] DEBUG: Executed processing module "Dropped" for task #31
+2022-11-11 13:48:54,435 [cuckoo.core.plugins] DEBUG: Executed processing module "DroppedBuffer" for task #31
+2022-11-11 13:48:59,556 [cuckoo.core.plugins] DEBUG: Executed processing module "MetaInfo" for task #31
+2022-11-11 13:49:03,038 [cuckoo.core.plugins] DEBUG: Executed processing module "ProcessMemory" for task #31
+2022-11-11 13:49:03,039 [cuckoo.core.plugins] DEBUG: Executed processing module "Procmon" for task #31
+2022-11-11 13:49:03,039 [cuckoo.core.plugins] DEBUG: Executed processing module "Screenshots" for task #31
+2022-11-11 13:49:03,041 [cuckoo.core.plugins] DEBUG: Executed processing module "Static" for task #31
+2022-11-11 13:49:03,041 [cuckoo.core.plugins] DEBUG: Executed processing module "Strings" for task #31
+2022-11-11 13:49:03,043 [cuckoo.core.plugins] DEBUG: Executed processing module "TargetInfo" for task #31
+2022-11-11 13:49:03,221 [cuckoo.core.plugins] DEBUG: Executed processing module "NetworkAnalysis" for task #31
+2022-11-11 13:49:03,222 [cuckoo.core.plugins] DEBUG: Executed processing module "Extracted" for task #31
+2022-11-11 13:49:03,222 [cuckoo.core.plugins] DEBUG: Executed processing module "TLSMasterSecrets" for task #31
+2022-11-11 13:49:03,224 [cuckoo.core.plugins] DEBUG: Executed processing module "Debug" for task #31
+2022-11-11 13:49:03,239 [cuckoo.core.plugins] DEBUG: Running 542 signatures
+2022-11-11 13:49:07,412 [cuckoo.core.plugins] DEBUG: Analysis matched signature: dead_host
+2022-11-11 13:49:07,412 [cuckoo.core.plugins] DEBUG: Analysis matched signature: network_bind
+2022-11-11 13:49:07,412 [cuckoo.core.plugins] DEBUG: Analysis matched signature: network_http
+2022-11-11 13:49:07,412 [cuckoo.core.plugins] DEBUG: Analysis matched signature: nolookup_communication
+2022-11-11 13:49:07,412 [cuckoo.core.plugins] DEBUG: Analysis matched signature: allocates_rwx
+2022-11-11 13:49:07,412 [cuckoo.core.plugins] DEBUG: Analysis matched signature: antisandbox_sleep
+2022-11-11 13:49:07,412 [cuckoo.core.plugins] DEBUG: Analysis matched signature: antivm_queries_computername
+2022-11-11 13:49:07,412 [cuckoo.core.plugins] DEBUG: Analysis matched signature: antivm_disk_size
+2022-11-11 13:49:07,412 [cuckoo.core.plugins] DEBUG: Analysis matched signature: applcation_raises_exception
+2022-11-11 13:49:07,412 [cuckoo.core.plugins] DEBUG: Analysis matched signature: persistence_autorun
+2022-11-11 13:49:07,412 [cuckoo.core.plugins] DEBUG: Analysis matched signature: infostealer_browser
+2022-11-11 13:49:07,413 [cuckoo.core.plugins] DEBUG: Analysis matched signature: checks_debugger
+2022-11-11 13:49:07,413 [cuckoo.core.plugins] DEBUG: Analysis matched signature: console_output
+2022-11-11 13:49:07,413 [cuckoo.core.plugins] DEBUG: Analysis matched signature: creates_doc
+2022-11-11 13:49:07,413 [cuckoo.core.plugins] DEBUG: Analysis matched signature: creates_exe
+2022-11-11 13:49:07,413 [cuckoo.core.plugins] DEBUG: Analysis matched signature: creates_hidden_file
+2022-11-11 13:49:07,413 [cuckoo.core.plugins] DEBUG: Analysis matched signature: creates_shortcut
+2022-11-11 13:49:07,413 [cuckoo.core.plugins] DEBUG: Analysis matched signature: suspicious_process
+2022-11-11 13:49:07,413 [cuckoo.core.plugins] DEBUG: Analysis matched signature: generates_crypto_key
+2022-11-11 13:49:07,413 [cuckoo.core.plugins] DEBUG: Analysis matched signature: recon_fingerprint
+2022-11-11 13:49:07,413 [cuckoo.core.plugins] DEBUG: Analysis matched signature: has_wmi
+2022-11-11 13:49:07,413 [cuckoo.core.plugins] DEBUG: Analysis matched signature: stealth_window
+2022-11-11 13:49:07,413 [cuckoo.core.plugins] DEBUG: Analysis matched signature: injection_process_search
+2022-11-11 13:49:07,414 [cuckoo.core.plugins] DEBUG: Analysis matched signature: locates_browser
+2022-11-11 13:49:07,414 [cuckoo.core.plugins] DEBUG: Analysis matched signature: antivm_memory_available
+2022-11-11 13:49:07,414 [cuckoo.core.plugins] DEBUG: Analysis matched signature: protection_rx
+2022-11-11 13:49:07,414 [cuckoo.core.plugins] DEBUG: Analysis matched signature: modifies_boot_config
+2022-11-11 13:49:07,414 [cuckoo.core.plugins] DEBUG: Analysis matched signature: antivm_network_adapters
+2022-11-11 13:49:07,414 [cuckoo.core.plugins] DEBUG: Analysis matched signature: privilege_luid_check
+2022-11-11 13:49:07,414 [cuckoo.core.plugins] DEBUG: Analysis matched signature: process_martian
+2022-11-11 13:49:07,414 [cuckoo.core.plugins] DEBUG: Analysis matched signature: memdump_tor_urls
+2022-11-11 13:49:07,414 [cuckoo.core.plugins] DEBUG: Analysis matched signature: memdump_urls
+2022-11-11 13:49:07,414 [cuckoo.core.plugins] DEBUG: Analysis matched signature: raises_exception
+2022-11-11 13:49:07,414 [cuckoo.core.plugins] DEBUG: Analysis matched signature: ransomware_file_moves
+2022-11-11 13:49:07,415 [cuckoo.core.plugins] DEBUG: Analysis matched signature: ransomware_appends_extensions
+2022-11-11 13:49:07,415 [cuckoo.core.plugins] DEBUG: Analysis matched signature: ransomware_extensions
+2022-11-11 13:49:07,415 [cuckoo.core.plugins] DEBUG: Analysis matched signature: ransomware_mass_file_delete
+2022-11-11 13:49:07,415 [cuckoo.core.plugins] DEBUG: Analysis matched signature: ransomware_message
+2022-11-11 13:49:07,415 [cuckoo.core.plugins] DEBUG: Analysis matched signature: ransomware_shadowcopy
+2022-11-11 13:49:07,415 [cuckoo.core.plugins] DEBUG: Analysis matched signature: injection_resumethread
+2022-11-11 13:49:07,415 [cuckoo.core.plugins] DEBUG: Analysis matched signature: suspicious_command_tools
+2022-11-11 13:49:07,416 [cuckoo.core.plugins] DEBUG: Analysis matched signature: terminates_remote_process
+2022-11-11 13:49:07,416 [cuckoo.core.plugins] DEBUG: Analysis matched signature: network_tor
+2022-11-11 13:49:07,416 [cuckoo.core.plugins] DEBUG: Analysis matched signature: uses_windows_utilities
+2022-11-11 13:49:11,774 [cuckoo.core.plugins] DEBUG: Executed reporting module "JsonDump"
+2022-11-11 13:49:13,791 [cuckoo.core.plugins] DEBUG: Executed reporting module "MongoDB"
+2022-11-11 13:49:13,791 [cuckoo.core.scheduler] INFO: Task #31: reports generation completed
+2022-11-11 13:49:13,795 [cuckoo.core.scheduler] INFO: Task #31: analysis procedure completed

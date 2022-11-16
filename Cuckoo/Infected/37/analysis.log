@@ -1,0 +1,727 @@
+2022-11-11 13:41:29,015 [analyzer] DEBUG: Starting analyzer from: C:\tmpgto74e
+2022-11-11 13:41:29,015 [analyzer] DEBUG: Pipe server name: \??\PIPE\FYViCOBRssLVaKDHNDLCFPcDfKlP
+2022-11-11 13:41:29,015 [analyzer] DEBUG: Log pipe server name: \??\PIPE\JKluNyTEzTfyrUCejWvshBNMov
+2022-11-11 13:41:29,092 [analyzer] DEBUG: Started auxiliary module DbgView
+2022-11-11 13:41:35,421 [analyzer] DEBUG: Started auxiliary module Disguise
+2022-11-11 13:41:35,703 [analyzer] DEBUG: Loaded monitor into process with pid 504
+2022-11-11 13:41:35,703 [analyzer] DEBUG: Started auxiliary module DumpTLSMasterSecrets
+2022-11-11 13:41:35,717 [analyzer] DEBUG: Started auxiliary module Human
+2022-11-11 13:41:35,717 [analyzer] DEBUG: Started auxiliary module InstallCertificate
+2022-11-11 13:41:35,717 [analyzer] DEBUG: Started auxiliary module Reboot
+2022-11-11 13:41:35,828 [analyzer] DEBUG: Started auxiliary module RecentFiles
+2022-11-11 13:41:35,828 [analyzer] DEBUG: Started auxiliary module Screenshots
+2022-11-11 13:41:35,828 [analyzer] DEBUG: Started auxiliary module LoadZer0m0n
+2022-11-11 13:41:35,828 [modules.auxiliary.screenshots] INFO: Python Image Library (either PIL or Pillow) is not installed, screenshots are disabled.
+2022-11-11 13:41:36,140 [lib.api.process] INFO: Successfully executed process from path 'C:\\Python27\\python.exe' with arguments [u'C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\15-V.py'] and pid 1896
+2022-11-11 13:41:36,640 [analyzer] DEBUG: Loaded monitor into process with pid 1896
+2022-11-11 13:41:37,030 [analyzer] INFO: Added new file to list with pid 1896 and path C:\Python27\Lib\webbrowser.pyc
+2022-11-11 20:07:36,759 [analyzer] INFO: Injected into process with pid 832 and name u'chrome.exe'
+2022-11-11 20:07:37,102 [analyzer] DEBUG: Loaded monitor into process with pid 832
+2022-11-11 20:07:37,447 [analyzer] INFO: Injected into process with pid 572 and name u'chrome.exe'
+2022-11-11 20:07:37,789 [analyzer] DEBUG: Loaded monitor into process with pid 572
+2022-11-11 20:07:38,039 [analyzer] INFO: Injected into process with pid 1680 and name u'chrome.exe'
+2022-11-11 20:07:38,368 [analyzer] DEBUG: Loaded monitor into process with pid 1680
+2022-11-11 20:07:39,618 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 1680.
+2022-11-11 20:07:39,852 [analyzer] INFO: Process with pid 1680 has terminated
+2022-11-11 20:07:40,664 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 572.
+2022-11-11 20:07:40,711 [analyzer] INFO: Added new file to list with pid 832 and path C:\Program Files\Google\Chrome\Application\debug.log
+2022-11-11 20:07:40,852 [analyzer] INFO: Process with pid 572 has terminated
+2022-11-11 20:07:46,836 [analyzer] INFO: Added new file to list with pid 832 and path \Device\NamedPipe\wkssvc
+2022-11-11 20:07:49,025 [analyzer] INFO: Added new file to list with pid 832 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Variations
+2022-11-11 20:07:52,039 [analyzer] INFO: Injected into process with pid 2836 and name u'cmd.exe'
+2022-11-11 20:07:52,414 [analyzer] DEBUG: Loaded monitor into process with pid 2836
+2022-11-11 20:07:52,789 [analyzer] INFO: Injected into process with pid 3068 and name u'notepad.exe'
+2022-11-11 20:07:54,086 [analyzer] DEBUG: Loaded monitor into process with pid 3068
+2022-11-11 20:07:59,680 [lib.api.process] INFO: Memory dump of process with pid 3068 completed
+2022-11-11 20:08:02,477 [lib.api.process] INFO: Memory dump of process with pid 2836 completed
+2022-11-11 20:08:03,305 [analyzer] INFO: Process with pid 2836 has terminated
+2022-11-11 20:08:07,352 [analyzer] INFO: Process with pid 832 has terminated
+2022-11-11 20:08:17,822 [analyzer] INFO: Injected into process with pid 2068 and name u'chrome.exe'
+2022-11-11 20:08:18,164 [analyzer] DEBUG: Loaded monitor into process with pid 2068
+2022-11-11 20:08:18,493 [analyzer] INFO: Injected into process with pid 660 and name u'chrome.exe'
+2022-11-11 20:08:18,836 [analyzer] DEBUG: Loaded monitor into process with pid 660
+2022-11-11 20:08:19,072 [analyzer] INFO: Injected into process with pid 2464 and name u'chrome.exe'
+2022-11-11 20:08:19,447 [analyzer] DEBUG: Loaded monitor into process with pid 2464
+2022-11-11 20:08:20,586 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 2464.
+2022-11-11 20:08:21,352 [analyzer] INFO: Process with pid 2464 has terminated
+2022-11-11 20:08:21,586 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 660.
+2022-11-11 20:08:22,352 [analyzer] INFO: Process with pid 660 has terminated
+2022-11-11 20:08:33,447 [analyzer] INFO: Injected into process with pid 2948 and name u'chrome.exe'
+2022-11-11 20:08:34,025 [analyzer] DEBUG: Loaded monitor into process with pid 2948
+2022-11-11 20:08:35,697 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 2948.
+2022-11-11 20:08:36,414 [analyzer] INFO: Process with pid 2948 has terminated
+2022-11-11 20:08:45,461 [analyzer] INFO: Process with pid 2068 has terminated
+2022-11-11 20:08:48,711 [analyzer] INFO: Injected into process with pid 596 and name u'chrome.exe'
+2022-11-11 20:08:49,039 [analyzer] DEBUG: Loaded monitor into process with pid 596
+2022-11-11 20:08:49,368 [analyzer] INFO: Injected into process with pid 2760 and name u'chrome.exe'
+2022-11-11 20:08:49,711 [analyzer] DEBUG: Loaded monitor into process with pid 2760
+2022-11-11 20:08:49,977 [analyzer] INFO: Injected into process with pid 1700 and name u'chrome.exe'
+2022-11-11 20:08:50,352 [analyzer] DEBUG: Loaded monitor into process with pid 1700
+2022-11-11 20:08:51,461 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 1700.
+2022-11-11 20:08:52,461 [analyzer] INFO: Process with pid 1700 has terminated
+2022-11-11 20:08:52,461 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 2760.
+2022-11-11 20:08:53,461 [analyzer] INFO: Process with pid 2760 has terminated
+2022-11-11 20:09:07,413 [analyzer] INFO: Injected into process with pid 2652 and name u'cmd.exe'
+2022-11-11 20:09:07,792 [analyzer] DEBUG: Loaded monitor into process with pid 2652
+2022-11-11 20:09:08,016 [analyzer] INFO: Injected into process with pid 1148 and name u'wannacry.exe'
+2022-11-11 20:09:08,677 [analyzer] DEBUG: Loaded monitor into process with pid 1148
+2022-11-11 20:09:08,733 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Desktop\b.wnry
+2022-11-11 20:09:09,226 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Desktop\c.wnry
+2022-11-11 20:09:09,367 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Desktop\msg\m_bulgarian.wnry
+2022-11-11 20:09:09,381 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Desktop\msg\m_chinese (simplified).wnry
+2022-11-11 20:09:09,423 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Desktop\msg\m_chinese (traditional).wnry
+2022-11-11 20:09:09,451 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Desktop\msg\m_croatian.wnry
+2022-11-11 20:09:09,536 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Desktop\msg\m_czech.wnry
+2022-11-11 20:09:09,549 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Desktop\msg\m_danish.wnry
+2022-11-11 20:09:09,563 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Desktop\msg\m_dutch.wnry
+2022-11-11 20:09:09,578 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Desktop\msg\m_english.wnry
+2022-11-11 20:09:09,592 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Desktop\msg\m_filipino.wnry
+2022-11-11 20:09:09,605 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Desktop\msg\m_finnish.wnry
+2022-11-11 20:09:09,619 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Desktop\msg\m_french.wnry
+2022-11-11 20:09:09,634 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Desktop\msg\m_german.wnry
+2022-11-11 20:09:09,663 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Desktop\msg\m_greek.wnry
+2022-11-11 20:09:09,677 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Desktop\msg\m_indonesian.wnry
+2022-11-11 20:09:09,690 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Desktop\msg\m_italian.wnry
+2022-11-11 20:09:09,704 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Desktop\msg\m_japanese.wnry
+2022-11-11 20:09:09,733 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Desktop\msg\m_korean.wnry
+2022-11-11 20:09:09,746 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Desktop\msg\m_latvian.wnry
+2022-11-11 20:09:09,802 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Desktop\msg\m_norwegian.wnry
+2022-11-11 20:09:09,831 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Desktop\msg\m_polish.wnry
+2022-11-11 20:09:09,845 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Desktop\msg\m_portuguese.wnry
+2022-11-11 20:09:09,858 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Desktop\msg\m_romanian.wnry
+2022-11-11 20:09:09,915 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Desktop\msg\m_russian.wnry
+2022-11-11 20:09:09,930 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Desktop\msg\m_slovak.wnry
+2022-11-11 20:09:09,944 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Desktop\msg\m_spanish.wnry
+2022-11-11 20:09:09,971 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Desktop\msg\m_swedish.wnry
+2022-11-11 20:09:10,069 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Desktop\msg\m_turkish.wnry
+2022-11-11 20:09:10,112 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Desktop\msg\m_vietnamese.wnry
+2022-11-11 20:09:10,154 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Desktop\r.wnry
+2022-11-11 20:09:10,154 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Desktop\s.wnry
+2022-11-11 20:09:11,813 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Desktop\t.wnry
+2022-11-11 20:09:11,828 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Desktop\taskdl.exe
+2022-11-11 20:09:11,842 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Desktop\taskse.exe
+2022-11-11 20:09:11,842 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Desktop\u.wnry
+2022-11-11 20:09:12,657 [analyzer] ERROR: Pipe command handler exception occurred (command DUMPMEM args '1148').
+Traceback (most recent call last):
+  File "C:/tmpgto74e/analyzer.py", line 405, in dispatch
+    response = fn(arguments)
+  File "C:/tmpgto74e/analyzer.py", line 347, in _handle_dumpmem
+    dump_memory(int(data))
+  File "C:\tmpgto74e\lib\common\decide.py", line 11, in dump_memory
+    Process(pid=pid).dump_memory()
+  File "C:\tmpgto74e\lib\api\process.py", line 579, in dump_memory
+    os.unlink(dump_path)
+WindowsError: [Error 32] The process cannot access the file because it is being used by another process: 'c:\\users\\admini~1\\appdata\\local\\temp\\tmp_bg4jj'
+2022-11-11 20:09:12,686 [analyzer] INFO: Injected into process with pid 684 and name u'attrib.exe'
+2022-11-11 20:09:13,177 [analyzer] INFO: Injected into process with pid 2408 and name u'icacls.exe'
+2022-11-11 20:09:14,423 [analyzer] DEBUG: Loaded monitor into process with pid 2408
+2022-11-11 20:09:14,625 [analyzer] DEBUG: Loaded monitor into process with pid 684
+2022-11-11 20:09:14,789 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Desktop\00000000.pky
+2022-11-11 20:09:14,802 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Desktop\00000000.eky
+2022-11-11 20:09:14,941 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Desktop\00000000.res
+2022-11-11 20:09:16,257 [analyzer] INFO: Injected into process with pid 2952 and name u'taskdl.exe'
+2022-11-11 20:09:16,269 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Desktop\43851668228556.bat
+2022-11-11 20:09:17,016 [analyzer] DEBUG: Loaded monitor into process with pid 2952
+2022-11-11 20:09:17,308 [analyzer] ERROR: Pipe command handler exception occurred (command KILL args '684').
+Traceback (most recent call last):
+  File "C:/tmpgto74e/analyzer.py", line 405, in dispatch
+    response = fn(arguments)
+  File "C:/tmpgto74e/analyzer.py", line 339, in _handle_kill
+    dump_memory(int(data))
+  File "C:\tmpgto74e\lib\common\decide.py", line 11, in dump_memory
+    Process(pid=pid).dump_memory()
+  File "C:\tmpgto74e\lib\api\process.py", line 579, in dump_memory
+    os.unlink(dump_path)
+WindowsError: [Error 32] The process cannot access the file because it is being used by another process: 'c:\\users\\admini~1\\appdata\\local\\temp\\tmpaobhjk'
+2022-11-11 20:09:17,397 [analyzer] INFO: Process with pid 684 has terminated
+2022-11-11 20:09:17,637 [analyzer] ERROR: Pipe command handler exception occurred (command KILL args '2652').
+Traceback (most recent call last):
+  File "C:/tmpgto74e/analyzer.py", line 405, in dispatch
+    response = fn(arguments)
+  File "C:/tmpgto74e/analyzer.py", line 339, in _handle_kill
+    dump_memory(int(data))
+  File "C:\tmpgto74e\lib\common\decide.py", line 11, in dump_memory
+    Process(pid=pid).dump_memory()
+  File "C:\tmpgto74e\lib\api\process.py", line 579, in dump_memory
+    os.unlink(dump_path)
+WindowsError: [Error 32] The process cannot access the file because it is being used by another process: 'c:\\users\\admini~1\\appdata\\local\\temp\\tmpuw58nv'
+2022-11-11 20:09:18,244 [analyzer] INFO: Process with pid 2652 has terminated
+2022-11-11 20:09:18,484 [lib.api.process] INFO: Memory dump of process with pid 2408 completed
+2022-11-11 20:09:18,497 [analyzer] INFO: Injected into process with pid 2432 and name u'cmd.exe'
+2022-11-11 20:09:18,510 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Desktop\@Please_Read_Me@.txt
+2022-11-11 20:09:18,573 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Desktop\43851668228556.bat.WNCRYT
+2022-11-11 20:09:18,839 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Documents\feencownuFROZJlm.doc.WNCRYT
+2022-11-11 20:09:18,979 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Documents\feencownuFROZJlm.doc
+2022-11-11 20:09:19,068 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Documents\hbZxJEJVHgIBm.doc.WNCRYT
+2022-11-11 20:09:19,068 [analyzer] INFO: Process with pid 2408 has terminated
+2022-11-11 20:09:19,155 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Documents\hbZxJEJVHgIBm.doc
+2022-11-11 20:09:19,219 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Documents\HDQWxUGiupjoBq.ppt.WNCRYT
+2022-11-11 20:09:19,256 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Documents\HDQWxUGiupjoBq.ppt
+2022-11-11 20:09:19,282 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Documents\ikmqTPFxiVhzO.pptx.WNCRYT
+2022-11-11 20:09:19,484 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Documents\ikmqTPFxiVhzO.pptx
+2022-11-11 20:09:19,598 [analyzer] DEBUG: Loaded monitor into process with pid 2432
+2022-11-11 20:09:19,914 [lib.api.process] INFO: Memory dump of process with pid 2952 completed
+2022-11-11 20:09:19,966 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Documents\MHlnStLapSTq.ppt.WNCRYT
+2022-11-11 20:09:19,979 [analyzer] INFO: Process with pid 2952 has terminated
+2022-11-11 20:09:20,029 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Documents\MHlnStLapSTq.ppt
+2022-11-11 20:09:20,042 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Documents\NCvWniFHNFg.pptx.WNCRYT
+2022-11-11 20:09:20,092 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Documents\NCvWniFHNFg.pptx
+2022-11-11 20:09:20,142 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Documents\PMtOnaVtrR.doc.WNCRYT
+2022-11-11 20:09:20,194 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Documents\PMtOnaVtrR.doc
+2022-11-11 20:09:20,244 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Documents\TVEFmKOgEj.ppt.WNCRYT
+2022-11-11 20:09:20,295 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Documents\TVEFmKOgEj.ppt
+2022-11-11 20:09:20,358 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Documents\VinQTDHgXtOvcgeHn.txt.WNCRYT
+2022-11-11 20:09:20,434 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Documents\VinQTDHgXtOvcgeHn.txt
+2022-11-11 20:09:20,497 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Documents\zZYCWXkIYTQ.ppt.WNCRYT
+2022-11-11 20:09:20,661 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Documents\zZYCWXkIYTQ.ppt
+2022-11-11 20:09:20,789 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Documents\bFqgSBILkhCpc.docm.WNCRYT
+2022-11-11 20:09:20,826 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Documents\bFqgSBILkhCpc.docm
+2022-11-11 20:09:20,826 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Documents\rjaVFVXTAoIIuQgK.docm.WNCRYT
+2022-11-11 20:09:20,851 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Documents\rjaVFVXTAoIIuQgK.docm
+2022-11-11 20:09:21,865 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\LICENSE.txt.WNCRYT
+2022-11-11 20:09:21,914 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\NEWS.txt.WNCRYT
+2022-11-11 20:09:21,966 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\README.txt.WNCRYT
+2022-11-11 20:09:22,142 [analyzer] INFO: Analysis timeout hit, terminating analysis.
+2022-11-11 20:09:23,424 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\email\test\data\msg_02.txt.WNCRYT
+2022-11-11 20:09:23,447 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\email\test\data\msg_06.txt.WNCRYT
+2022-11-11 20:09:23,457 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\email\test\data\msg_07.txt.WNCRYT
+2022-11-11 20:09:23,469 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\email\test\data\msg_13.txt.WNCRYT
+2022-11-11 20:09:23,492 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\email\test\data\msg_15.txt.WNCRYT
+2022-11-11 20:09:23,503 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\email\test\data\msg_16.txt.WNCRYT
+2022-11-11 20:09:23,515 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\email\test\data\msg_22.txt.WNCRYT
+2022-11-11 20:09:23,538 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\email\test\data\msg_25.txt.WNCRYT
+2022-11-11 20:09:23,549 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\email\test\data\msg_26.txt.WNCRYT
+2022-11-11 20:09:23,561 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\email\test\data\msg_38.txt.WNCRYT
+2022-11-11 20:09:23,617 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\email\test\data\msg_39.txt.WNCRYT
+2022-11-11 20:09:23,628 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\email\test\data\msg_43.txt.WNCRYT
+2022-11-11 20:09:23,766 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\idlelib\CREDITS.txt.WNCRYT
+2022-11-11 20:09:23,799 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\idlelib\extend.txt.WNCRYT
+2022-11-11 20:09:23,834 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\idlelib\help.txt.WNCRYT
+2022-11-11 20:09:23,868 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\idlelib\HISTORY.txt.WNCRYT
+2022-11-11 20:09:23,936 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\idlelib\NEWS.txt.WNCRYT
+2022-11-11 20:09:23,970 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\idlelib\README.txt.WNCRYT
+2022-11-11 20:09:24,005 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\idlelib\TODO.txt.WNCRYT
+2022-11-11 20:09:24,176 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\idlelib\idle_test\README.txt.WNCRYT
+2022-11-11 20:09:25,315 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\lib2to3\Grammar.txt.WNCRYT
+2022-11-11 20:09:26,476 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\cmath_testcases.txt.WNCRYT
+2022-11-11 20:09:26,568 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\exception_hierarchy.txt.WNCRYT
+2022-11-11 20:09:26,601 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\floating_points.txt.WNCRYT
+2022-11-11 20:09:26,625 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\formatfloat_testcases.txt.WNCRYT
+2022-11-11 20:09:26,658 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\ieee754.txt.WNCRYT
+2022-11-11 20:09:26,693 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\math_testcases.txt.WNCRYT
+2022-11-11 20:09:26,739 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\tokenize_tests.txt.WNCRYT
+2022-11-11 20:09:26,898 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\cjkencodings\euc_jisx0213-utf8.txt.WNCRYT
+2022-11-11 20:09:26,931 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\cjkencodings\euc_jp-utf8.txt.WNCRYT
+2022-11-11 20:09:26,966 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\cjkencodings\gb18030-utf8.txt.WNCRYT
+2022-11-11 20:09:26,989 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\cjkencodings\gbk-utf8.txt.WNCRYT
+2022-11-11 20:09:27,092 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\cjkencodings\iso2022_jp-utf8.txt.WNCRYT
+2022-11-11 20:09:27,114 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Desktop\f.wnry
+2022-11-11 20:09:27,125 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\cjkencodings\shift_jis-utf8.txt.WNCRYT
+2022-11-11 20:09:27,148 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\cjkencodings\shift_jisx0213-utf8.txt.WNCRYT
+2022-11-11 20:09:27,456 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\leakers\README.txt.WNCRYT
+2022-11-11 20:09:28,584 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\ar.msg.WNCRYT
+2022-11-11 20:09:28,607 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\ar_jo.msg.WNCRYT
+2022-11-11 20:09:28,628 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\ar_lb.msg.WNCRYT
+2022-11-11 20:09:28,641 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\ar_sy.msg.WNCRYT
+2022-11-11 20:09:28,651 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\be.msg.WNCRYT
+2022-11-11 20:09:28,674 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\bg.msg.WNCRYT
+2022-11-11 20:09:28,686 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\bn.msg.WNCRYT
+2022-11-11 20:09:28,697 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\ca.msg.WNCRYT
+2022-11-11 20:09:28,709 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\cs.msg.WNCRYT
+2022-11-11 20:09:28,799 [lib.api.process] INFO: Memory dump of process with pid 2432 completed
+2022-11-11 20:09:28,822 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\da.msg.WNCRYT
+2022-11-11 20:09:28,834 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\de.msg.WNCRYT
+2022-11-11 20:09:28,857 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\de_be.msg.WNCRYT
+2022-11-11 20:09:28,891 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\el.msg.WNCRYT
+2022-11-11 20:09:28,926 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\eo.msg.WNCRYT
+2022-11-11 20:09:28,947 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\es.msg.WNCRYT
+2022-11-11 20:09:28,960 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\et.msg.WNCRYT
+2022-11-11 20:09:28,970 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\fa.msg.WNCRYT
+2022-11-11 20:09:28,993 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\fa_in.msg.WNCRYT
+2022-11-11 20:09:29,005 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\fi.msg.WNCRYT
+2022-11-11 20:09:29,016 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\fr.msg.WNCRYT
+2022-11-11 20:09:29,028 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\ga.msg.WNCRYT
+2022-11-11 20:09:29,051 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\gv.msg.WNCRYT
+2022-11-11 20:09:29,062 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\he.msg.WNCRYT
+2022-11-11 20:09:29,073 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\hi.msg.WNCRYT
+2022-11-11 20:09:29,095 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\hr.msg.WNCRYT
+2022-11-11 20:09:29,108 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\hu.msg.WNCRYT
+2022-11-11 20:09:29,118 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\is.msg.WNCRYT
+2022-11-11 20:09:29,131 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\it.msg.WNCRYT
+2022-11-11 20:09:29,153 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\ja.msg.WNCRYT
+2022-11-11 20:09:29,176 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\ko.msg.WNCRYT
+2022-11-11 20:09:29,187 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\kok.msg.WNCRYT
+2022-11-11 20:09:29,210 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\lt.msg.WNCRYT
+2022-11-11 20:09:29,221 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\lv.msg.WNCRYT
+2022-11-11 20:09:29,233 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\mk.msg.WNCRYT
+2022-11-11 20:09:29,256 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\mr.msg.WNCRYT
+2022-11-11 20:09:29,266 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\nb.msg.WNCRYT
+2022-11-11 20:09:29,289 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\nl.msg.WNCRYT
+2022-11-11 20:09:29,301 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\nn.msg.WNCRYT
+2022-11-11 20:09:29,323 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\pl.msg.WNCRYT
+2022-11-11 20:09:29,346 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\pt.msg.WNCRYT
+2022-11-11 20:09:29,369 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\ro.msg.WNCRYT
+2022-11-11 20:09:29,392 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\ru.msg.WNCRYT
+2022-11-11 20:09:29,404 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\sh.msg.WNCRYT
+2022-11-11 20:09:29,414 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\sk.msg.WNCRYT
+2022-11-11 20:09:29,427 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\sl.msg.WNCRYT
+2022-11-11 20:09:29,448 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\sq.msg.WNCRYT
+2022-11-11 20:09:29,460 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\sr.msg.WNCRYT
+2022-11-11 20:09:29,471 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\sv.msg.WNCRYT
+2022-11-11 20:09:29,506 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\ta.msg.WNCRYT
+2022-11-11 20:09:29,506 [analyzer] INFO: Injected into process with pid 2196 and name u'chrome.exe'
+2022-11-11 20:09:29,540 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\te.msg.WNCRYT
+2022-11-11 20:09:29,552 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\th.msg.WNCRYT
+2022-11-11 20:09:29,575 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\tr.msg.WNCRYT
+2022-11-11 20:09:29,598 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\uk.msg.WNCRYT
+2022-11-11 20:09:29,619 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\vi.msg.WNCRYT
+2022-11-11 20:09:29,700 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\zh.msg.WNCRYT
+2022-11-11 20:09:29,802 [lib.api.process] ERROR: Failed to dump memory of 32-bit process with pid 1896.
+2022-11-11 20:09:29,859 [analyzer] DEBUG: Loaded monitor into process with pid 2196
+2022-11-11 20:09:30,394 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tix8.4.3\pref\WmDefault.txt.WNCRYT
+2022-11-11 20:09:30,480 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tk8.5\demos\en.msg.WNCRYT
+2022-11-11 20:09:30,493 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tk8.5\demos\nl.msg.WNCRYT
+2022-11-11 20:09:30,569 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tk8.5\msgs\cs.msg.WNCRYT
+2022-11-11 20:09:30,582 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tk8.5\msgs\da.msg.WNCRYT
+2022-11-11 20:09:30,607 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tk8.5\msgs\de.msg.WNCRYT
+2022-11-11 20:09:30,631 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tk8.5\msgs\el.msg.WNCRYT
+2022-11-11 20:09:30,644 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tk8.5\msgs\en.msg.WNCRYT
+2022-11-11 20:09:30,657 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tk8.5\msgs\eo.msg.WNCRYT
+2022-11-11 20:09:30,668 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tk8.5\msgs\es.msg.WNCRYT
+2022-11-11 20:09:30,694 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tk8.5\msgs\fr.msg.WNCRYT
+2022-11-11 20:09:30,720 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tk8.5\msgs\hu.msg.WNCRYT
+2022-11-11 20:09:30,732 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tk8.5\msgs\it.msg.WNCRYT
+2022-11-11 20:09:30,756 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tk8.5\msgs\nl.msg.WNCRYT
+2022-11-11 20:09:30,782 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tk8.5\msgs\pl.msg.WNCRYT
+2022-11-11 20:09:30,806 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tk8.5\msgs\pt.msg.WNCRYT
+2022-11-11 20:09:30,819 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tk8.5\msgs\ru.msg.WNCRYT
+2022-11-11 20:09:30,845 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tk8.5\msgs\sv.msg.WNCRYT
+2022-11-11 20:09:30,994 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Tools\pynche\namedcolors.txt.WNCRYT
+2022-11-11 20:09:31,019 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Tools\pynche\README.txt.WNCRYT
+2022-11-11 20:09:31,145 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Tools\pynche\webcolors.txt.WNCRYT
+2022-11-11 20:09:31,171 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Tools\pynche\websafe.txt.WNCRYT
+2022-11-11 20:09:31,207 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Tools\pynche\X\rgb.txt.WNCRYT
+2022-11-11 20:09:31,220 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Tools\pynche\X\xlicense.txt.WNCRYT
+2022-11-11 20:09:31,334 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Tools\Scripts\README.txt.WNCRYT
+2022-11-11 20:09:31,371 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Tools\versioncheck\README.txt.WNCRYT
+2022-11-11 20:09:32,961 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 2196.
+2022-11-11 20:09:34,466 [lib.api.process] INFO: Memory dump of process with pid 3068 completed
+2022-11-11 20:09:34,466 [lib.api.process] WARNING: The process with pid 596 is not alive, memory dump aborted
+2022-11-11 20:09:37,585 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Microsoft\Internet Explorer\brndlog.txt.WNCRYT
+2022-11-11 20:09:38,275 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\Bears.jpg.WNCRYT
+2022-11-11 20:09:38,286 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\Blue_Gradient.jpg.WNCRYT
+2022-11-11 20:09:38,312 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\Garden.jpg.WNCRYT
+2022-11-11 20:09:38,325 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\GreenBubbles.jpg.WNCRYT
+2022-11-11 20:09:38,338 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\HandPrints.jpg.WNCRYT
+2022-11-11 20:09:38,362 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\Monet.jpg.WNCRYT
+2022-11-11 20:09:38,375 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\Notebook.jpg.WNCRYT
+2022-11-11 20:09:38,403 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\OrangeCircles.jpg.WNCRYT
+2022-11-11 20:09:38,430 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\Peacock.jpg.WNCRYT
+2022-11-11 20:09:38,457 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\Pine_Lumber.jpg.WNCRYT
+2022-11-11 20:09:38,471 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\Pretty_Peacock.jpg.WNCRYT
+2022-11-11 20:09:38,484 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\Psychedelic.jpg.WNCRYT
+2022-11-11 20:09:38,526 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\Roses.jpg.WNCRYT
+2022-11-11 20:09:38,540 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\Sand_Paper.jpg.WNCRYT
+2022-11-11 20:09:38,553 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\ShadesOfBlue.jpg.WNCRYT
+2022-11-11 20:09:38,595 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\Small_News.jpg.WNCRYT
+2022-11-11 20:09:38,609 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\SoftBlue.jpg.WNCRYT
+2022-11-11 20:09:38,622 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\Stars.jpg.WNCRYT
+2022-11-11 20:09:38,651 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\Tanspecks.jpg.WNCRYT
+2022-11-11 20:09:38,677 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\White_Chocolate.jpg.WNCRYT
+2022-11-11 20:09:39,023 [lib.api.process] INFO: Memory dump of process with pid 1148 completed
+2022-11-11 20:09:39,023 [lib.api.process] WARNING: The process with pid 2432 is not alive, memory dump aborted
+2022-11-11 20:09:39,023 [lib.api.process] WARNING: The process with pid 2196 is not alive, memory dump aborted
+2022-11-11 20:09:40,993 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Themes\TranscodedWallpaper.jpg.WNCRYT
+2022-11-11 20:09:41,256 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\qdxlcenb.default\AlternateServices.txt.WNCRYT
+2022-11-11 20:09:41,269 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\qdxlcenb.default\SiteSecurityServiceState.txt.WNCRYT
+2022-11-11 20:09:42,096 [analyzer] INFO: Injected into process with pid 2828 and name u'cmd.exe'
+2022-11-11 20:09:42,565 [analyzer] DEBUG: Loaded monitor into process with pid 2828
+2022-11-11 20:09:42,979 [analyzer] INFO: Injected into process with pid 2380 and name u'taskkill.exe'
+2022-11-11 20:09:43,556 [analyzer] DEBUG: Loaded monitor into process with pid 2380
+2022-11-11 20:09:43,901 [analyzer] INFO: Injected into process with pid 828 and name u'taskdl.exe'
+2022-11-11 20:09:44,494 [analyzer] DEBUG: Loaded monitor into process with pid 828
+2022-11-11 20:09:45,803 [lib.api.process] INFO: Memory dump of process with pid 828 completed
+2022-11-11 20:09:46,658 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\Windows NT\MSScan\WelcomeScan.jpg.WNCRYT
+2022-11-11 20:09:46,740 [analyzer] WARNING: File at path u'c:\\programdata\\microsoft\\windows nt\\msscan\\welcomescan.jpg.wncryt' does not exist, skip.
+2022-11-11 20:09:46,782 [analyzer] WARNING: File at path u'\\device\\namedpipe\\wkssvc' does not exist, skip.
+2022-11-11 20:09:49,023 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Public\Pictures\Sample Pictures\Chrysanthemum.jpg.WNCRYT
+2022-11-11 20:09:49,098 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Public\Pictures\Sample Pictures\Desert.jpg.WNCRYT
+2022-11-11 20:09:49,160 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Public\Pictures\Sample Pictures\Hydrangeas.jpg.WNCRYT
+2022-11-11 20:09:49,206 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Public\Pictures\Sample Pictures\Jellyfish.jpg.WNCRYT
+2022-11-11 20:09:49,403 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Public\Pictures\Sample Pictures\Koala.jpg.WNCRYT
+2022-11-11 20:09:49,615 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Public\Pictures\Sample Pictures\Lighthouse.jpg.WNCRYT
+2022-11-11 20:09:49,660 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Public\Pictures\Sample Pictures\Penguins.jpg.WNCRYT
+2022-11-11 20:09:49,720 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Public\Pictures\Sample Pictures\Tulips.jpg.WNCRYT
+2022-11-11 20:09:50,055 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\abstract.h.WNCRYT
+2022-11-11 20:09:50,296 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\asdl.h.WNCRYT
+2022-11-11 20:09:50,312 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\bytearrayobject.h.WNCRYT
+2022-11-11 20:09:50,326 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\bytesobject.h.WNCRYT
+2022-11-11 20:09:50,372 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\bytes_methods.h.WNCRYT
+2022-11-11 20:09:50,388 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\ceval.h.WNCRYT
+2022-11-11 20:09:50,417 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\classobject.h.WNCRYT
+2022-11-11 20:09:50,434 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\cobject.h.WNCRYT
+2022-11-11 20:09:50,555 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\code.h.WNCRYT
+2022-11-11 20:09:50,585 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\codecs.h.WNCRYT
+2022-11-11 20:09:50,615 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\compile.h.WNCRYT
+2022-11-11 20:09:50,631 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\complexobject.h.WNCRYT
+2022-11-11 20:09:50,661 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\cStringIO.h.WNCRYT
+2022-11-11 20:09:50,690 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\datetime.h.WNCRYT
+2022-11-11 20:09:50,706 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\descrobject.h.WNCRYT
+2022-11-11 20:09:50,721 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\dictobject.h.WNCRYT
+2022-11-11 20:09:50,752 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\errcode.h.WNCRYT
+2022-11-11 20:09:50,766 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\fileobject.h.WNCRYT
+2022-11-11 20:09:50,782 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\floatobject.h.WNCRYT
+2022-11-11 20:09:50,796 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\frameobject.h.WNCRYT
+2022-11-11 20:09:50,842 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\funcobject.h.WNCRYT
+2022-11-11 20:09:50,858 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\graminit.h.WNCRYT
+2022-11-11 20:09:50,904 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\grammar.h.WNCRYT
+2022-11-11 20:09:50,918 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\import.h.WNCRYT
+2022-11-11 20:09:50,979 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\intobject.h.WNCRYT
+2022-11-11 20:09:50,994 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\listobject.h.WNCRYT
+2022-11-11 20:09:51,025 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\longintrepr.h.WNCRYT
+2022-11-11 20:09:51,039 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\longobject.h.WNCRYT
+2022-11-11 20:09:51,069 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\memoryobject.h.WNCRYT
+2022-11-11 20:09:51,101 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\methodobject.h.WNCRYT
+2022-11-11 20:09:51,131 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\modsupport.h.WNCRYT
+2022-11-11 20:09:51,161 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\object.h.WNCRYT
+2022-11-11 20:09:51,191 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\objimpl.h.WNCRYT
+2022-11-11 20:09:51,221 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\opcode.h.WNCRYT
+2022-11-11 20:09:51,252 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\osdefs.h.WNCRYT
+2022-11-11 20:09:51,266 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\parsetok.h.WNCRYT
+2022-11-11 20:09:51,298 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\patchlevel.h.WNCRYT
+2022-11-11 20:09:51,312 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\pgenheaders.h.WNCRYT
+2022-11-11 20:09:51,342 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\pyarena.h.WNCRYT
+2022-11-11 20:09:51,404 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\pycapsule.h.WNCRYT
+2022-11-11 20:09:51,434 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\pyconfig.h.WNCRYT
+2022-11-11 20:09:51,448 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\pyctype.h.WNCRYT
+2022-11-11 20:09:51,480 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\pydebug.h.WNCRYT
+2022-11-11 20:09:51,525 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\pyerrors.h.WNCRYT
+2022-11-11 20:09:51,539 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\pyexpat.h.WNCRYT
+2022-11-11 20:09:51,555 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\pyfpe.h.WNCRYT
+2022-11-11 20:09:51,571 [lib.api.process] INFO: Memory dump of process with pid 3068 completed
+2022-11-11 20:09:51,601 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\pymacconfig.h.WNCRYT
+2022-11-11 20:09:51,645 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\pymactoolbox.h.WNCRYT
+2022-11-11 20:09:51,661 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\pymath.h.WNCRYT
+2022-11-11 20:09:51,812 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\pymem.h.WNCRYT
+2022-11-11 20:09:51,828 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\pyport.h.WNCRYT
+2022-11-11 20:09:51,858 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\pystate.h.WNCRYT
+2022-11-11 20:09:51,874 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\pystrtod.h.WNCRYT
+2022-11-11 20:09:51,934 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\Python-ast.h.WNCRYT
+2022-11-11 20:09:51,950 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\Python.h.WNCRYT
+2022-11-11 20:09:51,980 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\pythonrun.h.WNCRYT
+2022-11-11 20:09:51,994 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\pythread.h.WNCRYT
+2022-11-11 20:09:52,009 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\py_curses.h.WNCRYT
+2022-11-11 20:09:52,040 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\setobject.h.WNCRYT
+2022-11-11 20:09:52,055 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\sliceobject.h.WNCRYT
+2022-11-11 20:09:52,085 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\stringobject.h.WNCRYT
+2022-11-11 20:09:52,115 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\structmember.h.WNCRYT
+2022-11-11 20:09:52,131 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\symtable.h.WNCRYT
+2022-11-11 20:09:52,161 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\token.h.WNCRYT
+2022-11-11 20:09:52,191 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\tupleobject.h.WNCRYT
+2022-11-11 20:09:52,223 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\unicodeobject.h.WNCRYT
+2022-11-11 20:09:52,237 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\weakrefobject.h.WNCRYT
+2022-11-11 20:09:52,267 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\185test.db.WNCRYT
+2022-11-11 20:09:52,298 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\badcert.pem.WNCRYT
+2022-11-11 20:09:52,313 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\badkey.pem.WNCRYT
+2022-11-11 20:09:52,328 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\https_svn_python_org_root.pem.WNCRYT
+2022-11-11 20:09:52,344 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\keycert.pem.WNCRYT
+2022-11-11 20:09:52,374 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\nokia.pem.WNCRYT
+2022-11-11 20:09:52,388 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\nullbytecert.pem.WNCRYT
+2022-11-11 20:09:52,420 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\sha256.pem.WNCRYT
+2022-11-11 20:09:52,464 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\testtar.tar.WNCRYT
+2022-11-11 20:09:52,858 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\wrongcert.pem.WNCRYT
+2022-11-11 20:09:52,874 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tclConfig.sh.WNCRYT
+2022-11-11 20:09:52,904 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tix8.4.3\demos\bitmaps\tix.gif.WNCRYT
+2022-11-11 20:09:52,920 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tix8.4.3\pref\Bisque.cs.WNCRYT
+2022-11-11 20:09:52,964 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tix8.4.3\pref\Blue.cs.WNCRYT
+2022-11-11 20:09:52,980 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tix8.4.3\pref\Gray.cs.WNCRYT
+2022-11-11 20:09:53,010 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tix8.4.3\pref\SGIGray.cs.WNCRYT
+2022-11-11 20:09:53,026 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tix8.4.3\pref\TixGray.cs.WNCRYT
+2022-11-11 20:09:53,040 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tix8.4.3\pref\TkWin.cs.WNCRYT
+2022-11-11 20:09:53,072 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tix8.4.3\pref\WmDefault.cs.WNCRYT
+2022-11-11 20:09:53,086 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tk8.5\demos\images\earth.gif.WNCRYT
+2022-11-11 20:09:53,117 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tk8.5\demos\images\earthris.gif.WNCRYT
+2022-11-11 20:09:53,131 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tk8.5\demos\images\tcllogo.gif.WNCRYT
+2022-11-11 20:09:53,177 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tk8.5\images\logo100.gif.WNCRYT
+2022-11-11 20:09:53,207 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tk8.5\images\logo64.gif.WNCRYT
+2022-11-11 20:09:53,223 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tk8.5\images\logoLarge.gif.WNCRYT
+2022-11-11 20:09:53,237 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tk8.5\images\logoMed.gif.WNCRYT
+2022-11-11 20:09:53,269 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tk8.5\images\pwrdLogo100.gif.WNCRYT
+2022-11-11 20:09:53,283 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tk8.5\images\pwrdLogo150.gif.WNCRYT
+2022-11-11 20:09:53,434 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tk8.5\images\pwrdLogo175.gif.WNCRYT
+2022-11-11 20:09:53,450 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tk8.5\images\pwrdLogo200.gif.WNCRYT
+2022-11-11 20:09:53,510 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tk8.5\images\pwrdLogo75.gif.WNCRYT
+2022-11-11 20:09:53,526 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tk8.5\images\tai-ku.gif.WNCRYT
+2022-11-11 20:09:53,586 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\IconCache.db.WNCRYT
+2022-11-11 20:09:53,632 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\heavy_ad_intervention_opt_out.db.WNCRYT
+2022-11-11 20:09:53,648 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\ghbmnnjooekpmoecnnnilnnbdlolhkhi\1.47.0_0\128.png.WNCRYT
+2022-11-11 20:09:53,829 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\ghbmnnjooekpmoecnnnilnnbdlolhkhi\1.47.0_0\eventpage_bin_prod.js.WNCRYT
+2022-11-11 20:09:53,845 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.6_0\craw_background.js.WNCRYT
+2022-11-11 20:09:53,950 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.6_0\craw_window.js.WNCRYT
+2022-11-11 20:09:54,118 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\aghbiahbpaijignceidepookljebhfak\Icons\128.png.WNCRYT
+2022-11-11 20:09:54,132 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\aghbiahbpaijignceidepookljebhfak\Icons\192.png.WNCRYT
+2022-11-11 20:09:54,163 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\aghbiahbpaijignceidepookljebhfak\Icons\256.png.WNCRYT
+2022-11-11 20:09:54,177 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\aghbiahbpaijignceidepookljebhfak\Icons\32.png.WNCRYT
+2022-11-11 20:09:54,193 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\aghbiahbpaijignceidepookljebhfak\Icons\48.png.WNCRYT
+2022-11-11 20:09:54,223 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\aghbiahbpaijignceidepookljebhfak\Icons\64.png.WNCRYT
+2022-11-11 20:09:54,253 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\aghbiahbpaijignceidepookljebhfak\Icons\96.png.WNCRYT
+2022-11-11 20:09:54,299 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\agimnkijcaahngcdmfeangaknmldooml\Icons\128.png.WNCRYT
+2022-11-11 20:09:54,315 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\agimnkijcaahngcdmfeangaknmldooml\Icons\192.png.WNCRYT
+2022-11-11 20:09:54,345 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\agimnkijcaahngcdmfeangaknmldooml\Icons\256.png.WNCRYT
+2022-11-11 20:09:54,359 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\agimnkijcaahngcdmfeangaknmldooml\Icons\32.png.WNCRYT
+2022-11-11 20:09:54,391 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Desktop\f.wnry
+2022-11-11 20:09:54,405 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\agimnkijcaahngcdmfeangaknmldooml\Icons\48.png.WNCRYT
+2022-11-11 20:09:54,421 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\agimnkijcaahngcdmfeangaknmldooml\Icons\64.png.WNCRYT
+2022-11-11 20:09:54,450 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\agimnkijcaahngcdmfeangaknmldooml\Icons\96.png.WNCRYT
+2022-11-11 20:09:54,482 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\fhihpiojkbmbpdjeoajapmgkhlnakfjf\Icons\128.png.WNCRYT
+2022-11-11 20:09:54,526 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\fhihpiojkbmbpdjeoajapmgkhlnakfjf\Icons\192.png.WNCRYT
+2022-11-11 20:09:54,542 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\fhihpiojkbmbpdjeoajapmgkhlnakfjf\Icons\256.png.WNCRYT
+2022-11-11 20:09:54,572 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\fhihpiojkbmbpdjeoajapmgkhlnakfjf\Icons\32.png.WNCRYT
+2022-11-11 20:09:54,632 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\fhihpiojkbmbpdjeoajapmgkhlnakfjf\Icons\48.png.WNCRYT
+2022-11-11 20:09:54,648 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\fhihpiojkbmbpdjeoajapmgkhlnakfjf\Icons\64.png.WNCRYT
+2022-11-11 20:09:54,678 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\fhihpiojkbmbpdjeoajapmgkhlnakfjf\Icons\96.png.WNCRYT
+2022-11-11 20:09:54,723 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\fmgjjmmmlfnkbppncabfkddbjimcfncm\Icons\128.png.WNCRYT
+2022-11-11 20:09:54,753 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\fmgjjmmmlfnkbppncabfkddbjimcfncm\Icons\192.png.WNCRYT
+2022-11-11 20:09:54,891 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\fmgjjmmmlfnkbppncabfkddbjimcfncm\Icons\256.png.WNCRYT
+2022-11-11 20:09:54,905 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\fmgjjmmmlfnkbppncabfkddbjimcfncm\Icons\32.png.WNCRYT
+2022-11-11 20:09:54,936 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\fmgjjmmmlfnkbppncabfkddbjimcfncm\Icons\48.png.WNCRYT
+2022-11-11 20:09:54,951 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\fmgjjmmmlfnkbppncabfkddbjimcfncm\Icons\64.png.WNCRYT
+2022-11-11 20:09:54,982 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\fmgjjmmmlfnkbppncabfkddbjimcfncm\Icons\96.png.WNCRYT
+2022-11-11 20:09:54,996 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\kefjledonklijopmnomlcbpllchaibag\Icons\128.png.WNCRYT
+2022-11-11 20:09:55,026 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\kefjledonklijopmnomlcbpllchaibag\Icons\192.png.WNCRYT
+2022-11-11 20:09:55,058 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\kefjledonklijopmnomlcbpllchaibag\Icons\256.png.WNCRYT
+2022-11-11 20:09:55,088 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\kefjledonklijopmnomlcbpllchaibag\Icons\48.png.WNCRYT
+2022-11-11 20:09:55,118 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\kefjledonklijopmnomlcbpllchaibag\Icons\64.png.WNCRYT
+2022-11-11 20:09:55,178 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\kefjledonklijopmnomlcbpllchaibag\Icons\96.png.WNCRYT
+2022-11-11 20:09:55,194 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\mpnpojknpmmopombnjdcgaaiekajbnjb\Icons\128.png.WNCRYT
+2022-11-11 20:09:55,223 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\mpnpojknpmmopombnjdcgaaiekajbnjb\Icons\192.png.WNCRYT
+2022-11-11 20:09:55,240 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\mpnpojknpmmopombnjdcgaaiekajbnjb\Icons\256.png.WNCRYT
+2022-11-11 20:09:55,255 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\mpnpojknpmmopombnjdcgaaiekajbnjb\Icons\48.png.WNCRYT
+2022-11-11 20:09:55,285 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\mpnpojknpmmopombnjdcgaaiekajbnjb\Icons\64.png.WNCRYT
+2022-11-11 20:09:55,299 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\mpnpojknpmmopombnjdcgaaiekajbnjb\Icons\96.png.WNCRYT
+2022-11-11 20:09:55,331 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Microsoft\Internet Explorer\brndlog.bak.WNCRYT
+2022-11-11 20:09:55,345 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Microsoft\Windows\Caches\cversions.1.db.WNCRYT
+2022-11-11 20:09:55,391 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Microsoft\Windows\Caches\{AFBF9F1A-8EE8-4C77-AF34-C647E37CA0D9}.1.ver0x0000000000000004.db.WNCRYT
+2022-11-11 20:09:55,421 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Desktop\f.wnry
+2022-11-11 20:09:55,421 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Microsoft\Windows\Caches\{AFBF9F1A-8EE8-4C77-AF34-C647E37CA0D9}.1.ver0x0000000000000005.db.WNCRYT
+2022-11-11 20:09:55,451 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Microsoft\Windows\Explorer\thumbcache_256.db.WNCRYT
+2022-11-11 20:09:55,496 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Microsoft\Windows\Explorer\thumbcache_96.db.WNCRYT
+2022-11-11 20:09:55,801 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db.WNCRYT
+2022-11-11 20:09:55,815 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\Cave_Drawings.gif.WNCRYT
+2022-11-11 20:09:55,845 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\Connectivity.gif.WNCRYT
+2022-11-11 20:09:55,861 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\Stucco.gif.WNCRYT
+2022-11-11 20:09:55,875 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\Tiki.gif.WNCRYT
+2022-11-11 20:09:55,907 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\Wrinkled_Paper.gif.WNCRYT
+2022-11-11 20:09:55,921 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\qdxlcenb.default\thumbnails\d75277cdffef995a46ae59bdaef1db86.png.WNCRYT
+2022-11-11 20:09:55,951 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\qdxlcenb.default\cert8.db.WNCRYT
+2022-11-11 20:09:55,982 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\qdxlcenb.default\cert9.db.WNCRYT
+2022-11-11 20:09:56,072 [lib.api.process] INFO: Memory dump of process with pid 2380 completed
+2022-11-11 20:09:56,210 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\qdxlcenb.default\key3.db.WNCRYT
+2022-11-11 20:09:56,240 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\qdxlcenb.default\key4.db.WNCRYT
+2022-11-11 20:09:56,391 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\qdxlcenb.default\prefs.js.WNCRYT
+2022-11-11 20:09:56,407 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\qdxlcenb.default\secmod.db.WNCRYT
+2022-11-11 20:09:56,437 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\qdxlcenb.default\sessionstore.js.WNCRYT
+2022-11-11 20:09:56,451 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\Device Stage\Device\{113527a4-45d4-4b6f-b567-97838f1b04b0}\background.png.WNCRYT
+2022-11-11 20:09:56,483 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\Device Stage\Device\{113527a4-45d4-4b6f-b567-97838f1b04b0}\device.png.WNCRYT
+2022-11-11 20:09:56,497 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\Device Stage\Device\{113527a4-45d4-4b6f-b567-97838f1b04b0}\overlay.png.WNCRYT
+2022-11-11 20:09:56,528 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\Device Stage\Device\{113527a4-45d4-4b6f-b567-97838f1b04b0}\superbar.png.WNCRYT
+2022-11-11 20:09:56,542 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\Device Stage\Device\{8702d817-5aad-4674-9ef3-4d3decd87120}\background.png.WNCRYT
+2022-11-11 20:09:56,573 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\Device Stage\Device\{8702d817-5aad-4674-9ef3-4d3decd87120}\watermark.png.WNCRYT
+2022-11-11 20:09:56,604 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\User Account Pictures\guest.bmp.WNCRYT
+2022-11-11 20:09:56,618 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\User Account Pictures\user.bmp.WNCRYT
+2022-11-11 20:09:56,634 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile10.bmp.WNCRYT
+2022-11-11 20:09:56,664 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile11.bmp.WNCRYT
+2022-11-11 20:09:56,680 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile12.bmp.WNCRYT
+2022-11-11 20:09:56,710 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile13.bmp.WNCRYT
+2022-11-11 20:09:56,724 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile14.bmp.WNCRYT
+2022-11-11 20:09:56,740 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile15.bmp.WNCRYT
+2022-11-11 20:09:56,770 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile16.bmp.WNCRYT
+2022-11-11 20:09:56,786 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile17.bmp.WNCRYT
+2022-11-11 20:09:56,815 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile18.bmp.WNCRYT
+2022-11-11 20:09:56,831 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile19.bmp.WNCRYT
+2022-11-11 20:09:56,861 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile20.bmp.WNCRYT
+2022-11-11 20:09:56,877 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile21.bmp.WNCRYT
+2022-11-11 20:09:56,891 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile22.bmp.WNCRYT
+2022-11-11 20:09:56,937 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile23.bmp.WNCRYT
+2022-11-11 20:09:56,967 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile24.bmp.WNCRYT
+2022-11-11 20:09:56,997 [analyzer] WARNING: File at path u'c:\\programdata\\microsoft\\device stage\\device\\{113527a4-45d4-4b6f-b567-97838f1b04b0}\\device.png.wncryt' does not exist, skip.
+2022-11-11 20:09:56,997 [analyzer] WARNING: File at path u'c:\\programdata\\microsoft\\user account pictures\\default pictures\\usertile15.bmp.wncryt' does not exist, skip.
+2022-11-11 20:09:57,045 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile25.bmp.WNCRYT
+2022-11-11 20:09:57,062 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile26.bmp.WNCRYT
+2022-11-11 20:09:57,095 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile27.bmp.WNCRYT
+2022-11-11 20:09:57,111 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile28.bmp.WNCRYT
+2022-11-11 20:09:57,128 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile29.bmp.WNCRYT
+2022-11-11 20:09:57,161 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile30.bmp.WNCRYT
+2022-11-11 20:09:57,178 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile31.bmp.WNCRYT
+2022-11-11 20:09:57,211 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile32.bmp.WNCRYT
+2022-11-11 20:09:57,229 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile33.bmp.WNCRYT
+2022-11-11 20:09:57,262 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile34.bmp.WNCRYT
+2022-11-11 20:09:57,279 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile35.bmp.WNCRYT
+2022-11-11 20:09:57,295 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile36.bmp.WNCRYT
+2022-11-11 20:09:57,328 [analyzer] WARNING: File at path u'c:\\programdata\\microsoft\\user account pictures\\default pictures\\usertile27.bmp.wncryt' does not exist, skip.
+2022-11-11 20:09:57,394 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile37.bmp.WNCRYT
+2022-11-11 20:09:57,411 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile38.bmp.WNCRYT
+2022-11-11 20:09:57,479 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile39.bmp.WNCRYT
+2022-11-11 20:09:57,494 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile40.bmp.WNCRYT
+2022-11-11 20:09:57,512 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile41.bmp.WNCRYT
+2022-11-11 20:09:57,611 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile42.bmp.WNCRYT
+2022-11-11 20:09:57,678 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile43.bmp.WNCRYT
+2022-11-11 20:09:57,696 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile44.bmp.WNCRYT
+2022-11-11 20:09:57,729 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\Windows\Caches\cversions.2.db.WNCRYT
+2022-11-11 20:09:57,746 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\Windows\Caches\{40FC8D7D-05ED-4FEB-B03B-6C100659EF5C}.2.ver0x0000000000000001.db.WNCRYT
+2022-11-11 20:09:57,961 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\Windows\Caches\{4E4260A4-7E39-442E-BC22-7FF751D1C161}.2.ver0x0000000000000002.db.WNCRYT
+2022-11-11 20:09:57,996 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\Windows\Caches\{6AF0698E-D558-4F6E-9B3C-3716689AF493}.2.ver0x0000000000000005.db.WNCRYT
+2022-11-11 20:09:58,062 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\Windows\Caches\{6AF0698E-D558-4F6E-9B3C-3716689AF493}.2.ver0x0000000000000008.db.WNCRYT
+2022-11-11 20:09:58,112 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\Windows\Caches\{6AF0698E-D558-4F6E-9B3C-3716689AF493}.2.ver0x000000000000000a.db.WNCRYT
+2022-11-11 20:09:58,163 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\Windows\Caches\{DDF571F2-BE98-426D-8288-1A9A39C3FDA2}.2.ver0x0000000000000002.db.WNCRYT
+2022-11-11 20:09:58,213 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\Windows\Ringtones\Ringtone 01.wma.WNCRYT
+2022-11-11 20:09:58,246 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\Windows\Ringtones\Ringtone 02.wma.WNCRYT
+2022-11-11 20:09:58,279 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\Windows\Ringtones\Ringtone 03.wma.WNCRYT
+2022-11-11 20:09:58,345 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\Windows\Ringtones\Ringtone 04.wma.WNCRYT
+2022-11-11 20:09:58,378 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\Windows\Ringtones\Ringtone 05.wma.WNCRYT
+2022-11-11 20:09:58,428 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\Windows\Ringtones\Ringtone 06.wma.WNCRYT
+2022-11-11 20:09:58,463 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\Windows\Ringtones\Ringtone 07.wma.WNCRYT
+2022-11-11 20:09:58,496 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\Windows\Ringtones\Ringtone 08.wma.WNCRYT
+2022-11-11 20:09:58,529 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\Windows\Ringtones\Ringtone 09.wma.WNCRYT
+2022-11-11 20:09:58,562 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\Windows\Ringtones\Ringtone 10.wma.WNCRYT
+2022-11-11 20:09:58,578 [analyzer] INFO: Added new file to list with pid 1148 and path C:\ProgramData\Microsoft\Windows NT\MSFax\VirtualInbox\en-US\WelcomeFax.tif.WNCRYT
+2022-11-11 20:09:58,612 [analyzer] WARNING: File at path u'c:\\programdata\\microsoft\\windows\\caches\\{6af0698e-d558-4f6e-9b3c-3716689af493}.2.ver0x0000000000000005.db.wncryt' does not exist, skip.
+2022-11-11 20:09:58,612 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Public\Music\Sample Music\Kalimba.mp3.WNCRYT
+2022-11-11 20:09:59,062 [analyzer] WARNING: File at path u'c:\\programdata\\microsoft\\user account pictures\\default pictures\\usertile19.bmp.wncryt' does not exist, skip.
+2022-11-11 20:09:59,079 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Public\Music\Sample Music\Maid with the Flaxen Hair.mp3.WNCRYT
+2022-11-11 20:09:59,230 [analyzer] WARNING: File at path u'c:\\programdata\\microsoft\\windows\\caches\\{6af0698e-d558-4f6e-9b3c-3716689af493}.2.ver0x000000000000000a.db.wncryt' does not exist, skip.
+2022-11-11 20:09:59,230 [analyzer] WARNING: File at path u'c:\\programdata\\microsoft\\user account pictures\\default pictures\\usertile20.bmp.wncryt' does not exist, skip.
+2022-11-11 20:09:59,312 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Public\Music\Sample Music\Sleep Away.mp3.WNCRYT
+2022-11-11 20:09:59,579 [analyzer] WARNING: File at path u'c:\\programdata\\microsoft\\user account pictures\\default pictures\\usertile36.bmp.wncryt' does not exist, skip.
+2022-11-11 20:09:59,680 [analyzer] WARNING: File at path u'c:\\programdata\\microsoft\\user account pictures\\default pictures\\usertile31.bmp.wncryt' does not exist, skip.
+2022-11-11 20:09:59,730 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Public\Videos\Sample Videos\Wildlife.wmv.WNCRYT
+2022-11-11 20:09:59,763 [lib.api.process] INFO: Memory dump of process with pid 2828 completed
+2022-11-11 20:09:59,796 [analyzer] WARNING: File at path u'c:\\programdata\\microsoft\\user account pictures\\default pictures\\usertile44.bmp.wncryt' does not exist, skip.
+2022-11-11 20:10:00,029 [analyzer] WARNING: File at path u'c:\\programdata\\microsoft\\user account pictures\\default pictures\\usertile29.bmp.wncryt' does not exist, skip.
+2022-11-11 20:10:00,596 [analyzer] WARNING: File at path u'c:\\programdata\\microsoft\\windows nt\\msfax\\virtualinbox\\en-us\\welcomefax.tif.wncryt' does not exist, skip.
+2022-11-11 20:10:00,647 [analyzer] WARNING: File at path u'c:\\programdata\\microsoft\\user account pictures\\default pictures\\usertile34.bmp.wncryt' does not exist, skip.
+2022-11-11 20:10:03,532 [analyzer] WARNING: File at path u'c:\\programdata\\microsoft\\windows\\caches\\{40fc8d7d-05ed-4feb-b03b-6c100659ef5c}.2.ver0x0000000000000001.db.wncryt' does not exist, skip.
+2022-11-11 20:10:03,532 [analyzer] WARNING: File at path u'c:\\programdata\\microsoft\\user account pictures\\default pictures\\usertile24.bmp.wncryt' does not exist, skip.
+2022-11-11 20:10:03,766 [analyzer] WARNING: File at path u'c:\\programdata\\microsoft\\user account pictures\\default pictures\\usertile39.bmp.wncryt' does not exist, skip.
+2022-11-11 20:10:04,165 [analyzer] WARNING: File at path u'c:\\programdata\\microsoft\\device stage\\device\\{113527a4-45d4-4b6f-b567-97838f1b04b0}\\overlay.png.wncryt' does not exist, skip.
+2022-11-11 20:10:04,532 [analyzer] WARNING: File at path u'c:\\programdata\\microsoft\\user account pictures\\default pictures\\usertile18.bmp.wncryt' does not exist, skip.
+2022-11-11 20:10:04,667 [analyzer] WARNING: File at path u'c:\\programdata\\microsoft\\user account pictures\\default pictures\\usertile14.bmp.wncryt' does not exist, skip.
+2022-11-11 20:10:04,782 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\ast.h.WNCRYT
+2022-11-11 20:10:04,799 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\bitset.h.WNCRYT
+2022-11-11 20:10:04,816 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\boolobject.h.WNCRYT
+2022-11-11 20:10:04,832 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\bufferobject.h.WNCRYT
+2022-11-11 20:10:04,849 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\cellobject.h.WNCRYT
+2022-11-11 20:10:04,882 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\dtoa.h.WNCRYT
+2022-11-11 20:10:04,917 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\enumobject.h.WNCRYT
+2022-11-11 20:10:04,933 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\eval.h.WNCRYT
+2022-11-11 20:10:04,967 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\genobject.h.WNCRYT
+2022-11-11 20:10:04,983 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\intrcheck.h.WNCRYT
+2022-11-11 20:10:05,000 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\iterobject.h.WNCRYT
+2022-11-11 20:10:05,016 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\marshal.h.WNCRYT
+2022-11-11 20:10:05,049 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\metagrammar.h.WNCRYT
+2022-11-11 20:10:05,066 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\moduleobject.h.WNCRYT
+2022-11-11 20:10:05,082 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\node.h.WNCRYT
+2022-11-11 20:10:05,117 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\pgen.h.WNCRYT
+2022-11-11 20:10:05,132 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\pygetopt.h.WNCRYT
+2022-11-11 20:10:05,167 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\pystrcmp.h.WNCRYT
+2022-11-11 20:10:05,183 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\rangeobject.h.WNCRYT
+2022-11-11 20:10:05,217 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\structseq.h.WNCRYT
+2022-11-11 20:10:05,233 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\sysmodule.h.WNCRYT
+2022-11-11 20:10:05,266 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\timefuncs.h.WNCRYT
+2022-11-11 20:10:05,283 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\traceback.h.WNCRYT
+2022-11-11 20:10:05,299 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\ucnhash.h.WNCRYT
+2022-11-11 20:10:05,316 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\include\warnings.h.WNCRYT
+2022-11-11 20:10:05,334 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\email\test\data\msg_01.txt.WNCRYT
+2022-11-11 20:10:05,367 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\email\test\data\msg_03.txt.WNCRYT
+2022-11-11 20:10:05,384 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\email\test\data\msg_04.txt.WNCRYT
+2022-11-11 20:10:05,400 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\email\test\data\msg_05.txt.WNCRYT
+2022-11-11 20:10:05,417 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\email\test\data\msg_08.txt.WNCRYT
+2022-11-11 20:10:05,434 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\email\test\data\msg_09.txt.WNCRYT
+2022-11-11 20:10:05,467 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\email\test\data\msg_10.txt.WNCRYT
+2022-11-11 20:10:05,483 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\email\test\data\msg_11.txt.WNCRYT
+2022-11-11 20:10:05,500 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\email\test\data\msg_12.txt.WNCRYT
+2022-11-11 20:10:05,533 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\email\test\data\msg_12a.txt.WNCRYT
+2022-11-11 20:10:05,549 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\email\test\data\msg_14.txt.WNCRYT
+2022-11-11 20:10:05,566 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\email\test\data\msg_17.txt.WNCRYT
+2022-11-11 20:10:05,584 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\email\test\data\msg_18.txt.WNCRYT
+2022-11-11 20:10:05,617 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\email\test\data\msg_19.txt.WNCRYT
+2022-11-11 20:10:05,634 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\email\test\data\msg_20.txt.WNCRYT
+2022-11-11 20:10:05,650 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\email\test\data\msg_21.txt.WNCRYT
+2022-11-11 20:10:05,667 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\email\test\data\msg_23.txt.WNCRYT
+2022-11-11 20:10:05,684 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\email\test\data\msg_24.txt.WNCRYT
+2022-11-11 20:10:05,717 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\email\test\data\msg_27.txt.WNCRYT
+2022-11-11 20:10:05,733 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\email\test\data\msg_28.txt.WNCRYT
+2022-11-11 20:10:05,750 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\email\test\data\msg_29.txt.WNCRYT
+2022-11-11 20:10:05,766 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\email\test\data\msg_30.txt.WNCRYT
+2022-11-11 20:10:05,783 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\email\test\data\msg_31.txt.WNCRYT
+2022-11-11 20:10:05,816 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\email\test\data\msg_32.txt.WNCRYT
+2022-11-11 20:10:05,834 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\email\test\data\msg_33.txt.WNCRYT
+2022-11-11 20:10:05,851 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\email\test\data\msg_34.txt.WNCRYT
+2022-11-11 20:10:05,901 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\email\test\data\msg_35.txt.WNCRYT
+2022-11-11 20:10:05,983 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\email\test\data\msg_36.txt.WNCRYT
+2022-11-11 20:10:06,016 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\email\test\data\msg_37.txt.WNCRYT
+2022-11-11 20:10:06,033 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\email\test\data\msg_40.txt.WNCRYT
+2022-11-11 20:10:06,066 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\email\test\data\msg_41.txt.WNCRYT
+2022-11-11 20:10:06,084 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\email\test\data\msg_42.txt.WNCRYT
+2022-11-11 20:10:06,101 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\email\test\data\msg_44.txt.WNCRYT
+2022-11-11 20:10:06,117 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\email\test\data\msg_45.txt.WNCRYT
+2022-11-11 20:10:06,134 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\email\test\data\msg_46.txt.WNCRYT
+2022-11-11 20:10:06,151 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\email\test\data\PyBanner048.gif.WNCRYT
+2022-11-11 20:10:06,184 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\idlelib\idle.bat.WNCRYT
+2022-11-11 20:10:06,200 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\idlelib\Icons\folder.gif.WNCRYT
+2022-11-11 20:10:06,217 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\idlelib\Icons\minusnode.gif.WNCRYT
+2022-11-11 20:10:06,233 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\idlelib\Icons\openfolder.gif.WNCRYT
+2022-11-11 20:10:06,250 [analyzer] WARNING: File at path u'c:\\python27\\lib\\idlelib\\icons\\openfolder.gif.wncryt' does not exist, skip.
+2022-11-11 20:10:06,250 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\idlelib\Icons\plusnode.gif.WNCRYT
+2022-11-11 20:10:06,283 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\idlelib\Icons\python.gif.WNCRYT
+2022-11-11 20:10:06,301 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\idlelib\Icons\tk.gif.WNCRYT
+2022-11-11 20:10:06,318 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\lib2to3\PatternGrammar.txt.WNCRYT
+2022-11-11 20:10:06,334 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\site-packages\README.txt.WNCRYT
+2022-11-11 20:10:06,351 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\check_soundcard.vbs.WNCRYT
+2022-11-11 20:10:06,368 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\empty.vbs.WNCRYT
+2022-11-11 20:10:06,401 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\nullcert.pem.WNCRYT
+2022-11-11 20:10:06,417 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\test_doctest.txt.WNCRYT
+2022-11-11 20:10:06,483 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\test_doctest2.txt.WNCRYT
+2022-11-11 20:10:06,517 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\test_doctest3.txt.WNCRYT
+2022-11-11 20:10:06,551 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\test_doctest4.txt.WNCRYT
+2022-11-11 20:10:06,568 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\zipdir.zip.WNCRYT
+2022-11-11 20:10:06,584 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\cjkencodings\big5-utf8.txt.WNCRYT
+2022-11-11 20:10:06,601 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\cjkencodings\big5.txt.WNCRYT
+2022-11-11 20:10:06,651 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\cjkencodings\big5hkscs-utf8.txt.WNCRYT
+2022-11-11 20:10:06,667 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\cjkencodings\big5hkscs.txt.WNCRYT
+2022-11-11 20:10:06,684 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\cjkencodings\cp949-utf8.txt.WNCRYT
+2022-11-11 20:10:06,717 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\cjkencodings\cp949.txt.WNCRYT
+2022-11-11 20:10:06,818 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\cjkencodings\euc_jisx0213.txt.WNCRYT
+2022-11-11 20:10:06,834 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\cjkencodings\euc_jp.txt.WNCRYT
+2022-11-11 20:10:06,950 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\cjkencodings\euc_kr-utf8.txt.WNCRYT
+2022-11-11 20:10:06,967 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\cjkencodings\euc_kr.txt.WNCRYT
+2022-11-11 20:10:07,200 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\cjkencodings\gb18030.txt.WNCRYT
+2022-11-11 20:10:07,250 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\cjkencodings\gb2312-utf8.txt.WNCRYT
+2022-11-11 20:10:07,285 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\cjkencodings\gb2312.txt.WNCRYT
+2022-11-11 20:10:07,301 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\cjkencodings\gbk.txt.WNCRYT
+2022-11-11 20:10:07,318 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\cjkencodings\hz-utf8.txt.WNCRYT
+2022-11-11 20:10:07,335 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\cjkencodings\hz.txt.WNCRYT
+2022-11-11 20:10:07,351 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\cjkencodings\iso2022_jp.txt.WNCRYT
+2022-11-11 20:10:07,384 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\cjkencodings\iso2022_kr-utf8.txt.WNCRYT
+2022-11-11 20:10:07,401 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\cjkencodings\iso2022_kr.txt.WNCRYT
+2022-11-11 20:10:07,417 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\cjkencodings\johab-utf8.txt.WNCRYT
+2022-11-11 20:10:07,434 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\cjkencodings\johab.txt.WNCRYT
+2022-11-11 20:10:07,451 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\cjkencodings\shift_jis.txt.WNCRYT
+2022-11-11 20:10:07,484 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Users\Administrator\Desktop\f.wnry
+2022-11-11 20:10:07,484 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\Lib\test\cjkencodings\shift_jisx0213.txt.WNCRYT
+2022-11-11 20:10:07,502 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\af.msg.WNCRYT
+2022-11-11 20:10:07,535 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\af_za.msg.WNCRYT
+2022-11-11 20:10:07,552 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\ar_in.msg.WNCRYT
+2022-11-11 20:10:07,568 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\bn_in.msg.WNCRYT
+2022-11-11 20:10:07,585 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\de_at.msg.WNCRYT
+2022-11-11 20:10:07,618 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\en_au.msg.WNCRYT
+2022-11-11 20:10:07,634 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\en_be.msg.WNCRYT
+2022-11-11 20:10:07,667 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\en_bw.msg.WNCRYT
+2022-11-11 20:10:07,684 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\en_ca.msg.WNCRYT
+2022-11-11 20:10:07,701 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\en_gb.msg.WNCRYT
+2022-11-11 20:10:07,734 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\en_hk.msg.WNCRYT
+2022-11-11 20:10:07,752 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\en_ie.msg.WNCRYT
+2022-11-11 20:10:07,785 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\en_in.msg.WNCRYT
+2022-11-11 20:10:07,819 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\en_nz.msg.WNCRYT
+2022-11-11 20:10:07,838 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\en_ph.msg.WNCRYT
+2022-11-11 20:10:07,875 [analyzer] INFO: Added new file to list with pid 1148 and path C:\Python27\tcl\tcl8.5\msgs\en_sg.msg.WNCRYT

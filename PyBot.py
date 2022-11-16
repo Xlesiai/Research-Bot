@@ -7,11 +7,10 @@ Tasks:
 """
 
 # Imports
-import numpy as np
 import pandas as pd
+from collections import Counter
 from re import search
 from time import sleep
-from collections import Counter
 from urllib.request import urlretrieve
 from webbrowser import open as web_open
 from os import system, open as os_open, getcwd
@@ -213,9 +212,12 @@ class SimplifiedBot:
             else:
                 csv['Target'] = 0
 
+
     @staticmethod
     def tf_idf(docs, columns):
         """
+
+
         idea: have a array parameter for the columns, to have multiple columns
             the columns get tf-idf and added to the new csv and can either be
             added with target or used as a test
@@ -225,7 +227,8 @@ class SimplifiedBot:
             iterate thru csv
                 update tf-idf
             update
-        """
+                """
+
         unique = dict()
         new_csv = pd.DataFrame()
 

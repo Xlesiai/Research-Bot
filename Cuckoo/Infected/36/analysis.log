@@ -1,0 +1,78 @@
+2022-11-11 13:41:29,000 [analyzer] DEBUG: Starting analyzer from: C:\tmpgto74e
+2022-11-11 13:41:29,000 [analyzer] DEBUG: Pipe server name: \??\PIPE\LjJbrFTCJtdpHsYWnk
+2022-11-11 13:41:29,000 [analyzer] DEBUG: Log pipe server name: \??\PIPE\KhoymBzJSHFVVJpOBUWtruVlVpQ
+2022-11-11 13:41:29,078 [analyzer] DEBUG: Started auxiliary module DbgView
+2022-11-11 13:41:35,453 [analyzer] DEBUG: Started auxiliary module Disguise
+2022-11-11 13:41:35,750 [analyzer] DEBUG: Loaded monitor into process with pid 504
+2022-11-11 13:41:35,750 [analyzer] DEBUG: Started auxiliary module DumpTLSMasterSecrets
+2022-11-11 13:41:35,750 [analyzer] DEBUG: Started auxiliary module Human
+2022-11-11 13:41:35,750 [analyzer] DEBUG: Started auxiliary module InstallCertificate
+2022-11-11 13:41:35,750 [analyzer] DEBUG: Started auxiliary module Reboot
+2022-11-11 13:41:35,953 [analyzer] DEBUG: Started auxiliary module RecentFiles
+2022-11-11 13:41:35,953 [analyzer] DEBUG: Started auxiliary module Screenshots
+2022-11-11 13:41:35,953 [analyzer] DEBUG: Started auxiliary module LoadZer0m0n
+2022-11-11 13:41:35,953 [modules.auxiliary.screenshots] INFO: Python Image Library (either PIL or Pillow) is not installed, screenshots are disabled.
+2022-11-11 13:41:36,312 [lib.api.process] INFO: Successfully executed process from path 'C:\\Python27\\python.exe' with arguments [u'C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\12-V.py'] and pid 2424
+2022-11-11 13:41:36,828 [analyzer] DEBUG: Loaded monitor into process with pid 2424
+2022-11-11 13:41:37,187 [analyzer] INFO: Added new file to list with pid 2424 and path C:\Python27\Lib\webbrowser.pyc
+2022-11-11 20:04:46,460 [analyzer] INFO: Injected into process with pid 732 and name u'chrome.exe'
+2022-11-11 20:04:46,835 [analyzer] DEBUG: Loaded monitor into process with pid 732
+2022-11-11 20:04:48,007 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 732.
+2022-11-11 20:04:48,164 [analyzer] INFO: Process with pid 732 has terminated
+2022-11-11 20:05:01,867 [analyzer] INFO: Injected into process with pid 1444 and name u'chrome.exe'
+2022-11-11 20:05:02,242 [analyzer] DEBUG: Loaded monitor into process with pid 1444
+2022-11-11 20:05:02,648 [analyzer] INFO: Injected into process with pid 1412 and name u'chrome.exe'
+2022-11-11 20:05:03,023 [analyzer] DEBUG: Loaded monitor into process with pid 1412
+2022-11-11 20:05:03,273 [analyzer] INFO: Injected into process with pid 2532 and name u'chrome.exe'
+2022-11-11 20:05:03,617 [analyzer] DEBUG: Loaded monitor into process with pid 2532
+2022-11-11 20:05:04,960 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 2532.
+2022-11-11 20:05:05,164 [analyzer] INFO: Process with pid 2532 has terminated
+2022-11-11 20:05:06,148 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 1412.
+2022-11-11 20:05:06,164 [analyzer] INFO: Process with pid 1412 has terminated
+2022-11-11 20:05:06,210 [analyzer] INFO: Added new file to list with pid 1444 and path C:\Program Files\Google\Chrome\Application\debug.log
+2022-11-11 20:05:12,773 [analyzer] INFO: Added new file to list with pid 1444 and path \Device\NamedPipe\wkssvc
+2022-11-11 20:05:14,601 [analyzer] INFO: Added new file to list with pid 1444 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Variations
+2022-11-11 20:05:17,132 [analyzer] INFO: Injected into process with pid 1360 and name u'cmd.exe'
+2022-11-11 20:05:17,601 [analyzer] DEBUG: Loaded monitor into process with pid 1360
+2022-11-11 20:05:17,960 [analyzer] INFO: Injected into process with pid 1984 and name u'notepad.exe'
+2022-11-11 20:05:18,914 [analyzer] DEBUG: Loaded monitor into process with pid 1984
+2022-11-11 20:05:23,914 [lib.api.process] INFO: Memory dump of process with pid 1984 completed
+2022-11-11 20:05:26,367 [lib.api.process] INFO: Memory dump of process with pid 1360 completed
+2022-11-11 20:05:27,194 [analyzer] INFO: Process with pid 1360 has terminated
+2022-11-11 20:05:40,507 [modules.auxiliary.human] INFO: Found button u'Check online for a solution and close the program', clicking it
+2022-11-11 20:05:41,507 [modules.auxiliary.human] INFO: Found button u'Close the program', clicking it
+2022-11-11 20:05:41,742 [analyzer] INFO: Injected into process with pid 2592 and name u'chrome.exe'
+2022-11-11 20:05:42,085 [analyzer] DEBUG: Loaded monitor into process with pid 2592
+2022-11-11 20:05:42,460 [analyzer] INFO: Injected into process with pid 2944 and name u'chrome.exe'
+2022-11-11 20:05:42,819 [analyzer] DEBUG: Loaded monitor into process with pid 2944
+2022-11-11 20:05:43,085 [analyzer] INFO: Injected into process with pid 2272 and name u'chrome.exe'
+2022-11-11 20:05:43,414 [analyzer] DEBUG: Loaded monitor into process with pid 2272
+2022-11-11 20:05:45,148 [analyzer] INFO: Added new file to list with pid 2272 and path C:\Users\Administrator\AppData\Local\Temp\2cb835dd-0c7d-4911-afde-927c4452001e.tmp
+2022-11-11 20:05:48,367 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 2944.
+2022-11-11 20:05:48,742 [analyzer] INFO: Added new file to list with pid 2272 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Crashpad\reports\0d29256f-f1ba-49ad-bdd6-607ec6746115.dmp
+2022-11-11 20:05:49,617 [analyzer] INFO: Added new file to list with pid 2272 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Crashpad\metadata
+2022-11-11 20:05:50,492 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 2944.
+2022-11-11 20:05:51,194 [analyzer] INFO: Process with pid 2944 has terminated
+2022-11-11 20:05:52,007 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 2272.
+2022-11-11 20:05:52,194 [analyzer] INFO: Process with pid 2272 has terminated
+2022-11-11 20:05:57,132 [analyzer] INFO: Injected into process with pid 632 and name u'chrome.exe'
+2022-11-11 20:05:57,585 [analyzer] DEBUG: Loaded monitor into process with pid 632
+2022-11-11 20:05:59,085 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 632.
+2022-11-11 20:05:59,226 [analyzer] INFO: Process with pid 632 has terminated
+2022-11-11 20:06:10,289 [analyzer] INFO: Process with pid 1444 has terminated
+2022-11-11 20:06:12,476 [analyzer] INFO: Injected into process with pid 644 and name u'cmd.exe'
+2022-11-11 20:06:12,930 [analyzer] DEBUG: Loaded monitor into process with pid 644
+2022-11-11 20:06:13,210 [analyzer] INFO: Injected into process with pid 1164 and name u'taskkill.exe'
+2022-11-11 20:06:13,805 [analyzer] DEBUG: Loaded monitor into process with pid 1164
+2022-11-11 20:06:20,335 [analyzer] INFO: Process with pid 2592 has terminated
+2022-11-11 20:06:21,992 [lib.api.process] INFO: Memory dump of process with pid 1984 completed
+2022-11-11 20:06:22,351 [analyzer] INFO: Process with pid 1984 has terminated
+2022-11-11 20:06:24,132 [lib.api.process] INFO: Memory dump of process with pid 1164 completed
+2022-11-11 20:06:24,351 [analyzer] INFO: Process with pid 1164 has terminated
+2022-11-11 20:06:26,007 [lib.api.process] INFO: Memory dump of process with pid 644 completed
+2022-11-11 20:06:26,351 [analyzer] INFO: Analysis timeout hit, terminating analysis.
+2022-11-11 20:06:30,648 [lib.api.process] INFO: Memory dump of process with pid 2424 completed
+2022-11-11 20:06:30,648 [lib.api.process] WARNING: The process with pid 644 is not alive, memory dump aborted
+2022-11-11 20:06:30,805 [analyzer] WARNING: File at path u'\\device\\namedpipe\\wkssvc' does not exist, skip.
+2022-11-11 20:06:30,835 [analyzer] WARNING: File at path u'c:\\users\\administrator\\appdata\\local\\temp\\2cb835dd-0c7d-4911-afde-927c4452001e.tmp' does not exist, skip.
+2022-11-11 20:06:30,882 [analyzer] INFO: Analysis completed.
