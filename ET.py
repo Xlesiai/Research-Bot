@@ -1,49 +1,105 @@
 import pandas
-
 import PyBot as pb
 
 docs = []
-columns = ["Source", "Destination", "Protocol"]
 
-df = pandas.read_csv("Network Traffic/CSV Tests/pcap_test_1.csv")
-pb.SimplifiedBot.modify_column(df, "Source", "S: ")
-pb.SimplifiedBot.modify_column(df, "Destination", "D: ")
+#df = pandas.read_csv("Cuckoo/Logs/1-NV.txt")
+#docs.append(df)
+
+df = pandas.read_csv("Cuckoo/Logs/2-V.txt")
 docs.append(df)
 
-df = pandas.read_csv("Network Traffic/CSV Tests/pcap_test_2.csv")
-pb.SimplifiedBot.modify_column(df, "Source", "S: ")
-pb.SimplifiedBot.modify_column(df, "Destination", "D: ")
+df = pandas.read_csv("Cuckoo/Logs/3-NV.txt")
 docs.append(df)
 
-df = pandas.read_csv("Network Traffic/CSV Tests/pcap_test_3.csv")
-pb.SimplifiedBot.modify_column(df, "Source", "S: ")
-pb.SimplifiedBot.modify_column(df, "Destination", "D: ")
+df = pandas.read_csv("Cuckoo/Logs/4-V.txt")
 docs.append(df)
 
-df = pandas.read_csv("Network Traffic/CSV Tests/411dump.csv")
-pb.SimplifiedBot.modify_column(df, "Source", "S: ")
-pb.SimplifiedBot.modify_column(df, "Destination", "D: ")
+df = pandas.read_csv("Cuckoo/Logs/5-NV.txt")
 docs.append(df)
+
+df = pandas.read_csv("Cuckoo/Logs/6-V.txt")
+docs.append(df)
+
+df = pandas.read_csv("Cuckoo/Logs/7-NV.txt")
+docs.append(df)
+
+df = pandas.read_csv("Cuckoo/Logs/8-V.txt")
+docs.append(df)
+
+df = pandas.read_csv("Cuckoo/Logs/9-NV.txt")
+docs.append(df)
+
+df = pandas.read_csv("Cuckoo/Logs/10-V.txt")
+docs.append(df)
+
+df = pandas.read_csv("Cuckoo/Logs/11-V.txt")
+docs.append(df)
+
+df = pandas.read_csv("Cuckoo/Logs/12-V.txt")
+docs.append(df)
+
+df = pandas.read_csv("Cuckoo/Logs/13-NV.txt")
+docs.append(df)
+
+df = pandas.read_csv("Cuckoo/Logs/14-NV.txt")
+docs.append(df)
+
+df = pandas.read_csv("Cuckoo/Logs/15-V.txt")
+docs.append(df)
+
+df = pandas.read_csv("Cuckoo/Logs/16-NV.txt")
+docs.append(df)
+
+df = pandas.read_csv("Cuckoo/Logs/17-V.txt")
+docs.append(df)
+
+df = pandas.read_csv("Cuckoo/Logs/18-NV.txt")
+docs.append(df)
+
+df = pandas.read_csv("Cuckoo/Logs/19-V.txt")
+docs.append(df)
+
+df = pandas.read_csv("Cuckoo/Logs/20-NV.txt")
+docs.append(df)
+
+df = pandas.read_csv("Cuckoo/Logs/21-V.txt")
+docs.append(df)
+
+df = pandas.read_csv("Cuckoo/Logs/22-NV.txt")
+docs.append(df)
+
+df = pandas.read_csv("Cuckoo/Logs/23-V.txt")
+docs.append(df)
+
+df = pandas.read_csv("Cuckoo/Logs/24-NV.txt")
+docs.append(df)
+
+df = pandas.read_csv("Cuckoo/Logs/25-V.txt")
+docs.append(df)
+
+df = pandas.read_csv("Cuckoo/Logs/26-NV.txt")
+docs.append(df)
+
+df = pandas.read_csv("Cuckoo/Logs/27-V.txt")
+docs.append(df)
+
+df = pandas.read_csv("Cuckoo/Logs/28-NV.txt")
+docs.append(df)
+
+df = pandas.read_csv("Cuckoo/Logs/29-V.txt")
+docs.append(df)
+
+df = pandas.read_csv("Cuckoo/Logs/30-NV.txt")
+docs.append(df)
+
+
+
 
 # ---------------------testing---------------------
 new_csv = pandas.DataFrame()
 
-# single doc, single column
-new_csv = pb.SimplifiedBot.tf_idf(docs[0], columns[1])
-pandas.DataFrame.to_csv(new_csv, path_or_buf="Network Traffic/CSV Tests/ss.csv")
+new_csv = pb.SimplifiedBot.tfidf_logs(docs)
+new_csv.to_csv('Cuckoo/Logs/test.csv')
 print(new_csv)
 
-# multiple doc, single column
-new_csv = pb.SimplifiedBot.tf_idf(docs, columns[2])
-pandas.DataFrame.to_csv(new_csv, path_or_buf="Network Traffic/CSV Tests/ms.csv")
-print(new_csv)
-
-# single doc, multiple columns
-new_csv = pb.SimplifiedBot.tf_idf(docs[0], columns)
-pandas.DataFrame.to_csv(new_csv, path_or_buf="Network Traffic/CSV Tests/sm.csv")
-print(new_csv)
-
-# multiple doc, multiple columns
-new_csv = pb.SimplifiedBot.tf_idf(docs, columns)
-pandas.DataFrame.to_csv(new_csv, path_or_buf="Network Traffic/CSV Tests/mm.csv")
-print(new_csv)

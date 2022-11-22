@@ -1,0 +1,10 @@
+C:\\Python27\\python.exe' with arguments [u'C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\3-NV.py.
+C:\Python27\Lib\webbrowser.pyc.
+C:\Users\Administrator\AppData\Local\Temp\0c331903-dd28-48f7-9b02-8687c3bf71a4.tmp.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Crashpad\reports\3571f596-87ff-4f05-ab10-dc2b13d66285.dmp.
+C:\Program Files\Google\Chrome\Application\debug.log.
+C:\\Python27\\python.exe' with arguments [u'C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\3-NV.py.
+C:\Python27\Lib\webbrowser.pyc.
+C:\Users\Administrator\AppData\Local\Temp\0c331903-dd28-48f7-9b02-8687c3bf71a4.tmp.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Crashpad\reports\3571f596-87ff-4f05-ab10-dc2b13d66285.dmp.
+C:\Program Files\Google\Chrome\Application\debug.log.

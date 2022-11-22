@@ -1,31 +1,34 @@
-import PyBot
+import PyBot as PB
 
-from sklearn.feature_extraction.text import TfidfVectorizer
 
-pcap_docs = []
-columns = ["Source", "Destination", "Protocol"]
-
-df = PyBot.pd.read_csv("Network Traffic/CSV Tests/pcap_test_1.csv")
-PyBot.SimplifiedBot.modify_column(df, "Source", "S: ")
-PyBot.SimplifiedBot.modify_column(df, "Destination", "D: ")
-pcap_docs.append(df)
-
-df = PyBot.pd.read_csv("Network Traffic/CSV Tests/pcap_test_2.csv")
-PyBot.SimplifiedBot.modify_column(df, "Source", "S: ")
-PyBot.SimplifiedBot.modify_column(df, "Destination", "D: ")
-pcap_docs.append(df)
-
-df = PyBot.pd.read_csv("Network Traffic/CSV Tests/pcap_test_3.csv")
-PyBot.SimplifiedBot.modify_column(df, "Source", "S: ")
-PyBot.SimplifiedBot.modify_column(df, "Destination", "D: ")
-pcap_docs.append(df)
-
-df = PyBot.pd.read_csv("Network Traffic/CSV Tests/411dump.csv")
-PyBot.SimplifiedBot.modify_column(df, "Source", "S: ")
-PyBot.SimplifiedBot.modify_column(df, "Destination", "D: ")
-pcap_docs.append(df)
-
-new_csv = PyBot.SimplifiedBot.tf_idf(pcap_docs, columns[2])
-PyBot.pd.DataFrame.to_csv(new_csv, path_or_buf="ms.csv")
-print(new_csv)
-
+logs_docs = []
+PB.SimplifiedBot.filter_logs("Cuckoo/Infected/30/analysis.log", "Cuckoo/Logs/2-V.txt")
+PB.SimplifiedBot.filter_logs("Cuckoo/Infected/31/analysis.log", "Cuckoo/Logs/4-V.txt")
+PB.SimplifiedBot.filter_logs("Cuckoo/Infected/32/analysis.log", "Cuckoo/Logs/6-V.txt")
+PB.SimplifiedBot.filter_logs("Cuckoo/Infected/33/analysis.log", "Cuckoo/Logs/8-V.txt")
+PB.SimplifiedBot.filter_logs("Cuckoo/Infected/34/analysis.log", "Cuckoo/Logs/10-V.txt")
+PB.SimplifiedBot.filter_logs("Cuckoo/Infected/35/analysis.log", "Cuckoo/Logs/11-V.txt")
+PB.SimplifiedBot.filter_logs("Cuckoo/Infected/36/analysis.log", "Cuckoo/Logs/12-V.txt")
+PB.SimplifiedBot.filter_logs("Cuckoo/Infected/37/analysis.log", "Cuckoo/Logs/15-V.txt")
+PB.SimplifiedBot.filter_logs("Cuckoo/Infected/38/analysis.log", "Cuckoo/Logs/17-V.txt")
+PB.SimplifiedBot.filter_logs("Cuckoo/Infected/39/analysis.log", "Cuckoo/Logs/19-V.txt")
+PB.SimplifiedBot.filter_logs("Cuckoo/Infected/40/analysis.log", "Cuckoo/Logs/21-V.txt")
+PB.SimplifiedBot.filter_logs("Cuckoo/Infected/41/analysis.log", "Cuckoo/Logs/23-V.txt")
+PB.SimplifiedBot.filter_logs("Cuckoo/Infected/42/analysis.log", "Cuckoo/Logs/25-V.txt")
+PB.SimplifiedBot.filter_logs("Cuckoo/Infected/43/analysis.log", "Cuckoo/Logs/27-V.txt")
+PB.SimplifiedBot.filter_logs("Cuckoo/Infected/44/analysis.log", "Cuckoo/Logs/29-V.txt")
+PB.SimplifiedBot.filter_logs("Cuckoo/Benign/45/analysis.log", "Cuckoo/Logs/1-NV.txt")
+PB.SimplifiedBot.filter_logs("Cuckoo/Benign/46/analysis.log", "Cuckoo/Logs/3-NV.txt")
+PB.SimplifiedBot.filter_logs("Cuckoo/Benign/47/analysis.log", "Cuckoo/Logs/5-NV.txt")
+PB.SimplifiedBot.filter_logs("Cuckoo/Benign/48/analysis.log", "Cuckoo/Logs/7-NV.txt")
+PB.SimplifiedBot.filter_logs("Cuckoo/Benign/49/analysis.log", "Cuckoo/Logs/9-NV.txt")
+PB.SimplifiedBot.filter_logs("Cuckoo/Benign/50/analysis.log", "Cuckoo/Logs/13-NV.txt")
+PB.SimplifiedBot.filter_logs("Cuckoo/Benign/51/analysis.log", "Cuckoo/Logs/14-NV.txt")
+PB.SimplifiedBot.filter_logs("Cuckoo/Benign/52/analysis.log", "Cuckoo/Logs/16-NV.txt")
+PB.SimplifiedBot.filter_logs("Cuckoo/Benign/53/analysis.log", "Cuckoo/Logs/18-NV.txt")
+PB.SimplifiedBot.filter_logs("Cuckoo/Benign/54/analysis.log", "Cuckoo/Logs/20-NV.txt")
+PB.SimplifiedBot.filter_logs("Cuckoo/Benign/55/analysis.log", "Cuckoo/Logs/22-NV.txt")
+PB.SimplifiedBot.filter_logs("Cuckoo/Benign/56/analysis.log", "Cuckoo/Logs/24-NV.txt")
+PB.SimplifiedBot.filter_logs("Cuckoo/Benign/57/analysis.log", "Cuckoo/Logs/26-NV.txt")
+PB.SimplifiedBot.filter_logs("Cuckoo/Benign/58/analysis.log", "Cuckoo/Logs/28-NV.txt")
+PB.SimplifiedBot.filter_logs("Cuckoo/Benign/59/analysis.log", "Cuckoo/Logs/30-NV.txt")

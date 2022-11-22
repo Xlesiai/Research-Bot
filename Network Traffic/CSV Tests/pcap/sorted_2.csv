@@ -1,0 +1,899 @@
+,Source,Destination,Protocol,Info
+0,0a:00:27:00:00:00,5a:94:d2:14:5a:51,ARP,Who has 192.168.56.101? Tell 192.168.56.1
+1,0a:00:27:00:00:00,5a:94:d2:14:5a:51,ARP,Who has 192.168.56.101? Tell 192.168.56.1
+2,0a:00:27:00:00:00,5a:94:d2:14:5a:51,ARP,Who has 192.168.56.101? Tell 192.168.56.1
+3,0a:00:27:00:00:00,Broadcast,ARP,Who has 192.168.56.101? Tell 192.168.56.1
+4,0a:00:27:00:00:00,Broadcast,ARP,Who has 192.168.56.101? Tell 192.168.56.1
+5,0a:00:27:00:00:00,Broadcast,ARP,Who has 192.168.56.101? Tell 192.168.56.1
+6,0a:00:27:00:00:00,Broadcast,ARP,Who has 192.168.56.101? Tell 192.168.56.1
+7,0a:00:27:00:00:00,Broadcast,ARP,Who has 192.168.56.101? Tell 192.168.56.1
+8,0a:00:27:00:00:00,Broadcast,ARP,Who has 192.168.56.101? Tell 192.168.56.1
+9,0a:00:27:00:00:00,Broadcast,ARP,Who has 192.168.56.101? Tell 192.168.56.1
+10,0a:00:27:00:00:00,Broadcast,ARP,Who has 192.168.56.101? Tell 192.168.56.1
+11,0a:00:27:00:00:00,Broadcast,ARP,Who has 192.168.56.101? Tell 192.168.56.1
+12,0a:00:27:00:00:00,Broadcast,ARP,Who has 192.168.56.101? Tell 192.168.56.1
+13,0a:00:27:00:00:00,Broadcast,ARP,Who has 192.168.56.101? Tell 192.168.56.1
+14,5a:94:d2:14:5a:51,Broadcast,ARP,Who has 192.168.56.101? Tell 0.0.0.0
+15,5a:94:d2:14:5a:51,Broadcast,ARP,Who has 192.168.56.101? Tell 0.0.0.0
+16,0a:00:27:00:00:00,Broadcast,ARP,Who has 192.168.56.101? Tell 192.168.56.1
+17,5a:94:d2:14:5a:51,Broadcast,ARP,Who has 192.168.56.101? Tell 0.0.0.0
+18,5a:94:d2:14:5a:51,Broadcast,ARP,Who has 192.168.56.101? Tell 0.0.0.0
+19,5a:94:d2:14:5a:51,Broadcast,ARP,Who has 192.168.56.101? Tell 0.0.0.0
+20,5a:94:d2:14:5a:51,Broadcast,ARP,Who has 192.168.56.101? Tell 0.0.0.0
+21,0a:00:27:00:00:00,Broadcast,ARP,Who has 192.168.56.101? Tell 192.168.56.1
+22,5a:94:d2:14:5a:51,Broadcast,ARP,Who has 192.168.56.1? Tell 192.168.56.101
+23,5a:94:d2:14:5a:51,Broadcast,ARP,Who has 192.168.56.1? Tell 192.168.56.101
+24,0a:00:27:00:00:00,5a:94:d2:14:5a:51,ARP,192.168.56.1 is at 0a:00:27:00:00:00
+25,5a:94:d2:14:5a:51,Broadcast,ARP,Who has 192.168.56.1? Tell 192.168.56.101
+26,5a:94:d2:14:5a:51,Broadcast,ARP,Who has 192.168.56.1? Tell 192.168.56.101
+27,0a:00:27:00:00:00,5a:94:d2:14:5a:51,ARP,192.168.56.1 is at 0a:00:27:00:00:00
+28,5a:94:d2:14:5a:51,Broadcast,ARP,Who has 192.168.56.1? Tell 192.168.56.101
+29,5a:94:d2:14:5a:51,Broadcast,ARP,Who has 192.168.56.1? Tell 192.168.56.101
+30,0a:00:27:00:00:00,5a:94:d2:14:5a:51,ARP,192.168.56.1 is at 0a:00:27:00:00:00
+31,5a:94:d2:14:5a:51,Broadcast,ARP,Who has 192.168.56.1? Tell 192.168.56.101
+32,5a:94:d2:14:5a:51,Broadcast,ARP,Who has 192.168.56.1? Tell 192.168.56.101
+33,0a:00:27:00:00:00,5a:94:d2:14:5a:51,ARP,192.168.56.1 is at 0a:00:27:00:00:00
+34,116.202.169.25,192.168.56.101,TCP,3443  >  49262 [ACK] Seq=1 Ack=1 Win=65535 Len=1
+35,116.202.169.25,192.168.56.101,TCP,[TCP Keep-Alive] 3443  >  49262 [ACK] Seq=1 Ack=1 Win=65535 Len=1
+36,116.202.169.25,192.168.56.101,TCP,[TCP Keep-Alive] 3443  >  49262 [ACK] Seq=1 Ack=1 Win=65535 Len=1
+37,116.202.169.25,192.168.56.101,TCP,[TCP Keep-Alive] 3443  >  49262 [ACK] Seq=1 Ack=1 Win=65535 Len=1
+38,192.168.56.101,116.202.169.25,TCP,49262  >  3443 [RST] Seq=1 Win=0 Len=0
+39,128.31.0.39,192.168.56.101,TLSv1.2,Application Data
+40,128.31.0.39,192.168.56.101,TCP,"[TCP Retransmission] 9101  >  49195 [PSH, ACK] Seq=1 Ack=1 Win=65535 Len=543"
+41,128.31.0.39,192.168.56.101,TCP,"[TCP Retransmission] 9101  >  49195 [PSH, ACK] Seq=1 Ack=1 Win=65535 Len=543"
+42,192.168.56.101,128.31.0.39,TCP,49195  >  9101 [RST] Seq=1 Win=0 Len=0
+43,192.168.56.101,131.188.40.189,TCP,49364  >  443 [SYN] Seq=0 Win=8192 Len=0 MSS=1460 WS=256 SACK_PERM=1
+44,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [SYN, ACK] Seq=0 Ack=1 Win=65535 Len=0 MSS=1460"
+45,192.168.56.101,131.188.40.189,TCP,49364  >  443 [ACK] Seq=1 Ack=1 Win=64240 Len=0
+46,192.168.56.101,131.188.40.189,TLSv1.2,Client Hello
+47,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=1 Ack=218 Win=65535 Len=0
+48,131.188.40.189,192.168.56.101,TLSv1.2,"Server Hello, Certificate, Server Key Exchange, Server Hello Done"
+49,192.168.56.101,131.188.40.189,TLSv1.2,"Client Key Exchange, Change Cipher Spec, Encrypted Handshake Message"
+50,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=1006 Ack=344 Win=65535 Len=0
+51,131.188.40.189,192.168.56.101,TLSv1.2,"Change Cipher Spec, Encrypted Handshake Message"
+52,192.168.56.101,131.188.40.189,TLSv1.2,Application Data
+53,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=1057 Ack=382 Win=65535 Len=0
+54,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=1057 Ack=382 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+55,131.188.40.189,192.168.56.101,TLSv1.2,Application Data
+56,192.168.56.101,131.188.40.189,TCP,49364  >  443 [ACK] Seq=382 Ack=3127 Win=64240 Len=0
+57,192.168.56.101,131.188.40.189,TLSv1.2,Application Data
+58,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=3127 Ack=1439 Win=65535 Len=0
+59,131.188.40.189,192.168.56.101,TLSv1.2,Application Data
+60,192.168.56.101,131.188.40.189,TLSv1.2,Application Data
+61,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=3670 Ack=2496 Win=65535 Len=0
+62,131.188.40.189,192.168.56.101,TLSv1.2,Application Data
+63,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=4213 Ack=2496 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+64,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=5673 Ack=2496 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+65,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+66,192.168.56.101,131.188.40.189,TCP,49364  >  443 [ACK] Seq=2496 Ack=7133 Win=64240 Len=0
+67,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=8593 Ack=2496 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+68,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+69,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=11513 Ack=2496 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+70,192.168.56.101,131.188.40.189,TCP,49364  >  443 [ACK] Seq=2496 Ack=12973 Win=64240 Len=0
+71,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=12973 Ack=2496 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+72,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+73,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=15893 Ack=2496 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+74,192.168.56.101,131.188.40.189,TCP,49364  >  443 [ACK] Seq=2496 Ack=17353 Win=64240 Len=0
+75,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+76,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=18813 Ack=2496 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+77,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=20273 Ack=2496 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+78,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+79,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=23193 Ack=2496 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+80,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+81,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=26113 Ack=2496 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+82,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=27573 Ack=2496 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+83,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+84,192.168.56.101,131.188.40.189,TCP,49364  >  443 [ACK] Seq=2496 Ack=30493 Win=59860 Len=0
+85,131.188.40.189,192.168.56.101,TLSv1.2,"Application Data, Application Data"
+86,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=31953 Ack=2496 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+87,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=33413 Ack=2496 Win=65535 Len=1223 [TCP segment of a reassembled PDU]"
+88,192.168.56.101,131.188.40.189,TCP,49364  >  443 [ACK] Seq=2496 Ack=34636 Win=55717 Len=0
+89,192.168.56.101,131.188.40.189,TCP,[TCP Window Update] 49364  >  443 [ACK] Seq=2496 Ack=34636 Win=59189 Len=0
+90,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+91,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+92,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=37556 Ack=2496 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+93,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=39016 Ack=2496 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+94,131.188.40.189,192.168.56.101,TLSv1.2,"Application Data, Application Data"
+95,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=41936 Ack=2496 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+96,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=43396 Ack=2496 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+97,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+98,192.168.56.101,131.188.40.189,TCP,49364  >  443 [ACK] Seq=2496 Ack=46316 Win=47509 Len=0
+99,192.168.56.101,131.188.40.189,TCP,[TCP Window Update] 49364  >  443 [ACK] Seq=2496 Ack=46316 Win=52560 Len=0
+100,192.168.56.101,131.188.40.189,TCP,[TCP Window Update] 49364  >  443 [ACK] Seq=2496 Ack=46316 Win=64240 Len=0
+101,192.168.56.101,131.188.40.189,TLSv1.2,Application Data
+102,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=46316 Ack=3039 Win=65535 Len=0
+103,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=46316 Ack=3039 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+104,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=47776 Ack=3039 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+105,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+106,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=50696 Ack=3039 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+107,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=52156 Ack=3039 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+108,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+109,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=55076 Ack=3039 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+110,131.188.40.189,192.168.56.101,TLSv1.2,"Application Data, Application Data"
+111,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=57996 Ack=3039 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+112,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=59456 Ack=3039 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+113,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+114,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=62376 Ack=3039 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+115,192.168.56.101,131.188.40.189,TCP,49364  >  443 [ACK] Seq=3039 Ack=63836 Win=55480 Len=0
+116,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=63836 Ack=3039 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+117,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+118,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=66756 Ack=3039 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+119,192.168.56.101,131.188.40.189,TCP,49364  >  443 [ACK] Seq=3039 Ack=68216 Win=51100 Len=0
+120,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+121,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=69676 Ack=3039 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+122,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=71136 Ack=3039 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+123,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+124,131.188.40.189,192.168.56.101,TLSv1.2,"Application Data, Application Data"
+125,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=75516 Ack=3039 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+126,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=76976 Ack=3039 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+127,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+128,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=79896 Ack=3039 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+129,192.168.56.101,131.188.40.189,TCP,[TCP Window Update] 49364  >  443 [ACK] Seq=3039 Ack=68216 Win=54572 Len=0
+130,192.168.56.101,131.188.40.189,TCP,49364  >  443 [ACK] Seq=3039 Ack=81356 Win=41432 Len=0
+131,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=81356 Ack=3039 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+132,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+133,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=84276 Ack=3039 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+134,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=85736 Ack=3039 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+135,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+136,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=88656 Ack=3039 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+137,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=90116 Ack=3039 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+138,131.188.40.189,192.168.56.101,TLSv1.2,"Application Data, Application Data"
+139,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=93036 Ack=3039 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+140,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+141,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=95956 Ack=3039 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+142,192.168.56.101,131.188.40.189,TCP,49364  >  443 [ACK] Seq=3039 Ack=97416 Win=25372 Len=0
+143,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=97416 Ack=3039 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+144,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+145,192.168.56.101,131.188.40.189,TCP,49364  >  443 [ACK] Seq=3039 Ack=100336 Win=22452 Len=0
+146,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=100336 Ack=3039 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+147,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=101796 Ack=3039 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+148,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+149,192.168.56.101,131.188.40.189,TCP,49364  >  443 [ACK] Seq=3039 Ack=104716 Win=18072 Len=0
+150,192.168.56.101,131.188.40.189,TCP,[TCP Window Update] 49364  >  443 [ACK] Seq=3039 Ack=104716 Win=27740 Len=0
+151,192.168.56.101,131.188.40.189,TLSv1.2,Application Data
+152,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=104716 Ack=4096 Win=65535 Len=0
+153,192.168.56.101,131.188.40.189,TCP,[TCP Window Update] 49364  >  443 [ACK] Seq=4096 Ack=104716 Win=64240 Len=0
+154,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=104716 Ack=4096 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+155,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=106176 Ack=4096 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+156,131.188.40.189,192.168.56.101,TLSv1.2,"Application Data, Application Data"
+157,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+158,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=110556 Ack=4096 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+159,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=112016 Ack=4096 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+160,192.168.56.101,131.188.40.189,TCP,49364  >  443 [ACK] Seq=4096 Ack=112016 Win=56940 Len=0
+161,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+162,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+163,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=116396 Ack=4096 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+164,192.168.56.101,131.188.40.189,TCP,49364  >  443 [ACK] Seq=4096 Ack=117856 Win=51100 Len=0
+165,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=117856 Ack=4096 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+166,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+167,192.168.56.101,131.188.40.189,TCP,49364  >  443 [ACK] Seq=4096 Ack=120776 Win=48180 Len=0
+168,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=120776 Ack=4096 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+169,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+170,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=123696 Ack=4096 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+171,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=125156 Ack=4096 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+172,131.188.40.189,192.168.56.101,TLSv1.2,"Application Data, Application Data"
+173,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=128076 Ack=4096 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+174,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=129536 Ack=4096 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+175,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+176,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=132456 Ack=4096 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+177,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+178,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=135376 Ack=4096 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+179,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=136836 Ack=4096 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+180,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+181,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=139756 Ack=4096 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+182,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=141216 Ack=4096 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+183,131.188.40.189,192.168.56.101,TLSv1.2,"Application Data, Application Data"
+184,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+185,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=145596 Ack=4096 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+186,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=147056 Ack=4096 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+187,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+188,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=149976 Ack=4096 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+189,192.168.56.101,131.188.40.189,TCP,49364  >  443 [ACK] Seq=4096 Ack=151436 Win=17520 Len=0
+190,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=151436 Ack=4096 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+191,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+192,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+193,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=155816 Ack=4096 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+194,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=157276 Ack=4096 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+195,192.168.56.101,131.188.40.189,TCP,49364  >  443 [ACK] Seq=4096 Ack=155816 Win=13140 Len=0
+196,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+197,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+198,131.188.40.189,192.168.56.101,TLSv1.2,"Application Data, Application Data"
+199,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=163116 Ack=4096 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+200,131.188.40.189,192.168.56.101,TCP,"443  >  49364 [PSH, ACK] Seq=164576 Ack=4096 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+201,192.168.56.101,131.188.40.189,TCP,49364  >  443 [ACK] Seq=4096 Ack=166036 Win=2920 Len=0
+202,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+203,131.188.40.189,192.168.56.101,TCP,"[TCP Window Full] 443  >  49364 [PSH, ACK] Seq=167496 Ack=4096 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+204,192.168.56.101,131.188.40.189,TCP,[TCP ZeroWindow] 49364  >  443 [ACK] Seq=4096 Ack=168956 Win=0 Len=0
+205,192.168.56.101,131.188.40.189,TLSv1.2,"[TCP ZeroWindow] , Application Data"
+206,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=168956 Ack=4639 Win=65535 Len=0
+207,192.168.56.101,131.188.40.189,TCP,[TCP Window Update] 49364  >  443 [ACK] Seq=4639 Ack=168956 Win=3472 Len=0
+208,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=168956 Ack=4639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+209,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+210,192.168.56.101,131.188.40.189,TCP,49364  >  443 [ACK] Seq=4639 Ack=171876 Win=552 Len=0
+211,192.168.56.101,131.188.40.189,TCP,[TCP Window Update] 49364  >  443 [ACK] Seq=4639 Ack=171876 Win=61320 Len=0
+212,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=171876 Ack=4639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+213,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=173336 Ack=4639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+214,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+215,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=176256 Ack=4639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+216,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=177716 Ack=4639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+217,131.188.40.189,192.168.56.101,TLSv1.2,"Application Data, Application Data"
+218,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=180636 Ack=4639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+219,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+220,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=183556 Ack=4639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+221,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=185016 Ack=4639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+222,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+223,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+224,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=189396 Ack=4639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+225,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+226,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=192316 Ack=4639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+227,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=193776 Ack=4639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+228,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+229,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+230,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=198156 Ack=4639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+231,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+232,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=201076 Ack=4639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+233,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=202536 Ack=4639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+234,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+235,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=205456 Ack=4639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+236,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=206916 Ack=4639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+237,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+238,192.168.56.101,131.188.40.189,TCP,49364  >  443 [ACK] Seq=4639 Ack=209836 Win=23360 Len=0
+239,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=209836 Ack=4639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+240,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=211296 Ack=4639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+241,131.188.40.189,192.168.56.101,TLSv1.2,"Application Data, Application Data"
+242,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=214216 Ack=4639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+243,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=215676 Ack=4639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+244,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+245,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=218596 Ack=4639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+246,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+247,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=221516 Ack=4639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+248,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=222976 Ack=4639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+249,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+250,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=225896 Ack=4639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+251,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=227356 Ack=4639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+252,131.188.40.189,192.168.56.101,TLSv1.2,"Application Data, Application Data"
+253,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=230276 Ack=4639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+254,131.188.40.189,192.168.56.101,TCP,[TCP Window Full] 443  >  49364 [ACK] Seq=231736 Ack=4639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+255,192.168.56.101,131.188.40.189,TCP,[TCP ZeroWindow] 49364  >  443 [ACK] Seq=4639 Ack=233196 Win=0 Len=0
+256,192.168.56.101,131.188.40.189,TLSv1.2,"[TCP ZeroWindow] , Application Data"
+257,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=233196 Ack=5696 Win=65535 Len=0
+258,192.168.56.101,131.188.40.189,TLSv1.2,"[TCP ZeroWindow] , Application Data"
+259,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=233196 Ack=6239 Win=65535 Len=0
+260,192.168.56.101,131.188.40.189,TCP,[TCP Window Update] 49364  >  443 [ACK] Seq=6239 Ack=233196 Win=3472 Len=0
+261,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+262,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=234656 Ack=6239 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+263,192.168.56.101,131.188.40.189,TCP,49364  >  443 [ACK] Seq=6239 Ack=236116 Win=552 Len=0
+264,192.168.56.101,131.188.40.189,TLSv1.2,Application Data
+265,131.188.40.189,192.168.56.101,TCP,[TCP Window Full] 443  >  49364 [ACK] Seq=236116 Ack=7296 Win=65535 Len=552 [TCP segment of a reassembled PDU]
+266,192.168.56.101,131.188.40.189,TCP,49364  >  443 [ACK] Seq=7296 Ack=236668 Win=60768 Len=0
+267,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+268,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=238128 Ack=7296 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+269,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=239588 Ack=7296 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+270,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+271,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=242508 Ack=7296 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+272,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=243968 Ack=7296 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+273,131.188.40.189,192.168.56.101,TLSv1.2,"Application Data, Application Data"
+274,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=246888 Ack=7296 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+275,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=248348 Ack=7296 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+276,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+277,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=251268 Ack=7296 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+278,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+279,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=254188 Ack=7296 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+280,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=255648 Ack=7296 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+281,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+282,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=258568 Ack=7296 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+283,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=260028 Ack=7296 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+284,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+285,131.188.40.189,192.168.56.101,TLSv1.2,"Application Data, Application Data"
+286,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=264408 Ack=7296 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+287,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=265868 Ack=7296 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+288,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+289,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=268788 Ack=7296 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+290,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=270248 Ack=7296 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+291,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+292,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=273168 Ack=7296 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+293,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=274628 Ack=7296 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+294,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+295,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=277548 Ack=7296 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+296,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=279008 Ack=7296 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+297,192.168.56.101,131.188.40.189,TCP,49364  >  443 [ACK] Seq=7296 Ack=280468 Win=16968 Len=0
+298,131.188.40.189,192.168.56.101,TLSv1.2,"Application Data, Application Data"
+299,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=281928 Ack=7296 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+300,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=283388 Ack=7296 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+301,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+302,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=286308 Ack=7296 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+303,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+304,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+305,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=290688 Ack=7296 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+306,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=292148 Ack=7296 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+307,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+308,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=295068 Ack=7296 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+309,192.168.56.101,131.188.40.189,TCP,49364  >  443 [ACK] Seq=7296 Ack=296528 Win=908 Len=0
+310,192.168.56.101,131.188.40.189,TLSv1.2,Application Data
+311,131.188.40.189,192.168.56.101,TCP,[TCP Window Full] 443  >  49364 [ACK] Seq=296528 Ack=7839 Win=65535 Len=908 [TCP segment of a reassembled PDU]
+312,192.168.56.101,131.188.40.189,TLSv1.2,"[TCP ZeroWindow] , Application Data"
+313,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=297436 Ack=8896 Win=65535 Len=0
+314,192.168.56.101,131.188.40.189,TCP,[TCP Window Update] 49364  >  443 [ACK] Seq=8896 Ack=297436 Win=3472 Len=0
+315,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+316,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=298896 Ack=8896 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+317,192.168.56.101,131.188.40.189,TCP,49364  >  443 [ACK] Seq=8896 Ack=300356 Win=552 Len=0
+318,192.168.56.101,131.188.40.189,TCP,[TCP Window Update] 49364  >  443 [ACK] Seq=8896 Ack=300356 Win=61320 Len=0
+319,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=300356 Ack=8896 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+320,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+321,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=303276 Ack=8896 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+322,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+323,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+324,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=307656 Ack=8896 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+325,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+326,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=310576 Ack=8896 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+327,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=312036 Ack=8896 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+328,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+329,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+330,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=316416 Ack=8896 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+331,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=317876 Ack=8896 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+332,131.188.40.189,192.168.56.101,TLSv1.2,"Application Data, Application Data"
+333,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+334,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=322256 Ack=8896 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+335,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=323716 Ack=8896 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+336,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+337,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=326636 Ack=8896 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+338,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=328096 Ack=8896 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+339,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+340,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=331016 Ack=8896 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+341,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=332476 Ack=8896 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+342,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+343,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=335396 Ack=8896 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+344,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+345,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+346,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=339776 Ack=8896 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+347,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+348,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=342696 Ack=8896 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+349,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+350,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=345616 Ack=8896 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+351,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+352,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=348536 Ack=8896 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+353,192.168.56.101,131.188.40.189,TCP,49364  >  443 [ACK] Seq=8896 Ack=345616 Win=16060 Len=0
+354,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=349996 Ack=8896 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+355,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+356,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=352916 Ack=8896 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+357,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=354376 Ack=8896 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+358,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+359,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=357296 Ack=8896 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+360,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=358756 Ack=8896 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+361,131.188.40.189,192.168.56.101,TLSv1.2,"[TCP Window Full] , Application Data [TCP segment of a reassembled PDU]"
+362,192.168.56.101,131.188.40.189,TCP,49364  >  443 [ACK] Seq=8896 Ack=349996 Win=11680 Len=0
+363,192.168.56.101,131.188.40.189,TCP,[TCP ZeroWindow] 49364  >  443 [ACK] Seq=8896 Ack=361676 Win=0 Len=0
+364,192.168.56.101,131.188.40.189,TLSv1.2,"[TCP ZeroWindow] , Application Data"
+365,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=361676 Ack=9439 Win=65535 Len=0
+366,192.168.56.101,131.188.40.189,TLSv1.2,"[TCP ZeroWindow] , Application Data"
+367,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=361676 Ack=10496 Win=65535 Len=0
+368,192.168.56.101,131.188.40.189,TCP,[TCP Window Update] 49364  >  443 [ACK] Seq=10496 Ack=361676 Win=3472 Len=0
+369,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=361676 Ack=10496 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+370,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+371,192.168.56.101,131.188.40.189,TCP,49364  >  443 [ACK] Seq=10496 Ack=364596 Win=552 Len=0
+372,192.168.56.101,131.188.40.189,TCP,[TCP Window Update] 49364  >  443 [ACK] Seq=10496 Ack=364596 Win=61320 Len=0
+373,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+374,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+375,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=367516 Ack=10496 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+376,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=368976 Ack=10496 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+377,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+378,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=371896 Ack=10496 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+379,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+380,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=374816 Ack=10496 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+381,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=376276 Ack=10496 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+382,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+383,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=379196 Ack=10496 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+384,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=380656 Ack=10496 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+385,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+386,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=383576 Ack=10496 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+387,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=385036 Ack=10496 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+388,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+389,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+390,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=389416 Ack=10496 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+391,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+392,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+393,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=393796 Ack=10496 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+394,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=395256 Ack=10496 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+395,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+396,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=398176 Ack=10496 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+397,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=399636 Ack=10496 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+398,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+399,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=402556 Ack=10496 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+400,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=404016 Ack=10496 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+401,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+402,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=406936 Ack=10496 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+403,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+404,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+405,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=411316 Ack=10496 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+406,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+407,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=414236 Ack=10496 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+408,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=415696 Ack=10496 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+409,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+410,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+411,192.168.56.101,131.188.40.189,TCP,49364  >  443 [ACK] Seq=10496 Ack=411316 Win=14600 Len=0
+412,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=420076 Ack=10496 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+413,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=421536 Ack=10496 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+414,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+415,131.188.40.189,192.168.56.101,TCP,[TCP Window Full] 443  >  49364 [ACK] Seq=424456 Ack=10496 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+416,192.168.56.101,131.188.40.189,TCP,49364  >  443 [ACK] Seq=10496 Ack=420076 Win=5840 Len=0
+417,192.168.56.101,131.188.40.189,TCP,[TCP ZeroWindow] 49364  >  443 [ACK] Seq=10496 Ack=425916 Win=0 Len=0
+418,192.168.56.101,131.188.40.189,TLSv1.2,"[TCP ZeroWindow] , Application Data"
+419,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=425916 Ack=11039 Win=65535 Len=0
+420,192.168.56.101,131.188.40.189,TLSv1.2,"[TCP ZeroWindow] , Application Data"
+421,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=425916 Ack=12096 Win=65535 Len=0
+422,192.168.56.101,131.188.40.189,TLSv1.2,"[TCP ZeroWindow] , Application Data"
+423,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=425916 Ack=12639 Win=65535 Len=0
+424,192.168.56.101,131.188.40.189,TCP,[TCP Window Update] 49364  >  443 [ACK] Seq=12639 Ack=425916 Win=3472 Len=0
+425,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=425916 Ack=12639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+426,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+427,192.168.56.101,131.188.40.189,TCP,49364  >  443 [ACK] Seq=12639 Ack=428836 Win=552 Len=0
+428,192.168.56.101,131.188.40.189,TCP,[TCP Window Update] 49364  >  443 [ACK] Seq=12639 Ack=428836 Win=61320 Len=0
+429,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=428836 Ack=12639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+430,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+431,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=431756 Ack=12639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+432,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=433216 Ack=12639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+433,131.188.40.189,192.168.56.101,TLSv1.2,"Application Data, Application Data"
+434,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=436136 Ack=12639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+435,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=437596 Ack=12639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+436,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+437,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=440516 Ack=12639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+438,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=441976 Ack=12639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+439,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+440,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+441,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=446356 Ack=12639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+442,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=447816 Ack=12639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+443,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+444,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=450736 Ack=12639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+445,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+446,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=453656 Ack=12639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+447,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=455116 Ack=12639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+448,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+449,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=458036 Ack=12639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+450,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=459496 Ack=12639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+451,131.188.40.189,192.168.56.101,TLSv1.2,"Application Data, Application Data"
+452,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=462416 Ack=12639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+453,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=463876 Ack=12639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+454,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+455,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=466796 Ack=12639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+456,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=468256 Ack=12639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+457,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+458,131.188.40.189,192.168.56.101,TLSv1.2,"Application Data, Application Data"
+459,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=472636 Ack=12639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+460,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=474096 Ack=12639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+461,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+462,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=477016 Ack=12639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+463,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+464,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=479936 Ack=12639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+465,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=481396 Ack=12639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+466,192.168.56.101,131.188.40.189,TCP,49364  >  443 [ACK] Seq=12639 Ack=475556 Win=14600 Len=0
+467,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+468,192.168.56.101,131.188.40.189,TCP,49364  >  443 [ACK] Seq=12639 Ack=482856 Win=7300 Len=0
+469,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=484316 Ack=12639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+470,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=485776 Ack=12639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+471,131.188.40.189,192.168.56.101,TLSv1.2,"Application Data, Application Data"
+472,131.188.40.189,192.168.56.101,TCP,[TCP Window Full] 443  >  49364 [ACK] Seq=488696 Ack=12639 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+473,192.168.56.101,131.188.40.189,TCP,[TCP ZeroWindow] 49364  >  443 [ACK] Seq=12639 Ack=490156 Win=0 Len=0
+474,192.168.56.101,131.188.40.189,TLSv1.2,"[TCP ZeroWindow] , Application Data"
+475,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=490156 Ack=13696 Win=65535 Len=0
+476,192.168.56.101,131.188.40.189,TLSv1.2,"[TCP ZeroWindow] , Application Data"
+477,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=490156 Ack=14239 Win=65535 Len=0
+478,192.168.56.101,131.188.40.189,TCP,[TCP Window Update] 49364  >  443 [ACK] Seq=14239 Ack=490156 Win=3472 Len=0
+479,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=490156 Ack=14239 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+480,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+481,192.168.56.101,131.188.40.189,TCP,49364  >  443 [ACK] Seq=14239 Ack=493076 Win=552 Len=0
+482,192.168.56.101,131.188.40.189,TCP,[TCP Window Update] 49364  >  443 [ACK] Seq=14239 Ack=493076 Win=61320 Len=0
+483,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=493076 Ack=14239 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+484,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=494536 Ack=14239 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+485,131.188.40.189,192.168.56.101,TLSv1.2,"Application Data, Application Data"
+486,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=497456 Ack=14239 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+487,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=498916 Ack=14239 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+488,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+489,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=501836 Ack=14239 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+490,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=503296 Ack=14239 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+491,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+492,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=506216 Ack=14239 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+493,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=507676 Ack=14239 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+494,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+495,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=510596 Ack=14239 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+496,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+497,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+498,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=514976 Ack=14239 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+499,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+500,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=517896 Ack=14239 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+501,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=519356 Ack=14239 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+502,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+503,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+504,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+505,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=525196 Ack=14239 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+506,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=526656 Ack=14239 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+507,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+508,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=529576 Ack=14239 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+509,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=531036 Ack=14239 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+510,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+511,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=533956 Ack=14239 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+512,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=535416 Ack=14239 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+513,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+514,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+515,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=539796 Ack=14239 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+516,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=541256 Ack=14239 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+517,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+518,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=544176 Ack=14239 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+519,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=545636 Ack=14239 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+520,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+521,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+522,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+523,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=551476 Ack=14239 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+524,131.188.40.189,192.168.56.101,TCP,[TCP Window Full] 443  >  49364 [ACK] Seq=552936 Ack=14239 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+525,192.168.56.101,131.188.40.189,TCP,49364  >  443 [ACK] Seq=14239 Ack=539796 Win=14600 Len=0
+526,192.168.56.101,131.188.40.189,TCP,[TCP ZeroWindow] 49364  >  443 [ACK] Seq=14239 Ack=554396 Win=0 Len=0
+527,192.168.56.101,131.188.40.189,TLSv1.2,"[TCP ZeroWindow] , Application Data"
+528,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=554396 Ack=15296 Win=65535 Len=0
+529,192.168.56.101,131.188.40.189,TLSv1.2,"[TCP ZeroWindow] , Application Data"
+530,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=554396 Ack=15839 Win=65535 Len=0
+531,192.168.56.101,131.188.40.189,TLSv1.2,"[TCP ZeroWindow] , Application Data"
+532,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=554396 Ack=16896 Win=65535 Len=0
+533,192.168.56.101,131.188.40.189,TCP,[TCP Window Update] 49364  >  443 [ACK] Seq=16896 Ack=554396 Win=3472 Len=0
+534,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+535,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=555856 Ack=16896 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+536,192.168.56.101,131.188.40.189,TCP,49364  >  443 [ACK] Seq=16896 Ack=557316 Win=552 Len=0
+537,192.168.56.101,131.188.40.189,TCP,[TCP Window Update] 49364  >  443 [ACK] Seq=16896 Ack=557316 Win=61320 Len=0
+538,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=557316 Ack=16896 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+539,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+540,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=560236 Ack=16896 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+541,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=561696 Ack=16896 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+542,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+543,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=564616 Ack=16896 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+544,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+545,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+546,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=568996 Ack=16896 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+547,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+548,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=571916 Ack=16896 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+549,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=573376 Ack=16896 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+550,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+551,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=576296 Ack=16896 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+552,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+553,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=579216 Ack=16896 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+554,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=580676 Ack=16896 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+555,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+556,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=583596 Ack=16896 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+557,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=585056 Ack=16896 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+558,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+559,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=587976 Ack=16896 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+560,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=589436 Ack=16896 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+561,131.188.40.189,192.168.56.101,TLSv1.2,"Application Data, Application Data"
+562,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=592356 Ack=16896 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+563,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=593816 Ack=16896 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+564,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+565,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=596736 Ack=16896 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+566,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+567,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+568,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=601116 Ack=16896 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+569,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=602576 Ack=16896 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+570,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+571,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=605496 Ack=16896 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+572,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=606956 Ack=16896 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+573,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+574,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=609876 Ack=16896 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+575,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=611336 Ack=16896 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+576,131.188.40.189,192.168.56.101,TLSv1.2,Application Data [TCP segment of a reassembled PDU]
+577,131.188.40.189,192.168.56.101,TLSv1.2,Application Data
+578,192.168.56.101,131.188.40.189,TCP,49364  >  443 [ACK] Seq=16896 Ack=604036 Win=14600 Len=0
+579,192.168.56.101,131.188.40.189,TCP,49364  >  443 [ACK] Seq=16896 Ack=614361 Win=4275 Len=0
+580,192.168.56.101,131.188.40.189,TLSv1.2,Application Data
+581,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=614361 Ack=17439 Win=65535 Len=0
+582,192.168.56.101,131.188.40.189,TLSv1.2,Application Data
+583,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=614361 Ack=18496 Win=65535 Len=0
+584,192.168.56.101,131.188.40.189,TCP,[TCP Window Update] 49364  >  443 [ACK] Seq=18496 Ack=614361 Win=7747 Len=0
+585,192.168.56.101,131.188.40.189,TCP,[TCP Window Update] 49364  >  443 [ACK] Seq=18496 Ack=614361 Win=64240 Len=0
+586,192.168.56.101,131.188.40.189,TLSv1.2,Application Data
+587,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=614361 Ack=19039 Win=65535 Len=0
+588,192.168.56.101,131.188.40.189,TLSv1.2,Application Data
+589,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=614361 Ack=20096 Win=65535 Len=0
+590,192.168.56.101,131.188.40.189,TLSv1.2,Application Data
+591,131.188.40.189,192.168.56.101,TCP,443  >  49364 [ACK] Seq=614361 Ack=20639 Win=65535 Len=0
+592,192.168.56.101,142.250.138.102,TCP,49167  >  443 [SYN] Seq=0 Win=8192 Len=0 MSS=1460 WS=256 SACK_PERM=1
+593,142.250.138.102,192.168.56.101,TCP,"443  >  49167 [SYN, ACK] Seq=0 Ack=1 Win=65535 Len=0 MSS=1460"
+594,192.168.56.101,142.250.138.102,TCP,49167  >  443 [ACK] Seq=1 Ack=1 Win=64240 Len=0
+595,192.168.56.101,142.250.138.102,TLSv1.2,Client Hello
+596,142.250.138.102,192.168.56.101,TCP,443  >  49167 [ACK] Seq=1 Ack=162 Win=65535 Len=0
+597,142.250.138.102,192.168.56.101,TLSv1.2,Server Hello
+598,142.250.138.102,192.168.56.101,TCP,"443  >  49167 [PSH, ACK] Seq=1413 Ack=162 Win=65535 Len=1412 [TCP segment of a reassembled PDU]"
+599,192.168.56.101,142.250.138.102,TCP,49167  >  443 [ACK] Seq=162 Ack=2825 Win=64240 Len=0
+600,142.250.138.102,192.168.56.101,TCP,443  >  49167 [ACK] Seq=2825 Ack=162 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+601,142.250.138.102,192.168.56.101,TCP,443  >  49167 [ACK] Seq=4285 Ack=162 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+602,142.250.138.102,192.168.56.101,TLSv1.2,"Certificate, Server Key Exchange, Server Hello Done"
+603,192.168.56.101,142.250.138.102,TCP,49167  >  443 [ACK] Seq=162 Ack=6661 Win=64240 Len=0
+604,192.168.56.101,142.250.138.102,TLSv1.2,"Client Key Exchange, Change Cipher Spec, Encrypted Handshake Message"
+605,142.250.138.102,192.168.56.101,TCP,443  >  49167 [ACK] Seq=6661 Ack=288 Win=65535 Len=0
+606,142.250.138.102,192.168.56.101,TLSv1.2,"Change Cipher Spec, Encrypted Handshake Message"
+607,192.168.56.101,142.250.138.102,TCP,49167  >  443 [ACK] Seq=288 Ack=6712 Win=64189 Len=0
+608,192.168.56.101,142.250.138.102,TLSv1.2,Application Data
+609,142.250.138.102,192.168.56.101,TCP,443  >  49167 [ACK] Seq=6712 Ack=811 Win=65535 Len=0
+610,142.250.138.102,192.168.56.101,TLSv1.2,Application Data
+611,192.168.56.101,142.250.138.102,TCP,"49167  >  443 [RST, ACK] Seq=811 Ack=6991 Win=0 Len=0"
+612,192.168.56.101,192.168.56.255,NBNS,Registration NB NONE<00>
+613,192.168.56.101,192.168.56.255,NBNS,Registration NB NONE<00>
+614,192.168.56.101,192.168.56.255,NBNS,Registration NB WORKGROUP<00>
+615,192.168.56.101,192.168.56.255,NBNS,Registration NB WORKGROUP<00>
+616,192.168.56.101,192.168.56.255,NBNS,Registration NB NONE<20>
+617,192.168.56.101,192.168.56.255,NBNS,Registration NB NONE<20>
+618,192.168.56.101,192.168.56.255,NBNS,Name query NB ISATAP<00>
+619,192.168.56.101,192.168.56.255,NBNS,Name query NB ISATAP<00>
+620,192.168.56.101,192.168.56.255,NBNS,Registration NB NONE<20>
+621,192.168.56.101,192.168.56.255,NBNS,Registration NB NONE<20>
+622,192.168.56.101,192.168.56.255,NBNS,Registration NB WORKGROUP<00>
+623,192.168.56.101,192.168.56.255,NBNS,Registration NB WORKGROUP<00>
+624,192.168.56.101,192.168.56.255,NBNS,Registration NB NONE<00>
+625,192.168.56.101,192.168.56.255,NBNS,Registration NB NONE<00>
+626,192.168.56.101,192.168.56.255,NBNS,Name query NB ISATAP<00>
+627,192.168.56.101,192.168.56.255,NBNS,Name query NB ISATAP<00>
+628,192.168.56.101,192.168.56.255,NBNS,Registration NB NONE<00>
+629,192.168.56.101,192.168.56.255,NBNS,Registration NB NONE<00>
+630,192.168.56.101,192.168.56.255,NBNS,Registration NB WORKGROUP<00>
+631,192.168.56.101,192.168.56.255,NBNS,Registration NB WORKGROUP<00>
+632,192.168.56.101,192.168.56.255,NBNS,Registration NB NONE<20>
+633,192.168.56.101,192.168.56.255,NBNS,Registration NB NONE<20>
+634,192.168.56.101,192.168.56.255,NBNS,Name query NB ISATAP<00>
+635,192.168.56.101,192.168.56.255,NBNS,Name query NB ISATAP<00>
+636,192.168.56.101,192.168.56.255,NBNS,Name query NB WPAD<00>
+637,192.168.56.101,192.168.56.255,NBNS,Name query NB WPAD<00>
+638,192.168.56.101,192.168.56.255,NBNS,Registration NB NONE<20>
+639,192.168.56.101,192.168.56.255,NBNS,Registration NB NONE<20>
+640,192.168.56.101,192.168.56.255,NBNS,Registration NB WORKGROUP<00>
+641,192.168.56.101,192.168.56.255,NBNS,Registration NB WORKGROUP<00>
+642,192.168.56.101,192.168.56.255,NBNS,Registration NB NONE<00>
+643,192.168.56.101,192.168.56.255,NBNS,Registration NB NONE<00>
+644,192.168.56.101,192.168.56.255,NBNS,Name query NB WPAD<00>
+645,192.168.56.101,192.168.56.255,NBNS,Name query NB WPAD<00>
+646,192.168.56.101,192.168.56.255,NBNS,Name query NB ISATAP<00>
+647,192.168.56.101,192.168.56.255,NBNS,Name query NB ISATAP<00>
+648,192.168.56.101,192.168.56.255,NBNS,Registration NB WORKGROUP<1e>
+649,192.168.56.101,192.168.56.255,NBNS,Registration NB WORKGROUP<1e>
+650,192.168.56.101,192.168.56.255,NBNS,Name query NB WPAD<00>
+651,192.168.56.101,192.168.56.255,NBNS,Name query NB WPAD<00>
+652,192.168.56.101,192.168.56.255,NBNS,Name query NB ISATAP<00>
+653,192.168.56.101,192.168.56.255,NBNS,Name query NB ISATAP<00>
+654,192.168.56.101,192.168.56.255,NBNS,Registration NB WORKGROUP<1e>
+655,192.168.56.101,192.168.56.255,NBNS,Registration NB WORKGROUP<1e>
+656,192.168.56.101,192.168.56.255,NBNS,Name query NB ISATAP<00>
+657,192.168.56.101,192.168.56.255,NBNS,Name query NB ISATAP<00>
+658,192.168.56.101,192.168.56.255,NBNS,Registration NB WORKGROUP<1e>
+659,192.168.56.101,192.168.56.255,NBNS,Registration NB WORKGROUP<1e>
+660,192.168.56.101,192.168.56.255,NBNS,Registration NB WORKGROUP<1e>
+661,192.168.56.101,192.168.56.255,NBNS,Registration NB WORKGROUP<1e>
+662,192.168.56.101,192.168.56.255,NBNS,Name query NB ISATAP<00>
+663,192.168.56.101,192.168.56.255,NBNS,Name query NB ISATAP<00>
+664,192.168.56.101,192.168.56.255,NBNS,Name query NB ISATAP<00>
+665,192.168.56.101,192.168.56.255,NBNS,Name query NB ISATAP<00>
+666,192.168.56.101,192.168.56.255,NBNS,Name query NB ISATAP<00>
+667,192.168.56.101,192.168.56.255,NBNS,Name query NB ISATAP<00>
+668,192.168.56.101,192.168.56.255,NBNS,Name query NB ISATAP<00>
+669,192.168.56.101,192.168.56.255,NBNS,Name query NB ISATAP<00>
+670,192.168.56.101,192.168.56.255,NBNS,Name query NB ISATAP<00>
+671,192.168.56.101,192.168.56.255,NBNS,Name query NB ISATAP<00>
+672,192.168.56.101,192.168.56.255,NBNS,Name query NB ISATAP<00>
+673,192.168.56.101,192.168.56.255,NBNS,Name query NB ISATAP<00>
+674,192.168.56.101,192.168.56.255,NBNS,Name query NB ISATAP<00>
+675,192.168.56.101,192.168.56.255,NBNS,Name query NB ISATAP<00>
+676,192.168.56.101,192.168.56.255,NBNS,Name query NB ISATAP<00>
+677,192.168.56.101,192.168.56.255,NBNS,Name query NB ISATAP<00>
+678,192.168.56.101,192.168.56.255,NBNS,Name query NB ISATAP<00>
+679,192.168.56.101,192.168.56.255,NBNS,Name query NB ISATAP<00>
+680,192.168.56.101,192.168.56.255,NBNS,Registration NB WORKGROUP<1d>
+681,192.168.56.101,192.168.56.255,NBNS,Registration NB WORKGROUP<1d>
+682,192.168.56.101,192.168.56.255,NBNS,Registration NB WORKGROUP<1d>
+683,192.168.56.101,192.168.56.255,NBNS,Registration NB WORKGROUP<1d>
+684,192.168.56.101,192.168.56.255,NBNS,Registration NB WORKGROUP<1d>
+685,192.168.56.101,192.168.56.255,NBNS,Registration NB WORKGROUP<1d>
+686,192.168.56.101,192.168.56.255,NBNS,Registration NB WORKGROUP<1d>
+687,192.168.56.101,192.168.56.255,NBNS,Registration NB WORKGROUP<1d>
+688,192.168.56.101,192.168.56.255,NBNS,Registration NB <01><02>__MSBROWSE__<02><01>
+689,192.168.56.101,192.168.56.255,NBNS,Registration NB <01><02>__MSBROWSE__<02><01>
+690,192.168.56.101,192.168.56.255,NBNS,Registration NB <01><02>__MSBROWSE__<02><01>
+691,192.168.56.101,192.168.56.255,NBNS,Registration NB <01><02>__MSBROWSE__<02><01>
+692,192.168.56.101,192.168.56.255,NBNS,Registration NB <01><02>__MSBROWSE__<02><01>
+693,192.168.56.101,192.168.56.255,NBNS,Registration NB <01><02>__MSBROWSE__<02><01>
+694,192.168.56.101,192.168.56.255,NBNS,Registration NB <01><02>__MSBROWSE__<02><01>
+695,192.168.56.101,192.168.56.255,NBNS,Registration NB <01><02>__MSBROWSE__<02><01>
+696,192.168.56.101,192.168.56.255,NBNS,Name query NB WPAD<00>
+697,192.168.56.101,192.168.56.255,NBNS,Name query NB WPAD<00>
+698,192.168.56.101,192.168.56.255,NBNS,Name query NB WPAD<00>
+699,192.168.56.101,192.168.56.255,NBNS,Name query NB WPAD<00>
+700,192.168.56.101,192.168.56.255,NBNS,Name query NB WPAD<00>
+701,192.168.56.101,192.168.56.255,NBNS,Name query NB WPAD<00>
+702,192.168.56.101,192.168.56.255,NBNS,Name query NB NONE<1c>
+703,192.168.56.101,192.168.56.255,NBNS,Name query NB NONE<1c>
+704,192.168.56.101,192.168.56.255,NBNS,Name query NB NONE<1c>
+705,192.168.56.101,192.168.56.255,NBNS,Name query NB NONE<1c>
+706,192.168.56.101,192.168.56.255,NBNS,Name query NB NONE<1c>
+707,192.168.56.101,192.168.56.255,NBNS,Name query NB NONE<1c>
+708,192.168.56.101,192.168.56.255,BROWSER,Request Announcement NONE
+709,192.168.56.101,192.168.56.255,BROWSER,Request Announcement NONE
+710,192.168.56.101,192.168.56.255,BROWSER,"Host Announcement NONE, Workstation, Server, NT Workstation, Potential Browser"
+711,192.168.56.101,192.168.56.255,BROWSER,"Host Announcement NONE, Workstation, Server, NT Workstation, Potential Browser"
+712,192.168.56.101,192.168.56.255,BROWSER,Request Announcement NONE
+713,192.168.56.101,192.168.56.255,BROWSER,Request Announcement NONE
+714,192.168.56.101,192.168.56.255,BROWSER,Request Announcement NONE
+715,192.168.56.101,192.168.56.255,BROWSER,Request Announcement NONE
+716,192.168.56.101,192.168.56.255,BROWSER,Request Announcement NONE
+717,192.168.56.101,192.168.56.255,BROWSER,Request Announcement NONE
+718,192.168.56.101,192.168.56.255,BROWSER,Browser Election Request
+719,192.168.56.101,192.168.56.255,BROWSER,Browser Election Request
+720,192.168.56.101,192.168.56.255,BROWSER,Browser Election Request
+721,192.168.56.101,192.168.56.255,BROWSER,Browser Election Request
+722,192.168.56.101,192.168.56.255,BROWSER,Browser Election Request
+723,192.168.56.101,192.168.56.255,BROWSER,Browser Election Request
+724,192.168.56.101,192.168.56.255,BROWSER,Browser Election Request
+725,192.168.56.101,192.168.56.255,BROWSER,Browser Election Request
+726,192.168.56.101,192.168.56.255,BROWSER,Request Announcement NONE
+727,192.168.56.101,192.168.56.255,BROWSER,Request Announcement NONE
+728,192.168.56.101,192.168.56.255,BROWSER,Request Announcement NONE
+729,192.168.56.101,192.168.56.255,BROWSER,Request Announcement NONE
+730,192.168.56.101,192.168.56.255,BROWSER,"Domain/Workgroup Announcement WORKGROUP, NT Workstation, Domain Enum"
+731,192.168.56.101,192.168.56.255,BROWSER,"Domain/Workgroup Announcement WORKGROUP, NT Workstation, Domain Enum"
+732,192.168.56.101,192.168.56.255,BROWSER,"Local Master Announcement NONE, Workstation, Server, NT Workstation, Potential Browser, Master Browser"
+733,192.168.56.101,192.168.56.255,BROWSER,"Local Master Announcement NONE, Workstation, Server, NT Workstation, Potential Browser, Master Browser"
+734,192.168.56.101,192.168.56.255,BROWSER,"Domain/Workgroup Announcement WORKGROUP, NT Workstation, Domain Enum"
+735,192.168.56.101,192.168.56.255,BROWSER,"Domain/Workgroup Announcement WORKGROUP, NT Workstation, Domain Enum"
+736,192.168.56.101,192.168.56.255,BROWSER,"Domain/Workgroup Announcement WORKGROUP, NT Workstation, Domain Enum"
+737,192.168.56.101,192.168.56.255,BROWSER,"Domain/Workgroup Announcement WORKGROUP, NT Workstation, Domain Enum"
+738,192.168.56.101,199.254.238.52,TCP,49261  >  443 [SYN] Seq=0 Win=8192 Len=0 MSS=1460 WS=256 SACK_PERM=1
+739,192.168.56.101,199.254.238.52,TCP,[TCP Retransmission] 49261  >  443 [SYN] Seq=0 Win=8192 Len=0 MSS=1460 WS=256 SACK_PERM=1
+740,192.168.56.101,199.254.238.52,TCP,[TCP Retransmission] 49261  >  443 [SYN] Seq=0 Win=8192 Len=0 MSS=1460 SACK_PERM=1
+741,192.168.56.101,224.0.0.22,IGMPv3,Membership Report / Leave group 224.0.0.252
+742,192.168.56.101,224.0.0.22,IGMPv3,Membership Report / Leave group 224.0.0.252
+743,192.168.56.101,224.0.0.22,IGMPv3,Membership Report / Join group 224.0.0.252 for any sources
+744,192.168.56.101,224.0.0.22,IGMPv3,Membership Report / Join group 224.0.0.252 for any sources
+745,192.168.56.101,224.0.0.22,IGMPv3,Membership Report / Join group 239.255.255.250 for any sources
+746,192.168.56.101,224.0.0.22,IGMPv3,Membership Report / Join group 239.255.255.250 for any sources
+747,192.168.56.101,224.0.0.22,IGMPv3,Membership Report / Join group 224.0.0.252 for any sources / Join group 239.255.255.250 for any sources
+748,192.168.56.101,224.0.0.22,IGMPv3,Membership Report / Join group 224.0.0.252 for any sources / Join group 239.255.255.250 for any sources
+749,192.168.56.101,224.0.0.252,LLMNR,Standard query 0x025f A isatap
+750,192.168.56.101,224.0.0.252,LLMNR,Standard query 0x025f A isatap
+751,192.168.56.101,224.0.0.252,LLMNR,Standard query 0x025f A isatap
+752,192.168.56.101,224.0.0.252,LLMNR,Standard query 0x025f A isatap
+753,192.168.56.101,224.0.0.252,LLMNR,Standard query 0xc9cb A isatap
+754,192.168.56.101,224.0.0.252,LLMNR,Standard query 0xc9cb A isatap
+755,192.168.56.101,224.0.0.252,LLMNR,Standard query 0xc9cb A isatap
+756,192.168.56.101,224.0.0.252,LLMNR,Standard query 0xc9cb A isatap
+757,192.168.56.101,224.0.0.252,LLMNR,Standard query 0xab76 A isatap
+758,192.168.56.101,224.0.0.252,LLMNR,Standard query 0xab76 A isatap
+759,192.168.56.101,224.0.0.252,LLMNR,Standard query 0xab76 A isatap
+760,192.168.56.101,224.0.0.252,LLMNR,Standard query 0xab76 A isatap
+761,192.168.56.101,224.0.0.252,LLMNR,Standard query 0x4163 A wpad
+762,192.168.56.101,224.0.0.252,LLMNR,Standard query 0x4163 A wpad
+763,192.168.56.101,224.0.0.252,LLMNR,Standard query 0x4163 A wpad
+764,192.168.56.101,224.0.0.252,LLMNR,Standard query 0x4163 A wpad
+765,192.168.56.101,224.0.0.252,LLMNR,Standard query 0xe98b A isatap
+766,192.168.56.101,224.0.0.252,LLMNR,Standard query 0xe98b A isatap
+767,192.168.56.101,224.0.0.252,LLMNR,Standard query 0xe98b A isatap
+768,192.168.56.101,224.0.0.252,LLMNR,Standard query 0xe98b A isatap
+769,192.168.56.101,224.0.0.252,LLMNR,Standard query 0x96f1 A wpad
+770,192.168.56.101,224.0.0.252,LLMNR,Standard query 0x96f1 A wpad
+771,192.168.56.101,224.0.0.252,LLMNR,Standard query 0x96f1 A wpad
+772,192.168.56.101,224.0.0.252,LLMNR,Standard query 0x96f1 A wpad
+773,192.168.56.101,224.0.0.252,LLMNR,Standard query 0xd671 ANY None
+774,192.168.56.101,224.0.0.252,LLMNR,Standard query 0xd671 ANY None
+775,192.168.56.101,224.0.0.252,LLMNR,Standard query 0xd671 ANY None
+776,192.168.56.101,224.0.0.252,LLMNR,Standard query 0xd671 ANY None
+777,192.168.56.101,224.0.0.252,LLMNR,Standard query 0x21c1 A isatap
+778,192.168.56.101,224.0.0.252,LLMNR,Standard query 0x21c1 A isatap
+779,192.168.56.101,224.0.0.252,LLMNR,Standard query 0x21c1 A isatap
+780,192.168.56.101,224.0.0.252,LLMNR,Standard query 0x21c1 A isatap
+781,192.168.56.101,239.255.255.250,SSDP,M-SEARCH * HTTP/1.1 
+782,192.168.56.101,239.255.255.250,SSDP,M-SEARCH * HTTP/1.1 
+783,192.168.56.101,239.255.255.250,SSDP,M-SEARCH * HTTP/1.1 
+784,192.168.56.101,239.255.255.250,SSDP,M-SEARCH * HTTP/1.1 
+785,192.168.56.101,239.255.255.250,SSDP,M-SEARCH * HTTP/1.1 
+786,192.168.56.101,239.255.255.250,SSDP,M-SEARCH * HTTP/1.1 
+787,192.168.56.101,239.255.255.250,SSDP,M-SEARCH * HTTP/1.1 
+788,192.168.56.101,239.255.255.250,SSDP,M-SEARCH * HTTP/1.1 
+789,192.168.56.101,239.255.255.250,SSDP,M-SEARCH * HTTP/1.1 
+790,192.168.56.101,239.255.255.250,SSDP,M-SEARCH * HTTP/1.1 
+791,192.168.56.101,239.255.255.250,SSDP,M-SEARCH * HTTP/1.1 
+792,192.168.56.101,239.255.255.250,SSDP,M-SEARCH * HTTP/1.1 
+793,192.168.56.101,239.255.255.250,SSDP,M-SEARCH * HTTP/1.1 
+794,192.168.56.101,239.255.255.250,SSDP,M-SEARCH * HTTP/1.1 
+795,192.168.56.101,239.255.255.250,SSDP,M-SEARCH * HTTP/1.1 
+796,192.168.56.101,239.255.255.250,SSDP,M-SEARCH * HTTP/1.1 
+797,192.168.56.101,239.255.255.250,SSDP,M-SEARCH * HTTP/1.1 
+798,192.168.56.101,239.255.255.250,SSDP,M-SEARCH * HTTP/1.1 
+799,192.168.56.101,239.255.255.250,SSDP,M-SEARCH * HTTP/1.1 
+800,192.168.56.101,239.255.255.250,SSDP,M-SEARCH * HTTP/1.1 
+801,192.168.56.101,239.255.255.250,SSDP,M-SEARCH * HTTP/1.1 
+802,192.168.56.101,239.255.255.250,SSDP,M-SEARCH * HTTP/1.1 
+803,192.168.56.101,239.255.255.250,SSDP,M-SEARCH * HTTP/1.1 
+804,192.168.56.101,239.255.255.250,SSDP,M-SEARCH * HTTP/1.1 
+805,192.168.56.101,239.255.255.250,SSDP,M-SEARCH * HTTP/1.1 
+806,192.168.56.101,239.255.255.250,SSDP,M-SEARCH * HTTP/1.1 
+807,192.168.56.101,239.255.255.250,SSDP,M-SEARCH * HTTP/1.1 
+808,192.168.56.101,239.255.255.250,SSDP,M-SEARCH * HTTP/1.1 
+809,192.168.56.101,239.255.255.250,SSDP,M-SEARCH * HTTP/1.1 
+810,192.168.56.101,239.255.255.250,SSDP,M-SEARCH * HTTP/1.1 
+811,192.168.56.101,239.255.255.250,SSDP,M-SEARCH * HTTP/1.1 
+812,192.168.56.101,239.255.255.250,SSDP,M-SEARCH * HTTP/1.1 
+813,192.168.56.101,239.255.255.250,SSDP,M-SEARCH * HTTP/1.1 
+814,192.168.56.101,239.255.255.250,SSDP,M-SEARCH * HTTP/1.1 
+815,192.168.56.101,239.255.255.250,SSDP,M-SEARCH * HTTP/1.1 
+816,192.168.56.101,239.255.255.250,SSDP,M-SEARCH * HTTP/1.1 
+817,192.168.56.101,239.255.255.250,SSDP,M-SEARCH * HTTP/1.1 
+818,192.168.56.101,239.255.255.250,SSDP,M-SEARCH * HTTP/1.1 
+819,192.168.56.101,239.255.255.250,SSDP,M-SEARCH * HTTP/1.1 
+820,192.168.56.101,239.255.255.250,SSDP,M-SEARCH * HTTP/1.1 
+821,192.168.56.101,239.255.255.250,UDP,62407  >  3702 Len=624
+822,192.168.56.101,239.255.255.250,UDP,62407  >  3702 Len=624
+823,192.168.56.101,239.255.255.250,UDP,62407  >  3702 Len=624
+824,192.168.56.101,239.255.255.250,UDP,62407  >  3702 Len=624
+825,192.168.56.101,40.119.6.228,NTP,"NTP Version 3, client"
+826,40.119.6.228,192.168.56.101,NTP,"NTP Version 3, server"
+827,192.168.56.101,5.35.251.247,TCP,49279  >  9001 [SYN] Seq=0 Win=8192 Len=0 MSS=1460 WS=256 SACK_PERM=1
+828,192.168.56.101,5.35.251.247,TCP,[TCP Retransmission] 49279  >  9001 [SYN] Seq=0 Win=8192 Len=0 MSS=1460 WS=256 SACK_PERM=1
+829,192.168.56.101,5.35.251.247,TCP,[TCP Retransmission] 49279  >  9001 [SYN] Seq=0 Win=8192 Len=0 MSS=1460 SACK_PERM=1
+830,192.168.56.101,8.8.8.8,DNS,Standard query 0x6e6e A clients2.google.com
+831,8.8.8.8,192.168.56.101,DNS,Standard query response 0x6e6e A clients2.google.com CNAME clients.l.google.com A 142.250.138.102 A 142.250.138.101 A 142.250.138.113 A 142.250.138.100 A 142.250.138.138 A 142.250.138.139
+832,192.168.56.101,8.8.8.8,DNS,Standard query 0x971a A www.msftncsi.com
+833,8.8.8.8,192.168.56.101,DNS,Standard query response 0x971a A www.msftncsi.com CNAME www.msftncsi.com.edgesuite.net CNAME a1961.g2.akamai.net A 96.17.176.177 A 96.17.176.171
+834,192.168.56.101,8.8.8.8,DNS,Standard query 0x6cfb A time.windows.com
+835,8.8.8.8,192.168.56.101,DNS,Standard query response 0x6cfb A time.windows.com CNAME twc.trafficmanager.net A 40.119.6.228
+836,192.168.56.101,8.8.8.8,DNS,Standard query 0xc4c8 A teredo.ipv6.microsoft.com
+837,8.8.8.8,192.168.56.101,DNS,Standard query response 0xc4c8 No such name A teredo.ipv6.microsoft.com SOA ns1-04.azure-dns.com
+838,192.168.56.101,85.214.62.48,TCP,49363  >  443 [SYN] Seq=0 Win=8192 Len=0 MSS=1460 WS=256 SACK_PERM=1
+839,85.214.62.48,192.168.56.101,TCP,"443  >  49363 [SYN, ACK] Seq=0 Ack=1 Win=65535 Len=0 MSS=1460"
+840,192.168.56.101,85.214.62.48,TCP,49363  >  443 [ACK] Seq=1 Ack=1 Win=64240 Len=0
+841,192.168.56.101,85.214.62.48,TLSv1.2,Client Hello
+842,85.214.62.48,192.168.56.101,TCP,443  >  49363 [ACK] Seq=1 Ack=220 Win=65535 Len=0
+843,85.214.62.48,192.168.56.101,TLSv1.2,Server Hello
+844,85.214.62.48,192.168.56.101,TCP,"443  >  49363 [PSH, ACK] Seq=1461 Ack=220 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+845,192.168.56.101,85.214.62.48,TCP,49363  >  443 [ACK] Seq=220 Ack=2921 Win=64240 Len=0
+846,85.214.62.48,192.168.56.101,TLSv1.2,Certificate [TCP segment of a reassembled PDU]
+847,85.214.62.48,192.168.56.101,TLSv1.2,"Server Key Exchange, Server Hello Done"
+848,192.168.56.101,85.214.62.48,TCP,49363  >  443 [ACK] Seq=220 Ack=4454 Win=64240 Len=0
+849,192.168.56.101,85.214.62.48,TLSv1.2,"Client Key Exchange, Change Cipher Spec, Encrypted Handshake Message"
+850,85.214.62.48,192.168.56.101,TCP,443  >  49363 [ACK] Seq=4454 Ack=346 Win=65535 Len=0
+851,85.214.62.48,192.168.56.101,TLSv1.2,"New Session Ticket, Change Cipher Spec, Encrypted Handshake Message"
+852,192.168.56.101,85.214.62.48,TLSv1.2,Application Data
+853,85.214.62.48,192.168.56.101,TCP,443  >  49363 [ACK] Seq=4728 Ack=384 Win=65535 Len=0
+854,85.214.62.48,192.168.56.101,TLSv1.2,"Application Data, Encrypted Alert"
+855,85.214.62.48,192.168.56.101,TCP,"443  >  49363 [FIN, ACK] Seq=5804 Ack=384 Win=65535 Len=0"
+856,192.168.56.101,85.214.62.48,TCP,49363  >  443 [ACK] Seq=384 Ack=5805 Win=62890 Len=0
+857,192.168.56.101,85.214.62.48,TCP,"49363  >  443 [RST, ACK] Seq=384 Ack=5805 Win=0 Len=0"
+858,192.168.56.101,85.214.62.48,TCP,49366  >  443 [SYN] Seq=0 Win=8192 Len=0 MSS=1460 WS=256 SACK_PERM=1
+859,85.214.62.48,192.168.56.101,TCP,"443  >  49366 [SYN, ACK] Seq=0 Ack=1 Win=65535 Len=0 MSS=1460"
+860,192.168.56.101,85.214.62.48,TCP,49366  >  443 [ACK] Seq=1 Ack=1 Win=64240 Len=0
+861,192.168.56.101,85.214.62.48,TLSv1.2,Client Hello
+862,85.214.62.48,192.168.56.101,TCP,443  >  49366 [ACK] Seq=1 Ack=218 Win=65535 Len=0
+863,85.214.62.48,192.168.56.101,TLSv1.2,Server Hello
+864,85.214.62.48,192.168.56.101,TCP,"443  >  49366 [PSH, ACK] Seq=1461 Ack=218 Win=65535 Len=1460 [TCP segment of a reassembled PDU]"
+865,192.168.56.101,85.214.62.48,TCP,49366  >  443 [ACK] Seq=218 Ack=2921 Win=64240 Len=0
+866,85.214.62.48,192.168.56.101,TLSv1.2,Certificate [TCP segment of a reassembled PDU]
+867,85.214.62.48,192.168.56.101,TLSv1.2,"Server Key Exchange, Server Hello Done"
+868,192.168.56.101,85.214.62.48,TCP,49366  >  443 [ACK] Seq=218 Ack=4454 Win=64240 Len=0
+869,192.168.56.101,85.214.62.48,TLSv1.2,"Client Key Exchange, Change Cipher Spec, Encrypted Handshake Message"
+870,85.214.62.48,192.168.56.101,TCP,443  >  49366 [ACK] Seq=4454 Ack=344 Win=65535 Len=0
+871,85.214.62.48,192.168.56.101,TLSv1.2,"New Session Ticket, Change Cipher Spec, Encrypted Handshake Message"
+872,192.168.56.101,85.214.62.48,TLSv1.2,Application Data
+873,85.214.62.48,192.168.56.101,TCP,443  >  49366 [ACK] Seq=4728 Ack=382 Win=65535 Len=0
+874,85.214.62.48,192.168.56.101,TLSv1.2,"Application Data, Encrypted Alert"
+875,85.214.62.48,192.168.56.101,TCP,"443  >  49366 [FIN, ACK] Seq=5804 Ack=382 Win=65535 Len=0"
+876,192.168.56.101,85.214.62.48,TCP,49366  >  443 [ACK] Seq=382 Ack=5805 Win=62890 Len=0
+877,192.168.56.101,85.214.62.48,TCP,"49366  >  443 [RST, ACK] Seq=382 Ack=5805 Win=0 Len=0"
+878,192.168.56.101,91.219.236.222,TCP,49260  >  443 [SYN] Seq=0 Win=8192 Len=0 MSS=1460 WS=256 SACK_PERM=1
+879,91.219.236.222,192.168.56.101,TCP,"443  >  49260 [SYN, ACK] Seq=0 Ack=1 Win=65535 Len=0 MSS=1460"
+880,192.168.56.101,91.219.236.222,TCP,49260  >  443 [ACK] Seq=1 Ack=1 Win=64240 Len=0
+881,192.168.56.101,91.219.236.222,TLSv1,Client Hello
+882,91.219.236.222,192.168.56.101,TCP,443  >  49260 [ACK] Seq=1 Ack=223 Win=65535 Len=0
+883,192.168.56.101,96.17.176.177,TCP,49160  >  80 [SYN] Seq=0 Win=8192 Len=0 MSS=1460 WS=256 SACK_PERM=1
+884,96.17.176.177,192.168.56.101,TCP,"80  >  49160 [SYN, ACK] Seq=0 Ack=1 Win=65535 Len=0 MSS=1460"
+885,192.168.56.101,96.17.176.177,TCP,49160  >  80 [ACK] Seq=1 Ack=1 Win=64240 Len=0
+886,192.168.56.101,96.17.176.177,HTTP,GET /ncsi.txt HTTP/1.1 
+887,96.17.176.177,192.168.56.101,TCP,80  >  49160 [ACK] Seq=1 Ack=98 Win=65535 Len=0
+888,96.17.176.177,192.168.56.101,HTTP,HTTP/1.1 200 OK  (text/plain)
+889,96.17.176.177,192.168.56.101,TCP,"80  >  49160 [FIN, ACK] Seq=180 Ack=98 Win=65535 Len=0"
+890,192.168.56.101,96.17.176.177,TCP,49160  >  80 [ACK] Seq=98 Ack=181 Win=64061 Len=0
+891,192.168.56.101,96.17.176.177,TCP,"49160  >  80 [FIN, ACK] Seq=98 Ack=181 Win=64061 Len=0"
+892,96.17.176.177,192.168.56.101,TCP,80  >  49160 [ACK] Seq=181 Ack=99 Win=65535 Len=0
+893,95.128.43.164,192.168.56.101,TLSv1.2,Application Data
+894,95.128.43.164,192.168.56.101,TCP,"[TCP Retransmission] 443  >  49194 [PSH, ACK] Seq=1 Ack=1 Win=65535 Len=543"
+895,95.128.43.164,192.168.56.101,TCP,"[TCP Retransmission] 443  >  49194 [PSH, ACK] Seq=1 Ack=1 Win=65535 Len=543"
+896,95.128.43.164,192.168.56.101,TCP,"[TCP Retransmission] 443  >  49194 [PSH, ACK] Seq=1 Ack=1 Win=65535 Len=543"
+897,192.168.56.101,95.128.43.164,TCP,49194  >  443 [RST] Seq=1 Win=0 Len=0

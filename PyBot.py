@@ -8,9 +8,10 @@ Tasks:
 
 # Imports
 import pandas as pd
-from collections import Counter
 from re import search
 from time import sleep
+from numpy import log10, abs
+from collections import Counter
 from urllib.request import urlretrieve
 from webbrowser import open as web_open
 from os import system, open as os_open, getcwd
@@ -212,23 +213,32 @@ class SimplifiedBot:
             else:
                 csv['Target'] = 0
 
+    @staticmethod
+    def tfidf_logs(corpus):
+        new_csv = pd.DataFrame()
+        # TF
+        for doc in corpus:
+            temp = dict(Counter(doc))
+            print(doc)
+            df = pd.DataFrame.from_dict([temp])
+            new_csv = pd.concat([df, new_csv]).fillna(0)
+
+        # IDF
+        temp = []
+        for col in new_csv.columns:
+            idf = 0
+            for elm in new_csv[col]:
+                if elm != 0:
+                    idf += 1
+            temp.append(idf)
+        for col in new_csv.columns:
+            for temp_idf in temp:
+                new_csv[col] = new_csv[col].apply(lambda x: abs(x * log10(temp_idf / len(new_csv[col]))))
+
+        return new_csv
 
     @staticmethod
     def tf_idf(docs, columns):
-        """
-
-
-        idea: have a array parameter for the columns, to have multiple columns
-            the columns get tf-idf and added to the new csv and can either be
-            added with target or used as a test
-
-        if unique add column
-        iterate thru docs
-            iterate thru csv
-                update tf-idf
-            update
-                """
-
         unique = dict()
         new_csv = pd.DataFrame()
 
@@ -238,39 +248,59 @@ class SimplifiedBot:
             if type(docs) is type(list()):
                 for csv in docs:
                     temp2 = pd.DataFrame()
+                    # Creates the Merge Columns
+                    col_name = ''
                     for col in columns:
-                        # creates a dictionary each key is a unique item, and its value is its frequency in the document
-                        unique = dict(Counter(csv[col]))
-                        # tf-idf
-                        for key, value in unique.items():  # iterates through the dict
-                            # finds the tf
-                            tf = value / len(unique.values())
-                            # finds the idf
-                            idf = value / len(docs)
-                            # calculates it and saves it to the existing dict
-                            unique[key] = tf * idf
-                        # adds it to the dataframe
-                        temp = pd.DataFrame(unique, index=[0])
-                        temp2 = pd.concat([temp, temp2], axis=1)
-                    new_csv = pd.concat([temp2, new_csv])
-                return new_csv.fillna(0)
+                        col_name += col + ' '
+                    for col in columns:
+                        try:
+                            temp2[col_name] += csv[col] + ' '
+                        except:
+                            temp2[col_name] = csv[col] + ' '
+                    # TF
+                    unique = dict(Counter(temp2[col_name]))
+                    df = pd.DataFrame.from_dict([unique])
+                    new_csv = pd.concat([df, new_csv]).fillna(0)
+                print('-------------------Merge------------------')
+                print(temp2)
+                print('-------------------TF------------------')
+                print(new_csv)
+                print('------------------IDF-------------------')
+
+                # IDF
+                for col in new_csv.columns:
+                    idf = 0
+                    for elm in new_csv[col]:
+                        if elm != 0:
+                            idf += 1
+                    new_csv[col] = new_csv[col].apply(lambda x: abs(x * log10(idf / len(new_csv[col]))))
+                print('-------------------------------------')
+
+                return new_csv
 
             # single csv | multiple columns ✓
             else:
+                col_name = ''
                 for col in columns:
-                    # creates a dictionary each key is a unique item, and its value is its frequency in the document
-                    unique = dict(Counter(docs[col]))
-                    # tf-idf
-                    for key, value in unique.items():  # iterates through the dict
-                        # finds the tf
-                        tf = value / len(unique.values())
-                        # finds the idf
-                        idf = value
-                        # calculates it and saves it to the existing dict
-                        unique[key] = tf * idf
-                    # adds it to the dataframe
-                    temp = pd.DataFrame(unique, index=[0])
-                    new_csv = pd.concat([temp, new_csv], axis=1)
+                    col_name += col + ' '
+                for col in columns:
+                    try:
+                        new_csv[col_name] += docs[col] + ' '
+                    except:
+                        new_csv[col_name] = docs[col]
+                # creates a dictionary each key is a unique item, and its value is its frequency in the document
+                unique = dict(Counter(new_csv[col_name]))
+                # tf-idf
+                for key, value in unique.items():  # iterates through the dict
+                    # finds the tf
+                    tf = value / len(unique.values())
+                    # finds the idf
+                    idf = value
+                    # calculates it and saves it to the existing dict
+                    unique[key] = tf * idf
+                # turns it into a dataframe
+                new_csv = pd.DataFrame(unique, index=[0])
+                # returns the dataframe
                 return new_csv.fillna(0)
 
         # singular columns ✓

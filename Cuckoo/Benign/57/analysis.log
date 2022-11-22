@@ -1,0 +1,66 @@
+2022-11-11 14:46:12,015 [analyzer] DEBUG: Starting analyzer from: C:\tmpgto74e
+2022-11-11 14:46:12,015 [analyzer] DEBUG: Pipe server name: \??\PIPE\RgaeRqajpVJVLkKYIKmIZoVJcUvBjxJU
+2022-11-11 14:46:12,015 [analyzer] DEBUG: Log pipe server name: \??\PIPE\opfcLsUdWHoDwqAUfferOKePATTGWM
+2022-11-11 14:46:12,092 [analyzer] DEBUG: Started auxiliary module DbgView
+2022-11-11 14:46:18,546 [analyzer] DEBUG: Started auxiliary module Disguise
+2022-11-11 14:46:18,858 [analyzer] DEBUG: Loaded monitor into process with pid 504
+2022-11-11 14:46:18,875 [analyzer] DEBUG: Started auxiliary module DumpTLSMasterSecrets
+2022-11-11 14:46:18,875 [analyzer] DEBUG: Started auxiliary module Human
+2022-11-11 14:46:18,875 [analyzer] DEBUG: Started auxiliary module InstallCertificate
+2022-11-11 14:46:18,875 [analyzer] DEBUG: Started auxiliary module Reboot
+2022-11-11 14:46:19,015 [analyzer] DEBUG: Started auxiliary module RecentFiles
+2022-11-11 14:46:19,015 [analyzer] DEBUG: Started auxiliary module Screenshots
+2022-11-11 14:46:19,015 [analyzer] DEBUG: Started auxiliary module LoadZer0m0n
+2022-11-11 14:46:19,015 [modules.auxiliary.screenshots] INFO: Python Image Library (either PIL or Pillow) is not installed, screenshots are disabled.
+2022-11-11 14:46:19,312 [lib.api.process] INFO: Successfully executed process from path 'C:\\Python27\\python.exe' with arguments [u'C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\26-NV.py'] and pid 2420
+2022-11-11 14:46:19,812 [analyzer] DEBUG: Loaded monitor into process with pid 2420
+2022-11-11 14:46:20,250 [analyzer] INFO: Added new file to list with pid 2420 and path C:\Python27\Lib\webbrowser.pyc
+2022-11-11 21:20:19,229 [analyzer] INFO: Injected into process with pid 1112 and name u'chrome.exe'
+2022-11-11 21:20:19,604 [analyzer] DEBUG: Loaded monitor into process with pid 1112
+2022-11-11 21:20:20,776 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 1112.
+2022-11-11 21:20:21,260 [analyzer] INFO: Process with pid 1112 has terminated
+2022-11-11 21:20:34,542 [analyzer] INFO: Injected into process with pid 2028 and name u'chrome.exe'
+2022-11-11 21:20:34,885 [analyzer] DEBUG: Loaded monitor into process with pid 2028
+2022-11-11 21:20:35,917 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 2028.
+2022-11-11 21:20:36,260 [analyzer] INFO: Process with pid 2028 has terminated
+2022-11-11 21:20:49,806 [analyzer] INFO: Injected into process with pid 2436 and name u'chrome.exe'
+2022-11-11 21:20:50,151 [analyzer] DEBUG: Loaded monitor into process with pid 2436
+2022-11-11 21:20:50,494 [analyzer] INFO: Injected into process with pid 2480 and name u'chrome.exe'
+2022-11-11 21:20:50,806 [analyzer] DEBUG: Loaded monitor into process with pid 2480
+2022-11-11 21:20:51,072 [analyzer] INFO: Injected into process with pid 3044 and name u'chrome.exe'
+2022-11-11 21:20:51,401 [analyzer] DEBUG: Loaded monitor into process with pid 3044
+2022-11-11 21:20:52,479 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 3044.
+2022-11-11 21:20:53,260 [analyzer] INFO: Process with pid 3044 has terminated
+2022-11-11 21:20:53,494 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 2480.
+2022-11-11 21:20:53,542 [analyzer] INFO: Added new file to list with pid 2436 and path C:\Program Files\Google\Chrome\Application\debug.log
+2022-11-11 21:20:54,260 [analyzer] INFO: Process with pid 2480 has terminated
+2022-11-11 21:20:59,588 [analyzer] INFO: Added new file to list with pid 2436 and path \Device\NamedPipe\wkssvc
+2022-11-11 21:21:01,276 [analyzer] INFO: Added new file to list with pid 2436 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Variations
+2022-11-11 21:21:20,072 [analyzer] INFO: Injected into process with pid 1164 and name u'chrome.exe'
+2022-11-11 21:21:20,276 [analyzer] INFO: Process with pid 2436 has terminated
+2022-11-11 21:21:20,385 [analyzer] DEBUG: Loaded monitor into process with pid 1164
+2022-11-11 21:21:21,401 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 1164.
+2022-11-11 21:21:22,276 [analyzer] INFO: Process with pid 1164 has terminated
+2022-11-11 21:21:35,322 [analyzer] INFO: Injected into process with pid 3008 and name u'chrome.exe'
+2022-11-11 21:21:35,651 [analyzer] DEBUG: Loaded monitor into process with pid 3008
+2022-11-11 21:21:36,681 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 3008.
+2022-11-11 21:21:37,276 [analyzer] INFO: Process with pid 3008 has terminated
+2022-11-11 21:21:53,683 [analyzer] INFO: Injected into process with pid 1292 and name u'chrome.exe'
+2022-11-11 21:21:53,977 [analyzer] DEBUG: Loaded monitor into process with pid 1292
+2022-11-11 21:21:54,273 [analyzer] INFO: Injected into process with pid 1188 and name u'chrome.exe'
+2022-11-11 21:21:54,569 [analyzer] DEBUG: Loaded monitor into process with pid 1188
+2022-11-11 21:21:54,766 [analyzer] INFO: Injected into process with pid 2176 and name u'chrome.exe'
+2022-11-11 21:21:55,061 [analyzer] DEBUG: Loaded monitor into process with pid 2176
+2022-11-11 21:21:56,073 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 2176.
+2022-11-11 21:21:56,157 [analyzer] INFO: Process with pid 2176 has terminated
+2022-11-11 21:21:56,957 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 1188.
+2022-11-11 21:21:57,045 [analyzer] INFO: Process with pid 1188 has terminated
+2022-11-11 21:22:02,714 [analyzer] INFO: Analysis timeout hit, terminating analysis.
+2022-11-11 21:22:06,302 [analyzer] INFO: Injected into process with pid 1980 and name u'chrome.exe'
+2022-11-11 21:22:06,621 [analyzer] DEBUG: Loaded monitor into process with pid 1980
+2022-11-11 21:22:07,783 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 1980.
+2022-11-11 21:22:11,509 [lib.api.process] INFO: Memory dump of process with pid 2420 completed
+2022-11-11 21:22:14,760 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 1292.
+2022-11-11 21:22:14,760 [lib.api.process] WARNING: The process with pid 1980 is not alive, memory dump aborted
+2022-11-11 21:22:15,262 [analyzer] WARNING: File at path u'\\device\\namedpipe\\wkssvc' does not exist, skip.
+2022-11-11 21:22:15,500 [analyzer] INFO: Analysis completed.

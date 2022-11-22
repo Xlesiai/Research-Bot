@@ -1,0 +1,719 @@
+C:\\Python27\\python.exe' with arguments [u'C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2-V.py.
+C:\Python27\Lib\webbrowser.pyc.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat.
+C:\Users\Administrator\Desktop\b.wnry.
+C:\Users\Administrator\Desktop\c.wnry.
+C:\Users\Administrator\Desktop\msg\m_bulgarian.wnry.
+C:\Users\Administrator\Desktop\msg\m_croatian.wnry.
+C:\Users\Administrator\Desktop\msg\m_czech.wnry.
+C:\Users\Administrator\Desktop\msg\m_danish.wnry.
+C:\Users\Administrator\Desktop\msg\m_dutch.wnry.
+C:\Users\Administrator\Desktop\msg\m_english.wnry.
+C:\Users\Administrator\Desktop\msg\m_filipino.wnry.
+C:\Users\Administrator\Desktop\msg\m_finnish.wnry.
+C:\Users\Administrator\Desktop\msg\m_french.wnry.
+C:\Users\Administrator\Desktop\msg\m_german.wnry.
+C:\Users\Administrator\Desktop\msg\m_greek.wnry.
+C:\Users\Administrator\Desktop\msg\m_indonesian.wnry.
+C:\Users\Administrator\Desktop\msg\m_italian.wnry.
+C:\Users\Administrator\Desktop\msg\m_japanese.wnry.
+C:\Users\Administrator\Desktop\msg\m_korean.wnry.
+C:\Users\Administrator\Desktop\msg\m_latvian.wnry.
+C:\Users\Administrator\Desktop\msg\m_norwegian.wnry.
+C:\Users\Administrator\Desktop\msg\m_polish.wnry.
+C:\Users\Administrator\Desktop\msg\m_portuguese.wnry.
+C:\Users\Administrator\Desktop\msg\m_romanian.wnry.
+C:\Users\Administrator\Desktop\msg\m_russian.wnry.
+C:\Users\Administrator\Desktop\msg\m_slovak.wnry.
+C:\Users\Administrator\Desktop\msg\m_spanish.wnry.
+C:\Users\Administrator\Desktop\msg\m_swedish.wnry.
+C:\Users\Administrator\Desktop\msg\m_turkish.wnry.
+C:\Users\Administrator\Desktop\msg\m_vietnamese.wnry.
+C:\Users\Administrator\Desktop\r.wnry.
+C:\Users\Administrator\Desktop\s.wnry.
+C:\Users\Administrator\Desktop\t.wnry.
+C:\Users\Administrator\Desktop\taskdl.exe.
+C:\Users\Administrator\Desktop\taskse.exe.
+C:\Users\Administrator\Desktop\u.wnry.
+C:/tmpgto74e/analyzer.py.
+C:/tmpgto74e/analyzer.py.
+C:\tmpgto74e\lib\common\decide.py.
+C:\tmpgto74e\lib\api\process.py.
+C:\Users\Administrator\Desktop\00000000.pky.
+C:\Users\Administrator\Desktop\00000000.eky.
+C:\Users\Administrator\Desktop\00000000.res.
+C:\Users\Administrator\Desktop\278531668224589.bat.
+C:\Users\Administrator\Desktop\278531668224589.bat.WNCRYT.
+C:\Users\Administrator\Documents\BklxnjZnbVzre.rtf.WNCRYT.
+C:\Users\Administrator\Documents\BklxnjZnbVzre.rtf.
+C:\Users\Administrator\Documents\hbZxJEJVHgIBm.doc.WNCRYT.
+C:\Users\Administrator\Documents\hbZxJEJVHgIBm.doc.
+C:\Users\Administrator\Documents\hgDqFTCeZVb.txt.WNCRYT.
+C:\Users\Administrator\Documents\hgDqFTCeZVb.txt.
+C:\Users\Administrator\Documents\ikmqTPFxiVhzO.pptx.WNCRYT.
+C:\Users\Administrator\Documents\ikmqTPFxiVhzO.pptx.
+C:\Users\Administrator\Documents\lpdNEISIdq.docx.WNCRYT.
+C:\Users\Administrator\Documents\lpdNEISIdq.docx.
+C:\Users\Administrator\Documents\MHlnStLapSTq.ppt.WNCRYT.
+C:\Users\Administrator\Documents\MHlnStLapSTq.ppt.
+C:\Users\Administrator\Documents\ngleuKRKlZS.txt.WNCRYT.
+C:\Users\Administrator\Documents\ngleuKRKlZS.txt.
+C:\Users\Administrator\Documents\PMtOnaVtrR.doc.WNCRYT.
+C:/tmpgto74e/analyzer.py.
+C:/tmpgto74e/analyzer.py.
+C:\tmpgto74e\lib\common\decide.py.
+C:\tmpgto74e\lib\api\process.py.
+C:\Users\Administrator\Documents\PMtOnaVtrR.doc.
+C:\Users\Administrator\Documents\QCvYbJVsVQv.txt.WNCRYT.
+C:\Users\Administrator\Documents\QCvYbJVsVQv.txt.
+C:\Users\Administrator\Documents\QuybPWFOyPOyJnRjaPD.ppt.WNCRYT.
+C:\Users\Administrator\Documents\QuybPWFOyPOyJnRjaPD.ppt.
+C:\Users\Administrator\Documents\rHlJewVhhKFK.pptx.WNCRYT.
+C:\Users\Administrator\Documents\rHlJewVhhKFK.pptx.
+C:\Users\Administrator\Documents\tFzZoZSjaIhj.doc.WNCRYT.
+C:\Users\Administrator\Documents\tFzZoZSjaIhj.doc.
+C:\Users\Administrator\Documents\TVEFmKOgEj.ppt.WNCRYT.
+C:\Users\Administrator\Documents\TVEFmKOgEj.ppt.
+C:\Users\Administrator\Documents\VinQTDHgXtOvcgeHn.txt.WNCRYT.
+C:\Users\Administrator\Documents\VinQTDHgXtOvcgeHn.txt.
+C:\Users\Administrator\Documents\WWAjGFRiDALYCKbK.docx.WNCRYT.
+C:\Users\Administrator\Documents\WWAjGFRiDALYCKbK.docx.
+C:\Users\Administrator\Documents\zZYCWXkIYTQ.ppt.WNCRYT.
+C:\Users\Administrator\Documents\zZYCWXkIYTQ.ppt.
+C:\Python27\Lib\email\test\data\msg_02.txt.WNCRYT.
+C:\Python27\Lib\email\test\data\msg_06.txt.WNCRYT.
+C:\Python27\Lib\email\test\data\msg_07.txt.WNCRYT.
+C:\Python27\Lib\email\test\data\msg_13.txt.WNCRYT.
+C:\Python27\Lib\email\test\data\msg_15.txt.WNCRYT.
+C:\Python27\Lib\email\test\data\msg_16.txt.WNCRYT.
+C:\Python27\Lib\email\test\data\msg_22.txt.WNCRYT.
+C:\Python27\Lib\email\test\data\msg_25.txt.WNCRYT.
+C:\Python27\Lib\email\test\data\msg_26.txt.WNCRYT.
+C:\Python27\Lib\email\test\data\msg_38.txt.WNCRYT.
+C:\Python27\Lib\email\test\data\msg_39.txt.WNCRYT.
+C:\Python27\Lib\email\test\data\msg_43.txt.WNCRYT.
+C:\Python27\Lib\idlelib\CREDITS.txt.WNCRYT.
+C:\Python27\Lib\idlelib\extend.txt.WNCRYT.
+C:\Python27\Lib\idlelib\help.txt.WNCRYT.
+C:\Python27\Lib\idlelib\HISTORY.txt.WNCRYT.
+C:\Python27\Lib\idlelib\NEWS.txt.WNCRYT.
+C:\Python27\Lib\idlelib\README.txt.WNCRYT.
+C:\Python27\Lib\idlelib\TODO.txt.WNCRYT.
+C:\Python27\Lib\idlelib\idle_test\README.txt.WNCRYT.
+C:\Python27\Lib\lib2to3\Grammar.txt.WNCRYT.
+C:\Python27\Lib\test\cmath_testcases.txt.WNCRYT.
+C:\Python27\Lib\test\exception_hierarchy.txt.WNCRYT.
+C:\Python27\Lib\test\floating_points.txt.WNCRYT.
+C:\Python27\Lib\test\formatfloat_testcases.txt.WNCRYT.
+C:\Python27\Lib\test\ieee754.txt.WNCRYT.
+C:\Python27\Lib\test\math_testcases.txt.WNCRYT.
+C:\Python27\Lib\test\tokenize_tests.txt.WNCRYT.
+C:\Python27\Lib\test\cjkencodings\euc_jisx0213-utf8.txt.WNCRYT.
+C:\Python27\Lib\test\cjkencodings\euc_jp-utf8.txt.WNCRYT.
+C:\Python27\Lib\test\cjkencodings\gb18030-utf8.txt.WNCRYT.
+C:\Python27\Lib\test\cjkencodings\gbk-utf8.txt.WNCRYT.
+C:\Python27\Lib\test\cjkencodings\iso2022_jp-utf8.txt.WNCRYT.
+C:\Python27\Lib\test\cjkencodings\shift_jis-utf8.txt.WNCRYT.
+C:\Python27\Lib\test\cjkencodings\shift_jisx0213-utf8.txt.WNCRYT.
+C:\Python27\Lib\test\leakers\README.txt.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\ar.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\ar_jo.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\ar_lb.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\ar_sy.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\be.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\bg.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\bn.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\ca.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\cs.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\da.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\de.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\de_be.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\el.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\eo.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\es.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\et.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\fa.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\fa_in.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\fi.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\fr.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\ga.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\gv.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\he.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\hi.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\hr.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\hu.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\is.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\it.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\ja.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\ko.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\kok.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\lt.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\lv.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\mk.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\mr.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\nb.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\nl.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\nn.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\pl.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\pt.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\ro.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\ru.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\sh.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\sk.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\sl.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\sq.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\sr.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\sv.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\ta.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\te.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\th.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\tr.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\uk.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\vi.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\zh.msg.WNCRYT.
+C:\Python27\tcl\tix8.4.3\pref\WmDefault.txt.WNCRYT.
+C:\Python27\tcl\tk8.5\demos\en.msg.WNCRYT.
+C:\Python27\tcl\tk8.5\demos\nl.msg.WNCRYT.
+C:\Python27\tcl\tk8.5\msgs\cs.msg.WNCRYT.
+C:\Python27\tcl\tk8.5\msgs\da.msg.WNCRYT.
+C:\Python27\tcl\tk8.5\msgs\de.msg.WNCRYT.
+C:\Python27\tcl\tk8.5\msgs\el.msg.WNCRYT.
+C:\Python27\tcl\tk8.5\msgs\en.msg.WNCRYT.
+C:\Python27\tcl\tk8.5\msgs\eo.msg.WNCRYT.
+C:\Python27\tcl\tk8.5\msgs\es.msg.WNCRYT.
+C:\Python27\tcl\tk8.5\msgs\fr.msg.WNCRYT.
+C:\Users\Administrator\Desktop\f.wnry.
+C:\Python27\tcl\tk8.5\msgs\hu.msg.WNCRYT.
+C:\Python27\tcl\tk8.5\msgs\it.msg.WNCRYT.
+C:\Python27\tcl\tk8.5\msgs\nl.msg.WNCRYT.
+C:\Python27\tcl\tk8.5\msgs\pl.msg.WNCRYT.
+C:\Python27\tcl\tk8.5\msgs\pt.msg.WNCRYT.
+C:\Python27\tcl\tk8.5\msgs\ru.msg.WNCRYT.
+C:\Python27\tcl\tk8.5\msgs\sv.msg.WNCRYT.
+C:\Python27\Tools\pynche\namedcolors.txt.WNCRYT.
+C:\Python27\Tools\pynche\README.txt.WNCRYT.
+C:\Python27\Tools\pynche\webcolors.txt.WNCRYT.
+C:\Python27\Tools\pynche\websafe.txt.WNCRYT.
+C:\Python27\Tools\pynche\X\rgb.txt.WNCRYT.
+C:\Python27\Tools\pynche\X\xlicense.txt.WNCRYT.
+C:\Python27\Tools\Scripts\README.txt.WNCRYT.
+C:\Python27\Tools\versioncheck\README.txt.WNCRYT.
+C:\Users\Administrator\AppData\Local\Microsoft\Internet Explorer\brndlog.txt.WNCRYT.
+C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\Bears.jpg.WNCRYT.
+C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\Blue_Gradient.jpg.WNCRYT.
+C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\Garden.jpg.WNCRYT.
+C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\GreenBubbles.jpg.WNCRYT.
+C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\HandPrints.jpg.WNCRYT.
+C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\Monet.jpg.WNCRYT.
+C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\Notebook.jpg.WNCRYT.
+C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\OrangeCircles.jpg.WNCRYT.
+C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\Peacock.jpg.WNCRYT.
+C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\Pine_Lumber.jpg.WNCRYT.
+C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\Pretty_Peacock.jpg.WNCRYT.
+C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\Psychedelic.jpg.WNCRYT.
+C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\Roses.jpg.WNCRYT.
+C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\Sand_Paper.jpg.WNCRYT.
+C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\ShadesOfBlue.jpg.WNCRYT.
+C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\Small_News.jpg.WNCRYT.
+C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\SoftBlue.jpg.WNCRYT.
+C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\Stars.jpg.WNCRYT.
+C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\Tanspecks.jpg.WNCRYT.
+C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\White_Chocolate.jpg.WNCRYT.
+C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Themes\TranscodedWallpaper.jpg.WNCRYT.
+C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\qdxlcenb.default\AlternateServices.txt.WNCRYT.
+C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\qdxlcenb.default\SiteSecurityServiceState.txt.WNCRYT.
+C:\ProgramData\Microsoft\Windows NT\MSScan\WelcomeScan.jpg.WNCRYT.
+C:\Program Files\Google\Chrome\Application\debug.log.
+C:\Users\Public\Pictures\Sample Pictures\Chrysanthemum.jpg.WNCRYT.
+C:\Users\Public\Pictures\Sample Pictures\Desert.jpg.WNCRYT.
+C:\Users\Public\Pictures\Sample Pictures\Hydrangeas.jpg.WNCRYT.
+C:\Users\Public\Pictures\Sample Pictures\Jellyfish.jpg.WNCRYT.
+C:\Users\Public\Pictures\Sample Pictures\Koala.jpg.WNCRYT.
+C:\Users\Public\Pictures\Sample Pictures\Lighthouse.jpg.WNCRYT.
+C:\Users\Public\Pictures\Sample Pictures\Penguins.jpg.WNCRYT.
+C:\Users\Public\Pictures\Sample Pictures\Tulips.jpg.WNCRYT.
+C:\Python27\include\abstract.h.WNCRYT.
+C:\Python27\include\asdl.h.WNCRYT.
+C:\Python27\include\bytearrayobject.h.WNCRYT.
+C:\Python27\include\bytesobject.h.WNCRYT.
+C:\Python27\include\bytes_methods.h.WNCRYT.
+C:\Python27\include\ceval.h.WNCRYT.
+C:\Python27\include\classobject.h.WNCRYT.
+C:\Python27\include\cobject.h.WNCRYT.
+C:\Python27\include\code.h.WNCRYT.
+C:\Python27\include\codecs.h.WNCRYT.
+C:\Python27\include\compile.h.WNCRYT.
+C:\Python27\include\complexobject.h.WNCRYT.
+C:\Python27\include\cStringIO.h.WNCRYT.
+C:\Python27\include\datetime.h.WNCRYT.
+C:\Python27\include\descrobject.h.WNCRYT.
+C:\Python27\include\dictobject.h.WNCRYT.
+C:\Python27\include\errcode.h.WNCRYT.
+C:\Python27\include\fileobject.h.WNCRYT.
+C:\Python27\include\floatobject.h.WNCRYT.
+C:\Python27\include\frameobject.h.WNCRYT.
+C:\Python27\include\funcobject.h.WNCRYT.
+C:\Python27\include\graminit.h.WNCRYT.
+C:\Python27\include\grammar.h.WNCRYT.
+C:\Python27\include\import.h.WNCRYT.
+C:\Python27\include\intobject.h.WNCRYT.
+C:\Python27\include\listobject.h.WNCRYT.
+C:\Python27\include\longintrepr.h.WNCRYT.
+C:\Python27\include\longobject.h.WNCRYT.
+C:\Python27\include\memoryobject.h.WNCRYT.
+C:\Python27\include\methodobject.h.WNCRYT.
+C:\Python27\include\modsupport.h.WNCRYT.
+C:\Python27\include\object.h.WNCRYT.
+C:\Python27\include\objimpl.h.WNCRYT.
+C:\Python27\include\opcode.h.WNCRYT.
+C:\Python27\include\osdefs.h.WNCRYT.
+C:\Python27\include\parsetok.h.WNCRYT.
+C:\Python27\include\patchlevel.h.WNCRYT.
+C:\Python27\include\pgenheaders.h.WNCRYT.
+C:\Python27\include\pyarena.h.WNCRYT.
+C:\Python27\include\pycapsule.h.WNCRYT.
+C:\Python27\include\pyconfig.h.WNCRYT.
+C:\Python27\include\pyctype.h.WNCRYT.
+C:\Python27\include\pydebug.h.WNCRYT.
+C:\Python27\include\pyerrors.h.WNCRYT.
+C:\Python27\include\pyexpat.h.WNCRYT.
+C:\Python27\include\pyfpe.h.WNCRYT.
+C:\Python27\include\pymacconfig.h.WNCRYT.
+C:\Python27\include\pymactoolbox.h.WNCRYT.
+C:\Python27\include\pymath.h.WNCRYT.
+C:\Python27\include\pymem.h.WNCRYT.
+C:\Python27\include\pyport.h.WNCRYT.
+C:\Python27\include\pystate.h.WNCRYT.
+C:\Python27\include\pystrtod.h.WNCRYT.
+C:\Python27\include\Python-ast.h.WNCRYT.
+C:\Python27\include\Python.h.WNCRYT.
+C:\Python27\include\pythonrun.h.WNCRYT.
+C:\Python27\include\pythread.h.WNCRYT.
+C:\Python27\include\py_curses.h.WNCRYT.
+C:\Python27\include\setobject.h.WNCRYT.
+C:\Python27\include\sliceobject.h.WNCRYT.
+C:\Python27\include\stringobject.h.WNCRYT.
+C:\Python27\include\structmember.h.WNCRYT.
+C:\Python27\include\symtable.h.WNCRYT.
+C:\Python27\include\token.h.WNCRYT.
+C:\Python27\include\tupleobject.h.WNCRYT.
+C:\Python27\include\unicodeobject.h.WNCRYT.
+C:\Python27\include\weakrefobject.h.WNCRYT.
+C:\Python27\Lib\test\185test.db.WNCRYT.
+C:\Python27\Lib\test\badcert.pem.WNCRYT.
+C:\Python27\Lib\test\badkey.pem.WNCRYT.
+C:\Python27\Lib\test\https_svn_python_org_root.pem.WNCRYT.
+C:\Python27\Lib\test\keycert.pem.WNCRYT.
+C:\Python27\Lib\test\nokia.pem.WNCRYT.
+C:\Python27\Lib\test\nullbytecert.pem.WNCRYT.
+C:\Python27\Lib\test\sha256.pem.WNCRYT.
+C:\Python27\Lib\test\testtar.tar.WNCRYT.
+C:\Python27\Lib\test\wrongcert.pem.WNCRYT.
+C:\Python27\tcl\tclConfig.sh.WNCRYT.
+C:\Python27\tcl\tix8.4.3\demos\bitmaps\tix.gif.WNCRYT.
+C:\Python27\tcl\tix8.4.3\pref\Bisque.cs.WNCRYT.
+C:\Python27\tcl\tix8.4.3\pref\Blue.cs.WNCRYT.
+C:\Python27\tcl\tix8.4.3\pref\Gray.cs.WNCRYT.
+C:\Python27\tcl\tix8.4.3\pref\SGIGray.cs.WNCRYT.
+C:\Python27\tcl\tix8.4.3\pref\TixGray.cs.WNCRYT.
+C:\Python27\tcl\tix8.4.3\pref\TkWin.cs.WNCRYT.
+C:\Python27\tcl\tix8.4.3\pref\WmDefault.cs.WNCRYT.
+C:\Python27\tcl\tk8.5\demos\images\earth.gif.WNCRYT.
+C:\Python27\tcl\tk8.5\demos\images\earthris.gif.WNCRYT.
+C:\Python27\tcl\tk8.5\demos\images\tcllogo.gif.WNCRYT.
+C:\Python27\tcl\tk8.5\images\logo100.gif.WNCRYT.
+C:\Python27\tcl\tk8.5\images\logo64.gif.WNCRYT.
+C:\Python27\tcl\tk8.5\images\logoLarge.gif.WNCRYT.
+C:\Python27\tcl\tk8.5\images\logoMed.gif.WNCRYT.
+C:\Python27\tcl\tk8.5\images\pwrdLogo100.gif.WNCRYT.
+C:\Python27\tcl\tk8.5\images\pwrdLogo150.gif.WNCRYT.
+C:\Python27\tcl\tk8.5\images\pwrdLogo175.gif.WNCRYT.
+C:\Python27\tcl\tk8.5\images\pwrdLogo200.gif.WNCRYT.
+C:\Python27\tcl\tk8.5\images\pwrdLogo75.gif.WNCRYT.
+C:\Python27\tcl\tk8.5\images\tai-ku.gif.WNCRYT.
+C:\Users\Administrator\AppData\Local\IconCache.db.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\heavy_ad_intervention_opt_out.db.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\ghbmnnjooekpmoecnnnilnnbdlolhkhi\1.47.0_0\128.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\ghbmnnjooekpmoecnnnilnnbdlolhkhi\1.47.0_0\eventpage_bin_prod.js.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.6_0\craw_background.js.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.6_0\craw_window.js.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.6_0\images\flapper.gif.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.6_0\images\icon_128.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\aghbiahbpaijignceidepookljebhfak\Icons\128.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\aghbiahbpaijignceidepookljebhfak\Icons\192.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\aghbiahbpaijignceidepookljebhfak\Icons\256.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\aghbiahbpaijignceidepookljebhfak\Icons\32.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\aghbiahbpaijignceidepookljebhfak\Icons\48.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\aghbiahbpaijignceidepookljebhfak\Icons\64.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\aghbiahbpaijignceidepookljebhfak\Icons\96.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\agimnkijcaahngcdmfeangaknmldooml\Icons\128.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\agimnkijcaahngcdmfeangaknmldooml\Icons\192.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\agimnkijcaahngcdmfeangaknmldooml\Icons\256.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\agimnkijcaahngcdmfeangaknmldooml\Icons\32.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\agimnkijcaahngcdmfeangaknmldooml\Icons\48.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\agimnkijcaahngcdmfeangaknmldooml\Icons\64.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\agimnkijcaahngcdmfeangaknmldooml\Icons\96.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\fhihpiojkbmbpdjeoajapmgkhlnakfjf\Icons\128.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\fhihpiojkbmbpdjeoajapmgkhlnakfjf\Icons\192.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\fhihpiojkbmbpdjeoajapmgkhlnakfjf\Icons\256.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\fhihpiojkbmbpdjeoajapmgkhlnakfjf\Icons\32.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\fhihpiojkbmbpdjeoajapmgkhlnakfjf\Icons\48.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\fhihpiojkbmbpdjeoajapmgkhlnakfjf\Icons\64.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\fhihpiojkbmbpdjeoajapmgkhlnakfjf\Icons\96.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\fmgjjmmmlfnkbppncabfkddbjimcfncm\Icons\128.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\fmgjjmmmlfnkbppncabfkddbjimcfncm\Icons\192.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\fmgjjmmmlfnkbppncabfkddbjimcfncm\Icons\256.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\fmgjjmmmlfnkbppncabfkddbjimcfncm\Icons\32.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\fmgjjmmmlfnkbppncabfkddbjimcfncm\Icons\48.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\fmgjjmmmlfnkbppncabfkddbjimcfncm\Icons\64.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\fmgjjmmmlfnkbppncabfkddbjimcfncm\Icons\96.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\kefjledonklijopmnomlcbpllchaibag\Icons\128.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\kefjledonklijopmnomlcbpllchaibag\Icons\192.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\kefjledonklijopmnomlcbpllchaibag\Icons\256.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\kefjledonklijopmnomlcbpllchaibag\Icons\48.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\kefjledonklijopmnomlcbpllchaibag\Icons\64.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\kefjledonklijopmnomlcbpllchaibag\Icons\96.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\mpnpojknpmmopombnjdcgaaiekajbnjb\Icons\128.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\mpnpojknpmmopombnjdcgaaiekajbnjb\Icons\192.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\mpnpojknpmmopombnjdcgaaiekajbnjb\Icons\256.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\mpnpojknpmmopombnjdcgaaiekajbnjb\Icons\48.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\mpnpojknpmmopombnjdcgaaiekajbnjb\Icons\64.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\mpnpojknpmmopombnjdcgaaiekajbnjb\Icons\96.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Microsoft\Internet Explorer\brndlog.bak.WNCRYT.
+C:\Users\Administrator\AppData\Local\Microsoft\Windows\Caches\cversions.1.db.WNCRYT.
+C:\Users\Administrator\AppData\Local\Microsoft\Windows\Caches\{AFBF9F1A-8EE8-4C77-AF34-C647E37CA0D9}.1.ver0x0000000000000004.db.WNCRYT.
+C:\Users\Administrator\AppData\Local\Microsoft\Windows\Caches\{AFBF9F1A-8EE8-4C77-AF34-C647E37CA0D9}.1.ver0x0000000000000005.db.WNCRYT.
+C:\Users\Administrator\AppData\Local\Microsoft\Windows\Explorer\thumbcache_256.db.WNCRYT.
+C:\Users\Administrator\AppData\Local\Microsoft\Windows\Explorer\thumbcache_96.db.WNCRYT.
+C:\Users\Administrator\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db.WNCRYT.
+C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\Cave_Drawings.gif.WNCRYT.
+C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\Connectivity.gif.WNCRYT.
+C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\Stucco.gif.WNCRYT.
+C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\Tiki.gif.WNCRYT.
+C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery\Wrinkled_Paper.gif.WNCRYT.
+C:\Users\Administrator\AppData\Local\Mozilla\Firefox\Profiles\qdxlcenb.default\thumbnails\d75277cdffef995a46ae59bdaef1db86.png.WNCRYT.
+C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\qdxlcenb.default\cert8.db.WNCRYT.
+C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\qdxlcenb.default\cert9.db.WNCRYT.
+C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\qdxlcenb.default\key3.db.WNCRYT.
+C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\qdxlcenb.default\key4.db.WNCRYT.
+C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\qdxlcenb.default\prefs.js.WNCRYT.
+C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\qdxlcenb.default\secmod.db.WNCRYT.
+C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\qdxlcenb.default\sessionstore.js.WNCRYT.
+C:\ProgramData\Microsoft\Device Stage\Device\{113527a4-45d4-4b6f-b567-97838f1b04b0}\background.png.WNCRYT.
+C:\ProgramData\Microsoft\Device Stage\Device\{113527a4-45d4-4b6f-b567-97838f1b04b0}\device.png.WNCRYT.
+C:\ProgramData\Microsoft\Device Stage\Device\{113527a4-45d4-4b6f-b567-97838f1b04b0}\overlay.png.WNCRYT.
+C:\ProgramData\Microsoft\Device Stage\Device\{113527a4-45d4-4b6f-b567-97838f1b04b0}\superbar.png.WNCRYT.
+C:\ProgramData\Microsoft\Device Stage\Device\{8702d817-5aad-4674-9ef3-4d3decd87120}\background.png.WNCRYT.
+C:\ProgramData\Microsoft\Device Stage\Device\{8702d817-5aad-4674-9ef3-4d3decd87120}\watermark.png.WNCRYT.
+C:\ProgramData\Microsoft\User Account Pictures\guest.bmp.WNCRYT.
+C:\ProgramData\Microsoft\User Account Pictures\user.bmp.WNCRYT.
+C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile10.bmp.WNCRYT.
+C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile11.bmp.WNCRYT.
+C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile12.bmp.WNCRYT.
+C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile13.bmp.WNCRYT.
+C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile14.bmp.WNCRYT.
+C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile15.bmp.WNCRYT.
+C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile16.bmp.WNCRYT.
+C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile17.bmp.WNCRYT.
+C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile18.bmp.WNCRYT.
+C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile19.bmp.WNCRYT.
+C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile20.bmp.WNCRYT.
+C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile21.bmp.WNCRYT.
+C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile22.bmp.WNCRYT.
+C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile23.bmp.WNCRYT.
+C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile24.bmp.WNCRYT.
+C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile25.bmp.WNCRYT.
+C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile26.bmp.WNCRYT.
+C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile27.bmp.WNCRYT.
+C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile28.bmp.WNCRYT.
+C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile29.bmp.WNCRYT.
+C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile30.bmp.WNCRYT.
+C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile31.bmp.WNCRYT.
+C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile32.bmp.WNCRYT.
+C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile33.bmp.WNCRYT.
+C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile34.bmp.WNCRYT.
+C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile35.bmp.WNCRYT.
+C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile36.bmp.WNCRYT.
+C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile37.bmp.WNCRYT.
+C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile38.bmp.WNCRYT.
+C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile39.bmp.WNCRYT.
+C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile40.bmp.WNCRYT.
+C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile41.bmp.WNCRYT.
+C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile42.bmp.WNCRYT.
+C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile43.bmp.WNCRYT.
+C:\ProgramData\Microsoft\User Account Pictures\Default Pictures\usertile44.bmp.WNCRYT.
+C:\ProgramData\Microsoft\Windows\Caches\cversions.2.db.WNCRYT.
+C:\ProgramData\Microsoft\Windows\Caches\{40FC8D7D-05ED-4FEB-B03B-6C100659EF5C}.2.ver0x0000000000000001.db.WNCRYT.
+C:\ProgramData\Microsoft\Windows\Caches\{4E4260A4-7E39-442E-BC22-7FF751D1C161}.2.ver0x0000000000000002.db.WNCRYT.
+C:\ProgramData\Microsoft\Windows\Caches\{6AF0698E-D558-4F6E-9B3C-3716689AF493}.2.ver0x0000000000000005.db.WNCRYT.
+C:\ProgramData\Microsoft\Windows\Caches\{6AF0698E-D558-4F6E-9B3C-3716689AF493}.2.ver0x0000000000000008.db.WNCRYT.
+C:\ProgramData\Microsoft\Windows\Caches\{6AF0698E-D558-4F6E-9B3C-3716689AF493}.2.ver0x000000000000000a.db.WNCRYT.
+C:\ProgramData\Microsoft\Windows\Caches\{DDF571F2-BE98-426D-8288-1A9A39C3FDA2}.2.ver0x0000000000000002.db.WNCRYT.
+C:\ProgramData\Microsoft\Windows\Ringtones\Ringtone 01.wma.WNCRYT.
+C:\ProgramData\Microsoft\Windows\Ringtones\Ringtone 02.wma.WNCRYT.
+C:\ProgramData\Microsoft\Windows\Ringtones\Ringtone 03.wma.WNCRYT.
+C:\ProgramData\Microsoft\Windows\Ringtones\Ringtone 04.wma.WNCRYT.
+C:\ProgramData\Microsoft\Windows\Ringtones\Ringtone 05.wma.WNCRYT.
+C:\ProgramData\Microsoft\Windows\Ringtones\Ringtone 06.wma.WNCRYT.
+C:\ProgramData\Microsoft\Windows\Ringtones\Ringtone 07.wma.WNCRYT.
+C:\ProgramData\Microsoft\Windows\Ringtones\Ringtone 08.wma.WNCRYT.
+C:\ProgramData\Microsoft\Windows\Ringtones\Ringtone 09.wma.WNCRYT.
+C:\ProgramData\Microsoft\Windows\Ringtones\Ringtone 10.wma.WNCRYT.
+C:\ProgramData\Microsoft\Windows NT\MSFax\VirtualInbox\en-US\WelcomeFax.tif.WNCRYT.
+C:\Users\Public\Music\Sample Music\Kalimba.mp3.WNCRYT.
+C:\Users\Public\Music\Sample Music\Maid with the Flaxen Hair.mp3.WNCRYT.
+C:\Users\Public\Music\Sample Music\Sleep Away.mp3.WNCRYT.
+C:\Users\Public\Videos\Sample Videos\Wildlife.wmv.WNCRYT.
+C:\Python27\include\ast.h.WNCRYT.
+C:\Python27\include\bitset.h.WNCRYT.
+C:\Python27\include\boolobject.h.WNCRYT.
+C:\Python27\include\bufferobject.h.WNCRYT.
+C:\Python27\include\cellobject.h.WNCRYT.
+C:\Python27\include\dtoa.h.WNCRYT.
+C:\Python27\include\enumobject.h.WNCRYT.
+C:\Python27\include\eval.h.WNCRYT.
+C:\Python27\include\genobject.h.WNCRYT.
+C:\Python27\include\intrcheck.h.WNCRYT.
+C:\Python27\include\iterobject.h.WNCRYT.
+C:\Python27\include\marshal.h.WNCRYT.
+C:\Python27\include\metagrammar.h.WNCRYT.
+C:\Python27\include\moduleobject.h.WNCRYT.
+C:\Python27\include\node.h.WNCRYT.
+C:\Python27\include\pgen.h.WNCRYT.
+C:\Python27\include\pygetopt.h.WNCRYT.
+C:\Python27\include\pystrcmp.h.WNCRYT.
+C:\Python27\include\rangeobject.h.WNCRYT.
+C:\Python27\include\structseq.h.WNCRYT.
+C:\Python27\include\sysmodule.h.WNCRYT.
+C:\Python27\include\timefuncs.h.WNCRYT.
+C:\Python27\include\traceback.h.WNCRYT.
+C:\Python27\include\ucnhash.h.WNCRYT.
+C:\Python27\include\warnings.h.WNCRYT.
+C:\Python27\Lib\email\test\data\msg_01.txt.WNCRYT.
+C:\Python27\Lib\email\test\data\msg_03.txt.WNCRYT.
+C:\Python27\Lib\email\test\data\msg_04.txt.WNCRYT.
+C:\Python27\Lib\email\test\data\msg_05.txt.WNCRYT.
+C:\Python27\Lib\email\test\data\msg_08.txt.WNCRYT.
+C:\Python27\Lib\email\test\data\msg_09.txt.WNCRYT.
+C:\Python27\Lib\email\test\data\msg_10.txt.WNCRYT.
+C:\Python27\Lib\email\test\data\msg_11.txt.WNCRYT.
+C:\Python27\Lib\email\test\data\msg_12.txt.WNCRYT.
+C:\Python27\Lib\email\test\data\msg_12a.txt.WNCRYT.
+C:\Python27\Lib\email\test\data\msg_14.txt.WNCRYT.
+C:\Python27\Lib\email\test\data\msg_17.txt.WNCRYT.
+C:\Python27\Lib\email\test\data\msg_18.txt.WNCRYT.
+C:\Python27\Lib\email\test\data\msg_19.txt.WNCRYT.
+C:\Python27\Lib\email\test\data\msg_20.txt.WNCRYT.
+C:\Python27\Lib\email\test\data\msg_21.txt.WNCRYT.
+C:\Python27\Lib\email\test\data\msg_23.txt.WNCRYT.
+C:\Python27\Lib\email\test\data\msg_24.txt.WNCRYT.
+C:\Python27\Lib\email\test\data\msg_27.txt.WNCRYT.
+C:\Python27\Lib\email\test\data\msg_28.txt.WNCRYT.
+C:\Python27\Lib\email\test\data\msg_29.txt.WNCRYT.
+C:\Python27\Lib\email\test\data\msg_30.txt.WNCRYT.
+C:\Python27\Lib\email\test\data\msg_31.txt.WNCRYT.
+C:\Python27\Lib\email\test\data\msg_32.txt.WNCRYT.
+C:\Python27\Lib\email\test\data\msg_33.txt.WNCRYT.
+C:\Python27\Lib\email\test\data\msg_34.txt.WNCRYT.
+C:\Python27\Lib\email\test\data\msg_35.txt.WNCRYT.
+C:\Python27\Lib\email\test\data\msg_36.txt.WNCRYT.
+C:\Python27\Lib\email\test\data\msg_37.txt.WNCRYT.
+C:\Python27\Lib\email\test\data\msg_40.txt.WNCRYT.
+C:\Python27\Lib\email\test\data\msg_41.txt.WNCRYT.
+C:\Python27\Lib\email\test\data\msg_42.txt.WNCRYT.
+C:\Python27\Lib\email\test\data\msg_44.txt.WNCRYT.
+C:\Python27\Lib\email\test\data\msg_45.txt.WNCRYT.
+C:\Python27\Lib\email\test\data\msg_46.txt.WNCRYT.
+C:\Python27\Lib\email\test\data\PyBanner048.gif.WNCRYT.
+C:\Python27\Lib\idlelib\idle.bat.WNCRYT.
+C:\Python27\Lib\idlelib\Icons\folder.gif.WNCRYT.
+C:\Python27\Lib\idlelib\Icons\minusnode.gif.WNCRYT.
+C:\Python27\Lib\idlelib\Icons\openfolder.gif.WNCRYT.
+C:\Python27\Lib\idlelib\Icons\plusnode.gif.WNCRYT.
+C:\Python27\Lib\idlelib\Icons\python.gif.WNCRYT.
+C:\Python27\Lib\idlelib\Icons\tk.gif.WNCRYT.
+C:\Python27\Lib\lib2to3\PatternGrammar.txt.WNCRYT.
+C:\Python27\Lib\site-packages\README.txt.WNCRYT.
+C:\Python27\Lib\test\check_soundcard.vbs.WNCRYT.
+C:\Python27\Lib\test\empty.vbs.WNCRYT.
+C:\Python27\Lib\test\nullcert.pem.WNCRYT.
+C:\Python27\Lib\test\test_doctest.txt.WNCRYT.
+C:\Python27\Lib\test\test_doctest2.txt.WNCRYT.
+C:\Python27\Lib\test\test_doctest3.txt.WNCRYT.
+C:\Python27\Lib\test\test_doctest4.txt.WNCRYT.
+C:\Python27\Lib\test\zipdir.zip.WNCRYT.
+C:\Python27\Lib\test\cjkencodings\big5-utf8.txt.WNCRYT.
+C:\Python27\Lib\test\cjkencodings\big5.txt.WNCRYT.
+C:\Python27\Lib\test\cjkencodings\big5hkscs-utf8.txt.WNCRYT.
+C:\Python27\Lib\test\cjkencodings\big5hkscs.txt.WNCRYT.
+C:\Python27\Lib\test\cjkencodings\cp949-utf8.txt.WNCRYT.
+C:\Python27\Lib\test\cjkencodings\cp949.txt.WNCRYT.
+C:\Python27\Lib\test\cjkencodings\euc_jisx0213.txt.WNCRYT.
+C:\Python27\Lib\test\cjkencodings\euc_jp.txt.WNCRYT.
+C:\Python27\Lib\test\cjkencodings\euc_kr-utf8.txt.WNCRYT.
+C:\Python27\Lib\test\cjkencodings\euc_kr.txt.WNCRYT.
+C:\Python27\Lib\test\cjkencodings\gb18030.txt.WNCRYT.
+C:\Python27\Lib\test\cjkencodings\gb2312-utf8.txt.WNCRYT.
+C:\Python27\Lib\test\cjkencodings\gb2312.txt.WNCRYT.
+C:\Python27\Lib\test\cjkencodings\gbk.txt.WNCRYT.
+C:\Python27\Lib\test\cjkencodings\hz-utf8.txt.WNCRYT.
+C:\Python27\Lib\test\cjkencodings\hz.txt.WNCRYT.
+C:\Python27\Lib\test\cjkencodings\iso2022_jp.txt.WNCRYT.
+C:\Python27\Lib\test\cjkencodings\iso2022_kr-utf8.txt.WNCRYT.
+C:\Python27\Lib\test\cjkencodings\iso2022_kr.txt.WNCRYT.
+C:\Python27\Lib\test\cjkencodings\johab-utf8.txt.WNCRYT.
+C:\Python27\Lib\test\cjkencodings\johab.txt.WNCRYT.
+C:\Python27\Lib\test\cjkencodings\shift_jis.txt.WNCRYT.
+C:\Python27\Lib\test\cjkencodings\shift_jisx0213.txt.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\af.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\af_za.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\ar_in.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\bn_in.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\de_at.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\en_au.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\en_be.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\en_bw.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\en_ca.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\en_gb.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\en_hk.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\en_ie.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\en_in.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\en_nz.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\en_ph.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\en_sg.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\en_za.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\en_zw.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\es_ar.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\es_bo.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\es_cl.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\es_co.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\es_cr.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\es_do.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\es_ec.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\es_gt.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\es_hn.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\es_mx.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\es_ni.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\es_pa.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\es_pe.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\es_pr.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\es_py.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\es_sv.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\es_uy.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\es_ve.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\eu.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\eu_es.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\fa_ir.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\fo.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\fo_fo.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\fr_be.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\fr_ca.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\fr_ch.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\ga_ie.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\gl.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\gl_es.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\gv_gb.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\hi_in.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\id.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\id_id.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\it_ch.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\kl.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\kl_gl.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\kok_in.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\ko_kr.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\kw.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\kw_gb.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\mr_in.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\ms.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\ms_my.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\mt.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\nl_be.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\pt_br.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\ru_ua.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\sw.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\ta_in.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\te_in.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\zh_cn.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\zh_hk.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\zh_sg.msg.WNCRYT.
+C:\Python27\tcl\tcl8.5\msgs\zh_tw.msg.WNCRYT.
+C:\Python27\tcl\tix8.4.3\bitmaps\act_fold.gif.WNCRYT.
+C:\Python27\tcl\tix8.4.3\bitmaps\file.gif.WNCRYT.
+C:\Python27\tcl\tix8.4.3\bitmaps\folder.gif.WNCRYT.
+C:\Python27\tcl\tix8.4.3\bitmaps\info.gif.WNCRYT.
+C:\Python27\tcl\tix8.4.3\bitmaps\minus.gif.WNCRYT.
+C:\Python27\tcl\tix8.4.3\bitmaps\minusarm.gif.WNCRYT.
+C:\Python27\tcl\tix8.4.3\bitmaps\no_entry.gif.WNCRYT.
+C:\Python27\tcl\tix8.4.3\bitmaps\openfold.gif.WNCRYT.
+C:\Python27\tcl\tix8.4.3\bitmaps\plus.gif.WNCRYT.
+C:\Python27\tcl\tix8.4.3\bitmaps\plusarm.gif.WNCRYT.
+C:\Python27\tcl\tix8.4.3\bitmaps\srcfile.gif.WNCRYT.
+C:\Python27\tcl\tix8.4.3\bitmaps\textfile.gif.WNCRYT.
+C:\Python27\tcl\tix8.4.3\bitmaps\warning.gif.WNCRYT.
+C:\Python27\tcl\tix8.4.3\pref\TK.cs.WNCRYT.
+C:\Python27\tcl\tk8.5\msgs\en_gb.msg.WNCRYT.
+C:\Python27\Tools\pynche\html40colors.txt.WNCRYT.
+C:\Python27\Tools\webchecker\README.txt.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\chrome_shutdown_ms.txt.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\ghbmnnjooekpmoecnnnilnnbdlolhkhi\1.47.0_0\page_embed_script.js.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.6_0\images\icon_16.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.6_0\images\topbar_floating_button.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.6_0\images\topbar_floating_button_close.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.6_0\images\topbar_floating_button_hover.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.6_0\images\topbar_floating_button_maximize.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.6_0\images\topbar_floating_button_pressed.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\kefjledonklijopmnomlcbpllchaibag\Icons\32.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Web Applications\Manifest Resources\mpnpojknpmmopombnjdcgaaiekajbnjb\Icons\32.png.WNCRYT.
+C:\Users\Administrator\AppData\Local\Microsoft\Windows\Explorer\thumbcache_1024.db.WNCRYT.
+C:\Users\Administrator\AppData\Local\Microsoft\Windows\Explorer\thumbcache_32.db.WNCRYT.
+C:\Users\Administrator\AppData\Local\Microsoft\Windows\Explorer\thumbcache_sr.db.WNCRYT.
+C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\qdxlcenb.default\cert_override.txt.WNCRYT.
+C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\qdxlcenb.default\Telemetry.FailedProfileLocks.txt.WNCRYT.
+C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\qdxlcenb.default\gmp-widevinecdm\4.10.2449.0\LICENSE.txt.WNCRYT.
+C:\Users\Administrator\AppData\Local\Temp\hibsys.WNCRYT.
+C:\Users\Administrator\Desktop\TaskData\Tor\libeay32.dll.
+C:\Users\Administrator\Desktop\TaskData\Tor\libevent-2-0-5.dll.
+C:\Users\Administrator\Desktop\TaskData\Tor\libevent_core-2-0-5.dll.
+C:\Users\Administrator\Desktop\TaskData\Tor\libevent_extra-2-0-5.dll.
+C:\Users\Administrator\Desktop\TaskData\Tor\libgcc_s_sjlj-1.dll.
+C:\Users\Administrator\Desktop\TaskData\Tor\libssp-0.dll.
+C:\Users\Administrator\Desktop\TaskData\Tor\ssleay32.dll.
+C:\Users\Administrator\Desktop\TaskData\Tor\tor.exe.
+C:\Users\Administrator\Desktop\TaskData\Tor\zlib1.dll.
+C:\Users\Administrator\AppData\Roaming\tor\state.tmp.
+C:/tmpgto74e/analyzer.py.
+C:/tmpgto74e/analyzer.py.
+C:\tmpgto74e\lib\common\decide.py.
+C:\tmpgto74e\lib\api\process.py.
+C:\Users\Administrator\AppData\Roaming\tor\unverified-microdesc-consensus.tmp.
+C:/tmpgto74e/analyzer.py.
+C:/tmpgto74e/analyzer.py.
+C:\tmpgto74e\lib\common\decide.py.
+C:\tmpgto74e\lib\api\process.py.
+C:/tmpgto74e/analyzer.py.
+C:/tmpgto74e/analyzer.py.
+C:\tmpgto74e\lib\common\decide.py.
+C:\tmpgto74e\lib\api\process.py.
+C:\Users\Administrator\AppData\Roaming\tor\cached-certs.tmp.
+C:/tmpgto74e/analyzer.py.
+C:/tmpgto74e/analyzer.py.
+C:\tmpgto74e\lib\common\decide.py.
+C:\tmpgto74e\lib\api\process.py.
+C:\\Users\\Administrator\\AppData\\Local\\Temp\\0.WNCRYT.
+C:\\Users\\Administrator\\AppData\\Local\\Temp\\1.WNCRYT.
+C:\\Users\\Administrator\\AppData\\Local\\Temp\\10.WNCRYT.
+C:\Users\Administrator\AppData\Roaming\tor\cached-microdesc-consensus.tmp.
+C:\\Users\\Administrator\\AppData\\Local\\Temp\\11.WNCRYT.
+C:\\Users\\Administrator\\AppData\\Local\\Temp\\12.WNCRYT.
+C:\Users\Administrator\AppData\Roaming\tor\cached-microdescs.new.
+C:/tmpgto74e/analyzer.py.
+C:/tmpgto74e/analyzer.py.
+C:\tmpgto74e\lib\common\decide.py.
+C:\tmpgto74e\lib\api\process.py.
+C:/tmpgto74e/analyzer.py.
+C:/tmpgto74e/analyzer.py.
+C:\tmpgto74e\lib\common\decide.py.
+C:\tmpgto74e\lib\api\process.py.
+C:\\Users\\Administrator\\AppData\\Local\\Temp\\13.WNCRYT.
+C:\\Users\\Administrator\\AppData\\Local\\Temp\\14.WNCRYT.
+C:\\Users\\Administrator\\AppData\\Local\\Temp\\16.WNCRYT.

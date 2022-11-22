@@ -1,0 +1,81 @@
+2022-11-11 14:46:12,000 [analyzer] DEBUG: Starting analyzer from: C:\tmpgto74e
+2022-11-11 14:46:12,015 [analyzer] DEBUG: Pipe server name: \??\PIPE\QWlysqhKMOSoOWhTwUtcmFWbVbdeCIZ
+2022-11-11 14:46:12,015 [analyzer] DEBUG: Log pipe server name: \??\PIPE\JQtBUUpbBxMjSwnbq
+2022-11-11 14:46:12,108 [analyzer] DEBUG: Started auxiliary module DbgView
+2022-11-11 14:46:18,562 [analyzer] DEBUG: Started auxiliary module Disguise
+2022-11-11 14:46:18,875 [analyzer] DEBUG: Loaded monitor into process with pid 504
+2022-11-11 14:46:18,890 [analyzer] DEBUG: Started auxiliary module DumpTLSMasterSecrets
+2022-11-11 14:46:18,890 [analyzer] DEBUG: Started auxiliary module Human
+2022-11-11 14:46:18,890 [analyzer] DEBUG: Started auxiliary module InstallCertificate
+2022-11-11 14:46:18,890 [analyzer] DEBUG: Started auxiliary module Reboot
+2022-11-11 14:46:19,046 [analyzer] DEBUG: Started auxiliary module RecentFiles
+2022-11-11 14:46:19,046 [analyzer] DEBUG: Started auxiliary module Screenshots
+2022-11-11 14:46:19,046 [analyzer] DEBUG: Started auxiliary module LoadZer0m0n
+2022-11-11 14:46:19,046 [modules.auxiliary.screenshots] INFO: Python Image Library (either PIL or Pillow) is not installed, screenshots are disabled.
+2022-11-11 14:46:19,342 [lib.api.process] INFO: Successfully executed process from path 'C:\\Python27\\python.exe' with arguments [u'C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\28-NV.py'] and pid 2436
+2022-11-11 14:46:19,812 [analyzer] DEBUG: Loaded monitor into process with pid 2436
+2022-11-11 14:46:20,217 [analyzer] INFO: Added new file to list with pid 2436 and path C:\Python27\Lib\webbrowser.pyc
+2022-11-11 21:23:24,165 [analyzer] INFO: Injected into process with pid 684 and name u'chrome.exe'
+2022-11-11 21:23:24,525 [analyzer] DEBUG: Loaded monitor into process with pid 684
+2022-11-11 21:23:24,884 [analyzer] INFO: Injected into process with pid 1688 and name u'chrome.exe'
+2022-11-11 21:23:25,211 [analyzer] DEBUG: Loaded monitor into process with pid 1688
+2022-11-11 21:23:25,493 [analyzer] INFO: Added new file to list with pid 1688 and path \Device\NamedPipe\crashpad_684_IIFYQLZEEZHONDEF
+2022-11-11 21:23:25,540 [analyzer] INFO: Added new file to list with pid 684 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat
+2022-11-11 21:23:31,509 [analyzer] INFO: Added new file to list with pid 684 and path \Device\NamedPipe\wkssvc
+2022-11-11 21:23:33,197 [analyzer] INFO: Added new file to list with pid 684 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Variations
+2022-11-11 21:23:40,086 [analyzer] INFO: Injected into process with pid 2228 and name u'chrome.exe'
+2022-11-11 21:23:40,727 [analyzer] DEBUG: Loaded monitor into process with pid 2228
+2022-11-11 21:23:42,868 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 2228.
+2022-11-11 21:23:43,352 [analyzer] INFO: Process with pid 2228 has terminated
+2022-11-11 21:23:54,197 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 684.
+2022-11-11 21:23:55,461 [analyzer] INFO: Injected into process with pid 400 and name u'chrome.exe'
+2022-11-11 21:23:55,900 [analyzer] DEBUG: Loaded monitor into process with pid 400
+2022-11-11 21:23:57,211 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 400.
+2022-11-11 21:23:57,275 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 684.
+2022-11-11 21:23:57,415 [analyzer] INFO: Process with pid 400 has terminated
+2022-11-11 21:23:59,775 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 684.
+2022-11-11 21:24:02,572 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 684.
+2022-11-11 21:24:05,555 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 684.
+2022-11-11 21:24:08,243 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 684.
+2022-11-11 21:24:10,775 [analyzer] INFO: Injected into process with pid 2980 and name u'chrome.exe'
+2022-11-11 21:24:10,884 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 684.
+2022-11-11 21:24:11,290 [analyzer] DEBUG: Loaded monitor into process with pid 2980
+2022-11-11 21:24:11,775 [analyzer] INFO: Injected into process with pid 1824 and name u'chrome.exe'
+2022-11-11 21:24:12,180 [analyzer] DEBUG: Loaded monitor into process with pid 1824
+2022-11-11 21:24:12,915 [analyzer] INFO: Added new file to list with pid 1824 and path \Device\NamedPipe\crashpad_2980_VFKACTILAHHTFLPJ
+2022-11-11 21:24:14,086 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 684.
+2022-11-11 21:24:17,430 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 684.
+2022-11-11 21:24:21,025 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 684.
+2022-11-11 21:24:24,493 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 684.
+2022-11-11 21:24:26,743 [analyzer] INFO: Injected into process with pid 2944 and name u'chrome.exe'
+2022-11-11 21:24:27,525 [analyzer] DEBUG: Loaded monitor into process with pid 2944
+2022-11-11 21:24:28,618 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 684.
+2022-11-11 21:24:30,290 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 2944.
+2022-11-11 21:24:30,743 [analyzer] INFO: Process with pid 2944 has terminated
+2022-11-11 21:24:33,727 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 684.
+2022-11-11 21:24:37,322 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 684.
+2022-11-11 21:24:40,634 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 684.
+2022-11-11 21:24:42,977 [analyzer] INFO: Injected into process with pid 2716 and name u'chrome.exe'
+2022-11-11 21:24:44,165 [analyzer] DEBUG: Loaded monitor into process with pid 2716
+2022-11-11 21:24:45,477 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 684.
+2022-11-11 21:24:46,555 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 2716.
+2022-11-11 21:24:47,134 [analyzer] INFO: Process with pid 2716 has terminated
+2022-11-11 21:24:49,352 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 684.
+2022-11-11 21:24:57,644 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 684.
+2022-11-11 21:24:58,253 [modules.auxiliary.human] INFO: Found button u'Check online for a solution and close the program', clicking it
+2022-11-11 21:24:59,253 [modules.auxiliary.human] INFO: Found button u'Close the program', clicking it
+2022-11-11 21:25:00,160 [analyzer] INFO: Added new file to list with pid 1688 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Crashpad\reports\a03d0092-224c-4188-8011-6e1b295fb9e6.dmp
+2022-11-11 21:25:02,410 [analyzer] INFO: Injected into process with pid 1132 and name u'chrome.exe'
+2022-11-11 21:25:03,105 [analyzer] DEBUG: Loaded monitor into process with pid 1132
+2022-11-11 21:25:04,638 [lib.api.process] ERROR: Failed to dump memory of 64-bit process with pid 1132.
+2022-11-11 21:25:04,806 [analyzer] INFO: Process with pid 1132 has terminated
+2022-11-11 21:25:10,207 [analyzer] INFO: Analysis timeout hit, terminating analysis.
+2022-11-11 21:25:17,694 [analyzer] WARNING: The package "modules.packages.python" finish function raised an exception: [Error 32] The process cannot access the file because it is being used by another process: 'c:\\users\\admini~1\\appdata\\local\\temp\\tmpoidj0z'
+2022-11-11 21:25:18,035 [analyzer] INFO: Injected into process with pid 3160 and name u'chrome.exe'
+2022-11-11 21:25:20,022 [analyzer] INFO: Added new file to list with pid 1688 and path C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Crashpad\metadata
+2022-11-11 21:25:20,328 [analyzer] DEBUG: Loaded monitor into process with pid 3160
+2022-11-11 21:25:20,773 [analyzer] WARNING: File at path u'\\device\\namedpipe\\wkssvc' does not exist, skip.
+2022-11-11 21:25:20,783 [analyzer] INFO: Error dumping file from path "c:\users\administrator\appdata\local\google\chrome\user data\crashpad\metadata": [Errno 13] Permission denied
+2022-11-11 21:25:20,783 [analyzer] WARNING: File at path u'\\device\\namedpipe\\crashpad_684_iifyqlzeezhondef' does not exist, skip.
+2022-11-11 21:25:20,796 [analyzer] WARNING: File at path u'\\device\\namedpipe\\crashpad_2980_vfkactilahhtflpj' does not exist, skip.
+2022-11-11 21:25:20,796 [analyzer] INFO: Analysis completed.

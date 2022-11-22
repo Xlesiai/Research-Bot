@@ -1,0 +1,8 @@
+C:\\Python27\\python.exe' with arguments [u'C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\28-NV.py.
+C:\Python27\Lib\webbrowser.pyc.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Crashpad\reports\a03d0092-224c-4188-8011-6e1b295fb9e6.dmp.
+C:\\Python27\\python.exe' with arguments [u'C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\28-NV.py.
+C:\Python27\Lib\webbrowser.pyc.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Crashpad\reports\a03d0092-224c-4188-8011-6e1b295fb9e6.dmp.
