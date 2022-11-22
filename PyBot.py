@@ -216,13 +216,15 @@ class SimplifiedBot:
     @staticmethod
     def tfidf_logs(corpus):
         new_csv = pd.DataFrame()
+
         # TF
+        print("TF")
         for doc in corpus:
             temp = dict(Counter(doc))
-            print(doc)
             df = pd.DataFrame.from_dict([temp])
-            new_csv = pd.concat([df, new_csv]).fillna(0)
+            new_csv = pd.concat([new_csv, df]).fillna(0)
 
+        print("IDF")
         # IDF
         temp = []
         for col in new_csv.columns:
@@ -231,10 +233,9 @@ class SimplifiedBot:
                 if elm != 0:
                     idf += 1
             temp.append(idf)
-        for col in new_csv.columns:
-            for temp_idf in temp:
-                new_csv[col] = new_csv[col].apply(lambda x: abs(x * log10(temp_idf / len(new_csv[col]))))
 
+        for col, temp_idf in zip(new_csv.columns, temp):
+            new_csv[col] = new_csv[col].apply(lambda x: abs(x * log10(temp_idf / len(new_csv[col]))))
         return new_csv
 
     @staticmethod

@@ -1,3 +1,0 @@
-C:\\Python27\\python.exe' with arguments [u'C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\26-NV.py.
-C:\Python27\Lib\webbrowser.pyc.
-C:\Program Files\Google\Chrome\Application\debug.log.

@@ -1,8 +1,0 @@
-C:\\Python27\\python.exe' with arguments [u'C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\24-NV.py.
-C:\Python27\Lib\webbrowser.pyc.
-C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat.
-C:\Program Files\Google\Chrome\Application\debug.log.
-C:/tmpgto74e/analyzer.py.
-C:/tmpgto74e/analyzer.py.
-C:\tmpgto74e\lib\common\decide.py.
-C:\tmpgto74e\lib\api\process.py.
