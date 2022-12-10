@@ -33,7 +33,7 @@ PB.SimplifiedBot.filter_logs("Cuckoo/Benign/57/analysis.log", "Cuckoo/Logs/26-NV
 PB.SimplifiedBot.filter_logs("Cuckoo/Benign/58/analysis.log", "Cuckoo/Logs/28-NV.txt")
 PB.SimplifiedBot.filter_logs("Cuckoo/Benign/59/analysis.log", "Cuckoo/Logs/30-NV.txt")
 """
-
+"""
 pcap_docs = [
     open("Cuckoo/Infected/2/dump.pcap"),  open("Cuckoo/Infected/4/dump.pcap"),  open("Cuckoo/Infected/6/dump.pcap"),
     open("Cuckoo/Infected/8/dump.pcap"),  open("Cuckoo/Infected/10/dump.pcap"), open("Cuckoo/Infected/11/dump.pcap"),
@@ -45,3 +45,35 @@ pcap_docs = [
     open("Cuckoo/Benign/14/dump.pcap"), open("Cuckoo/Benign/16/dump.pcap"), open("Cuckoo/Benign/18/dump.pcap"),
     open("Cuckoo/Benign/20/dump.pcap"), open("Cuckoo/Benign/22/dump.pcap"), open("Cuckoo/Benign/24/dump.pcap"),
     open("Cuckoo/Benign/26/dump.pcap"), open("Cuckoo/Benign/28/dump.pcap"), open("Cuckoo/Benign/30/dump.pcap")]
+"""
+PB.SimplifiedBot.snip_pcap("Cuckoo/Infected/2/analysis.log", "Cuckoo/Infected/2/dump.csv", "Cuckoo/Snipped/2-V.csv")
+PB.SimplifiedBot.snip_pcap("Cuckoo/Infected/4/analysis.log", "Cuckoo/Infected/4/dump.csv", "Cuckoo/Snipped/4-V.csv")
+PB.SimplifiedBot.snip_pcap("Cuckoo/Infected/6/analysis.log", "Cuckoo/Infected/6/dump.csv", "Cuckoo/Snipped/6-V.csv")
+PB.SimplifiedBot.snip_pcap("Cuckoo/Infected/8/analysis.log", "Cuckoo/Infected/8/dump.csv", "Cuckoo/Snipped/8-V.csv")
+PB.SimplifiedBot.snip_pcap("Cuckoo/Infected/10/analysis.log", "Cuckoo/Infected/10/dump.csv", "Cuckoo/Snipped/10-V.csv")
+PB.SimplifiedBot.snip_pcap("Cuckoo/Infected/11/analysis.log", "Cuckoo/Infected/11/dump.csv", "Cuckoo/Snipped/11-V.csv")
+PB.SimplifiedBot.snip_pcap("Cuckoo/Infected/12/analysis.log", "Cuckoo/Infected/12/dump.csv", "Cuckoo/Snipped/12-V.csv")
+PB.SimplifiedBot.snip_pcap("Cuckoo/Infected/15/analysis.log", "Cuckoo/Infected/15/dump.csv", "Cuckoo/Snipped/15-V.csv")
+PB.SimplifiedBot.snip_pcap("Cuckoo/Infected/17/analysis.log", "Cuckoo/Infected/17/dump.csv", "Cuckoo/Snipped/17-V.csv")
+PB.SimplifiedBot.snip_pcap("Cuckoo/Infected/19/analysis.log", "Cuckoo/Infected/19/dump.csv", "Cuckoo/Snipped/19-V.csv")
+PB.SimplifiedBot.snip_pcap("Cuckoo/Infected/21/analysis.log", "Cuckoo/Infected/21/dump.csv", "Cuckoo/Snipped/21-V.csv")
+PB.SimplifiedBot.snip_pcap("Cuckoo/Infected/23/analysis.log", "Cuckoo/Infected/23/dump.csv", "Cuckoo/Snipped/23-V.csv")
+PB.SimplifiedBot.snip_pcap("Cuckoo/Infected/25/analysis.log", "Cuckoo/Infected/25/dump.csv", "Cuckoo/Snipped/25-V.csv")
+PB.SimplifiedBot.snip_pcap("Cuckoo/Infected/27/analysis.log", "Cuckoo/Infected/27/dump.csv", "Cuckoo/Snipped/27-V.csv")
+PB.SimplifiedBot.snip_pcap("Cuckoo/Infected/29/analysis.log", "Cuckoo/Infected/29/dump.csv", "Cuckoo/Snipped/29-V.csv")
+
+PB.SimplifiedBot.snip_pcap("Cuckoo/Benign/1/analysis.log", "Cuckoo/Benign/1/dump.csv", "Cuckoo/Snipped/1-NV.csv")
+PB.SimplifiedBot.snip_pcap("Cuckoo/Benign/3/analysis.log", "Cuckoo/Benign/3/dump.csv", "Cuckoo/Snipped/3-NV.csv")
+PB.SimplifiedBot.snip_pcap("Cuckoo/Benign/5/analysis.log", "Cuckoo/Benign/5/dump.csv", "Cuckoo/Snipped/5-NV.csv")
+PB.SimplifiedBot.snip_pcap("Cuckoo/Benign/7/analysis.log", "Cuckoo/Benign/7/dump.csv", "Cuckoo/Snipped/7-NV.csv")
+PB.SimplifiedBot.snip_pcap("Cuckoo/Benign/9/analysis.log", "Cuckoo/Benign/9/dump.csv", "Cuckoo/Snipped/9-NV.csv")
+PB.SimplifiedBot.snip_pcap("Cuckoo/Benign/13/analysis.log", "Cuckoo/Benign/13/dump.csv", "Cuckoo/Snipped/13-NV.csv")
+PB.SimplifiedBot.snip_pcap("Cuckoo/Benign/14/analysis.log", "Cuckoo/Benign/14/dump.csv", "Cuckoo/Snipped/14-NV.csv")
+PB.SimplifiedBot.snip_pcap("Cuckoo/Benign/16/analysis.log", "Cuckoo/Benign/16/dump.csv", "Cuckoo/Snipped/16-NV.csv")
+PB.SimplifiedBot.snip_pcap("Cuckoo/Benign/18/analysis.log", "Cuckoo/Benign/18/dump.csv", "Cuckoo/Snipped/18-NV.csv")
+PB.SimplifiedBot.snip_pcap("Cuckoo/Benign/20/analysis.log", "Cuckoo/Benign/20/dump.csv", "Cuckoo/Snipped/20-NV.csv")
+PB.SimplifiedBot.snip_pcap("Cuckoo/Benign/22/analysis.log", "Cuckoo/Benign/22/dump.csv", "Cuckoo/Snipped/22-NV.csv")
+PB.SimplifiedBot.snip_pcap("Cuckoo/Benign/24/analysis.log", "Cuckoo/Benign/24/dump.csv", "Cuckoo/Snipped/24-NV.csv")
+PB.SimplifiedBot.snip_pcap("Cuckoo/Benign/26/analysis.log", "Cuckoo/Benign/26/dump.csv", "Cuckoo/Snipped/26-NV.csv")
+PB.SimplifiedBot.snip_pcap("Cuckoo/Benign/28/analysis.log", "Cuckoo/Benign/28/dump.csv", "Cuckoo/Snipped/28-NV.csv")
+PB.SimplifiedBot.snip_pcap("Cuckoo/Benign/30/analysis.log", "Cuckoo/Benign/30/dump.csv", "Cuckoo/Snipped/30-NV.csv")

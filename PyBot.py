@@ -11,6 +11,7 @@ import pandas as pd
 from re import search
 from time import sleep
 from numpy import log10, abs
+from datetime import datetime
 from collections import Counter
 from urllib.request import urlretrieve
 from webbrowser import open as web_open
@@ -183,6 +184,47 @@ class SimplifiedBot:
                 temp_log.write(r.group() + ".\n")
 
     @staticmethod
+    def filter_ip_pcap(log_path, file_name):
+        # this will store the file into a variable
+        pcap = pd.read_csv(log_path)
+        # replace the matching strings
+        df_updated = pcap.replace(to_replace=r'[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}', value='***.***.***.***',
+                                  regex=True)
+        df_updated.to_csv(file_name)
+
+    @staticmethod
+    def snip_pcap(log, pcap, path):
+        wap = list()
+
+        with open(log, "r") as f:
+            for line in f:
+                format1 = line.strip('\n')
+                format1 = format1.replace(',', ' ')
+                format1 = format1.replace('\\', ' ')
+                format1 = format1.split(' ')
+                wap.append(format1)
+
+        ts1 = wap[0][1]
+        ts2 = wap[-1][1]
+        for i in wap:
+            for j in i:
+                if j == "00000000.eky":
+                    ts2 = i[1]
+
+        d1 = datetime.strptime(ts1, "%H:%M:%S")
+        d2 = datetime.strptime(ts2, "%H:%M:%S")
+        sec = d2 - d1
+        print(sec)
+        deff = sec.total_seconds()
+
+        df = pd.read_csv(pcap)
+        df2 = df[df.Info.str.contains("www.msftncsi.com")].iloc[-1]
+
+        deff2 = float(df2["Time"] + deff)
+        new_df = df[df.Time < deff2]
+        new_df.to_csv(path)
+
+    @staticmethod
     def download(url, filename, filepath=None):
         """
             this goes and downloads what url the user specifies
@@ -248,22 +290,22 @@ class SimplifiedBot:
             # multiple csv | multiple columns ✓
             if type(docs) is type(list()):
                 for csv in docs:
-                    temp2 = pd.DataFrame()
-                    # Creates the Merge Columns
+                    temp = pd.DataFrame()
+                    # Creates the Name
                     col_name = ''
                     for col in columns:
                         col_name += col + ' '
-                    for col in columns:
-                        try:
-                            temp2[col_name] += csv[col] + ' '
-                        except:
-                            temp2[col_name] = csv[col] + ' '
+                    col_name.rstrip()
+
+                    # Creates the Merge Columns
+                    temp[col_name] = csv[columns].apply(' '.join, axis=1)
+
                     # TF
-                    unique = dict(Counter(temp2[col_name]))
+                    unique = dict(Counter(temp[col_name]))
                     df = pd.DataFrame.from_dict([unique])
                     new_csv = pd.concat([df, new_csv]).fillna(0)
                 print('-------------------Merge------------------')
-                print(temp2)
+                print(temp)
                 print('-------------------TF------------------')
                 print(new_csv)
                 print('------------------IDF-------------------')

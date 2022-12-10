@@ -1,0 +1,351 @@
+,No.,Time,Source,Destination,Protocol,Length,Info
+0,1,0.0,0a:00:27:00:00:00,5a:94:d2:14:5a:51,ARP,42,Who has ***.***.***.***? Tell ***.***.***.***
+1,2,1.022151,0a:00:27:00:00:00,5a:94:d2:14:5a:51,ARP,42,Who has ***.***.***.***? Tell ***.***.***.***
+2,3,2.042897,0a:00:27:00:00:00,5a:94:d2:14:5a:51,ARP,42,Who has ***.***.***.***? Tell ***.***.***.***
+3,4,3.95758,0a:00:27:00:00:00,Broadcast,ARP,42,Who has ***.***.***.***? Tell ***.***.***.***
+4,5,4.987021,0a:00:27:00:00:00,Broadcast,ARP,42,Who has ***.***.***.***? Tell ***.***.***.***
+5,6,6.009921,0a:00:27:00:00:00,Broadcast,ARP,42,Who has ***.***.***.***? Tell ***.***.***.***
+6,7,8.037276,0a:00:27:00:00:00,Broadcast,ARP,42,Who has ***.***.***.***? Tell ***.***.***.***
+7,8,9.052225,0a:00:27:00:00:00,Broadcast,ARP,42,Who has ***.***.***.***? Tell ***.***.***.***
+8,9,10.075145,0a:00:27:00:00:00,Broadcast,ARP,42,Who has ***.***.***.***? Tell ***.***.***.***
+9,10,12.101624,0a:00:27:00:00:00,Broadcast,ARP,42,Who has ***.***.***.***? Tell ***.***.***.***
+10,11,13.11455,0a:00:27:00:00:00,Broadcast,ARP,42,Who has ***.***.***.***? Tell ***.***.***.***
+11,12,14.071721,5a:94:d2:14:5a:51,Broadcast,ARP,42,Who has ***.***.***.***? (ARP Probe)
+12,13,14.071723,5a:94:d2:14:5a:51,Broadcast,ARP,42,Who has ***.***.***.***? (ARP Probe)
+13,14,14.141613,0a:00:27:00:00:00,Broadcast,ARP,42,Who has ***.***.***.***? Tell ***.***.***.***
+14,15,15.072863,5a:94:d2:14:5a:51,Broadcast,ARP,42,Who has ***.***.***.***? (ARP Probe)
+15,16,15.072867,5a:94:d2:14:5a:51,Broadcast,ARP,42,Who has ***.***.***.***? (ARP Probe)
+16,17,16.072817,5a:94:d2:14:5a:51,Broadcast,ARP,42,Who has ***.***.***.***? (ARP Probe)
+17,18,16.07282,5a:94:d2:14:5a:51,Broadcast,ARP,42,Who has ***.***.***.***? (ARP Probe)
+18,19,16.165721,0a:00:27:00:00:00,Broadcast,ARP,42,Who has ***.***.***.***? Tell ***.***.***.***
+19,20,17.076873,5a:94:d2:14:5a:51,Broadcast,ARP,42,Who has ***.***.***.***? Tell ***.***.***.***
+20,21,17.076877,5a:94:d2:14:5a:51,Broadcast,ARP,42,Who has ***.***.***.***? Tell ***.***.***.***
+21,22,17.076911,0a:00:27:00:00:00,5a:94:d2:14:5a:51,ARP,42,***.***.***.*** is at 0a:00:27:00:00:00
+22,23,17.080018,***.***.***.***,***.***.***.***,LLMNR,66,Standard query 0x4163 A isatap
+23,24,17.08002,***.***.***.***,***.***.***.***,LLMNR,66,Standard query 0x4163 A isatap
+24,25,17.090704,***.***.***.***,***.***.***.***,IGMPv3,54,Membership Report / Leave group ***.***.***.***
+25,26,17.090706,***.***.***.***,***.***.***.***,IGMPv3,54,Membership Report / Leave group ***.***.***.***
+26,27,17.10836,***.***.***.***,***.***.***.***,IGMPv3,54,Membership Report / Join group ***.***.***.*** for any sources
+27,28,17.108363,***.***.***.***,***.***.***.***,IGMPv3,54,Membership Report / Join group ***.***.***.*** for any sources
+28,29,17.111215,***.***.***.***,***.***.***.***,LLMNR,64,Standard query 0x21c1 ANY None
+29,30,17.111216,***.***.***.***,***.***.***.***,LLMNR,64,Standard query 0x21c1 ANY None
+30,31,17.127456,***.***.***.***,***.***.***.***,IGMPv3,54,Membership Report / Join group ***.***.***.*** for any sources
+31,32,17.127458,***.***.***.***,***.***.***.***,IGMPv3,54,Membership Report / Join group ***.***.***.*** for any sources
+32,33,17.154782,***.***.***.***,***.***.***.***,NBNS,110,Registration NB NONE<20>
+33,34,17.154784,***.***.***.***,***.***.***.***,NBNS,110,Registration NB NONE<20>
+34,35,17.155048,***.***.***.***,***.***.***.***,NBNS,110,Registration NB NONE<00>
+35,36,17.155049,***.***.***.***,***.***.***.***,NBNS,110,Registration NB NONE<00>
+36,37,17.155398,***.***.***.***,***.***.***.***,NBNS,110,Registration NB WORKGROUP<00>
+37,38,17.155399,***.***.***.***,***.***.***.***,NBNS,110,Registration NB WORKGROUP<00>
+38,39,17.183117,***.***.***.***,***.***.***.***,LLMNR,66,Standard query 0x4163 A isatap
+39,40,17.183119,***.***.***.***,***.***.***.***,LLMNR,66,Standard query 0x4163 A isatap
+40,41,17.213876,***.***.***.***,***.***.***.***,LLMNR,64,Standard query 0x21c1 ANY None
+41,42,17.213878,***.***.***.***,***.***.***.***,LLMNR,64,Standard query 0x21c1 ANY None
+42,43,17.237642,5a:94:d2:14:5a:51,Broadcast,ARP,42,Who has ***.***.***.***? Tell ***.***.***.***
+43,44,17.237644,5a:94:d2:14:5a:51,Broadcast,ARP,42,Who has ***.***.***.***? Tell ***.***.***.***
+44,45,17.237652,0a:00:27:00:00:00,5a:94:d2:14:5a:51,ARP,42,***.***.***.*** is at 0a:00:27:00:00:00
+45,46,17.387519,***.***.***.***,***.***.***.***,NBNS,92,Name query NB ISATAP<00>
+46,47,17.387523,***.***.***.***,***.***.***.***,NBNS,92,Name query NB ISATAP<00>
+47,48,17.416276,***.***.***.***,***.***.***.***,SSDP,175,M-SEARCH * HTTP/1.1 
+48,49,17.416279,***.***.***.***,***.***.***.***,SSDP,175,M-SEARCH * HTTP/1.1 
+49,50,17.579159,***.***.***.***,***.***.***.***,IGMPv3,62,Membership Report / Join group ***.***.***.*** for any sources / Join group ***.***.***.*** for any sources
+50,51,17.579163,***.***.***.***,***.***.***.***,IGMPv3,62,Membership Report / Join group ***.***.***.*** for any sources / Join group ***.***.***.*** for any sources
+51,52,17.736336,***.***.***.***,***.***.***.***,SSDP,139,M-SEARCH * HTTP/1.1 
+52,53,17.736338,***.***.***.***,***.***.***.***,SSDP,139,M-SEARCH * HTTP/1.1 
+53,54,17.758261,***.***.***.***,***.***.***.***,SSDP,171,M-SEARCH * HTTP/1.1 
+54,55,17.758263,***.***.***.***,***.***.***.***,SSDP,171,M-SEARCH * HTTP/1.1 
+55,56,17.904607,***.***.***.***,***.***.***.***,NBNS,110,Registration NB WORKGROUP<00>
+56,57,17.904611,***.***.***.***,***.***.***.***,NBNS,110,Registration NB WORKGROUP<00>
+57,58,17.904669,***.***.***.***,***.***.***.***,NBNS,110,Registration NB NONE<00>
+58,59,17.904684,***.***.***.***,***.***.***.***,NBNS,110,Registration NB NONE<00>
+59,60,17.904733,***.***.***.***,***.***.***.***,NBNS,110,Registration NB NONE<20>
+60,61,17.904745,***.***.***.***,***.***.***.***,NBNS,110,Registration NB NONE<20>
+61,62,17.918895,***.***.***.***,***.***.***.***,UDP,666,65391  >  3702 Len=624
+62,63,17.918898,***.***.***.***,***.***.***.***,UDP,666,65391  >  3702 Len=624
+63,64,18.010103,***.***.***.***,***.***.***.***,UDP,666,65391  >  3702 Len=624
+64,65,18.010108,***.***.***.***,***.***.***.***,UDP,666,65391  >  3702 Len=624
+65,66,18.135235,***.***.***.***,***.***.***.***,NBNS,92,Name query NB ISATAP<00>
+66,67,18.135237,***.***.***.***,***.***.***.***,NBNS,92,Name query NB ISATAP<00>
+67,68,18.565668,***.***.***.***,***.***.***.***,LLMNR,64,Standard query 0xc4c8 A wpad
+68,69,18.56567,***.***.***.***,***.***.***.***,LLMNR,64,Standard query 0xc4c8 A wpad
+69,70,18.649988,***.***.***.***,***.***.***.***,NBNS,110,Registration NB NONE<20>
+70,71,18.64999,***.***.***.***,***.***.***.***,NBNS,110,Registration NB NONE<20>
+71,72,18.650524,***.***.***.***,***.***.***.***,NBNS,110,Registration NB NONE<00>
+72,73,18.650525,***.***.***.***,***.***.***.***,NBNS,110,Registration NB NONE<00>
+73,74,18.651045,***.***.***.***,***.***.***.***,NBNS,110,Registration NB WORKGROUP<00>
+74,75,18.651047,***.***.***.***,***.***.***.***,NBNS,110,Registration NB WORKGROUP<00>
+75,76,18.666721,***.***.***.***,***.***.***.***,LLMNR,64,Standard query 0xc4c8 A wpad
+76,77,18.666723,***.***.***.***,***.***.***.***,LLMNR,64,Standard query 0xc4c8 A wpad
+77,78,18.870136,***.***.***.***,***.***.***.***,NBNS,92,Name query NB WPAD<00>
+78,79,18.87014,***.***.***.***,***.***.***.***,NBNS,92,Name query NB WPAD<00>
+79,80,18.884504,***.***.***.***,***.***.***.***,NBNS,92,Name query NB ISATAP<00>
+80,81,18.884508,***.***.***.***,***.***.***.***,NBNS,92,Name query NB ISATAP<00>
+81,82,19.402314,***.***.***.***,***.***.***.***,NBNS,110,Registration NB WORKGROUP<00>
+82,83,19.402318,***.***.***.***,***.***.***.***,NBNS,110,Registration NB WORKGROUP<00>
+83,84,19.402379,***.***.***.***,***.***.***.***,NBNS,110,Registration NB NONE<00>
+84,85,19.40238,***.***.***.***,***.***.***.***,NBNS,110,Registration NB NONE<00>
+85,86,19.402446,***.***.***.***,***.***.***.***,NBNS,110,Registration NB NONE<20>
+86,87,19.402447,***.***.***.***,***.***.***.***,NBNS,110,Registration NB NONE<20>
+87,88,19.622099,***.***.***.***,***.***.***.***,NBNS,92,Name query NB WPAD<00>
+88,89,19.622103,***.***.***.***,***.***.***.***,NBNS,92,Name query NB WPAD<00>
+89,90,19.639465,***.***.***.***,***.***.***.***,LLMNR,66,Standard query 0x971a A isatap
+90,91,19.639467,***.***.***.***,***.***.***.***,LLMNR,66,Standard query 0x971a A isatap
+91,92,19.746766,***.***.***.***,***.***.***.***,LLMNR,66,Standard query 0x971a A isatap
+92,93,19.746767,***.***.***.***,***.***.***.***,LLMNR,66,Standard query 0x971a A isatap
+93,94,19.948914,***.***.***.***,***.***.***.***,NBNS,92,Name query NB ISATAP<00>
+94,95,19.948917,***.***.***.***,***.***.***.***,NBNS,92,Name query NB ISATAP<00>
+95,96,20.078375,***.***.***.***,***.***.***.***,DNS,85,Standard query 0xab76 A teredo.ipv6.microsoft.com
+96,97,20.166127,***.***.***.***,***.***.***.***,NBNS,110,Registration NB WORKGROUP<1e>
+97,98,20.166131,***.***.***.***,***.***.***.***,NBNS,110,Registration NB WORKGROUP<1e>
+98,99,20.369093,***.***.***.***,***.***.***.***,NBNS,92,Name query NB WPAD<00>
+99,100,20.369097,***.***.***.***,***.***.***.***,NBNS,92,Name query NB WPAD<00>
+100,101,20.423281,***.***.***.***,***.***.***.***,SSDP,175,M-SEARCH * HTTP/1.1 
+101,102,20.423285,***.***.***.***,***.***.***.***,SSDP,175,M-SEARCH * HTTP/1.1 
+102,103,20.480608,***.***.***.***,***.***.***.***,SSDP,171,M-SEARCH * HTTP/1.1 
+103,104,20.48061,***.***.***.***,***.***.***.***,SSDP,171,M-SEARCH * HTTP/1.1 
+104,105,20.509862,***.***.***.***,***.***.***.***,SSDP,139,M-SEARCH * HTTP/1.1 
+105,106,20.509863,***.***.***.***,***.***.***.***,SSDP,139,M-SEARCH * HTTP/1.1 
+106,107,20.541877,***.***.***.***,***.***.***.***,SSDP,175,M-SEARCH * HTTP/1.1 
+107,108,20.541882,***.***.***.***,***.***.***.***,SSDP,175,M-SEARCH * HTTP/1.1 
+108,109,20.70506,***.***.***.***,***.***.***.***,NBNS,92,Name query NB ISATAP<00>
+109,110,20.705064,***.***.***.***,***.***.***.***,NBNS,92,Name query NB ISATAP<00>
+110,111,20.74578,***.***.***.***,***.***.***.***,SSDP,139,M-SEARCH * HTTP/1.1 
+111,112,20.745782,***.***.***.***,***.***.***.***,SSDP,139,M-SEARCH * HTTP/1.1 
+112,113,20.762807,***.***.***.***,***.***.***.***,SSDP,171,M-SEARCH * HTTP/1.1 
+113,114,20.762809,***.***.***.***,***.***.***.***,SSDP,171,M-SEARCH * HTTP/1.1 
+114,115,20.907081,***.***.***.***,***.***.***.***,NBNS,110,Registration NB WORKGROUP<1e>
+115,116,20.907085,***.***.***.***,***.***.***.***,NBNS,110,Registration NB WORKGROUP<1e>
+116,117,21.080061,***.***.***.***,***.***.***.***,DNS,85,Standard query 0xab76 A teredo.ipv6.microsoft.com
+117,118,21.13459,***.***.***.***,***.***.***.***,DNS,76,Standard query 0x025f A www.msftncsi.com
+118,119,21.448406,***.***.***.***,***.***.***.***,NBNS,92,Name query NB ISATAP<00>
+119,120,21.44841,***.***.***.***,***.***.***.***,NBNS,92,Name query NB ISATAP<00>
+120,121,21.649759,***.***.***.***,***.***.***.***,NBNS,110,Registration NB WORKGROUP<1e>
+121,122,21.649763,***.***.***.***,***.***.***.***,NBNS,110,Registration NB WORKGROUP<1e>
+122,123,22.072923,***.***.***.***,***.***.***.***,DNS,85,Standard query 0xab76 A teredo.ipv6.microsoft.com
+123,124,22.121693,***.***.***.***,***.***.***.***,DNS,76,Standard query 0x025f A www.msftncsi.com
+124,125,22.202244,***.***.***.***,***.***.***.***,LLMNR,66,Standard query 0xc9cb A isatap
+125,126,22.202246,***.***.***.***,***.***.***.***,LLMNR,66,Standard query 0xc9cb A isatap
+126,127,22.228939,5a:94:d2:14:5a:51,Broadcast,ARP,42,Who has ***.***.***.***? Tell ***.***.***.***
+127,128,22.228943,5a:94:d2:14:5a:51,Broadcast,ARP,42,Who has ***.***.***.***? Tell ***.***.***.***
+128,129,22.228952,0a:00:27:00:00:00,5a:94:d2:14:5a:51,ARP,42,***.***.***.*** is at 0a:00:27:00:00:00
+129,130,22.400338,***.***.***.***,***.***.***.***,NBNS,110,Registration NB WORKGROUP<1e>
+130,131,22.400343,***.***.***.***,***.***.***.***,NBNS,110,Registration NB WORKGROUP<1e>
+131,132,22.57244,***.***.***.***,***.***.***.***,LLMNR,66,Standard query 0xc9cb A isatap
+132,133,22.572441,***.***.***.***,***.***.***.***,LLMNR,66,Standard query 0xc9cb A isatap
+133,134,22.788315,***.***.***.***,***.***.***.***,NBNS,92,Name query NB ISATAP<00>
+134,135,22.788319,***.***.***.***,***.***.***.***,NBNS,92,Name query NB ISATAP<00>
+135,136,23.127399,***.***.***.***,***.***.***.***,DNS,76,Standard query 0x025f A www.msftncsi.com
+136,137,23.157097,***.***.***.***,***.***.***.***,BROWSER,217,Request Announcement NONE
+137,138,23.157102,***.***.***.***,***.***.***.***,BROWSER,217,Request Announcement NONE
+138,139,23.174223,***.***.***.***,***.***.***.***,BROWSER,243,"Host Announcement NONE, Workstation, Server, NT Workstation, Potential Browser"
+139,140,23.174227,***.***.***.***,***.***.***.***,BROWSER,243,"Host Announcement NONE, Workstation, Server, NT Workstation, Potential Browser"
+140,141,23.524831,***.***.***.***,***.***.***.***,NBNS,92,Name query NB ISATAP<00>
+141,142,23.524835,***.***.***.***,***.***.***.***,NBNS,92,Name query NB ISATAP<00>
+142,143,23.541754,***.***.***.***,***.***.***.***,SSDP,171,M-SEARCH * HTTP/1.1 
+143,144,23.541756,***.***.***.***,***.***.***.***,SSDP,171,M-SEARCH * HTTP/1.1 
+144,145,23.579597,***.***.***.***,***.***.***.***,SSDP,139,M-SEARCH * HTTP/1.1 
+145,146,23.579599,***.***.***.***,***.***.***.***,SSDP,139,M-SEARCH * HTTP/1.1 
+146,147,23.583533,***.***.***.***,***.***.***.***,SSDP,175,M-SEARCH * HTTP/1.1 
+147,148,23.583535,***.***.***.***,***.***.***.***,SSDP,175,M-SEARCH * HTTP/1.1 
+148,149,23.603819,***.***.***.***,***.***.***.***,SSDP,175,M-SEARCH * HTTP/1.1 
+149,150,23.603822,***.***.***.***,***.***.***.***,SSDP,175,M-SEARCH * HTTP/1.1 
+150,151,23.72835,***.***.***.***,***.***.***.***,SSDP,139,M-SEARCH * HTTP/1.1 
+151,152,23.728352,***.***.***.***,***.***.***.***,SSDP,139,M-SEARCH * HTTP/1.1 
+152,153,23.744239,***.***.***.***,***.***.***.***,SSDP,171,M-SEARCH * HTTP/1.1 
+153,154,23.744241,***.***.***.***,***.***.***.***,SSDP,171,M-SEARCH * HTTP/1.1 
+154,155,24.072479,***.***.***.***,***.***.***.***,DNS,85,Standard query 0xab76 A teredo.ipv6.microsoft.com
+155,156,24.275765,***.***.***.***,***.***.***.***,NBNS,92,Name query NB ISATAP<00>
+156,157,24.275769,***.***.***.***,***.***.***.***,NBNS,92,Name query NB ISATAP<00>
+157,158,24.651598,***.***.***.***,***.***.***.***,BROWSER,217,Request Announcement NONE
+158,159,24.651602,***.***.***.***,***.***.***.***,BROWSER,217,Request Announcement NONE
+159,160,25.04053,***.***.***.***,***.***.***.***,LLMNR,66,Standard query 0x96f1 A isatap
+160,161,25.040531,***.***.***.***,***.***.***.***,LLMNR,66,Standard query 0x96f1 A isatap
+161,162,25.119509,***.***.***.***,***.***.***.***,DNS,76,Standard query 0x025f A www.msftncsi.com
+162,163,25.15097,***.***.***.***,***.***.***.***,LLMNR,66,Standard query 0x96f1 A isatap
+163,164,25.150972,***.***.***.***,***.***.***.***,LLMNR,66,Standard query 0x96f1 A isatap
+164,165,25.356228,***.***.***.***,***.***.***.***,NBNS,92,Name query NB ISATAP<00>
+165,166,25.356232,***.***.***.***,***.***.***.***,NBNS,92,Name query NB ISATAP<00>
+166,167,26.102865,***.***.***.***,***.***.***.***,NBNS,92,Name query NB ISATAP<00>
+167,168,26.102868,***.***.***.***,***.***.***.***,NBNS,92,Name query NB ISATAP<00>
+168,169,26.151058,***.***.***.***,***.***.***.***,BROWSER,217,Request Announcement NONE
+169,170,26.151062,***.***.***.***,***.***.***.***,BROWSER,217,Request Announcement NONE
+170,171,26.573359,***.***.***.***,***.***.***.***,SSDP,175,M-SEARCH * HTTP/1.1 
+171,172,26.573362,***.***.***.***,***.***.***.***,SSDP,175,M-SEARCH * HTTP/1.1 
+172,173,26.855444,***.***.***.***,***.***.***.***,NBNS,92,Name query NB ISATAP<00>
+173,174,26.855447,***.***.***.***,***.***.***.***,NBNS,92,Name query NB ISATAP<00>
+174,175,27.612268,***.***.***.***,***.***.***.***,LLMNR,66,Standard query 0x6e6e A isatap
+175,176,27.612269,***.***.***.***,***.***.***.***,LLMNR,66,Standard query 0x6e6e A isatap
+176,177,27.655135,***.***.***.***,***.***.***.***,BROWSER,217,Request Announcement NONE
+177,178,27.655137,***.***.***.***,***.***.***.***,BROWSER,217,Request Announcement NONE
+178,179,27.717284,***.***.***.***,***.***.***.***,LLMNR,66,Standard query 0x6e6e A isatap
+179,180,27.717285,***.***.***.***,***.***.***.***,LLMNR,66,Standard query 0x6e6e A isatap
+180,181,27.917749,***.***.***.***,***.***.***.***,NBNS,92,Name query NB ISATAP<00>
+181,182,27.917752,***.***.***.***,***.***.***.***,NBNS,92,Name query NB ISATAP<00>
+182,183,28.077413,***.***.***.***,***.***.***.***,DNS,85,Standard query 0xab76 A teredo.ipv6.microsoft.com
+183,184,28.667265,***.***.***.***,***.***.***.***,NBNS,92,Name query NB ISATAP<00>
+184,185,28.667269,***.***.***.***,***.***.***.***,NBNS,92,Name query NB ISATAP<00>
+185,186,29.122645,***.***.***.***,***.***.***.***,DNS,76,Standard query 0x025f A www.msftncsi.com
+186,187,29.152529,***.***.***.***,***.***.***.***,BROWSER,229,Browser Election Request
+187,188,29.152531,***.***.***.***,***.***.***.***,BROWSER,229,Browser Election Request
+188,189,29.420351,***.***.***.***,***.***.***.***,NBNS,92,Name query NB ISATAP<00>
+189,190,29.420355,***.***.***.***,***.***.***.***,NBNS,92,Name query NB ISATAP<00>
+190,191,29.578452,***.***.***.***,***.***.***.***,SSDP,175,M-SEARCH * HTTP/1.1 
+191,192,29.578455,***.***.***.***,***.***.***.***,SSDP,175,M-SEARCH * HTTP/1.1 
+192,193,30.150875,***.***.***.***,***.***.***.***,BROWSER,229,Browser Election Request
+193,194,30.150879,***.***.***.***,***.***.***.***,BROWSER,229,Browser Election Request
+194,195,31.153146,***.***.***.***,***.***.***.***,BROWSER,229,Browser Election Request
+195,196,31.153151,***.***.***.***,***.***.***.***,BROWSER,229,Browser Election Request
+196,197,32.152015,***.***.***.***,***.***.***.***,BROWSER,229,Browser Election Request
+197,198,32.152019,***.***.***.***,***.***.***.***,BROWSER,229,Browser Election Request
+198,199,32.238533,***.***.***.***,***.***.***.***,DNS,76,Standard query 0x6cfb A dns.msftncsi.com
+199,200,33.151801,***.***.***.***,***.***.***.***,NBNS,110,Registration NB WORKGROUP<1d>
+200,201,33.151804,***.***.***.***,***.***.***.***,NBNS,110,Registration NB WORKGROUP<1d>
+201,202,33.228179,***.***.***.***,***.***.***.***,DNS,76,Standard query 0x6cfb A dns.msftncsi.com
+202,203,33.903399,***.***.***.***,***.***.***.***,NBNS,110,Registration NB WORKGROUP<1d>
+203,204,33.903402,***.***.***.***,***.***.***.***,NBNS,110,Registration NB WORKGROUP<1d>
+204,205,34.22989,***.***.***.***,***.***.***.***,DNS,76,Standard query 0x6cfb A dns.msftncsi.com
+205,206,34.65168,***.***.***.***,***.***.***.***,NBNS,110,Registration NB WORKGROUP<1d>
+206,207,34.651683,***.***.***.***,***.***.***.***,NBNS,110,Registration NB WORKGROUP<1d>
+207,208,35.400416,***.***.***.***,***.***.***.***,NBNS,110,Registration NB WORKGROUP<1d>
+208,209,35.400419,***.***.***.***,***.***.***.***,NBNS,110,Registration NB WORKGROUP<1d>
+209,210,36.15435,***.***.***.***,***.***.***.***,NBNS,110,Registration NB <01><02>__MSBROWSE__<02><01>
+210,211,36.154353,***.***.***.***,***.***.***.***,NBNS,110,Registration NB <01><02>__MSBROWSE__<02><01>
+211,212,36.235221,***.***.***.***,***.***.***.***,DNS,76,Standard query 0x6cfb A dns.msftncsi.com
+212,213,36.900257,***.***.***.***,***.***.***.***,NBNS,110,Registration NB <01><02>__MSBROWSE__<02><01>
+213,214,36.900259,***.***.***.***,***.***.***.***,NBNS,110,Registration NB <01><02>__MSBROWSE__<02><01>
+214,215,37.652502,***.***.***.***,***.***.***.***,NBNS,110,Registration NB <01><02>__MSBROWSE__<02><01>
+215,216,37.652506,***.***.***.***,***.***.***.***,NBNS,110,Registration NB <01><02>__MSBROWSE__<02><01>
+216,217,38.400491,***.***.***.***,***.***.***.***,NBNS,110,Registration NB <01><02>__MSBROWSE__<02><01>
+217,218,38.400494,***.***.***.***,***.***.***.***,NBNS,110,Registration NB <01><02>__MSBROWSE__<02><01>
+218,219,39.151902,***.***.***.***,***.***.***.***,BROWSER,217,Request Announcement NONE
+219,220,39.151905,***.***.***.***,***.***.***.***,BROWSER,217,Request Announcement NONE
+220,221,39.15197,***.***.***.***,***.***.***.***,BROWSER,217,Request Announcement NONE
+221,222,39.151972,***.***.***.***,***.***.***.***,BROWSER,217,Request Announcement NONE
+222,223,39.153006,***.***.***.***,***.***.***.***,BROWSER,247,"Domain/Workgroup Announcement WORKGROUP, NT Workstation, Domain Enum"
+223,224,39.153008,***.***.***.***,***.***.***.***,BROWSER,247,"Domain/Workgroup Announcement WORKGROUP, NT Workstation, Domain Enum"
+224,225,40.231749,***.***.***.***,***.***.***.***,DNS,76,Standard query 0x6cfb A dns.msftncsi.com
+225,226,41.56123,***.***.***.***,***.***.***.***,BROWSER,243,"Local Master Announcement NONE, Workstation, Server, NT Workstation, Potential Browser, Master Browser"
+226,227,41.561232,***.***.***.***,***.***.***.***,BROWSER,243,"Local Master Announcement NONE, Workstation, Server, NT Workstation, Potential Browser, Master Browser"
+227,228,44.234,5a:94:d2:14:5a:51,Broadcast,ARP,42,Who has ***.***.***.***? Tell ***.***.***.***
+228,229,44.234004,5a:94:d2:14:5a:51,Broadcast,ARP,42,Who has ***.***.***.***? Tell ***.***.***.***
+229,230,44.234013,0a:00:27:00:00:00,5a:94:d2:14:5a:51,ARP,42,***.***.***.*** is at 0a:00:27:00:00:00
+230,231,51.782115,***.***.***.***,***.***.***.***,SSDP,175,M-SEARCH * HTTP/1.1 
+231,232,51.782118,***.***.***.***,***.***.***.***,SSDP,175,M-SEARCH * HTTP/1.1 
+232,233,52.78786,***.***.***.***,***.***.***.***,LLMNR,64,Standard query 0x09c0 A wpad
+233,234,52.787862,***.***.***.***,***.***.***.***,LLMNR,64,Standard query 0x09c0 A wpad
+234,235,52.888134,***.***.***.***,***.***.***.***,LLMNR,64,Standard query 0x09c0 A wpad
+235,236,52.888136,***.***.***.***,***.***.***.***,LLMNR,64,Standard query 0x09c0 A wpad
+236,237,53.093065,***.***.***.***,***.***.***.***,NBNS,92,Name query NB WPAD<00>
+237,238,53.093069,***.***.***.***,***.***.***.***,NBNS,92,Name query NB WPAD<00>
+238,239,53.849981,***.***.***.***,***.***.***.***,NBNS,92,Name query NB WPAD<00>
+239,240,53.849985,***.***.***.***,***.***.***.***,NBNS,92,Name query NB WPAD<00>
+240,241,54.587404,***.***.***.***,***.***.***.***,NBNS,92,Name query NB WPAD<00>
+241,242,54.587408,***.***.***.***,***.***.***.***,NBNS,92,Name query NB WPAD<00>
+242,243,54.777374,***.***.***.***,***.***.***.***,SSDP,175,M-SEARCH * HTTP/1.1 
+243,244,54.777378,***.***.***.***,***.***.***.***,SSDP,175,M-SEARCH * HTTP/1.1 
+244,245,55.348584,***.***.***.***,***.***.***.***,DNS,79,Standard query 0xea6d A clients2.google.com
+245,246,56.343397,***.***.***.***,***.***.***.***,DNS,79,Standard query 0xea6d A clients2.google.com
+246,247,57.337707,***.***.***.***,***.***.***.***,DNS,79,Standard query 0xea6d A clients2.google.com
+247,248,57.77575,***.***.***.***,***.***.***.***,SSDP,175,M-SEARCH * HTTP/1.1 
+248,249,57.775754,***.***.***.***,***.***.***.***,SSDP,175,M-SEARCH * HTTP/1.1 
+249,250,59.341475,***.***.***.***,***.***.***.***,DNS,79,Standard query 0xea6d A clients2.google.com
+250,251,63.340878,***.***.***.***,***.***.***.***,DNS,79,Standard query 0xea6d A clients2.google.com
+251,252,67.477352,***.***.***.***,***.***.***.***,LLMNR,64,Standard query 0x69e6 A wpad
+252,253,67.477354,***.***.***.***,***.***.***.***,LLMNR,64,Standard query 0x69e6 A wpad
+253,254,67.576605,***.***.***.***,***.***.***.***,LLMNR,64,Standard query 0x69e6 A wpad
+254,255,67.576606,***.***.***.***,***.***.***.***,LLMNR,64,Standard query 0x69e6 A wpad
+255,256,67.780215,***.***.***.***,***.***.***.***,NBNS,92,Name query NB WPAD<00>
+256,257,67.780219,***.***.***.***,***.***.***.***,NBNS,92,Name query NB WPAD<00>
+257,258,68.525603,***.***.***.***,***.***.***.***,NBNS,92,Name query NB WPAD<00>
+258,259,68.525607,***.***.***.***,***.***.***.***,NBNS,92,Name query NB WPAD<00>
+259,260,69.27935,***.***.***.***,***.***.***.***,NBNS,92,Name query NB WPAD<00>
+260,261,69.279354,***.***.***.***,***.***.***.***,NBNS,92,Name query NB WPAD<00>
+261,262,69.481247,***.***.***.***,***.***.***.***,DNS,85,Standard query 0xe6e6 A teredo.ipv6.microsoft.com
+262,263,70.055791,***.***.***.***,***.***.***.***,DNS,79,Standard query 0x04c8 A clients2.google.com
+263,264,70.481618,***.***.***.***,***.***.***.***,DNS,85,Standard query 0xe6e6 A teredo.ipv6.microsoft.com
+264,265,71.057086,***.***.***.***,***.***.***.***,DNS,79,Standard query 0x04c8 A clients2.google.com
+265,266,71.48261,***.***.***.***,***.***.***.***,DNS,85,Standard query 0xe6e6 A teredo.ipv6.microsoft.com
+266,267,72.058455,***.***.***.***,***.***.***.***,DNS,79,Standard query 0x04c8 A clients2.google.com
+267,268,73.484381,***.***.***.***,***.***.***.***,DNS,85,Standard query 0xe6e6 A teredo.ipv6.microsoft.com
+268,269,74.063897,***.***.***.***,***.***.***.***,DNS,79,Standard query 0x04c8 A clients2.google.com
+269,270,77.484019,***.***.***.***,***.***.***.***,DNS,85,Standard query 0xe6e6 A teredo.ipv6.microsoft.com
+270,271,78.059747,***.***.***.***,***.***.***.***,DNS,79,Standard query 0x04c8 A clients2.google.com
+271,272,82.135595,***.***.***.***,***.***.***.***,DNS,79,Standard query 0x4559 A clients2.google.com
+272,273,83.122686,***.***.***.***,***.***.***.***,DNS,79,Standard query 0x4559 A clients2.google.com
+273,274,84.123064,***.***.***.***,***.***.***.***,DNS,79,Standard query 0x4559 A clients2.google.com
+274,275,86.121046,***.***.***.***,***.***.***.***,DNS,79,Standard query 0x4559 A clients2.google.com
+275,276,90.121126,***.***.***.***,***.***.***.***,DNS,79,Standard query 0x4559 A clients2.google.com
+276,277,94.158786,***.***.***.***,***.***.***.***,DNS,79,Standard query 0xd1eb A clients2.google.com
+277,278,95.156056,***.***.***.***,***.***.***.***,DNS,79,Standard query 0xd1eb A clients2.google.com
+278,279,96.150937,***.***.***.***,***.***.***.***,DNS,79,Standard query 0xd1eb A clients2.google.com
+279,280,98.150086,***.***.***.***,***.***.***.***,DNS,79,Standard query 0xd1eb A clients2.google.com
+280,281,99.153101,***.***.***.***,***.***.***.***,BROWSER,247,"Domain/Workgroup Announcement WORKGROUP, NT Workstation, Domain Enum"
+281,282,99.153104,***.***.***.***,***.***.***.***,BROWSER,247,"Domain/Workgroup Announcement WORKGROUP, NT Workstation, Domain Enum"
+282,283,102.150761,***.***.***.***,***.***.***.***,DNS,79,Standard query 0xd1eb A clients2.google.com
+283,284,106.185287,***.***.***.***,***.***.***.***,LLMNR,64,Standard query 0xf66d A wpad
+284,285,106.185289,***.***.***.***,***.***.***.***,LLMNR,64,Standard query 0xf66d A wpad
+285,286,106.293731,***.***.***.***,***.***.***.***,LLMNR,64,Standard query 0xf66d A wpad
+286,287,106.293733,***.***.***.***,***.***.***.***,LLMNR,64,Standard query 0xf66d A wpad
+287,288,106.494614,***.***.***.***,***.***.***.***,NBNS,92,Name query NB WPAD<00>
+288,289,106.494617,***.***.***.***,***.***.***.***,NBNS,92,Name query NB WPAD<00>
+289,290,107.243738,***.***.***.***,***.***.***.***,NBNS,92,Name query NB WPAD<00>
+290,291,107.243741,***.***.***.***,***.***.***.***,NBNS,92,Name query NB WPAD<00>
+291,292,107.995902,***.***.***.***,***.***.***.***,NBNS,92,Name query NB WPAD<00>
+292,293,107.995906,***.***.***.***,***.***.***.***,NBNS,92,Name query NB WPAD<00>
+293,294,108.750374,***.***.***.***,***.***.***.***,DNS,79,Standard query 0x44c1 A clients2.google.com
+294,295,109.338532,***.***.***.***,***.***.***.***,DNS,76,Standard query 0xcf1c A time.windows.com
+295,296,109.751448,***.***.***.***,***.***.***.***,DNS,79,Standard query 0x44c1 A clients2.google.com
+296,297,110.339368,***.***.***.***,***.***.***.***,DNS,76,Standard query 0xcf1c A time.windows.com
+297,298,110.747626,***.***.***.***,***.***.***.***,DNS,79,Standard query 0x44c1 A clients2.google.com
+298,299,111.338104,***.***.***.***,***.***.***.***,DNS,76,Standard query 0xcf1c A time.windows.com
+299,300,112.743995,***.***.***.***,***.***.***.***,DNS,79,Standard query 0x44c1 A clients2.google.com
+300,301,113.34104,***.***.***.***,***.***.***.***,DNS,76,Standard query 0xcf1c A time.windows.com
+301,302,116.748164,***.***.***.***,***.***.***.***,DNS,79,Standard query 0x44c1 A clients2.google.com
+302,303,117.341798,***.***.***.***,***.***.***.***,DNS,76,Standard query 0xcf1c A time.windows.com
+303,304,120.776141,***.***.***.***,***.***.***.***,DNS,85,Standard query 0x5e83 A teredo.ipv6.microsoft.com
+304,305,120.780194,***.***.***.***,***.***.***.***,LLMNR,64,Standard query 0x6ea7 A wpad
+305,306,120.780195,***.***.***.***,***.***.***.***,LLMNR,64,Standard query 0x6ea7 A wpad
+306,307,120.889324,***.***.***.***,***.***.***.***,LLMNR,64,Standard query 0x6ea7 A wpad
+307,308,120.889326,***.***.***.***,***.***.***.***,LLMNR,64,Standard query 0x6ea7 A wpad
+308,309,121.088016,***.***.***.***,***.***.***.***,NBNS,92,Name query NB WPAD<00>
+309,310,121.088019,***.***.***.***,***.***.***.***,NBNS,92,Name query NB WPAD<00>
+310,311,121.342127,***.***.***.***,***.***.***.***,DNS,76,Standard query 0xedb3 A time.windows.com
+311,312,121.786504,***.***.***.***,***.***.***.***,DNS,85,Standard query 0x5e83 A teredo.ipv6.microsoft.com
+312,313,121.840737,***.***.***.***,***.***.***.***,NBNS,92,Name query NB WPAD<00>
+313,314,121.840741,***.***.***.***,***.***.***.***,NBNS,92,Name query NB WPAD<00>
+314,315,122.337743,***.***.***.***,***.***.***.***,DNS,76,Standard query 0xedb3 A time.windows.com
+315,316,122.594312,***.***.***.***,***.***.***.***,NBNS,92,Name query NB WPAD<00>
+316,317,122.594315,***.***.***.***,***.***.***.***,NBNS,92,Name query NB WPAD<00>
+317,318,122.775984,***.***.***.***,***.***.***.***,DNS,85,Standard query 0x5e83 A teredo.ipv6.microsoft.com
+318,319,123.340099,***.***.***.***,***.***.***.***,DNS,76,Standard query 0xedb3 A time.windows.com
+319,320,123.354077,***.***.***.***,***.***.***.***,DNS,79,Standard query 0xb41c A clients2.google.com
+320,321,124.354101,***.***.***.***,***.***.***.***,DNS,79,Standard query 0xb41c A clients2.google.com
+321,322,124.776133,***.***.***.***,***.***.***.***,DNS,85,Standard query 0x5e83 A teredo.ipv6.microsoft.com
+322,323,125.338205,***.***.***.***,***.***.***.***,DNS,76,Standard query 0xedb3 A time.windows.com
+323,324,125.357016,***.***.***.***,***.***.***.***,DNS,79,Standard query 0xb41c A clients2.google.com
+324,325,127.355021,***.***.***.***,***.***.***.***,DNS,79,Standard query 0xb41c A clients2.google.com
+325,326,128.783575,***.***.***.***,***.***.***.***,DNS,85,Standard query 0x5e83 A teredo.ipv6.microsoft.com
+326,327,129.33804,***.***.***.***,***.***.***.***,DNS,76,Standard query 0xedb3 A time.windows.com
+327,328,131.355054,***.***.***.***,***.***.***.***,DNS,79,Standard query 0xb41c A clients2.google.com
+328,329,135.375227,***.***.***.***,***.***.***.***,DNS,79,Standard query 0x3e7e A clients2.google.com
+329,330,135.405001,***.***.***.***,***.***.***.***,DNS,119,Standard query response 0x3e7e A clients2.google.com CNAME clients.l.google.com A ***.***.***.***
+330,331,135.546219,***.***.***.***,***.***.***.***,TCP,66,49169  >  443 [SYN] Seq=0 Win=8192 Len=0 MSS=1460 WS=256 SACK_PERM=1
+331,332,135.564934,***.***.***.***,***.***.***.***,TCP,58,"443  >  49169 [SYN, ACK] Seq=0 Ack=1 Win=65535 Len=0 MSS=1460"
+332,333,135.565085,***.***.***.***,***.***.***.***,TCP,54,49169  >  443 [ACK] Seq=1 Ack=1 Win=64240 Len=0
+333,334,135.788409,***.***.***.***,***.***.***.***,TLSv1.2,215,Client Hello
+334,335,135.788854,***.***.***.***,***.***.***.***,TCP,54,443  >  49169 [ACK] Seq=1 Ack=162 Win=65535 Len=0
+335,336,135.807206,***.***.***.***,***.***.***.***,TLSv1.2,1514,Server Hello
+336,337,135.80722,***.***.***.***,***.***.***.***,TCP,1418,"443  >  49169 [PSH, ACK] Seq=1461 Ack=162 Win=65535 Len=1364 [TCP segment of a reassembled PDU]"
+337,338,135.8076,***.***.***.***,***.***.***.***,TCP,54,49169  >  443 [ACK] Seq=162 Ack=2825 Win=64240 Len=0
+338,339,135.812112,***.***.***.***,***.***.***.***,TCP,1514,443  >  49169 [ACK] Seq=2825 Ack=162 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+339,340,135.812121,***.***.***.***,***.***.***.***,TCP,1514,443  >  49169 [ACK] Seq=4285 Ack=162 Win=65535 Len=1460 [TCP segment of a reassembled PDU]
+340,341,135.812122,***.***.***.***,***.***.***.***,TLSv1.2,969,"Certificate, Server Key Exchange, Server Hello Done"
+341,342,135.812425,***.***.***.***,***.***.***.***,TCP,54,49169  >  443 [ACK] Seq=162 Ack=6660 Win=64240 Len=0
+342,343,135.916717,***.***.***.***,***.***.***.***,TLSv1.2,180,"Client Key Exchange, Change Cipher Spec, Encrypted Handshake Message"
+343,344,135.916889,***.***.***.***,***.***.***.***,TCP,54,443  >  49169 [ACK] Seq=6660 Ack=288 Win=65535 Len=0
+344,345,135.934099,***.***.***.***,***.***.***.***,TLSv1.2,105,"Change Cipher Spec, Encrypted Handshake Message"
+345,346,136.138419,***.***.***.***,***.***.***.***,TCP,54,49169  >  443 [ACK] Seq=288 Ack=6711 Win=64189 Len=0
+346,347,136.470798,***.***.***.***,***.***.***.***,TLSv1.2,584,Application Data
+347,348,136.471169,***.***.***.***,***.***.***.***,TCP,54,443  >  49169 [ACK] Seq=6711 Ack=818 Win=65535 Len=0
+348,349,136.502947,***.***.***.***,***.***.***.***,TLSv1.2,333,Application Data
+349,350,136.544327,***.***.***.***,***.***.***.***,TCP,54,"49169  >  443 [RST, ACK] Seq=818 Ack=6990 Win=0 Len=0"
