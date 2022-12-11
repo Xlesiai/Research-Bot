@@ -1,0 +1,5 @@
+C:\tmpgto74e.
+C:\\Python27\\python.exe.
+C:\Python27\Lib\webbrowser.pyc.
+chrome.exe.
+chrome.exe.

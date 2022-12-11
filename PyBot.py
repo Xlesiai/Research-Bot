@@ -8,7 +8,7 @@ Tasks:
 
 # Imports
 import pandas as pd
-from re import search
+from re import search, sub
 from time import sleep
 from numpy import log10, abs
 from datetime import datetime
@@ -169,27 +169,60 @@ class SimplifiedBot:
     @staticmethod
     def filter_logs(log_path, file_name):
         """
-            this function filters paths from a file
+            this function filters logs past wannacry's encryption
         """
         # this will store the file into a variable
         file = open(log_path)
+
         # this will create a file and be used to store the filtered file
-        temp_log = open(file_name, "a")
+        temp_log = open(file_name, "w")
+
         # this runs the file line by line
         for line in file:
-            # this searches for a valid path in the line
-            r = search(r"[A-Z]\:(([\\].*)||([\/].*))\w+\.[A-Za-z0-9]{2,100}", line)
-            # if it has been found then store it into the temp file
+            # this searches for the first encryption file
+            r = search(r".WNCRYT", line)
+
+            # returns when it has found the first encrypted file
+            if r:
+                return
+
+            # otherwise grab the valid file path
+            r = search(
+                r"([A-Za-z]\:((\\|\/){1,2}[A-Za-z0-9-_~ @]+)+(\.\w+){0,1})|([A-Za-z0-9-_~ @]+\.(txt|exe|py|dat|wnry))",
+                line)
+
+            # if it has been not found then store it into the temp file
             if r:
                 temp_log.write(r.group() + ".\n")
+
+    @staticmethod
+    def generalize(log_path, file_name, look4, fill=''):
+        """
+            this function removes any pattern (look4) and replaces it (fill)
+        """
+        # this will store the file into a variable
+        file = open(log_path)
+
+        # this will create a file and be used to store the generalized file
+        temp_log = open(file_name, "w")
+
+        # this runs the file line by line
+        for line in file:
+            # fills the pattern
+            t = sub(look4, fill, line)
+            if t is not None:
+                temp_log.write(t)
 
     @staticmethod
     def filter_ip_pcap(log_path, file_name):
         # this will store the file into a variable
         pcap = pd.read_csv(log_path)
+
         # replace the matching strings
-        df_updated = pcap.replace(to_replace=r'[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}', value='***.***.***.***',
-                                  regex=True)
+        df_updated = pcap.replace(
+            to_replace=r'\s{1}(?:(?:25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9][0-9]|[0-9])\.){3}(?:25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9][0-9]|[0-9])',
+            value='***.***.***.***',
+            regex=True)
         df_updated.to_csv(file_name)
 
     @staticmethod

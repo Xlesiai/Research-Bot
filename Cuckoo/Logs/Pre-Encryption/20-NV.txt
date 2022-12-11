@@ -1,0 +1,23 @@
+C:\tmpgto74e.
+C:\\Python27\\python.exe.
+C:\Python27\Lib\webbrowser.pyc.
+chrome.exe.
+chrome.exe.
+chrome.exe.
+C:\Program Files\Google\Chrome\Application\debug.log.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Variations.
+chrome.exe.
+chrome.exe.
+chrome.exe.
+chrome.exe.
+chrome.exe.
+chrome.exe.
+chrome.exe.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat.
+chrome.exe.
+chrome.exe.
+C:/tmpgto74e/analyzer.py.
+C:/tmpgto74e/analyzer.py.
+C:\tmpgto74e\lib\common\decide.py.
+C:\tmpgto74e\lib\api\process.py.
+c:\\users\\admini~1\\appdata\\local\\temp\\tmprdyfug.

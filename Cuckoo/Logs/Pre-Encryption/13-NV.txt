@@ -1,0 +1,29 @@
+C:\tmpgto74e.
+C:\\Python27\\python.exe.
+C:\Python27\Lib\webbrowser.pyc.
+chrome.exe.
+chrome.exe.
+chrome.exe.
+C:\Users\Administrator\AppData\Local\Temp\7fc4db4a-d7bc-41e1-8db9-fae31fb957ad.tmp.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Crashpad\reports\94a0d9c1-b3d4-442d-a379-3dda03a85764.dmp.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Crashpad\metadata.
+C:\Program Files\Google\Chrome\Application\debug.log.
+chrome.exe.
+chrome.exe.
+chrome.exe.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Variations.
+cmd.exe.
+notepad.exe.
+chrome.exe.
+chrome.exe.
+chrome.exe.
+chrome.exe.
+chrome.exe.
+chrome.exe.
+chrome.exe.
+chrome.exe.
+chrome.exe.
+chrome.exe.
+chrome.exe.
+cmd.exe.
+taskkill.exe.

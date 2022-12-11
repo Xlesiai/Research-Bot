@@ -1,0 +1,17 @@
+C:\tmpgto74e.
+C:\\.../python.exe.
+C:\.../webbrowser.pyc.
+cmd.exe.
+notepad.exe.
+chrome.exe.
+chrome.exe.
+chrome.exe.
+C:\.../0c331903-dd28-48f7-9b02-8687c3bf71a4.tmp.
+C:\.../3571f596-87ff-4f05-ab10-dc2b13d66285.dmp.
+C:\.../metadata.
+C:\.../debug.log.
+chrome.exe.
+C:\.../Variations.
+cmd.exe.
+taskkill.exe.
+c:\\.../0c331903-dd28-48f7-9b02-8687c3bf71a4.tmp.

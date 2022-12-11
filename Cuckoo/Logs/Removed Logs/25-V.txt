@@ -1,0 +1,15 @@
+C:\tmpgto74e.
+python.exe.
+webbrowser.pyc.
+chrome.exe.
+chrome.exe.
+chrome.exe.
+debug.log.
+Variations.
+chrome.exe.
+cmd.exe.
+notepad.exe.
+chrome.exe.
+chrome.exe.
+chrome.exe.
+chrome.exe.

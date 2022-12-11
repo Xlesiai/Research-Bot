@@ -3,16 +3,26 @@ import pandas as pd
 
 import PyBot as pb
 
-log_docs = [open("Cuckoo/Logs/2-V.txt"),   open("Cuckoo/Logs/4-V.txt"),   open("Cuckoo/Logs/6-V.txt"),
-            open("Cuckoo/Logs/8-V.txt"),   open("Cuckoo/Logs/10-V.txt"),  open("Cuckoo/Logs/11-V.txt"),
-            open("Cuckoo/Logs/12-V.txt"),  open("Cuckoo/Logs/15-V.txt"),  open("Cuckoo/Logs/17-V.txt"),
-            open("Cuckoo/Logs/19-V.txt"),  open("Cuckoo/Logs/21-V.txt"),  open("Cuckoo/Logs/23-V.txt"),
-            open("Cuckoo/Logs/25-V.txt"),  open("Cuckoo/Logs/27-V.txt"),  open("Cuckoo/Logs/29-V.txt"),
-            open("Cuckoo/Logs/1-NV.txt"),  open("Cuckoo/Logs/3-NV.txt"),  open("Cuckoo/Logs/5-NV.txt"),
-            open("Cuckoo/Logs/7-NV.txt"),  open("Cuckoo/Logs/9-NV.txt"),  open("Cuckoo/Logs/13-NV.txt"),
-            open("Cuckoo/Logs/14-NV.txt"), open("Cuckoo/Logs/16-NV.txt"), open("Cuckoo/Logs/18-NV.txt"),
-            open("Cuckoo/Logs/20-NV.txt"), open("Cuckoo/Logs/22-NV.txt"), open("Cuckoo/Logs/24-NV.txt"),
-            open("Cuckoo/Logs/26-NV.txt"), open("Cuckoo/Logs/28-NV.txt"), open("Cuckoo/Logs/30-NV.txt")]
+log_docs = [open("Cuckoo/Logs/Old Logs/2-V.txt"), open("Cuckoo/Logs/Old Logs/4-V.txt"), open(
+    "Cuckoo/Logs/Old Logs/6-V.txt"),
+            open("Cuckoo/Logs/Old Logs/8-V.txt"), open("Cuckoo/Logs/Old Logs/10-V.txt"), open(
+        "Cuckoo/Logs/Old Logs/11-V.txt"),
+            open("Cuckoo/Logs/Old Logs/12-V.txt"), open("Cuckoo/Logs/Old Logs/15-V.txt"), open(
+        "Cuckoo/Logs/Old Logs/17-V.txt"),
+            open("Cuckoo/Logs/Old Logs/19-V.txt"), open("Cuckoo/Logs/Old Logs/21-V.txt"), open(
+        "Cuckoo/Logs/Old Logs/23-V.txt"),
+            open("Cuckoo/Logs/Old Logs/25-V.txt"), open("Cuckoo/Logs/Old Logs/27-V.txt"), open(
+        "Cuckoo/Logs/Old Logs/29-V.txt"),
+            open("Cuckoo/Logs/Old Logs/1-NV.txt"), open("Cuckoo/Logs/Old Logs/3-NV.txt"), open(
+        "Cuckoo/Logs/Old Logs/5-NV.txt"),
+            open("Cuckoo/Logs/Old Logs/7-NV.txt"), open("Cuckoo/Logs/Old Logs/9-NV.txt"), open(
+        "Cuckoo/Logs/Old Logs/13-NV.txt"),
+            open("Cuckoo/Logs/Old Logs/14-NV.txt"), open("Cuckoo/Logs/Old Logs/16-NV.txt"), open(
+        "Cuckoo/Logs/Old Logs/18-NV.txt"),
+            open("Cuckoo/Logs/Old Logs/20-NV.txt"), open("Cuckoo/Logs/Old Logs/22-NV.txt"), open(
+        "Cuckoo/Logs/Old Logs/24-NV.txt"),
+            open("Cuckoo/Logs/Old Logs/26-NV.txt"), open("Cuckoo/Logs/Old Logs/28-NV.txt"), open(
+        "Cuckoo/Logs/Old Logs/30-NV.txt")]
 
 pcap_docs = [pd.read_csv("Cuckoo/PCAP/2-V.csv"),   pd.read_csv("Cuckoo/PCAP/4-V.csv"),   pd.read_csv("Cuckoo/PCAP/6-V.csv"),
              pd.read_csv("Cuckoo/PCAP/8-V.csv"),   pd.read_csv("Cuckoo/PCAP/10-V.csv"),  pd.read_csv("Cuckoo/PCAP/11-V.csv"),
