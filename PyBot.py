@@ -188,7 +188,7 @@ class SimplifiedBot:
 
             # otherwise grab the valid file path
             r = search(
-                r"([A-Za-z]\:((\\|\/){1,2}[A-Za-z0-9-_~ @]+)+(\.\w+){0,1})|([A-Za-z0-9-_~ @]+\.(txt|exe|py|dat|wnry))",
+                r"([A-Za-z]\:((\\|\/){1,2}[A-Za-z0-9-_~ @]+)+(\.\w+)?)|([A-Za-z0-9-_~ @]+\.(exe|wnry))",
                 line)
 
             # if it has been not found then store it into the temp file

@@ -2,7 +2,6 @@ import PyBot as PB
 
 # pre-encryption logs
 
-"""
 PB.SimplifiedBot.filter_logs("Cuckoo/Infected/2/analysis.log", "Cuckoo/Logs/Pre-Encryption/2-V.txt")
 PB.SimplifiedBot.filter_logs("Cuckoo/Infected/4/analysis.log", "Cuckoo/Logs/Pre-Encryption/4-V.txt")
 PB.SimplifiedBot.filter_logs("Cuckoo/Infected/6/analysis.log", "Cuckoo/Logs/Pre-Encryption/6-V.txt")
@@ -103,7 +102,6 @@ general_corpus = [open("Cuckoo/Logs/Generalized Logs/2-V.txt"), open("Cuckoo/Log
                   open("Cuckoo/Logs/Generalized Logs/26-NV.txt"), open("Cuckoo/Logs/Generalized Logs/28-NV.txt"), open("Cuckoo/Logs/Generalized Logs/30-NV.txt")]
 
 PB.SimplifiedBot.tfidf_logs(general_corpus).to_csv("Cuckoo/Logs/Generalized Logs/log.csv")
-"""
 
 # Removed logs
 
