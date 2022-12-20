@@ -1,6 +1,4 @@
 C:\tmpgto74e.
-python.exe.
-webbrowser.pyc.
 chrome.exe.
 chrome.exe.
 chrome.exe.
@@ -13,4 +11,3 @@ debug.log.
 Variations.
 cmd.exe.
 notepad.exe.
-tmput8pks.

@@ -1,6 +1,4 @@
 C:\tmpgto74e.
-C:\\.../python.exe.
-C:\.../webbrowser.pyc.
 chrome.exe.
 chrome.exe.
 C:\.../settings.dat.
@@ -10,8 +8,8 @@ wannacry.exe.
 C:\.../b.wnry.
 C:\.../c.wnry.
 C:\.../m_bulgarian.wnry.
-C:\.../m_chinese .
-C:\.../m_chinese .
+C:\.../m_chinese (simplified).wnry.
+C:\.../m_chinese (traditional).wnry.
 C:\.../m_croatian.wnry.
 C:\.../m_czech.wnry.
 C:\.../m_danish.wnry.
@@ -48,17 +46,7 @@ icacls.exe.
 C:\.../00000000.pky.
 C:\.../00000000.eky.
 C:\.../00000000.res.
-C:/.../analyzer.py.
-C:/.../analyzer.py.
-C:\.../decide.py.
-C:\.../process.py.
-c:\\.../tmpqhypai.
 taskdl.exe.
 C:\.../276741668197321.bat.
-C:/.../analyzer.py.
-C:/.../analyzer.py.
-C:\.../decide.py.
-C:\.../process.py.
-c:\\.../tmptcrdck.
 cmd.exe.
 C:\.../@Please_Read_Me@.txt.

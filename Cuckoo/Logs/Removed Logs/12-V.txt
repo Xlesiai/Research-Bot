@@ -1,6 +1,4 @@
 C:\tmpgto74e.
-python.exe.
-webbrowser.pyc.
 chrome.exe.
 chrome.exe.
 chrome.exe.
@@ -18,4 +16,3 @@ metadata.
 chrome.exe.
 cmd.exe.
 taskkill.exe.
-2cb835dd-0c7d-4911-afde-927c4452001e.tmp.

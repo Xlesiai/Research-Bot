@@ -186,9 +186,16 @@ class SimplifiedBot:
             if r:
                 return
 
+            # this searches for the python files
+            r = search(r"(.py)|(.pyc)", line)
+
+            # ignores if found
+            if r:
+                continue
+
             # otherwise grab the valid file path
             r = search(
-                r"([A-Za-z]\:((\\|\/){1,2}[A-Za-z0-9-_~ @]+)+(\.\w+)?)|([A-Za-z0-9-_~ @]+\.(exe|wnry))",
+                r"([A-Z]\:((\\){1,2}[A-Za-z0-9-()_~ @]+)+(\.\w+)?)|([A-Za-z0-9-()_~ @]+\.(exe|wnry|pky|eky|res))",
                 line)
 
             # if it has been not found then store it into the temp file

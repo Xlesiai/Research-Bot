@@ -1,6 +1,4 @@
 C:\tmpgto74e.
-C:\\Python27\\python.exe.
-C:\Python27\Lib\webbrowser.pyc.
 chrome.exe.
 chrome.exe.
 chrome.exe.
@@ -18,8 +16,8 @@ wannacry.exe.
 C:\Users\Administrator\Desktop\b.wnry.
 C:\Users\Administrator\Desktop\c.wnry.
 C:\Users\Administrator\Desktop\msg\m_bulgarian.wnry.
-C:\Users\Administrator\Desktop\msg\m_chinese .
-C:\Users\Administrator\Desktop\msg\m_chinese .
+C:\Users\Administrator\Desktop\msg\m_chinese (simplified).wnry.
+C:\Users\Administrator\Desktop\msg\m_chinese (traditional).wnry.
 C:\Users\Administrator\Desktop\msg\m_croatian.wnry.
 C:\Users\Administrator\Desktop\msg\m_czech.wnry.
 C:\Users\Administrator\Desktop\msg\m_danish.wnry.

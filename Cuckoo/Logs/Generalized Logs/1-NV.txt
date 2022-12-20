@@ -1,5 +1,3 @@
 C:\tmpgto74e.
-C:\\.../python.exe.
-C:\.../webbrowser.pyc.
 chrome.exe.
 chrome.exe.

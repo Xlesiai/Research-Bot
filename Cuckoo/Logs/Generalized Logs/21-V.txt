@@ -1,6 +1,4 @@
 C:\tmpgto74e.
-C:\\.../python.exe.
-C:\.../webbrowser.pyc.
 chrome.exe.
 chrome.exe.
 chrome.exe.
@@ -20,4 +18,3 @@ chrome.exe.
 cmd.exe.
 notepad.exe.
 chrome.exe.
-c:\\.../71eb8a06-0a5e-4c1f-9826-1593d7c017f2.tmp.

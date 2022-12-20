@@ -1,6 +1,4 @@
 C:\tmpgto74e.
-C:\\.../python.exe.
-C:\.../webbrowser.pyc.
 chrome.exe.
 chrome.exe.
 chrome.exe.
@@ -18,8 +16,8 @@ wannacry.exe.
 C:\.../b.wnry.
 C:\.../c.wnry.
 C:\.../m_bulgarian.wnry.
-C:\.../m_chinese .
-C:\.../m_chinese .
+C:\.../m_chinese (simplified).wnry.
+C:\.../m_chinese (traditional).wnry.
 C:\.../m_croatian.wnry.
 C:\.../m_czech.wnry.
 C:\.../m_danish.wnry.

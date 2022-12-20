@@ -1,6 +1,4 @@
 C:\tmpgto74e.
-C:\\Python27\\python.exe.
-C:\Python27\Lib\webbrowser.pyc.
 chrome.exe.
 chrome.exe.
 chrome.exe.
@@ -17,4 +15,3 @@ chrome.exe.
 chrome.exe.
 chrome.exe.
 chrome.exe.
-c:\\users\\admini~1\\appdata\\local\\temp\\tmpc03yfq.

@@ -1,6 +1,4 @@
 C:\tmpgto74e.
-python.exe.
-webbrowser.pyc.
 chrome.exe.
 chrome.exe.
 chrome.exe.
@@ -16,8 +14,3 @@ chrome.exe.
 settings.dat.
 chrome.exe.
 chrome.exe.
-analyzer.py.
-analyzer.py.
-decide.py.
-process.py.
-tmprdyfug.

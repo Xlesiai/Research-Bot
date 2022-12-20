@@ -1,6 +1,4 @@
 C:\tmpgto74e.
-python.exe.
-webbrowser.pyc.
 chrome.exe.
 chrome.exe.
 settings.dat.
@@ -13,7 +11,5 @@ chrome.exe.
 chrome.exe.
 a03d0092-224c-4188-8011-6e1b295fb9e6.dmp.
 chrome.exe.
-tmpoidj0z.
 chrome.exe.
-metadata.
 metadata.

@@ -48,7 +48,7 @@ log_corpus = [open("Cuckoo/Logs/Pre-Encryption/2-V.txt"), open("Cuckoo/Logs/Pre-
               open("Cuckoo/Logs/Pre-Encryption/20-NV.txt"), open("Cuckoo/Logs/Pre-Encryption/22-NV.txt"), open("Cuckoo/Logs/Pre-Encryption/24-NV.txt"),
               open("Cuckoo/Logs/Pre-Encryption/26-NV.txt"), open("Cuckoo/Logs/Pre-Encryption/28-NV.txt"), open("Cuckoo/Logs/Pre-Encryption/30-NV.txt")]
 
-PB.SimplifiedBot.tfidf_logs(log_corpus).to_csv("Cuckoo/Logs/Pre-Encryption/log.csv")
+PB.SimplifiedBot.tfidf_logs(log_corpus).to_csv("Cuckoo/Logs/Pre-Encryption.csv")
 
 
 # Generalized logs
@@ -101,7 +101,7 @@ general_corpus = [open("Cuckoo/Logs/Generalized Logs/2-V.txt"), open("Cuckoo/Log
                   open("Cuckoo/Logs/Generalized Logs/20-NV.txt"), open("Cuckoo/Logs/Generalized Logs/22-NV.txt"), open("Cuckoo/Logs/Generalized Logs/24-NV.txt"),
                   open("Cuckoo/Logs/Generalized Logs/26-NV.txt"), open("Cuckoo/Logs/Generalized Logs/28-NV.txt"), open("Cuckoo/Logs/Generalized Logs/30-NV.txt")]
 
-PB.SimplifiedBot.tfidf_logs(general_corpus).to_csv("Cuckoo/Logs/Generalized Logs/log.csv")
+PB.SimplifiedBot.tfidf_logs(general_corpus).to_csv("Cuckoo/Logs/Generalized.csv")
 
 # Removed logs
 
@@ -150,7 +150,7 @@ removed_corpus = [open("Cuckoo/Logs/Removed Logs/2-V.txt"), open("Cuckoo/Logs/Re
                   open("Cuckoo/Logs/Removed Logs/20-NV.txt"), open("Cuckoo/Logs/Removed Logs/22-NV.txt"), open("Cuckoo/Logs/Removed Logs/24-NV.txt"),
                   open("Cuckoo/Logs/Removed Logs/26-NV.txt"), open("Cuckoo/Logs/Removed Logs/28-NV.txt"), open("Cuckoo/Logs/Removed Logs/30-NV.txt")]
 
-PB.SimplifiedBot.tfidf_logs(removed_corpus).to_csv("Cuckoo/Logs/Removed Logs/log.csv")
+PB.SimplifiedBot.tfidf_logs(removed_corpus).to_csv("Cuckoo/Logs/Removed.csv")
 
 
 # filter pcap

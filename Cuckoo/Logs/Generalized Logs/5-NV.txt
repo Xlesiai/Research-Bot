@@ -1,6 +1,4 @@
 C:\tmpgto74e.
-C:\\.../python.exe.
-C:\.../webbrowser.pyc.
 chrome.exe.
 chrome.exe.
 chrome.exe.
@@ -16,9 +14,3 @@ cmd.exe.
 notepad.exe.
 cmd.exe.
 taskkill.exe.
-C:/.../analyzer.py.
-C:/.../analyzer.py.
-C:\.../decide.py.
-C:\.../process.py.
-c:\\.../tmp8zilmq.
-c:\\.../75b4d13a-453c-4121-889d-eb5970e771b7.tmp.

@@ -1,6 +1,4 @@
 C:\tmpgto74e.
-C:\\Python27\\python.exe.
-C:\Python27\Lib\webbrowser.pyc.
 chrome.exe.
 chrome.exe.
 chrome.exe.
@@ -18,4 +16,3 @@ C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Crashpad\metadata.
 chrome.exe.
 cmd.exe.
 taskkill.exe.
-c:\\users\\administrator\\appdata\\local\\temp\\2cb835dd-0c7d-4911-afde-927c4452001e.tmp.

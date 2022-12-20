@@ -1,6 +1,4 @@
 C:\tmpgto74e.
-python.exe.
-webbrowser.pyc.
 cmd.exe.
 notepad.exe.
 chrome.exe.
@@ -14,4 +12,3 @@ chrome.exe.
 Variations.
 cmd.exe.
 taskkill.exe.
-0c331903-dd28-48f7-9b02-8687c3bf71a4.tmp.

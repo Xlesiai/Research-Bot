@@ -1,6 +1,4 @@
 C:\tmpgto74e.
-C:\\Python27\\python.exe.
-C:\Python27\Lib\webbrowser.pyc.
 chrome.exe.
 chrome.exe.
 chrome.exe.
@@ -13,8 +11,8 @@ wannacry.exe.
 C:\Users\Administrator\Desktop\b.wnry.
 C:\Users\Administrator\Desktop\c.wnry.
 C:\Users\Administrator\Desktop\msg\m_bulgarian.wnry.
-C:\Users\Administrator\Desktop\msg\m_chinese .
-C:\Users\Administrator\Desktop\msg\m_chinese .
+C:\Users\Administrator\Desktop\msg\m_chinese (simplified).wnry.
+C:\Users\Administrator\Desktop\msg\m_chinese (traditional).wnry.
 C:\Users\Administrator\Desktop\msg\m_croatian.wnry.
 C:\Users\Administrator\Desktop\msg\m_czech.wnry.
 C:\Users\Administrator\Desktop\msg\m_danish.wnry.
@@ -47,20 +45,10 @@ C:\Users\Administrator\Desktop\taskdl.exe.
 C:\Users\Administrator\Desktop\taskse.exe.
 C:\Users\Administrator\Desktop\u.wnry.
 attrib.exe.
-C:/tmpgto74e/analyzer.py.
-C:/tmpgto74e/analyzer.py.
-C:\tmpgto74e\lib\common\decide.py.
-C:\tmpgto74e\lib\api\process.py.
-c:\\users\\admini~1\\appdata\\local\\temp\\tmpg3lc17.
 icacls.exe.
 C:\Users\Administrator\Desktop\00000000.pky.
 C:\Users\Administrator\Desktop\00000000.eky.
 C:\Users\Administrator\Desktop\00000000.res.
-C:/tmpgto74e/analyzer.py.
-C:/tmpgto74e/analyzer.py.
-C:\tmpgto74e\lib\common\decide.py.
-C:\tmpgto74e\lib\api\process.py.
-c:\\users\\admini~1\\appdata\\local\\temp\\tmppy_k9k.
 taskdl.exe.
 C:\Users\Administrator\Desktop\231851668201189.bat.
 cmd.exe.
