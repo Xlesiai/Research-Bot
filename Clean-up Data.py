@@ -53,7 +53,6 @@ PB.SimplifiedBot.tfidf_logs(log_corpus).to_csv("Cuckoo/Logs/Pre-Encryption.csv")
 
 # Generalized logs
 
-
 PB.SimplifiedBot.generalize("Cuckoo/Logs/Pre-Encryption/2-V.txt", "Cuckoo/Logs/Generalized Logs/2-V.txt", r"([A-Za-z0-9-_~ @]+(\\|\/){1,2})+", ".../")
 PB.SimplifiedBot.generalize("Cuckoo/Logs/Pre-Encryption/4-V.txt", "Cuckoo/Logs/Generalized Logs/4-V.txt", r"([A-Za-z0-9-_~ @]+(\\|\/){1,2})+", ".../")
 PB.SimplifiedBot.generalize("Cuckoo/Logs/Pre-Encryption/6-V.txt", "Cuckoo/Logs/Generalized Logs/6-V.txt", r"([A-Za-z0-9-_~ @]+(\\|\/){1,2})+", ".../")
