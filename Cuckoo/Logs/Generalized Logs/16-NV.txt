@@ -4,12 +4,12 @@ chrome.exe.
 chrome.exe.
 chrome.exe.
 chrome.exe.
-C:\.../debug.log.
-C:\.../Variations.
+C:\...\debug.log.
+C:\...\Variations.
 chrome.exe.
 chrome.exe.
 chrome.exe.
-C:\.../settings.dat.
+C:\...\settings.dat.
 chrome.exe.
 chrome.exe.
 chrome.exe.

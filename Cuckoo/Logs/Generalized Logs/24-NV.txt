@@ -3,14 +3,14 @@ cmd.exe.
 notepad.exe.
 chrome.exe.
 chrome.exe.
-C:\.../settings.dat.
-C:\.../Variations.
+C:\...\settings.dat.
+C:\...\Variations.
 chrome.exe.
 chrome.exe.
 chrome.exe.
 chrome.exe.
 chrome.exe.
-C:\.../debug.log.
+C:\...\debug.log.
 chrome.exe.
 chrome.exe.
 chrome.exe.

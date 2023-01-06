@@ -1,0 +1,20 @@
+C:\tmpgto74e.
+chrome.exe.
+chrome.exe.
+chrome.exe.
+C:\Program Files\Google\Chrome\Application\debug.log.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Variations.
+chrome.exe.
+chrome.exe.
+chrome.exe.
+C:\Users\Administrator\AppData\Local\Temp\71eb8a06-0a5e-4c1f-9826-1593d7c017f2.tmp.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Crashpad\reports\0d05aafb-96d1-4b0e-a1e1-16a018e5d32e.dmp.
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Crashpad\metadata.
+chrome.exe.
+chrome.exe.
+chrome.exe.
+chrome.exe.
+chrome.exe.
+cmd.exe.
+notepad.exe.
+chrome.exe.
