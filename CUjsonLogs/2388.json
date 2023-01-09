@@ -1,0 +1,1315 @@
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022ea1"
+	},
+	"I": 0,
+	"name": "__process__",
+	"type": "info",
+	"category": "__notification__",
+	"args": [
+		"is_success",
+		"retval",
+		"time_low",
+		"time_high",
+		"pid",
+		"ppid",
+		"module_path",
+		"command_line",
+		"is_64bit",
+		"track",
+		"modules"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022ea2"
+	},
+	"I": 0,
+	"T": 2392,
+	"t": 16,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1519560784,
+		30981021,
+		2388,
+		2324,
+		"C:\\Windows\\SysWOW64\\attrib.exe",
+		"attrib +h .",
+		0,
+		1,
+		[
+			{
+				"filepath": "C:\\Windows\\SysWOW64\\attrib.exe",
+				"basename": "attrib.exe",
+				"baseaddr": "0xe00000",
+				"imgsize": 28672
+			},
+			{
+				"filepath": "C:\\Windows\\SysWOW64\\ntdll.dll",
+				"basename": "ntdll.dll",
+				"baseaddr": "0x76fd0000",
+				"imgsize": 1572864
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\kernel32.dll",
+				"basename": "kernel32.dll",
+				"baseaddr": "0x76680000",
+				"imgsize": 1114112
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\KERNELBASE.dll",
+				"basename": "KERNELBASE.dll",
+				"baseaddr": "0x74bd0000",
+				"imgsize": 286720
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\ulib.dll",
+				"basename": "ulib.dll",
+				"baseaddr": "0x740c0000",
+				"imgsize": 118784
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\msvcrt.dll",
+				"basename": "msvcrt.dll",
+				"baseaddr": "0x76130000",
+				"imgsize": 704512
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\USER32.dll",
+				"basename": "USER32.dll",
+				"baseaddr": "0x75e90000",
+				"imgsize": 1048576
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\GDI32.dll",
+				"basename": "GDI32.dll",
+				"baseaddr": "0x76a00000",
+				"imgsize": 589824
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\LPK.dll",
+				"basename": "LPK.dll",
+				"baseaddr": "0x75ca0000",
+				"imgsize": 40960
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\USP10.dll",
+				"basename": "USP10.dll",
+				"baseaddr": "0x75f90000",
+				"imgsize": 643072
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\ADVAPI32.dll",
+				"basename": "ADVAPI32.dll",
+				"baseaddr": "0x75ba0000",
+				"imgsize": 655360
+			},
+			{
+				"filepath": "C:\\Windows\\SysWOW64\\sechost.dll",
+				"basename": "sechost.dll",
+				"baseaddr": "0x76660000",
+				"imgsize": 102400
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\RPCRT4.dll",
+				"basename": "RPCRT4.dll",
+				"baseaddr": "0x76040000",
+				"imgsize": 983040
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\SspiCli.dll",
+				"basename": "SspiCli.dll",
+				"baseaddr": "0x74b30000",
+				"imgsize": 393216
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\CRYPTBASE.dll",
+				"basename": "CRYPTBASE.dll",
+				"baseaddr": "0x74b20000",
+				"imgsize": 49152
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\IMM32.DLL",
+				"basename": "IMM32.DLL",
+				"baseaddr": "0x75c40000",
+				"imgsize": 393216
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\MSCTF.dll",
+				"basename": "MSCTF.dll",
+				"baseaddr": "0x75dc0000",
+				"imgsize": 835584
+			},
+			{
+				"filepath": "C:\\tmpbajp2c\\bin\\monitor-x86.dll",
+				"basename": "monitor-x86.dll",
+				"baseaddr": "0x740e0000",
+				"imgsize": 2117632
+			}
+		]
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022ea3"
+	},
+	"I": 117,
+	"name": "GetSystemTimeAsFileTime",
+	"type": "info",
+	"category": "synchronisation",
+	"args": [
+		"is_success",
+		"retval"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022ea4"
+	},
+	"I": 117,
+	"T": 2392,
+	"t": 297,
+	"h": 0,
+	"args": [
+		1,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022ea5"
+	},
+	"I": 149,
+	"name": "SetUnhandledExceptionFilter",
+	"type": "info",
+	"category": "exception",
+	"args": [
+		"is_success",
+		"retval"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022ea6"
+	},
+	"I": 149,
+	"T": 2392,
+	"t": 297,
+	"h": 0,
+	"e": 0,
+	"E": -1073741515,
+	"args": [
+		0,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022ea7"
+	},
+	"I": 94,
+	"name": "FindFirstFileExW",
+	"type": "info",
+	"category": "file",
+	"args": [
+		"is_success",
+		"retval",
+		"filepath",
+		"filepath_r"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022ea8"
+	},
+	"I": 94,
+	"T": 2392,
+	"t": 344,
+	"h": 0,
+	"args": [
+		1,
+		2947256,
+		"C:\\Users\\Administrator\\AppData\\Local",
+		"C:\\Users\\Administrator\\AppData\\Local"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022ea9"
+	},
+	"I": 176,
+	"name": "NtClose",
+	"type": "info",
+	"category": "system",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"handle",
+			"p"
+		]
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022eaa"
+	},
+	"I": 176,
+	"T": 2392,
+	"t": 344,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		124
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022eab"
+	},
+	"I": 94,
+	"T": 2392,
+	"t": 344,
+	"h": 0,
+	"args": [
+		1,
+		2945832,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp",
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022eac"
+	},
+	"I": 214,
+	"name": "NtQueryDirectoryFile",
+	"type": "info",
+	"category": "file",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"file_handle",
+			"p"
+		],
+		"information_class",
+		"dirpath"
+	],
+	"flags_value": {
+		"information_class": [
+			[
+				1,
+				"FileDirectoryInformation"
+			],
+			[
+				2,
+				"FileFullDirectoryInformation"
+			],
+			[
+				3,
+				"FileBothDirectoryInformation"
+			],
+			[
+				4,
+				"FileBasicInformation"
+			],
+			[
+				5,
+				"FileStandardInformation"
+			],
+			[
+				6,
+				"FileInternalInformation"
+			],
+			[
+				7,
+				"FileEaInformation"
+			],
+			[
+				8,
+				"FileAccessInformation"
+			],
+			[
+				9,
+				"FileNameInformation"
+			],
+			[
+				10,
+				"FileRenameInformation"
+			],
+			[
+				11,
+				"FileLinkInformation"
+			],
+			[
+				12,
+				"FileNamesInformation"
+			],
+			[
+				13,
+				"FileDispositionInformation"
+			],
+			[
+				14,
+				"FilePositionInformation"
+			],
+			[
+				15,
+				"FileFullEaInformation"
+			],
+			[
+				16,
+				"FileModeInformation"
+			],
+			[
+				17,
+				"FileAlignmentInformation"
+			],
+			[
+				18,
+				"FileAllInformation"
+			],
+			[
+				19,
+				"FileAllocationInformation"
+			],
+			[
+				20,
+				"FileEndOfFileInformation"
+			],
+			[
+				21,
+				"FileAlternateNameInformation"
+			],
+			[
+				22,
+				"FileStreamInformation"
+			],
+			[
+				23,
+				"FilePipeInformation"
+			],
+			[
+				24,
+				"FilePipeLocalInformation"
+			],
+			[
+				25,
+				"FilePipeRemoteInformation"
+			],
+			[
+				26,
+				"FileMailslotQueryInformation"
+			],
+			[
+				27,
+				"FileMailslotSetInformation"
+			],
+			[
+				28,
+				"FileCompressionInformation"
+			],
+			[
+				29,
+				"FileObjectIdInformation"
+			],
+			[
+				30,
+				"FileCompletionInformation"
+			],
+			[
+				31,
+				"FileMoveClusterInformation"
+			],
+			[
+				32,
+				"FileQuotaInformation"
+			],
+			[
+				33,
+				"FileReparsePointInformation"
+			],
+			[
+				34,
+				"FileNetworkOpenInformation"
+			],
+			[
+				35,
+				"FileAttributeTagInformation"
+			],
+			[
+				36,
+				"FileTrackingInformation"
+			],
+			[
+				37,
+				"FileIdBothDirectoryInformation"
+			],
+			[
+				38,
+				"FileIdFullDirectoryInformation"
+			],
+			[
+				39,
+				"FileValidDataLengthInformation"
+			],
+			[
+				40,
+				"FileShortNameInformation"
+			],
+			[
+				41,
+				"FileIoCompletionNotificationInformation"
+			],
+			[
+				42,
+				"FileIoStatusBlockRangeInformation"
+			],
+			[
+				43,
+				"FileIoPriorityHintInformation"
+			],
+			[
+				44,
+				"FileSfioReserveInformation"
+			],
+			[
+				45,
+				"FileSfioVolumeInformation"
+			],
+			[
+				46,
+				"FileHardLinkInformation"
+			],
+			[
+				47,
+				"FileProcessIdsUsingFileInformation"
+			],
+			[
+				48,
+				"FileNormalizedNameInformation"
+			],
+			[
+				49,
+				"FileNetworkPhysicalNameInformation"
+			],
+			[
+				50,
+				"FileIdGlobalTxDirectoryInformation"
+			],
+			[
+				51,
+				"FileIsRemoteDeviceInformation"
+			],
+			[
+				52,
+				"FileAttributeCacheInformation"
+			],
+			[
+				53,
+				"FileNumaNodeInformation"
+			],
+			[
+				54,
+				"FileStandardLinkInformation"
+			],
+			[
+				55,
+				"FileRemoteProtocolInformation"
+			]
+		]
+	},
+	"flags_bitmask": {
+		"information_class": []
+	}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022ead"
+	},
+	"I": 214,
+	"T": 2392,
+	"t": 344,
+	"h": 0,
+	"e": 0,
+	"E": 0,
+	"args": [
+		0,
+		2147483654,
+		124,
+		3,
+		"C:\\Users\\Administrator\\AppData\\Local"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022eae"
+	},
+	"I": 176,
+	"T": 2392,
+	"t": 344,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		124
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022eaf"
+	},
+	"I": 94,
+	"T": 2392,
+	"t": 344,
+	"h": 0,
+	"args": [
+		1,
+		2945832,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp",
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022eb0"
+	},
+	"I": 176,
+	"T": 2392,
+	"t": 344,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		124
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022eb1"
+	},
+	"I": 205,
+	"name": "NtOpenFile",
+	"type": "info",
+	"category": "file",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"file_handle",
+			"p"
+		],
+		[
+			"desired_access",
+			"x"
+		],
+		"open_options",
+		"share_access",
+		"filepath",
+		"filepath_r",
+		"status_info"
+	],
+	"flags_value": {
+		"desired_access": [],
+		"share_access": [],
+		"open_options": [],
+		"status_info": [
+			[
+				2,
+				"FILE_CREATED"
+			],
+			[
+				1,
+				"FILE_OPENED"
+			],
+			[
+				3,
+				"FILE_OVERWRITTEN"
+			],
+			[
+				0,
+				"FILE_SUPERSEDED"
+			],
+			[
+				4,
+				"FILE_EXISTS"
+			],
+			[
+				5,
+				"FILE_DOES_NOT_EXIST"
+			]
+		]
+	},
+	"flags_bitmask": {
+		"desired_access": [
+			[
+				1,
+				"FILE_READ_DATA"
+			],
+			[
+				128,
+				"FILE_READ_ATTRIBUTES"
+			],
+			[
+				8,
+				"FILE_READ_EA"
+			],
+			[
+				2,
+				"FILE_WRITE_DATA"
+			],
+			[
+				256,
+				"FILE_WRITE_ATTRIBUTES"
+			],
+			[
+				16,
+				"FILE_WRITE_EA"
+			],
+			[
+				4,
+				"FILE_APPEND_DATA"
+			],
+			[
+				32,
+				"FILE_EXECUTE"
+			],
+			[
+				1,
+				"FILE_LIST_DIRECTORY"
+			],
+			[
+				32,
+				"FILE_TRAVERSE"
+			]
+		],
+		"share_access": [
+			[
+				1,
+				"FILE_SHARE_READ"
+			],
+			[
+				2,
+				"FILE_SHARE_WRITE"
+			],
+			[
+				4,
+				"FILE_SHARE_DELETE"
+			]
+		],
+		"open_options": [
+			[
+				1,
+				"FILE_DIRECTORY_FILE"
+			],
+			[
+				64,
+				"FILE_NON_DIRECTORY_FILE"
+			],
+			[
+				2,
+				"FILE_WRITE_THROUGH"
+			],
+			[
+				4,
+				"FILE_SEQUENTIAL_ONLY"
+			],
+			[
+				2048,
+				"FILE_RANDOM_ACCESS"
+			],
+			[
+				8,
+				"FILE_NO_INTERMEDIATE_BUFFERING"
+			],
+			[
+				16,
+				"FILE_SYNCHRONOUS_IO_ALERT"
+			],
+			[
+				32,
+				"FILE_SYNCHRONOUS_IO_NONALERT"
+			],
+			[
+				128,
+				"FILE_CREATE_TREE_CONNECTION"
+			],
+			[
+				256,
+				"FILE_COMPLETE_IF_OPLOCKED"
+			],
+			[
+				512,
+				"FILE_NO_EA_KNOWLEDGE"
+			],
+			[
+				2097152,
+				"FILE_OPEN_REPARSE_POINT"
+			],
+			[
+				4096,
+				"FILE_DELETE_ON_CLOSE"
+			],
+			[
+				8192,
+				"FILE_OPEN_BY_FILE_ID"
+			],
+			[
+				16384,
+				"FILE_OPEN_FOR_BACKUP_INTENT"
+			],
+			[
+				1048576,
+				"FILE_RESERVE_OPFILTER"
+			]
+		],
+		"status_info": []
+	}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022eb2"
+	},
+	"I": 205,
+	"T": 2392,
+	"t": 344,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		124,
+		256,
+		0,
+		7,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp",
+		"\\??\\C:\\Users\\Administrator\\AppData\\Local\\Temp",
+		1
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022eb3"
+	},
+	"I": 143,
+	"name": "SetFileInformationByHandle",
+	"type": "info",
+	"category": "file",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"file_handle",
+			"p"
+		],
+		"information_class"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022eb4"
+	},
+	"I": 143,
+	"T": 2392,
+	"t": 360,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		124,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022eb5"
+	},
+	"I": 176,
+	"T": 2392,
+	"t": 360,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		124
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022eb6"
+	},
+	"I": 171,
+	"name": "LdrGetDllHandle",
+	"type": "info",
+	"category": "system",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"module_address",
+			"p"
+		],
+		"module_name",
+		"stack_pivoted"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022eb7"
+	},
+	"I": 171,
+	"T": 2392,
+	"t": 360,
+	"h": 0,
+	"e": 18,
+	"E": -2147483642,
+	"args": [
+		0,
+		3221225781,
+		0,
+		"mscoree.dll",
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022eb8"
+	},
+	"I": 171,
+	"T": 2392,
+	"t": 360,
+	"h": 0,
+	"e": 18,
+	"E": -2147483642,
+	"args": [
+		0,
+		3221225781,
+		0,
+		"mscoree.dll",
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022eb9"
+	},
+	"I": 235,
+	"name": "NtTerminateProcess",
+	"type": "info",
+	"category": "process",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"process_handle",
+			"p"
+		],
+		[
+			"status_code",
+			"x"
+		],
+		"process_identifier"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022eba"
+	},
+	"I": 235,
+	"T": 2392,
+	"t": 360,
+	"h": 0,
+	"e": 126,
+	"E": -1073741515,
+	"args": [
+		0,
+		0,
+		0,
+		0,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022ebb"
+	},
+	"I": 235,
+	"T": 2392,
+	"t": 360,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		0,
+		0,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022ebc"
+	},
+	"I": 176,
+	"T": 2392,
+	"t": 360,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		72
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022ebd"
+	},
+	"I": 174,
+	"name": "LdrUnloadDll",
+	"type": "info",
+	"category": "system",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"module_address",
+			"p"
+		],
+		"library"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022ebe"
+	},
+	"I": 174,
+	"T": 2392,
+	"t": 360,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1975779328,
+		"IMM32"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022ebf"
+	},
+	"I": 206,
+	"name": "NtOpenKey",
+	"type": "info",
+	"category": "registry",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"key_handle",
+			"p"
+		],
+		[
+			"desired_access",
+			"x"
+		],
+		"regkey"
+	],
+	"flags_value": {
+		"desired_access": []
+	},
+	"flags_bitmask": {
+		"desired_access": [
+			[
+				2031616,
+				"STANDARD_RIGHTS_ALL"
+			],
+			[
+				983040,
+				"STANDARD_RIGHTS_REQUIRED"
+			],
+			[
+				65536,
+				"DELETE"
+			],
+			[
+				131072,
+				"READ_CONTROL"
+			],
+			[
+				262144,
+				"WRITE_DAC"
+			],
+			[
+				524288,
+				"WRITE_OWNER"
+			],
+			[
+				1048576,
+				"SYNCHRONIZE"
+			],
+			[
+				65535,
+				"SPECIFIC_RIGHTS_ALL"
+			],
+			[
+				16777216,
+				"ACCESS_SYSTEM_SECURITY"
+			],
+			[
+				33554432,
+				"MAXIMUM_ALLOWED"
+			],
+			[
+				-2147483648,
+				"GENERIC_READ"
+			],
+			[
+				1073741824,
+				"GENERIC_WRITE"
+			],
+			[
+				536870912,
+				"GENERIC_EXECUTE"
+			],
+			[
+				268435456,
+				"GENERIC_ALL"
+			]
+		]
+	}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022ec0"
+	},
+	"I": 206,
+	"T": 2392,
+	"t": 360,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		72,
+		131097,
+		"HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\GRE_Initialize"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022ec1"
+	},
+	"I": 221,
+	"name": "NtQueryValueKey",
+	"type": "info",
+	"category": "registry",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"key_handle",
+			"p"
+		],
+		"information_class",
+		"regkey",
+		"key_name",
+		"reg_type",
+		"value"
+	],
+	"flags_value": {
+		"information_class": [
+			[
+				0,
+				"KeyValueBasicInformation"
+			],
+			[
+				1,
+				"KeyValueFullInformation"
+			],
+			[
+				2,
+				"KeyValuePartialInformation"
+			],
+			[
+				3,
+				"KeyValueFullInformationAlign64"
+			],
+			[
+				4,
+				"KeyValuePartialInformationAlign64"
+			],
+			[
+				5,
+				"MaxKeyValueInfoClass"
+			]
+		],
+		"reg_type": [
+			[
+				0,
+				"REG_NONE"
+			],
+			[
+				1,
+				"REG_SZ"
+			],
+			[
+				2,
+				"REG_EXPAND_SZ"
+			],
+			[
+				3,
+				"REG_BINARY"
+			],
+			[
+				4,
+				"REG_DWORD"
+			],
+			[
+				5,
+				"REG_DWORD_BIG_ENDIAN"
+			],
+			[
+				6,
+				"REG_LINK"
+			],
+			[
+				7,
+				"REG_MULTI_SZ"
+			],
+			[
+				8,
+				"REG_RESOURCE_LIST"
+			],
+			[
+				9,
+				"REG_FULL_RESOURCE_DESCRIPTOR"
+			],
+			[
+				10,
+				"REG_RESOURCE_REQUIREMENTS_LIST"
+			],
+			[
+				11,
+				"REG_QWORD"
+			]
+		]
+	},
+	"flags_bitmask": {
+		"information_class": [],
+		"reg_type": []
+	}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022ec2"
+	},
+	"I": 221,
+	"T": 2392,
+	"t": 360,
+	"h": 0,
+	"e": 0,
+	"E": -1073741515,
+	"args": [
+		0,
+		3221225524,
+		72,
+		2,
+		"HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\GRE_Initialize\\DisableMetaFiles",
+		"",
+		0,
+		""
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022ec3"
+	},
+	"I": 176,
+	"T": 2392,
+	"t": 360,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		72
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022ec4"
+	},
+	"I": 176,
+	"T": 2392,
+	"t": 360,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		60
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022ec5"
+	},
+	"I": 176,
+	"T": 2392,
+	"t": 360,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		52
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022ec6"
+	},
+	"I": 176,
+	"T": 2392,
+	"t": 360,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		56
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022ec7"
+	},
+	"I": 235,
+	"T": 2392,
+	"t": 5250,
+	"h": 0,
+	"e": 0,
+	"E": -1073741515,
+	"args": [
+		0,
+		0,
+		-1,
+		0,
+		2388
+	]
+}

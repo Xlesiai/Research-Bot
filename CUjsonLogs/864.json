@@ -1,0 +1,1259 @@
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029023e9a"
+	},
+	"I": 0,
+	"name": "__process__",
+	"type": "info",
+	"category": "__notification__",
+	"args": [
+		"is_success",
+		"retval",
+		"time_low",
+		"time_high",
+		"pid",
+		"ppid",
+		"module_path",
+		"command_line",
+		"is_64bit",
+		"track",
+		"modules"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029023e9b"
+	},
+	"I": 0,
+	"T": 2604,
+	"t": 47,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-1209469012,
+		30981021,
+		864,
+		2324,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\@WanaDecryptor@.exe",
+		"@WanaDecryptor@.exe",
+		0,
+		1,
+		[
+			{
+				"filepath": "C:\\Users\\Administrator\\AppData\\Local\\Temp\\@WanaDecryptor@.exe",
+				"basename": "@WanaDecryptor@.exe",
+				"baseaddr": "0x400000",
+				"imgsize": 249856
+			},
+			{
+				"filepath": "C:\\Windows\\SysWOW64\\ntdll.dll",
+				"basename": "ntdll.dll",
+				"baseaddr": "0x76fd0000",
+				"imgsize": 1572864
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\kernel32.dll",
+				"basename": "kernel32.dll",
+				"baseaddr": "0x76680000",
+				"imgsize": 1114112
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\KERNELBASE.dll",
+				"basename": "KERNELBASE.dll",
+				"baseaddr": "0x74bd0000",
+				"imgsize": 286720
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\MFC42.DLL",
+				"basename": "MFC42.DLL",
+				"baseaddr": "0x73e30000",
+				"imgsize": 1163264
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\msvcrt.dll",
+				"basename": "msvcrt.dll",
+				"baseaddr": "0x76130000",
+				"imgsize": 704512
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\USER32.dll",
+				"basename": "USER32.dll",
+				"baseaddr": "0x75e90000",
+				"imgsize": 1048576
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\GDI32.dll",
+				"basename": "GDI32.dll",
+				"baseaddr": "0x76a00000",
+				"imgsize": 589824
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\LPK.dll",
+				"basename": "LPK.dll",
+				"baseaddr": "0x75ca0000",
+				"imgsize": 40960
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\USP10.dll",
+				"basename": "USP10.dll",
+				"baseaddr": "0x75f90000",
+				"imgsize": 643072
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\ADVAPI32.dll",
+				"basename": "ADVAPI32.dll",
+				"baseaddr": "0x75ba0000",
+				"imgsize": 655360
+			},
+			{
+				"filepath": "C:\\Windows\\SysWOW64\\sechost.dll",
+				"basename": "sechost.dll",
+				"baseaddr": "0x76660000",
+				"imgsize": 102400
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\RPCRT4.dll",
+				"basename": "RPCRT4.dll",
+				"baseaddr": "0x76040000",
+				"imgsize": 983040
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\SspiCli.dll",
+				"basename": "SspiCli.dll",
+				"baseaddr": "0x74b30000",
+				"imgsize": 393216
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\CRYPTBASE.dll",
+				"basename": "CRYPTBASE.dll",
+				"baseaddr": "0x74b20000",
+				"imgsize": 49152
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\ole32.dll",
+				"basename": "ole32.dll",
+				"baseaddr": "0x76500000",
+				"imgsize": 1425408
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\OLEAUT32.dll",
+				"basename": "OLEAUT32.dll",
+				"baseaddr": "0x75d10000",
+				"imgsize": 585728
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\ODBC32.dll",
+				"basename": "ODBC32.dll",
+				"baseaddr": "0x73da0000",
+				"imgsize": 573440
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\SHELL32.dll",
+				"basename": "SHELL32.dll",
+				"baseaddr": "0x74c20000",
+				"imgsize": 12886016
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\SHLWAPI.dll",
+				"basename": "SHLWAPI.dll",
+				"baseaddr": "0x75cb0000",
+				"imgsize": 356352
+			},
+			{
+				"filepath": "C:\\Windows\\WinSxS\\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2\\COMCTL32.dll",
+				"basename": "COMCTL32.dll",
+				"baseaddr": "0x742f0000",
+				"imgsize": 1695744
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\urlmon.dll",
+				"basename": "urlmon.dll",
+				"baseaddr": "0x75a60000",
+				"imgsize": 1269760
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\WININET.dll",
+				"basename": "WININET.dll",
+				"baseaddr": "0x75960000",
+				"imgsize": 1003520
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\iertutil.dll",
+				"basename": "iertutil.dll",
+				"baseaddr": "0x76300000",
+				"imgsize": 2076672
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\CRYPT32.dll",
+				"basename": "CRYPT32.dll",
+				"baseaddr": "0x761e0000",
+				"imgsize": 1167360
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\MSASN1.dll",
+				"basename": "MSASN1.dll",
+				"baseaddr": "0x75870000",
+				"imgsize": 49152
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\MSVCP60.dll",
+				"basename": "MSVCP60.dll",
+				"baseaddr": "0x74050000",
+				"imgsize": 417792
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\WS2_32.dll",
+				"basename": "WS2_32.dll",
+				"baseaddr": "0x769c0000",
+				"imgsize": 217088
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\NSI.dll",
+				"basename": "NSI.dll",
+				"baseaddr": "0x74b90000",
+				"imgsize": 24576
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\IMM32.DLL",
+				"basename": "IMM32.DLL",
+				"baseaddr": "0x75c40000",
+				"imgsize": 393216
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\MSCTF.dll",
+				"basename": "MSCTF.dll",
+				"baseaddr": "0x75dc0000",
+				"imgsize": 835584
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\odbcint.dll",
+				"basename": "odbcint.dll",
+				"baseaddr": "0x73d60000",
+				"imgsize": 229376
+			},
+			{
+				"filepath": "C:\\tmpbajp2c\\bin\\monitor-x86.dll",
+				"basename": "monitor-x86.dll",
+				"baseaddr": "0x740e0000",
+				"imgsize": 2117632
+			}
+		]
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029023e9c"
+	},
+	"I": 280,
+	"name": "GetCursorPos",
+	"type": "info",
+	"category": "misc",
+	"args": [
+		"is_success",
+		"retval",
+		"x",
+		"y"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029023e9d"
+	},
+	"I": 280,
+	"T": 2604,
+	"t": 1234,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		251,
+		303
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029023e9e"
+	},
+	"I": 141,
+	"name": "SetErrorMode",
+	"type": "info",
+	"category": "system",
+	"args": [
+		"is_success",
+		"retval",
+		"mode"
+	],
+	"flags_value": {
+		"mode": []
+	},
+	"flags_bitmask": {
+		"mode": [
+			[
+				1,
+				"SEM_FAILCRITICALERRORS"
+			],
+			[
+				4,
+				"SEM_NOALIGNMENTFAULTEXCEPT"
+			],
+			[
+				2,
+				"SEM_NOGPFAULTERRORBOX"
+			],
+			[
+				32768,
+				"SEM_NOOPENFILEERRORBOX"
+			]
+		]
+	}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029023e9f"
+	},
+	"I": 141,
+	"T": 2604,
+	"t": 1234,
+	"h": 0,
+	"args": [
+		1,
+		32775,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029023ea0"
+	},
+	"I": 141,
+	"T": 2604,
+	"t": 1234,
+	"h": 0,
+	"args": [
+		1,
+		4,
+		32775
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029023ea1"
+	},
+	"I": 95,
+	"name": "FindResourceA",
+	"type": "info",
+	"category": "resource",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"module_handle",
+			"p"
+		],
+		"name",
+		"type"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029023ea2"
+	},
+	"I": 95,
+	"T": 2604,
+	"t": 1234,
+	"h": 0,
+	"e": 1813,
+	"E": -1073741686,
+	"args": [
+		0,
+		0,
+		4194304,
+		"#3585",
+		"#6"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029023ea3"
+	},
+	"I": 95,
+	"T": 2604,
+	"t": 1234,
+	"h": 0,
+	"args": [
+		1,
+		3213744,
+		1944256512,
+		"#3585",
+		"#6"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029023ea4"
+	},
+	"I": 292,
+	"name": "SetWindowsHookExA",
+	"type": "info",
+	"category": "system",
+	"args": [
+		"is_success",
+		"retval",
+		"hook_identifier",
+		[
+			"callback_function",
+			"p"
+		],
+		[
+			"module_address",
+			"p"
+		],
+		"thread_identifier"
+	],
+	"flags_value": {
+		"hook_identifier": [
+			[
+				0,
+				"WH_JOURNALRECORD"
+			],
+			[
+				1,
+				"WH_JOURNALPLAYBACK"
+			],
+			[
+				2,
+				"WH_KEYBOARD"
+			],
+			[
+				3,
+				"WH_GETMESSAGE"
+			],
+			[
+				4,
+				"WH_CALLWNDPROC"
+			],
+			[
+				5,
+				"WH_CBT"
+			],
+			[
+				6,
+				"WH_SYSMSGFILTER"
+			],
+			[
+				7,
+				"WH_MOUSE"
+			],
+			[
+				8,
+				"WH_HARDWARE"
+			],
+			[
+				9,
+				"WH_DEBUG"
+			],
+			[
+				10,
+				"WH_SHELL"
+			],
+			[
+				11,
+				"WH_FOREGROUNDIDLE"
+			],
+			[
+				12,
+				"WH_CALLWNDPROCRET"
+			],
+			[
+				13,
+				"WH_KEYBOARD_LL"
+			],
+			[
+				14,
+				"WH_MOUSE_LL"
+			]
+		]
+	},
+	"flags_bitmask": {
+		"hook_identifier": []
+	}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029023ea5"
+	},
+	"I": 292,
+	"T": 2604,
+	"t": 1234,
+	"h": 0,
+	"args": [
+		1,
+		2162843,
+		-1,
+		1944692003,
+		0,
+		2604
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029023ea6"
+	},
+	"I": 278,
+	"name": "FindWindowW",
+	"type": "info",
+	"category": "ui",
+	"args": [
+		"is_success",
+		"retval",
+		"window_name",
+		"class_name"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029023ea7"
+	},
+	"I": 278,
+	"T": 2604,
+	"t": 1234,
+	"h": 0,
+	"args": [
+		1,
+		131474,
+		"Wana Decrypt0r 2.0",
+		"#0"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029023ea8"
+	},
+	"I": 235,
+	"name": "NtTerminateProcess",
+	"type": "info",
+	"category": "process",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"process_handle",
+			"p"
+		],
+		[
+			"status_code",
+			"x"
+		],
+		"process_identifier"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029023ea9"
+	},
+	"I": 235,
+	"T": 2604,
+	"t": 1234,
+	"h": 0,
+	"e": 5,
+	"E": -1073741686,
+	"args": [
+		0,
+		0,
+		0,
+		0,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029023eaa"
+	},
+	"I": 235,
+	"T": 2604,
+	"t": 1234,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		0,
+		0,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029023eab"
+	},
+	"I": 176,
+	"name": "NtClose",
+	"type": "info",
+	"category": "system",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"handle",
+			"p"
+		]
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029023eac"
+	},
+	"I": 176,
+	"T": 2604,
+	"t": 1250,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		68
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029023ead"
+	},
+	"I": 176,
+	"T": 2604,
+	"t": 1250,
+	"h": 0,
+	"e": 0,
+	"E": -1073741686,
+	"args": [
+		0,
+		3221225480,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029023eae"
+	},
+	"I": 176,
+	"T": 2604,
+	"t": 1250,
+	"h": 0,
+	"e": 6,
+	"E": -1073741816,
+	"args": [
+		0,
+		3221225480,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029023eaf"
+	},
+	"I": 176,
+	"T": 2604,
+	"t": 1250,
+	"h": 0,
+	"e": 6,
+	"E": -1073741816,
+	"args": [
+		0,
+		3221225480,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029023eb0"
+	},
+	"I": 238,
+	"name": "NtUnmapViewOfSection",
+	"type": "info",
+	"category": "process",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"process_handle",
+			"p"
+		],
+		[
+			"base_address",
+			"p"
+		],
+		"process_identifier",
+		"region_size"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029023eb1"
+	},
+	"I": 238,
+	"T": 2604,
+	"t": 1250,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-1,
+		3342336,
+		864,
+		8192
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029023eb2"
+	},
+	"I": 176,
+	"T": 2604,
+	"t": 1250,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		168
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029023eb3"
+	},
+	"I": 176,
+	"T": 2604,
+	"t": 1250,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		164
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029023eb4"
+	},
+	"I": 176,
+	"T": 2604,
+	"t": 1250,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		156
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029023eb5"
+	},
+	"I": 176,
+	"T": 2604,
+	"t": 1250,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		144
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029023eb6"
+	},
+	"I": 176,
+	"T": 2604,
+	"t": 1250,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		148
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029023eb7"
+	},
+	"I": 176,
+	"T": 2604,
+	"t": 1250,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		152
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029023eb8"
+	},
+	"I": 176,
+	"T": 2604,
+	"t": 1250,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		160
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029023eb9"
+	},
+	"I": 176,
+	"T": 2604,
+	"t": 1250,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		140
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029023eba"
+	},
+	"I": 176,
+	"T": 2604,
+	"t": 1250,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		136
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029023ebb"
+	},
+	"I": 294,
+	"name": "UnhookWindowsHookEx",
+	"type": "info",
+	"category": "system",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"hook_handle",
+			"p"
+		]
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029023ebc"
+	},
+	"I": 294,
+	"T": 2604,
+	"t": 1250,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		2162843
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029023ebd"
+	},
+	"I": 171,
+	"name": "LdrGetDllHandle",
+	"type": "info",
+	"category": "system",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"module_address",
+			"p"
+		],
+		"module_name",
+		"stack_pivoted"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029023ebe"
+	},
+	"I": 171,
+	"T": 2604,
+	"t": 1250,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1980956672,
+		"MSVCRT.DLL",
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029023ebf"
+	},
+	"I": 174,
+	"name": "LdrUnloadDll",
+	"type": "info",
+	"category": "system",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"module_address",
+			"p"
+		],
+		"library"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029023ec0"
+	},
+	"I": 174,
+	"T": 2604,
+	"t": 1250,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1980956672,
+		"msvcrt"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029023ec1"
+	},
+	"I": 176,
+	"T": 2604,
+	"t": 1250,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		92
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029023ec2"
+	},
+	"I": 174,
+	"T": 2604,
+	"t": 1250,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1975779328,
+		"IMM32"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029023ec3"
+	},
+	"I": 206,
+	"name": "NtOpenKey",
+	"type": "info",
+	"category": "registry",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"key_handle",
+			"p"
+		],
+		[
+			"desired_access",
+			"x"
+		],
+		"regkey"
+	],
+	"flags_value": {
+		"desired_access": []
+	},
+	"flags_bitmask": {
+		"desired_access": [
+			[
+				2031616,
+				"STANDARD_RIGHTS_ALL"
+			],
+			[
+				983040,
+				"STANDARD_RIGHTS_REQUIRED"
+			],
+			[
+				65536,
+				"DELETE"
+			],
+			[
+				131072,
+				"READ_CONTROL"
+			],
+			[
+				262144,
+				"WRITE_DAC"
+			],
+			[
+				524288,
+				"WRITE_OWNER"
+			],
+			[
+				1048576,
+				"SYNCHRONIZE"
+			],
+			[
+				65535,
+				"SPECIFIC_RIGHTS_ALL"
+			],
+			[
+				16777216,
+				"ACCESS_SYSTEM_SECURITY"
+			],
+			[
+				33554432,
+				"MAXIMUM_ALLOWED"
+			],
+			[
+				-2147483648,
+				"GENERIC_READ"
+			],
+			[
+				1073741824,
+				"GENERIC_WRITE"
+			],
+			[
+				536870912,
+				"GENERIC_EXECUTE"
+			],
+			[
+				268435456,
+				"GENERIC_ALL"
+			]
+		]
+	}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029023ec4"
+	},
+	"I": 206,
+	"T": 2604,
+	"t": 1250,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		92,
+		131097,
+		"HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\GRE_Initialize"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029023ec5"
+	},
+	"I": 221,
+	"name": "NtQueryValueKey",
+	"type": "info",
+	"category": "registry",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"key_handle",
+			"p"
+		],
+		"information_class",
+		"regkey",
+		"key_name",
+		"reg_type",
+		"value"
+	],
+	"flags_value": {
+		"information_class": [
+			[
+				0,
+				"KeyValueBasicInformation"
+			],
+			[
+				1,
+				"KeyValueFullInformation"
+			],
+			[
+				2,
+				"KeyValuePartialInformation"
+			],
+			[
+				3,
+				"KeyValueFullInformationAlign64"
+			],
+			[
+				4,
+				"KeyValuePartialInformationAlign64"
+			],
+			[
+				5,
+				"MaxKeyValueInfoClass"
+			]
+		],
+		"reg_type": [
+			[
+				0,
+				"REG_NONE"
+			],
+			[
+				1,
+				"REG_SZ"
+			],
+			[
+				2,
+				"REG_EXPAND_SZ"
+			],
+			[
+				3,
+				"REG_BINARY"
+			],
+			[
+				4,
+				"REG_DWORD"
+			],
+			[
+				5,
+				"REG_DWORD_BIG_ENDIAN"
+			],
+			[
+				6,
+				"REG_LINK"
+			],
+			[
+				7,
+				"REG_MULTI_SZ"
+			],
+			[
+				8,
+				"REG_RESOURCE_LIST"
+			],
+			[
+				9,
+				"REG_FULL_RESOURCE_DESCRIPTOR"
+			],
+			[
+				10,
+				"REG_RESOURCE_REQUIREMENTS_LIST"
+			],
+			[
+				11,
+				"REG_QWORD"
+			]
+		]
+	},
+	"flags_bitmask": {
+		"information_class": [],
+		"reg_type": []
+	}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029023ec6"
+	},
+	"I": 221,
+	"T": 2604,
+	"t": 1266,
+	"h": 0,
+	"e": 0,
+	"E": -1073741568,
+	"args": [
+		0,
+		3221225524,
+		92,
+		2,
+		"HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\GRE_Initialize\\DisableMetaFiles",
+		"",
+		0,
+		""
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029023ec7"
+	},
+	"I": 176,
+	"T": 2604,
+	"t": 1266,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		92
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029023ec8"
+	},
+	"I": 176,
+	"T": 2604,
+	"t": 1266,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		56
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029023ec9"
+	},
+	"I": 176,
+	"T": 2604,
+	"t": 1266,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		48
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029023eca"
+	},
+	"I": 176,
+	"T": 2604,
+	"t": 1266,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		52
+	]
+}

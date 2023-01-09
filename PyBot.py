@@ -288,14 +288,6 @@ class SimplifiedBot:
         frame[column] = string + frame[column]
 
     @staticmethod
-    def add_target(csv, column, pattern):
-        for val in csv[column]:
-            if val is pattern:
-                csv['Target'] = 1
-            else:
-                csv['Target'] = 0
-
-    @staticmethod
     def tfidf_logs(corpus):
         new_csv = pd.DataFrame()
 
@@ -321,7 +313,7 @@ class SimplifiedBot:
         return new_csv
 
     @staticmethod
-    def tf_idf(docs, columns):
+    def tf_idf_pcap(docs, columns):
         unique = dict()
         new_csv = pd.DataFrame()
 
@@ -426,3 +418,11 @@ class SimplifiedBot:
                 new_csv = pd.DataFrame(unique, index=[0])
                 # returns the dataframe
                 return new_csv.fillna(0)
+
+    @staticmethod
+    def json_to_csv(json_paths, filepath):
+        csv = pd.DataFrame()
+        for file in json_paths:
+            temp = pd.read_json(file, lines=True)
+            csv.append(temp)
+        csv.to_csv(filepath)

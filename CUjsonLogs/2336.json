@@ -1,0 +1,2416 @@
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d941"
+	},
+	"I": 0,
+	"name": "__process__",
+	"type": "info",
+	"category": "__notification__",
+	"args": [
+		"is_success",
+		"retval",
+		"time_low",
+		"time_high",
+		"pid",
+		"ppid",
+		"module_path",
+		"command_line",
+		"is_64bit",
+		"track",
+		"modules"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d942"
+	},
+	"I": 0,
+	"T": 2340,
+	"t": 0,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-2037437762,
+		30981021,
+		2336,
+		2324,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\taskdl.exe",
+		"taskdl.exe",
+		0,
+		1,
+		[
+			{
+				"filepath": "C:\\Users\\Administrator\\AppData\\Local\\Temp\\taskdl.exe",
+				"basename": "taskdl.exe",
+				"baseaddr": "0x400000",
+				"imgsize": 20480
+			},
+			{
+				"filepath": "C:\\Windows\\SysWOW64\\ntdll.dll",
+				"basename": "ntdll.dll",
+				"baseaddr": "0x76fd0000",
+				"imgsize": 1572864
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\kernel32.dll",
+				"basename": "kernel32.dll",
+				"baseaddr": "0x76680000",
+				"imgsize": 1114112
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\KERNELBASE.dll",
+				"basename": "KERNELBASE.dll",
+				"baseaddr": "0x74bd0000",
+				"imgsize": 286720
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\MSVCP60.dll",
+				"basename": "MSVCP60.dll",
+				"baseaddr": "0x74050000",
+				"imgsize": 417792
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\msvcrt.dll",
+				"basename": "msvcrt.dll",
+				"baseaddr": "0x76130000",
+				"imgsize": 704512
+			},
+			{
+				"filepath": "C:\\tmpbajp2c\\bin\\monitor-x86.dll",
+				"basename": "monitor-x86.dll",
+				"baseaddr": "0x740e0000",
+				"imgsize": 2117632
+			}
+		]
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d943"
+	},
+	"I": 94,
+	"name": "FindFirstFileExW",
+	"type": "info",
+	"category": "file",
+	"args": [
+		"is_success",
+		"retval",
+		"filepath",
+		"filepath_r"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d944"
+	},
+	"I": 94,
+	"T": 2340,
+	"t": 1156,
+	"h": 0,
+	"e": 21,
+	"E": -1073741805,
+	"args": [
+		0,
+		4294967295,
+		"D:\\$RECYCLE\\*.WNCRYT",
+		"D:\\$RECYCLE\\*.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d945"
+	},
+	"I": 187,
+	"name": "NtDelayExecution",
+	"type": "info",
+	"category": "synchronisation",
+	"args": [
+		"is_success",
+		"retval",
+		"milliseconds",
+		"skipped"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d946"
+	},
+	"I": 187,
+	"T": 2340,
+	"t": 1188,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		10,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d947"
+	},
+	"I": 120,
+	"name": "GetTempPathW",
+	"type": "info",
+	"category": "file",
+	"args": [
+		"is_success",
+		"retval",
+		"dirpath"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d948"
+	},
+	"I": 120,
+	"T": 2340,
+	"t": 1188,
+	"h": 0,
+	"args": [
+		1,
+		37,
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d949"
+	},
+	"I": 94,
+	"T": 2340,
+	"t": 1203,
+	"h": 0,
+	"args": [
+		1,
+		5084368,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\*.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\*.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d94a"
+	},
+	"I": 214,
+	"name": "NtQueryDirectoryFile",
+	"type": "info",
+	"category": "file",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"file_handle",
+			"p"
+		],
+		"information_class",
+		"dirpath"
+	],
+	"flags_value": {
+		"information_class": [
+			[
+				1,
+				"FileDirectoryInformation"
+			],
+			[
+				2,
+				"FileFullDirectoryInformation"
+			],
+			[
+				3,
+				"FileBothDirectoryInformation"
+			],
+			[
+				4,
+				"FileBasicInformation"
+			],
+			[
+				5,
+				"FileStandardInformation"
+			],
+			[
+				6,
+				"FileInternalInformation"
+			],
+			[
+				7,
+				"FileEaInformation"
+			],
+			[
+				8,
+				"FileAccessInformation"
+			],
+			[
+				9,
+				"FileNameInformation"
+			],
+			[
+				10,
+				"FileRenameInformation"
+			],
+			[
+				11,
+				"FileLinkInformation"
+			],
+			[
+				12,
+				"FileNamesInformation"
+			],
+			[
+				13,
+				"FileDispositionInformation"
+			],
+			[
+				14,
+				"FilePositionInformation"
+			],
+			[
+				15,
+				"FileFullEaInformation"
+			],
+			[
+				16,
+				"FileModeInformation"
+			],
+			[
+				17,
+				"FileAlignmentInformation"
+			],
+			[
+				18,
+				"FileAllInformation"
+			],
+			[
+				19,
+				"FileAllocationInformation"
+			],
+			[
+				20,
+				"FileEndOfFileInformation"
+			],
+			[
+				21,
+				"FileAlternateNameInformation"
+			],
+			[
+				22,
+				"FileStreamInformation"
+			],
+			[
+				23,
+				"FilePipeInformation"
+			],
+			[
+				24,
+				"FilePipeLocalInformation"
+			],
+			[
+				25,
+				"FilePipeRemoteInformation"
+			],
+			[
+				26,
+				"FileMailslotQueryInformation"
+			],
+			[
+				27,
+				"FileMailslotSetInformation"
+			],
+			[
+				28,
+				"FileCompressionInformation"
+			],
+			[
+				29,
+				"FileObjectIdInformation"
+			],
+			[
+				30,
+				"FileCompletionInformation"
+			],
+			[
+				31,
+				"FileMoveClusterInformation"
+			],
+			[
+				32,
+				"FileQuotaInformation"
+			],
+			[
+				33,
+				"FileReparsePointInformation"
+			],
+			[
+				34,
+				"FileNetworkOpenInformation"
+			],
+			[
+				35,
+				"FileAttributeTagInformation"
+			],
+			[
+				36,
+				"FileTrackingInformation"
+			],
+			[
+				37,
+				"FileIdBothDirectoryInformation"
+			],
+			[
+				38,
+				"FileIdFullDirectoryInformation"
+			],
+			[
+				39,
+				"FileValidDataLengthInformation"
+			],
+			[
+				40,
+				"FileShortNameInformation"
+			],
+			[
+				41,
+				"FileIoCompletionNotificationInformation"
+			],
+			[
+				42,
+				"FileIoStatusBlockRangeInformation"
+			],
+			[
+				43,
+				"FileIoPriorityHintInformation"
+			],
+			[
+				44,
+				"FileSfioReserveInformation"
+			],
+			[
+				45,
+				"FileSfioVolumeInformation"
+			],
+			[
+				46,
+				"FileHardLinkInformation"
+			],
+			[
+				47,
+				"FileProcessIdsUsingFileInformation"
+			],
+			[
+				48,
+				"FileNormalizedNameInformation"
+			],
+			[
+				49,
+				"FileNetworkPhysicalNameInformation"
+			],
+			[
+				50,
+				"FileIdGlobalTxDirectoryInformation"
+			],
+			[
+				51,
+				"FileIsRemoteDeviceInformation"
+			],
+			[
+				52,
+				"FileAttributeCacheInformation"
+			],
+			[
+				53,
+				"FileNumaNodeInformation"
+			],
+			[
+				54,
+				"FileStandardLinkInformation"
+			],
+			[
+				55,
+				"FileRemoteProtocolInformation"
+			]
+		]
+	},
+	"flags_bitmask": {
+		"information_class": []
+	}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d94b"
+	},
+	"I": 214,
+	"T": 2340,
+	"t": 1235,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		56,
+		3,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d94c"
+	},
+	"I": 175,
+	"name": "NtAllocateVirtualMemory",
+	"type": "info",
+	"category": "process",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"process_handle",
+			"p"
+		],
+		[
+			"base_address",
+			"p"
+		],
+		"region_size",
+		"allocation_type",
+		"protection",
+		"stack_pivoted",
+		"stack_dep_bypass",
+		"heap_dep_bypass",
+		"process_identifier"
+	],
+	"flags_value": {
+		"protection": [],
+		"allocation_type": []
+	},
+	"flags_bitmask": {
+		"protection": [
+			[
+				16,
+				"PAGE_EXECUTE"
+			],
+			[
+				32,
+				"PAGE_EXECUTE_READ"
+			],
+			[
+				64,
+				"PAGE_EXECUTE_READWRITE"
+			],
+			[
+				128,
+				"PAGE_EXECUTE_WRITECOPY"
+			],
+			[
+				1,
+				"PAGE_NOACCESS"
+			],
+			[
+				2,
+				"PAGE_READONLY"
+			],
+			[
+				4,
+				"PAGE_READWRITE"
+			],
+			[
+				8,
+				"PAGE_WRITECOPY"
+			],
+			[
+				256,
+				"PAGE_GUARD"
+			],
+			[
+				512,
+				"PAGE_NOCACHE"
+			],
+			[
+				1024,
+				"PAGE_WRITECOMBINE"
+			]
+		],
+		"allocation_type": [
+			[
+				4096,
+				"MEM_COMMIT"
+			],
+			[
+				8192,
+				"MEM_RESERVE"
+			],
+			[
+				524288,
+				"MEM_RESET"
+			],
+			[
+				536870912,
+				"MEM_LARGE_PAGES"
+			],
+			[
+				4194304,
+				"MEM_PHYSICAL"
+			],
+			[
+				1048576,
+				"MEM_TOP_DOWN"
+			],
+			[
+				2097152,
+				"MEM_WRITE_WATCH"
+			]
+		]
+	}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d94d"
+	},
+	"I": 175,
+	"T": 2340,
+	"t": 1235,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-1,
+		7557120,
+		16384,
+		4096,
+		4,
+		0,
+		0,
+		0,
+		2336
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d94e"
+	},
+	"I": 175,
+	"T": 2340,
+	"t": 1235,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-1,
+		6029312,
+		1048576,
+		8192,
+		4,
+		0,
+		0,
+		0,
+		2336
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d94f"
+	},
+	"I": 175,
+	"T": 2340,
+	"t": 1235,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-1,
+		6029312,
+		73728,
+		4096,
+		4,
+		0,
+		0,
+		0,
+		2336
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d950"
+	},
+	"I": 214,
+	"T": 2340,
+	"t": 1235,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		56,
+		3,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d951"
+	},
+	"I": 214,
+	"T": 2340,
+	"t": 1235,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		56,
+		3,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d952"
+	},
+	"I": 175,
+	"T": 2340,
+	"t": 1235,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-1,
+		7573504,
+		8192,
+		4096,
+		4,
+		0,
+		0,
+		0,
+		2336
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d953"
+	},
+	"I": 214,
+	"T": 2340,
+	"t": 1235,
+	"h": 0,
+	"e": 21,
+	"E": -1073741805,
+	"args": [
+		0,
+		2147483654,
+		56,
+		3,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d954"
+	},
+	"I": 176,
+	"name": "NtClose",
+	"type": "info",
+	"category": "system",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"handle",
+			"p"
+		]
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d955"
+	},
+	"I": 176,
+	"T": 2340,
+	"t": 1235,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		56
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d956"
+	},
+	"I": 91,
+	"name": "DeleteFileW",
+	"type": "info",
+	"category": "file",
+	"args": [
+		"is_success",
+		"retval",
+		"filepath",
+		"filepath_r"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d957"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 2610,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\0.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\0.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d958"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 2953,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\1.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\1.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d959"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 3063,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\10.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\10.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d95a"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 3469,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\11.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\11.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d95b"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 3875,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\12.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\12.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d95c"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 4469,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\13.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\13.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d95d"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 5563,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\14.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\14.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d95e"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 5703,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\15.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\15.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d95f"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 6094,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\16.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\16.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d960"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 6188,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\17.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\17.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d961"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 6250,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\18.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\18.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d962"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 6328,
+	"h": 0,
+	"e": 32,
+	"E": -1073741757,
+	"args": [
+		0,
+		0,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\19.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\19.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d963"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 6391,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\2.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d964"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 6438,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\20.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\20.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d965"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 6485,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\21.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\21.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d966"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 6531,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\22.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\22.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d967"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 6594,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\23.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\23.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d968"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 6641,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\24.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\24.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d969"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 6688,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\25.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\25.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d96a"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 6735,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\26.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\26.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d96b"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 6781,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\27.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\27.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d96c"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 6828,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\28.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\28.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d96d"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 6860,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\29.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\29.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d96e"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 6922,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\3.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\3.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d96f"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 6985,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\30.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\30.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d970"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 7031,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\31.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\31.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d971"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 7063,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\32.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\32.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d972"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 7110,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\33.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\33.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d973"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 7156,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\34.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\34.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d974"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 7203,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\35.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\35.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d975"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 7250,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\36.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\36.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d976"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 7297,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\37.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\37.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d977"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 7344,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\38.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\38.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d978"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 7391,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\39.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\39.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d979"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 7438,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\4.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\4.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d97a"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 7485,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\40.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\40.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d97b"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 7531,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\41.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\41.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d97c"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 7578,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\42.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\42.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d97d"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 7625,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\43.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\43.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d97e"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 7672,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\44.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\44.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d97f"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 7828,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\45.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\45.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d980"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 7906,
+	"h": 0,
+	"e": 32,
+	"E": -1073741757,
+	"args": [
+		0,
+		0,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\46.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\46.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d981"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 7969,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\47.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\47.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d982"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 8110,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\48.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\48.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d983"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 8156,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\49.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\49.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d984"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 8219,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\5.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\5.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d985"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 8281,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\50.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\50.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d986"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 8328,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\51.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\51.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d987"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 8344,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\52.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\52.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d988"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 8375,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\53.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\53.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d989"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 8406,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\54.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\54.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d98a"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 8594,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\55.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\55.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d98b"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 8656,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\56.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\56.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d98c"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 8703,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\57.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\57.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d98d"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 8750,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\58.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\58.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d98e"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 8813,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\59.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\59.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d98f"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 8875,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\6.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\6.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d990"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 8938,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\60.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\60.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d991"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 8985,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\61.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\61.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d992"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 9031,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\62.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\62.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d993"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 9110,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\63.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\63.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d994"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 9156,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\64.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\64.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d995"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 9266,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\65.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\65.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d996"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 9344,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\66.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\66.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d997"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 9406,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\67.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\67.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d998"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 9469,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\68.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\68.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d999"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 9516,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\69.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\69.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d99a"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 9594,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\7.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\7.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d99b"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 9641,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\70.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\70.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d99c"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 9688,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\71.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\71.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d99d"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 9750,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\72.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\72.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d99e"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 9797,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\73.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\73.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d99f"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 9844,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\74.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\74.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d9a0"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 9906,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\75.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\75.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d9a1"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 10016,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\76.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\76.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d9a2"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 10063,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\77.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\77.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d9a3"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 10110,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\78.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\78.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d9a4"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 10156,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\79.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\79.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d9a5"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 10219,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\8.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\8.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d9a6"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 10453,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\80.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\80.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d9a7"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 10500,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\81.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\81.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d9a8"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 10547,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\82.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\82.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d9a9"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 10610,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\83.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\83.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d9aa"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 10656,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\84.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\84.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d9ab"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 10703,
+	"h": 0,
+	"e": 32,
+	"E": -1073741757,
+	"args": [
+		0,
+		0,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\85.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\85.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d9ac"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 10797,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\86.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\86.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d9ad"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 10860,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\87.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\87.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d9ae"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 10922,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\88.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\88.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d9af"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 10985,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\89.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\89.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d9b0"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 11063,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\9.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\9.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d9b1"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 11110,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\90.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\90.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d9b2"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 11172,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\91.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\91.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d9b3"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 11235,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\92.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\92.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d9b4"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 11297,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\93.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\93.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d9b5"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 11344,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\94.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\94.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d9b6"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 11438,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\95.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\95.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d9b7"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 11641,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\96.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\96.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d9b8"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 11703,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\97.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\97.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d9b9"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 11766,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\98.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\98.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d9ba"
+	},
+	"I": 91,
+	"T": 2340,
+	"t": 45860,
+	"h": 0,
+	"e": 32,
+	"E": -1073741757,
+	"args": [
+		0,
+		0,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\hibsys.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\hibsys.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d9bb"
+	},
+	"I": 187,
+	"T": 2340,
+	"t": 45875,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		10,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d9bc"
+	},
+	"I": 171,
+	"name": "LdrGetDllHandle",
+	"type": "info",
+	"category": "system",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"module_address",
+			"p"
+		],
+		"module_name",
+		"stack_pivoted"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d9bd"
+	},
+	"I": 171,
+	"T": 2340,
+	"t": 45875,
+	"h": 0,
+	"e": 32,
+	"E": -1073741757,
+	"args": [
+		0,
+		3221225781,
+		0,
+		"mscoree.dll",
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d9be"
+	},
+	"I": 171,
+	"T": 2340,
+	"t": 45875,
+	"h": 0,
+	"e": 32,
+	"E": -1073741757,
+	"args": [
+		0,
+		3221225781,
+		0,
+		"mscoree.dll",
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d9bf"
+	},
+	"I": 235,
+	"name": "NtTerminateProcess",
+	"type": "info",
+	"category": "process",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"process_handle",
+			"p"
+		],
+		[
+			"status_code",
+			"x"
+		],
+		"process_identifier"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d9c0"
+	},
+	"I": 235,
+	"T": 2340,
+	"t": 45875,
+	"h": 0,
+	"e": 126,
+	"E": -1073741515,
+	"args": [
+		0,
+		0,
+		0,
+		0,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d9c1"
+	},
+	"I": 235,
+	"T": 2340,
+	"t": 45875,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		0,
+		0,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901d9c2"
+	},
+	"I": 235,
+	"T": 2340,
+	"t": 47313,
+	"h": 0,
+	"e": 126,
+	"E": -1073741515,
+	"args": [
+		0,
+		0,
+		-1,
+		0,
+		2336
+	]
+}

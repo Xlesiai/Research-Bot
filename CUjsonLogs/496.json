@@ -1,0 +1,401 @@
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029024e6b"
+	},
+	"I": 0,
+	"name": "__process__",
+	"type": "info",
+	"category": "__notification__",
+	"args": [
+		"is_success",
+		"retval",
+		"time_low",
+		"time_high",
+		"pid",
+		"ppid",
+		"module_path",
+		"command_line",
+		"is_64bit",
+		"track",
+		"modules"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029024e6c"
+	},
+	"I": 0,
+	"T": 2208,
+	"t": 16,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1495029534,
+		30981021,
+		496,
+		388,
+		"C:\\Windows\\System32\\lsass.exe",
+		"C:\\Windows\\system32\\lsass.exe",
+		1,
+		0,
+		[
+			{
+				"filepath": "C:\\Windows\\system32\\lsass.exe",
+				"basename": "lsass.exe",
+				"baseaddr": "0xff8c0000",
+				"imgsize": 49152
+			},
+			{
+				"filepath": "C:\\Windows\\SYSTEM32\\ntdll.dll",
+				"basename": "ntdll.dll",
+				"baseaddr": "0x76df0000",
+				"imgsize": 1740800
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\kernel32.dll",
+				"basename": "kernel32.dll",
+				"baseaddr": "0x76cd0000",
+				"imgsize": 1175552
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\KERNELBASE.dll",
+				"basename": "KERNELBASE.dll",
+				"baseaddr": "0x7fefd060000",
+				"imgsize": 438272
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\msvcrt.dll",
+				"basename": "msvcrt.dll",
+				"baseaddr": "0x7fefd800000",
+				"imgsize": 651264
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\RPCRT4.dll",
+				"basename": "RPCRT4.dll",
+				"baseaddr": "0x7fefd1b0000",
+				"imgsize": 1232896
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\SspiSrv.dll",
+				"basename": "SspiSrv.dll",
+				"baseaddr": "0x7fefcbc0000",
+				"imgsize": 45056
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\lsasrv.dll",
+				"basename": "lsasrv.dll",
+				"baseaddr": "0x7fefca10000",
+				"imgsize": 1470464
+			},
+			{
+				"filepath": "C:\\Windows\\SYSTEM32\\sechost.dll",
+				"basename": "sechost.dll",
+				"baseaddr": "0x7fefda00000",
+				"imgsize": 126976
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\SspiCli.dll",
+				"basename": "SspiCli.dll",
+				"baseaddr": "0x7fefcb80000",
+				"imgsize": 151552
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\ADVAPI32.dll",
+				"basename": "ADVAPI32.dll",
+				"baseaddr": "0x7fefd8b0000",
+				"imgsize": 897024
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\USER32.dll",
+				"basename": "USER32.dll",
+				"baseaddr": "0x76bd0000",
+				"imgsize": 1024000
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\GDI32.dll",
+				"basename": "GDI32.dll",
+				"baseaddr": "0x7fefd990000",
+				"imgsize": 421888
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\LPK.dll",
+				"basename": "LPK.dll",
+				"baseaddr": "0x7fefde80000",
+				"imgsize": 57344
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\USP10.dll",
+				"basename": "USP10.dll",
+				"baseaddr": "0x7fefde90000",
+				"imgsize": 823296
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\SAMSRV.dll",
+				"basename": "SAMSRV.dll",
+				"baseaddr": "0x7fefc940000",
+				"imgsize": 774144
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\cryptdll.dll",
+				"basename": "cryptdll.dll",
+				"baseaddr": "0x7fefc920000",
+				"imgsize": 81920
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\MSASN1.dll",
+				"basename": "MSASN1.dll",
+				"baseaddr": "0x7fefcde0000",
+				"imgsize": 61440
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\wevtapi.dll",
+				"basename": "wevtapi.dll",
+				"baseaddr": "0x7fefc890000",
+				"imgsize": 446464
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\IMM32.DLL",
+				"basename": "IMM32.DLL",
+				"baseaddr": "0x7fefe2c0000",
+				"imgsize": 188416
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\MSCTF.dll",
+				"basename": "MSCTF.dll",
+				"baseaddr": "0x7fefe090000",
+				"imgsize": 1085440
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\cngaudit.dll",
+				"basename": "cngaudit.dll",
+				"baseaddr": "0x7fefc790000",
+				"imgsize": 36864
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\AUTHZ.dll",
+				"basename": "AUTHZ.dll",
+				"baseaddr": "0x7fefc760000",
+				"imgsize": 192512
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\ncrypt.dll",
+				"basename": "ncrypt.dll",
+				"baseaddr": "0x7fefc710000",
+				"imgsize": 319488
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\bcrypt.dll",
+				"basename": "bcrypt.dll",
+				"baseaddr": "0x7fefc6e0000",
+				"imgsize": 139264
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\msprivs.DLL",
+				"basename": "msprivs.DLL",
+				"baseaddr": "0x74b10000",
+				"imgsize": 8192
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\netjoin.dll",
+				"basename": "netjoin.dll",
+				"baseaddr": "0x7fefc6a0000",
+				"imgsize": 204800
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\negoexts.DLL",
+				"basename": "negoexts.DLL",
+				"baseaddr": "0x7fefc670000",
+				"imgsize": 147456
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\Secur32.dll",
+				"basename": "Secur32.dll",
+				"baseaddr": "0x7fefc880000",
+				"imgsize": 45056
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\cryptbase.dll",
+				"basename": "cryptbase.dll",
+				"baseaddr": "0x7fefcc30000",
+				"imgsize": 61440
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\kerberos.DLL",
+				"basename": "kerberos.DLL",
+				"baseaddr": "0x7fefc5b0000",
+				"imgsize": 737280
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\CRYPTSP.dll",
+				"basename": "CRYPTSP.dll",
+				"baseaddr": "0x7fefc7c0000",
+				"imgsize": 94208
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\WS2_32.dll",
+				"basename": "WS2_32.dll",
+				"baseaddr": "0x7fefde30000",
+				"imgsize": 315392
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\NSI.dll",
+				"basename": "NSI.dll",
+				"baseaddr": "0x7fefd8a0000",
+				"imgsize": 32768
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\mswsock.dll",
+				"basename": "mswsock.dll",
+				"baseaddr": "0x7fefc550000",
+				"imgsize": 348160
+			},
+			{
+				"filepath": "C:\\Windows\\System32\\wship6.dll",
+				"basename": "wship6.dll",
+				"baseaddr": "0x7fefc7b0000",
+				"imgsize": 28672
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\msv1_0.DLL",
+				"basename": "msv1_0.DLL",
+				"baseaddr": "0x7fefc4f0000",
+				"imgsize": 331776
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\netlogon.DLL",
+				"basename": "netlogon.DLL",
+				"baseaddr": "0x7fefc440000",
+				"imgsize": 712704
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\DNSAPI.dll",
+				"basename": "DNSAPI.dll",
+				"baseaddr": "0x7fefc390000",
+				"imgsize": 372736
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\logoncli.dll",
+				"basename": "logoncli.dll",
+				"baseaddr": "0x7fefc410000",
+				"imgsize": 196608
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\schannel.DLL",
+				"basename": "schannel.DLL",
+				"baseaddr": "0x7fefc300000",
+				"imgsize": 356352
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\CRYPT32.dll",
+				"basename": "CRYPT32.dll",
+				"baseaddr": "0x7fefcdf0000",
+				"imgsize": 1470464
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\wdigest.DLL",
+				"basename": "wdigest.DLL",
+				"baseaddr": "0x7fefc2c0000",
+				"imgsize": 221184
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\rsaenh.dll",
+				"basename": "rsaenh.dll",
+				"baseaddr": "0x7fefc270000",
+				"imgsize": 290816
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\tspkg.DLL",
+				"basename": "tspkg.DLL",
+				"baseaddr": "0x7fefc3f0000",
+				"imgsize": 98304
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\pku2u.DLL",
+				"basename": "pku2u.DLL",
+				"baseaddr": "0x7fefc220000",
+				"imgsize": 282624
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\bcryptprimitives.dll",
+				"basename": "bcryptprimitives.dll",
+				"baseaddr": "0x7fefc1d0000",
+				"imgsize": 311296
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\RpcRtRemote.dll",
+				"basename": "RpcRtRemote.dll",
+				"baseaddr": "0x7fefcd20000",
+				"imgsize": 81920
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\efslsaext.dll",
+				"basename": "efslsaext.dll",
+				"baseaddr": "0x7fefc370000",
+				"imgsize": 73728
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\scecli.DLL",
+				"basename": "scecli.DLL",
+				"baseaddr": "0x7fefc190000",
+				"imgsize": 253952
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\credssp.dll",
+				"basename": "credssp.dll",
+				"baseaddr": "0x7fefc360000",
+				"imgsize": 40960
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\WINSTA.dll",
+				"basename": "WINSTA.dll",
+				"baseaddr": "0x7fefcce0000",
+				"imgsize": 249856
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\IPHLPAPI.DLL",
+				"basename": "IPHLPAPI.DLL",
+				"baseaddr": "0x7fefa7c0000",
+				"imgsize": 159744
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\WINNSI.DLL",
+				"basename": "WINNSI.DLL",
+				"baseaddr": "0x7fefa7b0000",
+				"imgsize": 45056
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\netutils.dll",
+				"basename": "netutils.dll",
+				"baseaddr": "0x7fefaa40000",
+				"imgsize": 49152
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\USERENV.dll",
+				"basename": "USERENV.dll",
+				"baseaddr": "0x7fefc080000",
+				"imgsize": 122880
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\profapi.dll",
+				"basename": "profapi.dll",
+				"baseaddr": "0x7fefcd40000",
+				"imgsize": 61440
+			},
+			{
+				"filepath": "C:\\Windows\\System32\\wshtcpip.dll",
+				"basename": "wshtcpip.dll",
+				"baseaddr": "0x7fefbf70000",
+				"imgsize": 28672
+			},
+			{
+				"filepath": "C:\\tmpbajp2c\\bin\\monitor-x64.dll",
+				"basename": "monitor-x64.dll",
+				"baseaddr": "0x74490000",
+				"imgsize": 2269184
+			}
+		]
+	]
+}

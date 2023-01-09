@@ -1,0 +1,2404 @@
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102902265e"
+	},
+	"I": 0,
+	"name": "__process__",
+	"type": "info",
+	"category": "__notification__",
+	"args": [
+		"is_success",
+		"retval",
+		"time_low",
+		"time_high",
+		"pid",
+		"ppid",
+		"module_path",
+		"command_line",
+		"is_64bit",
+		"track",
+		"modules"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102902265f"
+	},
+	"I": 0,
+	"T": 3048,
+	"t": 0,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-2105562762,
+		30981021,
+		1832,
+		2324,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\taskse.exe",
+		"taskse.exe C:\\Users\\Administrator\\AppData\\Local\\Temp\\@WanaDecryptor@.exe",
+		0,
+		1,
+		[
+			{
+				"filepath": "C:\\Users\\Administrator\\AppData\\Local\\Temp\\taskse.exe",
+				"basename": "taskse.exe",
+				"baseaddr": "0x400000",
+				"imgsize": 20480
+			},
+			{
+				"filepath": "C:\\Windows\\SysWOW64\\ntdll.dll",
+				"basename": "ntdll.dll",
+				"baseaddr": "0x76fd0000",
+				"imgsize": 1572864
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\kernel32.dll",
+				"basename": "kernel32.dll",
+				"baseaddr": "0x76680000",
+				"imgsize": 1114112
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\KERNELBASE.dll",
+				"basename": "KERNELBASE.dll",
+				"baseaddr": "0x74bd0000",
+				"imgsize": 286720
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\MSVCRT.dll",
+				"basename": "MSVCRT.dll",
+				"baseaddr": "0x76130000",
+				"imgsize": 704512
+			},
+			{
+				"filepath": "C:\\tmpbajp2c\\bin\\monitor-x86.dll",
+				"basename": "monitor-x86.dll",
+				"baseaddr": "0x740e0000",
+				"imgsize": 2117632
+			}
+		]
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022660"
+	},
+	"I": 173,
+	"name": "LdrLoadDll",
+	"type": "info",
+	"category": "system",
+	"args": [
+		"is_success",
+		"retval",
+		"flags",
+		[
+			"module_address",
+			"p"
+		],
+		"module_name",
+		"basename",
+		"stack_pivoted"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022661"
+	},
+	"I": 173,
+	"T": 3048,
+	"t": 187,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		0,
+		1937702912,
+		"Wtsapi32.dll",
+		"Wtsapi32",
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022662"
+	},
+	"I": 172,
+	"name": "LdrGetProcedureAddress",
+	"type": "info",
+	"category": "system",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"module_address",
+			"p"
+		],
+		"function_name",
+		"ordinal",
+		[
+			"function_address",
+			"p"
+		],
+		"module"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022663"
+	},
+	"I": 172,
+	"T": 3048,
+	"t": 187,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1937702912,
+		"WTSEnumerateSessionsA",
+		0,
+		1937719331,
+		"Wtsapi32"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022664"
+	},
+	"I": 172,
+	"T": 3048,
+	"t": 187,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1937702912,
+		"WTSFreeMemory",
+		0,
+		1937709925,
+		"Wtsapi32"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022665"
+	},
+	"I": 173,
+	"T": 3048,
+	"t": 187,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		0,
+		1937506304,
+		"WINSTA.dll",
+		"WINSTA",
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022666"
+	},
+	"I": 172,
+	"T": 3048,
+	"t": 187,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1937506304,
+		"WinStationEnumerateW",
+		0,
+		1937528557,
+		"WINSTA"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022667"
+	},
+	"I": 117,
+	"name": "GetSystemTimeAsFileTime",
+	"type": "info",
+	"category": "synchronisation",
+	"args": [
+		"is_success",
+		"retval"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022668"
+	},
+	"I": 117,
+	"T": 3048,
+	"t": 250,
+	"h": 0,
+	"args": [
+		1,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022669"
+	},
+	"I": 115,
+	"name": "GetSystemInfo",
+	"type": "info",
+	"category": "system",
+	"args": [
+		"is_success",
+		"retval",
+		"processor_count"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102902266a"
+	},
+	"I": 115,
+	"T": 3048,
+	"t": 250,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		2
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102902266b"
+	},
+	"I": 206,
+	"name": "NtOpenKey",
+	"type": "info",
+	"category": "registry",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"key_handle",
+			"p"
+		],
+		[
+			"desired_access",
+			"x"
+		],
+		"regkey"
+	],
+	"flags_value": {
+		"desired_access": []
+	},
+	"flags_bitmask": {
+		"desired_access": [
+			[
+				2031616,
+				"STANDARD_RIGHTS_ALL"
+			],
+			[
+				983040,
+				"STANDARD_RIGHTS_REQUIRED"
+			],
+			[
+				65536,
+				"DELETE"
+			],
+			[
+				131072,
+				"READ_CONTROL"
+			],
+			[
+				262144,
+				"WRITE_DAC"
+			],
+			[
+				524288,
+				"WRITE_OWNER"
+			],
+			[
+				1048576,
+				"SYNCHRONIZE"
+			],
+			[
+				65535,
+				"SPECIFIC_RIGHTS_ALL"
+			],
+			[
+				16777216,
+				"ACCESS_SYSTEM_SECURITY"
+			],
+			[
+				33554432,
+				"MAXIMUM_ALLOWED"
+			],
+			[
+				-2147483648,
+				"GENERIC_READ"
+			],
+			[
+				1073741824,
+				"GENERIC_WRITE"
+			],
+			[
+				536870912,
+				"GENERIC_EXECUTE"
+			],
+			[
+				268435456,
+				"GENERIC_ALL"
+			]
+		]
+	}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102902266c"
+	},
+	"I": 206,
+	"T": 3048,
+	"t": 250,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		68,
+		131097,
+		"HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Terminal Server"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102902266d"
+	},
+	"I": 221,
+	"name": "NtQueryValueKey",
+	"type": "info",
+	"category": "registry",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"key_handle",
+			"p"
+		],
+		"information_class",
+		"regkey",
+		"key_name",
+		"reg_type",
+		"value"
+	],
+	"flags_value": {
+		"information_class": [
+			[
+				0,
+				"KeyValueBasicInformation"
+			],
+			[
+				1,
+				"KeyValueFullInformation"
+			],
+			[
+				2,
+				"KeyValuePartialInformation"
+			],
+			[
+				3,
+				"KeyValueFullInformationAlign64"
+			],
+			[
+				4,
+				"KeyValuePartialInformationAlign64"
+			],
+			[
+				5,
+				"MaxKeyValueInfoClass"
+			]
+		],
+		"reg_type": [
+			[
+				0,
+				"REG_NONE"
+			],
+			[
+				1,
+				"REG_SZ"
+			],
+			[
+				2,
+				"REG_EXPAND_SZ"
+			],
+			[
+				3,
+				"REG_BINARY"
+			],
+			[
+				4,
+				"REG_DWORD"
+			],
+			[
+				5,
+				"REG_DWORD_BIG_ENDIAN"
+			],
+			[
+				6,
+				"REG_LINK"
+			],
+			[
+				7,
+				"REG_MULTI_SZ"
+			],
+			[
+				8,
+				"REG_RESOURCE_LIST"
+			],
+			[
+				9,
+				"REG_FULL_RESOURCE_DESCRIPTOR"
+			],
+			[
+				10,
+				"REG_RESOURCE_REQUIREMENTS_LIST"
+			],
+			[
+				11,
+				"REG_QWORD"
+			]
+		]
+	},
+	"flags_bitmask": {
+		"information_class": [],
+		"reg_type": []
+	}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102902266e"
+	},
+	"I": 221,
+	"T": 3048,
+	"t": 250,
+	"h": 0,
+	"e": 126,
+	"E": -1073741515,
+	"args": [
+		0,
+		3221225524,
+		68,
+		2,
+		"HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Terminal Server\\TSAppCompat",
+		"",
+		0,
+		""
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102902266f"
+	},
+	"I": 221,
+	"T": 3048,
+	"t": 250,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		68,
+		2,
+		"HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Terminal Server\\TSUserEnabled",
+		"",
+		4,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022670"
+	},
+	"I": 176,
+	"name": "NtClose",
+	"type": "info",
+	"category": "system",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"handle",
+			"p"
+		]
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022671"
+	},
+	"I": 176,
+	"T": 3048,
+	"t": 250,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		68
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022672"
+	},
+	"I": 180,
+	"name": "NtCreateMutant",
+	"type": "info",
+	"category": "synchronisation",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"mutant_handle",
+			"p"
+		],
+		[
+			"desired_access",
+			"x"
+		],
+		"initial_owner",
+		"mutant_name"
+	],
+	"flags_value": {
+		"desired_access": []
+	},
+	"flags_bitmask": {
+		"desired_access": [
+			[
+				2031616,
+				"STANDARD_RIGHTS_ALL"
+			],
+			[
+				983040,
+				"STANDARD_RIGHTS_REQUIRED"
+			],
+			[
+				65536,
+				"DELETE"
+			],
+			[
+				131072,
+				"READ_CONTROL"
+			],
+			[
+				262144,
+				"WRITE_DAC"
+			],
+			[
+				524288,
+				"WRITE_OWNER"
+			],
+			[
+				1048576,
+				"SYNCHRONIZE"
+			],
+			[
+				65535,
+				"SPECIFIC_RIGHTS_ALL"
+			],
+			[
+				16777216,
+				"ACCESS_SYSTEM_SECURITY"
+			],
+			[
+				33554432,
+				"MAXIMUM_ALLOWED"
+			],
+			[
+				-2147483648,
+				"GENERIC_READ"
+			],
+			[
+				1073741824,
+				"GENERIC_WRITE"
+			],
+			[
+				536870912,
+				"GENERIC_EXECUTE"
+			],
+			[
+				268435456,
+				"GENERIC_ALL"
+			]
+		]
+	}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022673"
+	},
+	"I": 180,
+	"T": 3048,
+	"t": 250,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		68,
+		2031617,
+		0,
+		""
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022674"
+	},
+	"I": 117,
+	"T": 3048,
+	"t": 250,
+	"h": 0,
+	"args": [
+		1,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022675"
+	},
+	"I": 206,
+	"T": 3048,
+	"t": 250,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		72,
+		33554432,
+		"HKEY_LOCAL_MACHINE"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022676"
+	},
+	"I": 207,
+	"name": "NtOpenKeyEx",
+	"type": "info",
+	"category": "registry",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"key_handle",
+			"p"
+		],
+		[
+			"desired_access",
+			"x"
+		],
+		"options",
+		"regkey"
+	],
+	"flags_value": {
+		"desired_access": []
+	},
+	"flags_bitmask": {
+		"desired_access": [
+			[
+				2031616,
+				"STANDARD_RIGHTS_ALL"
+			],
+			[
+				983040,
+				"STANDARD_RIGHTS_REQUIRED"
+			],
+			[
+				65536,
+				"DELETE"
+			],
+			[
+				131072,
+				"READ_CONTROL"
+			],
+			[
+				262144,
+				"WRITE_DAC"
+			],
+			[
+				524288,
+				"WRITE_OWNER"
+			],
+			[
+				1048576,
+				"SYNCHRONIZE"
+			],
+			[
+				65535,
+				"SPECIFIC_RIGHTS_ALL"
+			],
+			[
+				16777216,
+				"ACCESS_SYSTEM_SECURITY"
+			],
+			[
+				33554432,
+				"MAXIMUM_ALLOWED"
+			],
+			[
+				-2147483648,
+				"GENERIC_READ"
+			],
+			[
+				1073741824,
+				"GENERIC_WRITE"
+			],
+			[
+				536870912,
+				"GENERIC_EXECUTE"
+			],
+			[
+				268435456,
+				"GENERIC_ALL"
+			]
+		]
+	}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022677"
+	},
+	"I": 207,
+	"T": 3048,
+	"t": 265,
+	"h": 0,
+	"e": 0,
+	"E": 0,
+	"args": [
+		0,
+		3221225524,
+		0,
+		131097,
+		0,
+		"HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Diagnostics"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022678"
+	},
+	"I": 173,
+	"T": 3048,
+	"t": 265,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		0,
+		1975123968,
+		"ADVAPI32.dll",
+		"ADVAPI32",
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022679"
+	},
+	"I": 172,
+	"T": 3048,
+	"t": 265,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1975123968,
+		"LookupAccountSidW",
+		0,
+		1975208052,
+		"ADVAPI32"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102902267a"
+	},
+	"I": 26,
+	"name": "LookupAccountSidW",
+	"type": "info",
+	"category": "misc",
+	"args": [
+		"is_success",
+		"retval",
+		"system_name",
+		"account_name",
+		"domain_name"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102902267b"
+	},
+	"I": 26,
+	"T": 3048,
+	"t": 297,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"",
+		"SYSTEM",
+		"NT AUTHORITY"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102902267c"
+	},
+	"I": 172,
+	"T": 3048,
+	"t": 312,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1975123968,
+		"CreateWellKnownSid",
+		0,
+		1975207966,
+		"ADVAPI32"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102902267d"
+	},
+	"I": 26,
+	"T": 3048,
+	"t": 312,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"",
+		"NETWORK SERVICE",
+		"NT AUTHORITY"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102902267e"
+	},
+	"I": 173,
+	"T": 3048,
+	"t": 312,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		0,
+		1979973632,
+		"RPCRT4.dll",
+		"RPCRT4",
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102902267f"
+	},
+	"I": 172,
+	"T": 3048,
+	"t": 312,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1979973632,
+		"RpcStringBindingComposeW",
+		0,
+		1980109856,
+		"RPCRT4"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022680"
+	},
+	"I": 172,
+	"T": 3048,
+	"t": 312,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1979973632,
+		"RpcBindingFromStringBindingW",
+		0,
+		1980109241,
+		"RPCRT4"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022681"
+	},
+	"I": 172,
+	"T": 3048,
+	"t": 312,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1979973632,
+		"RpcStringFreeW",
+		0,
+		1980110389,
+		"RPCRT4"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022682"
+	},
+	"I": 172,
+	"T": 3048,
+	"t": 312,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1979973632,
+		"RpcBindingSetAuthInfoExW",
+		0,
+		1980110493,
+		"RPCRT4"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022683"
+	},
+	"I": 173,
+	"T": 3048,
+	"t": 312,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		0,
+		1986396160,
+		"API-MS-Win-Security-LSALookup-L1-1-0.dll",
+		"API-MS-Win-Security-LSALookup-L1-1-0",
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022684"
+	},
+	"I": 172,
+	"T": 3048,
+	"t": 312,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1986396160,
+		"LookupAccountNameLocalW",
+		0,
+		1986462320,
+		"sechost"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022685"
+	},
+	"I": 204,
+	"name": "NtOpenDirectoryObject",
+	"type": "info",
+	"category": "file",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"directory_handle",
+			"p"
+		],
+		[
+			"desired_access",
+			"x"
+		],
+		"dirpath",
+		"dirpath_r"
+	],
+	"flags_value": {
+		"desired_access": []
+	},
+	"flags_bitmask": {
+		"desired_access": [
+			[
+				2031616,
+				"STANDARD_RIGHTS_ALL"
+			],
+			[
+				983040,
+				"STANDARD_RIGHTS_REQUIRED"
+			],
+			[
+				65536,
+				"DELETE"
+			],
+			[
+				131072,
+				"READ_CONTROL"
+			],
+			[
+				262144,
+				"WRITE_DAC"
+			],
+			[
+				524288,
+				"WRITE_OWNER"
+			],
+			[
+				1048576,
+				"SYNCHRONIZE"
+			],
+			[
+				65535,
+				"SPECIFIC_RIGHTS_ALL"
+			],
+			[
+				16777216,
+				"ACCESS_SYSTEM_SECURITY"
+			],
+			[
+				33554432,
+				"MAXIMUM_ALLOWED"
+			],
+			[
+				-2147483648,
+				"GENERIC_READ"
+			],
+			[
+				1073741824,
+				"GENERIC_WRITE"
+			],
+			[
+				536870912,
+				"GENERIC_EXECUTE"
+			],
+			[
+				268435456,
+				"GENERIC_ALL"
+			]
+		]
+	}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022686"
+	},
+	"I": 204,
+	"T": 3048,
+	"t": 328,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		160,
+		15,
+		"\\Sessions\\1\\BaseNamedObjects",
+		"\\Sessions\\1\\BaseNamedObjects"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022687"
+	},
+	"I": 172,
+	"T": 3048,
+	"t": 328,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1979973632,
+		"NdrClientCall2",
+		0,
+		1980694533,
+		"RPCRT4"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022688"
+	},
+	"I": 117,
+	"T": 3048,
+	"t": 547,
+	"h": 0,
+	"args": [
+		1,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022689"
+	},
+	"I": 117,
+	"T": 3048,
+	"t": 547,
+	"h": 0,
+	"args": [
+		1,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102902268a"
+	},
+	"I": 117,
+	"T": 3048,
+	"t": 547,
+	"h": 0,
+	"args": [
+		1,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102902268b"
+	},
+	"I": 117,
+	"T": 3048,
+	"t": 547,
+	"h": 0,
+	"args": [
+		1,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102902268c"
+	},
+	"I": 117,
+	"T": 3048,
+	"t": 547,
+	"h": 0,
+	"args": [
+		1,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102902268d"
+	},
+	"I": 117,
+	"T": 3048,
+	"t": 547,
+	"h": 0,
+	"args": [
+		1,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102902268e"
+	},
+	"I": 117,
+	"T": 3048,
+	"t": 547,
+	"h": 0,
+	"args": [
+		1,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102902268f"
+	},
+	"I": 117,
+	"T": 3048,
+	"t": 547,
+	"h": 0,
+	"args": [
+		1,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022690"
+	},
+	"I": 172,
+	"T": 3048,
+	"t": 547,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1979973632,
+		"I_RpcExceptionFilter",
+		0,
+		1980118877,
+		"RPCRT4"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022691"
+	},
+	"I": 209,
+	"name": "NtOpenProcess",
+	"type": "info",
+	"category": "process",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"process_handle",
+			"p"
+		],
+		[
+			"desired_access",
+			"x"
+		],
+		"process_identifier"
+	],
+	"flags_value": {
+		"desired_access": []
+	},
+	"flags_bitmask": {
+		"desired_access": [
+			[
+				2031616,
+				"STANDARD_RIGHTS_ALL"
+			],
+			[
+				983040,
+				"STANDARD_RIGHTS_REQUIRED"
+			],
+			[
+				65536,
+				"DELETE"
+			],
+			[
+				131072,
+				"READ_CONTROL"
+			],
+			[
+				262144,
+				"WRITE_DAC"
+			],
+			[
+				524288,
+				"WRITE_OWNER"
+			],
+			[
+				1048576,
+				"SYNCHRONIZE"
+			],
+			[
+				65535,
+				"SPECIFIC_RIGHTS_ALL"
+			],
+			[
+				16777216,
+				"ACCESS_SYSTEM_SECURITY"
+			],
+			[
+				33554432,
+				"MAXIMUM_ALLOWED"
+			],
+			[
+				-2147483648,
+				"GENERIC_READ"
+			],
+			[
+				1073741824,
+				"GENERIC_WRITE"
+			],
+			[
+				536870912,
+				"GENERIC_EXECUTE"
+			],
+			[
+				268435456,
+				"GENERIC_ALL"
+			]
+		]
+	}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022692"
+	},
+	"I": 209,
+	"T": 3048,
+	"t": 547,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		172,
+		1024,
+		1832
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022693"
+	},
+	"I": 176,
+	"T": 3048,
+	"t": 547,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		172
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022694"
+	},
+	"I": 172,
+	"T": 3048,
+	"t": 547,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1979973632,
+		"RpcBindingFree",
+		0,
+		1980082283,
+		"RPCRT4"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022695"
+	},
+	"I": 172,
+	"T": 3048,
+	"t": 547,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1937506304,
+		"WinStationFreeMemory",
+		0,
+		1937529503,
+		"WINSTA"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022696"
+	},
+	"I": 171,
+	"name": "LdrGetDllHandle",
+	"type": "info",
+	"category": "system",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"module_address",
+			"p"
+		],
+		"module_name",
+		"stack_pivoted"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022697"
+	},
+	"I": 171,
+	"T": 3048,
+	"t": 547,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1975123968,
+		"advapi32.dll",
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022698"
+	},
+	"I": 172,
+	"T": 3048,
+	"t": 547,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1975123968,
+		"OpenProcessToken",
+		0,
+		1975206660,
+		"ADVAPI32"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029022699"
+	},
+	"I": 172,
+	"T": 3048,
+	"t": 547,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1975123968,
+		"LookupPrivilegeValueA",
+		0,
+		1975205962,
+		"ADVAPI32"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102902269a"
+	},
+	"I": 172,
+	"T": 3048,
+	"t": 547,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1975123968,
+		"AdjustTokenPrivileges",
+		0,
+		1975206286,
+		"ADVAPI32"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102902269b"
+	},
+	"I": 172,
+	"T": 3048,
+	"t": 547,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1975123968,
+		"DuplicateTokenEx",
+		0,
+		1975175716,
+		"ADVAPI32"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102902269c"
+	},
+	"I": 172,
+	"T": 3048,
+	"t": 547,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1975123968,
+		"CreateProcessAsUserA",
+		0,
+		1975395640,
+		"ADVAPI32"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102902269d"
+	},
+	"I": 171,
+	"T": 3048,
+	"t": 547,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1986527232,
+		"kernel32.dll",
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102902269e"
+	},
+	"I": 172,
+	"T": 3048,
+	"t": 547,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1986527232,
+		"WTSGetActiveConsoleSessionId",
+		0,
+		1987133257,
+		"kernel32"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102902269f"
+	},
+	"I": 172,
+	"T": 3048,
+	"t": 547,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1986527232,
+		"GetCurrentProcess",
+		0,
+		1986598921,
+		"kernel32"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290226a0"
+	},
+	"I": 172,
+	"T": 3048,
+	"t": 547,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1986527232,
+		"CloseHandle",
+		0,
+		1986597904,
+		"kernel32"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290226a1"
+	},
+	"I": 171,
+	"T": 3048,
+	"t": 547,
+	"h": 0,
+	"e": 0,
+	"E": 0,
+	"args": [
+		0,
+		3221225781,
+		0,
+		"userenv.dll",
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290226a2"
+	},
+	"I": 171,
+	"T": 3048,
+	"t": 547,
+	"h": 0,
+	"e": 0,
+	"E": 0,
+	"args": [
+		0,
+		3221225781,
+		0,
+		"userenv.dll",
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290226a3"
+	},
+	"I": 173,
+	"T": 3048,
+	"t": 547,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		0,
+		1933770752,
+		"userenv.dll",
+		"userenv",
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290226a4"
+	},
+	"I": 172,
+	"T": 3048,
+	"t": 547,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1933770752,
+		"CreateEnvironmentBlock",
+		0,
+		1933777530,
+		"userenv"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290226a5"
+	},
+	"I": 172,
+	"T": 3048,
+	"t": 547,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1933770752,
+		"DestroyEnvironmentBlock",
+		0,
+		1933777486,
+		"userenv"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290226a6"
+	},
+	"I": 171,
+	"T": 3048,
+	"t": 547,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1937702912,
+		"wtsapi32.dll",
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290226a7"
+	},
+	"I": 172,
+	"T": 3048,
+	"t": 547,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1937702912,
+		"WTSQueryUserToken",
+		0,
+		1937710977,
+		"Wtsapi32"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290226a8"
+	},
+	"I": 27,
+	"name": "LookupPrivilegeValueW",
+	"type": "info",
+	"category": "system",
+	"args": [
+		"is_success",
+		"retval",
+		"system_name",
+		"privilege_name"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290226a9"
+	},
+	"I": 27,
+	"T": 3048,
+	"t": 547,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"",
+		"SeTcbPrivilege"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290226aa"
+	},
+	"I": 176,
+	"T": 3048,
+	"t": 547,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		196
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290226ab"
+	},
+	"I": 176,
+	"T": 3048,
+	"t": 547,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		188
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290226ac"
+	},
+	"I": 187,
+	"name": "NtDelayExecution",
+	"type": "info",
+	"category": "synchronisation",
+	"args": [
+		"is_success",
+		"retval",
+		"milliseconds",
+		"skipped"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290226ad"
+	},
+	"I": 187,
+	"T": 3048,
+	"t": 718,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		100,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290226ae"
+	},
+	"I": 171,
+	"T": 3048,
+	"t": 718,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1975123968,
+		"advapi32.dll",
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290226af"
+	},
+	"I": 172,
+	"T": 3048,
+	"t": 718,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1975123968,
+		"OpenProcessToken",
+		0,
+		1975206660,
+		"ADVAPI32"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290226b0"
+	},
+	"I": 172,
+	"T": 3048,
+	"t": 718,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1975123968,
+		"LookupPrivilegeValueA",
+		0,
+		1975205962,
+		"ADVAPI32"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290226b1"
+	},
+	"I": 172,
+	"T": 3048,
+	"t": 718,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1975123968,
+		"AdjustTokenPrivileges",
+		0,
+		1975206286,
+		"ADVAPI32"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290226b2"
+	},
+	"I": 172,
+	"T": 3048,
+	"t": 718,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1975123968,
+		"DuplicateTokenEx",
+		0,
+		1975175716,
+		"ADVAPI32"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290226b3"
+	},
+	"I": 172,
+	"T": 3048,
+	"t": 718,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1975123968,
+		"CreateProcessAsUserA",
+		0,
+		1975395640,
+		"ADVAPI32"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290226b4"
+	},
+	"I": 171,
+	"T": 3048,
+	"t": 718,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1986527232,
+		"kernel32.dll",
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290226b5"
+	},
+	"I": 172,
+	"T": 3048,
+	"t": 718,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1986527232,
+		"WTSGetActiveConsoleSessionId",
+		0,
+		1987133257,
+		"kernel32"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290226b6"
+	},
+	"I": 172,
+	"T": 3048,
+	"t": 718,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1986527232,
+		"GetCurrentProcess",
+		0,
+		1986598921,
+		"kernel32"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290226b7"
+	},
+	"I": 172,
+	"T": 3048,
+	"t": 718,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1986527232,
+		"CloseHandle",
+		0,
+		1986597904,
+		"kernel32"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290226b8"
+	},
+	"I": 171,
+	"T": 3048,
+	"t": 718,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1933770752,
+		"userenv.dll",
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290226b9"
+	},
+	"I": 172,
+	"T": 3048,
+	"t": 718,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1933770752,
+		"CreateEnvironmentBlock",
+		0,
+		1933777530,
+		"userenv"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290226ba"
+	},
+	"I": 172,
+	"T": 3048,
+	"t": 718,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1933770752,
+		"DestroyEnvironmentBlock",
+		0,
+		1933777486,
+		"userenv"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290226bb"
+	},
+	"I": 171,
+	"T": 3048,
+	"t": 718,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1937702912,
+		"wtsapi32.dll",
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290226bc"
+	},
+	"I": 172,
+	"T": 3048,
+	"t": 718,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1937702912,
+		"WTSQueryUserToken",
+		0,
+		1937710977,
+		"Wtsapi32"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290226bd"
+	},
+	"I": 27,
+	"T": 3048,
+	"t": 718,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"",
+		"SeTcbPrivilege"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290226be"
+	},
+	"I": 176,
+	"T": 3048,
+	"t": 718,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		196
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290226bf"
+	},
+	"I": 176,
+	"T": 3048,
+	"t": 718,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		188
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290226c0"
+	},
+	"I": 187,
+	"T": 3048,
+	"t": 828,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		100,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290226c1"
+	},
+	"I": 171,
+	"T": 3048,
+	"t": 828,
+	"h": 0,
+	"e": 0,
+	"E": 0,
+	"args": [
+		0,
+		3221225781,
+		0,
+		"mscoree.dll",
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290226c2"
+	},
+	"I": 171,
+	"T": 3048,
+	"t": 828,
+	"h": 0,
+	"e": 0,
+	"E": 0,
+	"args": [
+		0,
+		3221225781,
+		0,
+		"mscoree.dll",
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290226c3"
+	},
+	"I": 235,
+	"name": "NtTerminateProcess",
+	"type": "info",
+	"category": "process",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"process_handle",
+			"p"
+		],
+		[
+			"status_code",
+			"x"
+		],
+		"process_identifier"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290226c4"
+	},
+	"I": 235,
+	"T": 3048,
+	"t": 828,
+	"h": 0,
+	"e": 126,
+	"E": -1073741515,
+	"args": [
+		0,
+		0,
+		0,
+		0,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290226c5"
+	},
+	"I": 235,
+	"T": 3048,
+	"t": 859,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		0,
+		0,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290226c6"
+	},
+	"I": 176,
+	"T": 3048,
+	"t": 859,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		184
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290226c7"
+	},
+	"I": 176,
+	"T": 3048,
+	"t": 859,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		176
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290226c8"
+	},
+	"I": 176,
+	"T": 3048,
+	"t": 859,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		180
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290226c9"
+	},
+	"I": 176,
+	"T": 3048,
+	"t": 859,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		172
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290226ca"
+	},
+	"I": 176,
+	"T": 3048,
+	"t": 859,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		68
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290226cb"
+	},
+	"I": 176,
+	"T": 3048,
+	"t": 859,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		92
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290226cc"
+	},
+	"I": 176,
+	"T": 3048,
+	"t": 859,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		60
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290226cd"
+	},
+	"I": 176,
+	"T": 3048,
+	"t": 859,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		64
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290226ce"
+	},
+	"I": 176,
+	"T": 3048,
+	"t": 859,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		164
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290226cf"
+	},
+	"I": 176,
+	"T": 3048,
+	"t": 859,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		56
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290226d0"
+	},
+	"I": 235,
+	"T": 3048,
+	"t": 5578,
+	"h": 0,
+	"e": 126,
+	"E": -1073741515,
+	"args": [
+		0,
+		0,
+		-1,
+		0,
+		1832
+	]
+}

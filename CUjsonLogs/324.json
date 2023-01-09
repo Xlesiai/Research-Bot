@@ -1,0 +1,350 @@
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102902508d"
+	},
+	"I": 0,
+	"name": "__process__",
+	"type": "info",
+	"category": "__notification__",
+	"args": [
+		"is_success",
+		"retval",
+		"time_low",
+		"time_high",
+		"pid",
+		"ppid",
+		"module_path",
+		"command_line",
+		"is_64bit",
+		"track",
+		"modules"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029025091"
+	},
+	"I": 0,
+	"T": 172,
+	"t": 94,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1873779534,
+		30981021,
+		324,
+		2324,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\taskdl.exe",
+		"taskdl.exe",
+		0,
+		1,
+		[
+			{
+				"filepath": "C:\\Users\\Administrator\\AppData\\Local\\Temp\\taskdl.exe",
+				"basename": "taskdl.exe",
+				"baseaddr": "0x400000",
+				"imgsize": 20480
+			},
+			{
+				"filepath": "C:\\Windows\\SysWOW64\\ntdll.dll",
+				"basename": "ntdll.dll",
+				"baseaddr": "0x76fd0000",
+				"imgsize": 1572864
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\kernel32.dll",
+				"basename": "kernel32.dll",
+				"baseaddr": "0x76680000",
+				"imgsize": 1114112
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\KERNELBASE.dll",
+				"basename": "KERNELBASE.dll",
+				"baseaddr": "0x74bd0000",
+				"imgsize": 286720
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\MSVCP60.dll",
+				"basename": "MSVCP60.dll",
+				"baseaddr": "0x74050000",
+				"imgsize": 417792
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\msvcrt.dll",
+				"basename": "msvcrt.dll",
+				"baseaddr": "0x76130000",
+				"imgsize": 704512
+			},
+			{
+				"filepath": "C:\\tmpbajp2c\\bin\\monitor-x86.dll",
+				"basename": "monitor-x86.dll",
+				"baseaddr": "0x740e0000",
+				"imgsize": 2117632
+			}
+		]
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029025093"
+	},
+	"I": 94,
+	"name": "FindFirstFileExW",
+	"type": "info",
+	"category": "file",
+	"args": [
+		"is_success",
+		"retval",
+		"filepath",
+		"filepath_r"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029025096"
+	},
+	"I": 94,
+	"T": 172,
+	"t": 313,
+	"h": 0,
+	"e": 87,
+	"E": -1073741811,
+	"args": [
+		0,
+		4294967295,
+		"D:\\$RECYCLE\\*.WNCRYT",
+		"D:\\$RECYCLE\\*.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac1029025098"
+	},
+	"I": 187,
+	"name": "NtDelayExecution",
+	"type": "info",
+	"category": "synchronisation",
+	"args": [
+		"is_success",
+		"retval",
+		"milliseconds",
+		"skipped"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102902509b"
+	},
+	"I": 187,
+	"T": 172,
+	"t": 328,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		10,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102902509d"
+	},
+	"I": 120,
+	"name": "GetTempPathW",
+	"type": "info",
+	"category": "file",
+	"args": [
+		"is_success",
+		"retval",
+		"dirpath"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102902509f"
+	},
+	"I": 120,
+	"T": 172,
+	"t": 328,
+	"h": 0,
+	"args": [
+		1,
+		37,
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290250a2"
+	},
+	"I": 94,
+	"T": 172,
+	"t": 328,
+	"h": 0,
+	"e": 2,
+	"E": -1073741809,
+	"args": [
+		0,
+		4294967295,
+		"C:\\Users\\Administrator\\AppData\\Local\\Temp\\*.WNCRYT",
+		"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\*.WNCRYT"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290250a4"
+	},
+	"I": 187,
+	"T": 172,
+	"t": 344,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		10,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290250a6"
+	},
+	"I": 171,
+	"name": "LdrGetDllHandle",
+	"type": "info",
+	"category": "system",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"module_address",
+			"p"
+		],
+		"module_name",
+		"stack_pivoted"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290250a8"
+	},
+	"I": 171,
+	"T": 172,
+	"t": 344,
+	"h": 0,
+	"e": 2,
+	"E": -1073741809,
+	"args": [
+		0,
+		3221225781,
+		0,
+		"mscoree.dll",
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290250ab"
+	},
+	"I": 171,
+	"T": 172,
+	"t": 344,
+	"h": 0,
+	"e": 2,
+	"E": -1073741809,
+	"args": [
+		0,
+		3221225781,
+		0,
+		"mscoree.dll",
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290250ad"
+	},
+	"I": 235,
+	"name": "NtTerminateProcess",
+	"type": "info",
+	"category": "process",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"process_handle",
+			"p"
+		],
+		[
+			"status_code",
+			"x"
+		],
+		"process_identifier"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290250af"
+	},
+	"I": 235,
+	"T": 172,
+	"t": 344,
+	"h": 0,
+	"e": 126,
+	"E": -1073741515,
+	"args": [
+		0,
+		0,
+		0,
+		0,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290250b1"
+	},
+	"I": 235,
+	"T": 172,
+	"t": 344,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		0,
+		0,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac10290250b3"
+	},
+	"I": 235,
+	"T": 172,
+	"t": 1672,
+	"h": 0,
+	"e": 126,
+	"E": -1073741515,
+	"args": [
+		0,
+		0,
+		-1,
+		0,
+		324
+	]
+}

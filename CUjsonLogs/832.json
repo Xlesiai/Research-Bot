@@ -1,0 +1,7694 @@
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5cb"
+	},
+	"I": 0,
+	"name": "__process__",
+	"type": "info",
+	"category": "__notification__",
+	"args": [
+		"is_success",
+		"retval",
+		"time_low",
+		"time_high",
+		"pid",
+		"ppid",
+		"module_path",
+		"command_line",
+		"is_64bit",
+		"track",
+		"modules"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5cc"
+	},
+	"I": 0,
+	"T": 1844,
+	"t": 47,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-2016031512,
+		30981021,
+		832,
+		2872,
+		"C:\\Windows\\SysWOW64\\wbem\\WMIC.exe",
+		"wmic  shadowcopy delete ",
+		0,
+		1,
+		[
+			{
+				"filepath": "C:\\Windows\\SysWOW64\\Wbem\\WMIC.exe",
+				"basename": "WMIC.exe",
+				"baseaddr": "0x6a0000",
+				"imgsize": 405504
+			},
+			{
+				"filepath": "C:\\Windows\\SysWOW64\\ntdll.dll",
+				"basename": "ntdll.dll",
+				"baseaddr": "0x76fd0000",
+				"imgsize": 1572864
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\kernel32.dll",
+				"basename": "kernel32.dll",
+				"baseaddr": "0x76680000",
+				"imgsize": 1114112
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\KERNELBASE.dll",
+				"basename": "KERNELBASE.dll",
+				"baseaddr": "0x74bd0000",
+				"imgsize": 286720
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\ADVAPI32.dll",
+				"basename": "ADVAPI32.dll",
+				"baseaddr": "0x75ba0000",
+				"imgsize": 655360
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\msvcrt.dll",
+				"basename": "msvcrt.dll",
+				"baseaddr": "0x76130000",
+				"imgsize": 704512
+			},
+			{
+				"filepath": "C:\\Windows\\SysWOW64\\sechost.dll",
+				"basename": "sechost.dll",
+				"baseaddr": "0x76660000",
+				"imgsize": 102400
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\RPCRT4.dll",
+				"basename": "RPCRT4.dll",
+				"baseaddr": "0x76040000",
+				"imgsize": 983040
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\SspiCli.dll",
+				"basename": "SspiCli.dll",
+				"baseaddr": "0x74b30000",
+				"imgsize": 393216
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\CRYPTBASE.dll",
+				"basename": "CRYPTBASE.dll",
+				"baseaddr": "0x74b20000",
+				"imgsize": 49152
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\ole32.dll",
+				"basename": "ole32.dll",
+				"baseaddr": "0x76500000",
+				"imgsize": 1425408
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\GDI32.dll",
+				"basename": "GDI32.dll",
+				"baseaddr": "0x76a00000",
+				"imgsize": 589824
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\USER32.dll",
+				"basename": "USER32.dll",
+				"baseaddr": "0x75e90000",
+				"imgsize": 1048576
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\LPK.dll",
+				"basename": "LPK.dll",
+				"baseaddr": "0x75ca0000",
+				"imgsize": 40960
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\USP10.dll",
+				"basename": "USP10.dll",
+				"baseaddr": "0x75f90000",
+				"imgsize": 643072
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\OLEAUT32.dll",
+				"basename": "OLEAUT32.dll",
+				"baseaddr": "0x75d10000",
+				"imgsize": 585728
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\framedynos.dll",
+				"basename": "framedynos.dll",
+				"baseaddr": "0x73800000",
+				"imgsize": 217088
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\WTSAPI32.dll",
+				"basename": "WTSAPI32.dll",
+				"baseaddr": "0x737e0000",
+				"imgsize": 53248
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\SHLWAPI.dll",
+				"basename": "SHLWAPI.dll",
+				"baseaddr": "0x75cb0000",
+				"imgsize": 356352
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\WS2_32.dll",
+				"basename": "WS2_32.dll",
+				"baseaddr": "0x769c0000",
+				"imgsize": 217088
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\NSI.dll",
+				"basename": "NSI.dll",
+				"baseaddr": "0x74b90000",
+				"imgsize": 24576
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\Secur32.dll",
+				"basename": "Secur32.dll",
+				"baseaddr": "0x737f0000",
+				"imgsize": 32768
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\IPHLPAPI.DLL",
+				"basename": "IPHLPAPI.DLL",
+				"baseaddr": "0x73870000",
+				"imgsize": 114688
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\WINNSI.DLL",
+				"basename": "WINNSI.DLL",
+				"baseaddr": "0x740c0000",
+				"imgsize": 28672
+			},
+			{
+				"filepath": "C:\\Windows\\system32\\IMM32.DLL",
+				"basename": "IMM32.DLL",
+				"baseaddr": "0x75c40000",
+				"imgsize": 393216
+			},
+			{
+				"filepath": "C:\\Windows\\syswow64\\MSCTF.dll",
+				"basename": "MSCTF.dll",
+				"baseaddr": "0x75dc0000",
+				"imgsize": 835584
+			},
+			{
+				"filepath": "C:\\tmpbajp2c\\bin\\monitor-x86.dll",
+				"basename": "monitor-x86.dll",
+				"baseaddr": "0x740e0000",
+				"imgsize": 2117632
+			}
+		]
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5cd"
+	},
+	"I": 117,
+	"name": "GetSystemTimeAsFileTime",
+	"type": "info",
+	"category": "synchronisation",
+	"args": [
+		"is_success",
+		"retval"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5ce"
+	},
+	"I": 117,
+	"T": 1844,
+	"t": 1375,
+	"h": 0,
+	"args": [
+		1,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5cf"
+	},
+	"I": 149,
+	"name": "SetUnhandledExceptionFilter",
+	"type": "info",
+	"category": "exception",
+	"args": [
+		"is_success",
+		"retval"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5d0"
+	},
+	"I": 149,
+	"T": 1844,
+	"t": 1375,
+	"h": 0,
+	"e": 0,
+	"E": -1073741515,
+	"args": [
+		0,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5d1"
+	},
+	"I": 254,
+	"name": "CoInitializeEx",
+	"type": "info",
+	"category": "ole",
+	"args": [
+		"is_success",
+		"retval",
+		"options"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5d2"
+	},
+	"I": 254,
+	"T": 1844,
+	"t": 1484,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5d3"
+	},
+	"I": 255,
+	"name": "CoInitializeSecurity",
+	"type": "info",
+	"category": "ole",
+	"args": [
+		"is_success",
+		"retval"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5d4"
+	},
+	"I": 255,
+	"T": 1844,
+	"t": 1797,
+	"h": 0,
+	"args": [
+		1,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5d5"
+	},
+	"I": 251,
+	"name": "CoCreateInstance",
+	"type": "info",
+	"category": "ole",
+	"args": [
+		"is_success",
+		"retval",
+		"clsid",
+		"class_context",
+		"iid"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5d6"
+	},
+	"I": 251,
+	"T": 1844,
+	"t": 1828,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		"{4590f811-1d3a-11d0-891f-00aa004b2e24}",
+		1,
+		"{dc12a687-737f-11cf-884d-00aa004b2e24}"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5d7"
+	},
+	"I": 192,
+	"name": "NtDuplicateObject",
+	"type": "info",
+	"category": "system",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"source_process_handle",
+			"p"
+		],
+		[
+			"source_handle",
+			"p"
+		],
+		[
+			"target_process_handle",
+			"p"
+		],
+		[
+			"target_handle",
+			"p"
+		],
+		[
+			"desired_access",
+			"x"
+		],
+		"handle_attributes",
+		"options",
+		"source_process_identifier",
+		"target_process_identifier"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5d8"
+	},
+	"I": 192,
+	"T": 1444,
+	"t": 2250,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-1,
+		-2,
+		-1,
+		292,
+		0,
+		0,
+		2,
+		832,
+		832
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5d9"
+	},
+	"I": 176,
+	"name": "NtClose",
+	"type": "info",
+	"category": "system",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"handle",
+			"p"
+		]
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5da"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 8094,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		340
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5db"
+	},
+	"I": 114,
+	"name": "GetSystemDirectoryW",
+	"type": "info",
+	"category": "file",
+	"args": [
+		"is_success",
+		"retval",
+		"dirpath"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5dc"
+	},
+	"I": 114,
+	"T": 1844,
+	"t": 8094,
+	"h": 0,
+	"args": [
+		1,
+		19,
+		"C:\\Windows\\system32"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5dd"
+	},
+	"I": 173,
+	"name": "LdrLoadDll",
+	"type": "info",
+	"category": "system",
+	"args": [
+		"is_success",
+		"retval",
+		"flags",
+		[
+			"module_address",
+			"p"
+		],
+		"module_name",
+		"basename",
+		"stack_pivoted"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5de"
+	},
+	"I": 173,
+	"T": 1844,
+	"t": 8094,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		0,
+		1986527232,
+		"C:\\Windows\\system32\\kernel32.dll",
+		"kernel32",
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5df"
+	},
+	"I": 172,
+	"name": "LdrGetProcedureAddress",
+	"type": "info",
+	"category": "system",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"module_address",
+			"p"
+		],
+		"function_name",
+		"ordinal",
+		[
+			"function_address",
+			"p"
+		],
+		"module"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5e0"
+	},
+	"I": 172,
+	"T": 1844,
+	"t": 8094,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1986527232,
+		"SetThreadUILanguage",
+		0,
+		1986701391,
+		"kernel32"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5e1"
+	},
+	"I": 175,
+	"name": "NtAllocateVirtualMemory",
+	"type": "info",
+	"category": "process",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"process_handle",
+			"p"
+		],
+		[
+			"base_address",
+			"p"
+		],
+		"region_size",
+		"allocation_type",
+		"protection",
+		"stack_pivoted",
+		"stack_dep_bypass",
+		"heap_dep_bypass",
+		"process_identifier"
+	],
+	"flags_value": {
+		"protection": [],
+		"allocation_type": []
+	},
+	"flags_bitmask": {
+		"protection": [
+			[
+				16,
+				"PAGE_EXECUTE"
+			],
+			[
+				32,
+				"PAGE_EXECUTE_READ"
+			],
+			[
+				64,
+				"PAGE_EXECUTE_READWRITE"
+			],
+			[
+				128,
+				"PAGE_EXECUTE_WRITECOPY"
+			],
+			[
+				1,
+				"PAGE_NOACCESS"
+			],
+			[
+				2,
+				"PAGE_READONLY"
+			],
+			[
+				4,
+				"PAGE_READWRITE"
+			],
+			[
+				8,
+				"PAGE_WRITECOPY"
+			],
+			[
+				256,
+				"PAGE_GUARD"
+			],
+			[
+				512,
+				"PAGE_NOCACHE"
+			],
+			[
+				1024,
+				"PAGE_WRITECOMBINE"
+			]
+		],
+		"allocation_type": [
+			[
+				4096,
+				"MEM_COMMIT"
+			],
+			[
+				8192,
+				"MEM_RESERVE"
+			],
+			[
+				524288,
+				"MEM_RESET"
+			],
+			[
+				536870912,
+				"MEM_LARGE_PAGES"
+			],
+			[
+				4194304,
+				"MEM_PHYSICAL"
+			],
+			[
+				1048576,
+				"MEM_TOP_DOWN"
+			],
+			[
+				2097152,
+				"MEM_WRITE_WATCH"
+			]
+		]
+	}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5e2"
+	},
+	"I": 175,
+	"T": 1844,
+	"t": 8109,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-1,
+		4182016,
+		8192,
+		4096,
+		4,
+		0,
+		0,
+		0,
+		832
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5e3"
+	},
+	"I": 174,
+	"name": "LdrUnloadDll",
+	"type": "info",
+	"category": "system",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"module_address",
+			"p"
+		],
+		"library"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5e4"
+	},
+	"I": 174,
+	"T": 1844,
+	"t": 8109,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1986527232,
+		"kernel32"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5e5"
+	},
+	"I": 100,
+	"name": "GetComputerNameW",
+	"type": "info",
+	"category": "misc",
+	"args": [
+		"is_success",
+		"retval",
+		"computer_name"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5e6"
+	},
+	"I": 100,
+	"T": 1844,
+	"t": 8109,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"NONE"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5e7"
+	},
+	"I": 263,
+	"name": "GetUserNameExW",
+	"type": "info",
+	"category": "misc",
+	"args": [
+		"is_success",
+		"retval",
+		"name_format",
+		"username"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5e8"
+	},
+	"I": 263,
+	"T": 1844,
+	"t": 8109,
+	"h": 0,
+	"e": 234,
+	"E": -2147483643,
+	"args": [
+		0,
+		0,
+		2,
+		""
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5e9"
+	},
+	"I": 263,
+	"T": 1844,
+	"t": 8109,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		2,
+		"NONE\\Administrato"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5ea"
+	},
+	"I": 114,
+	"T": 1844,
+	"t": 8109,
+	"h": 0,
+	"args": [
+		1,
+		19,
+		"C:\\Windows\\system32"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5eb"
+	},
+	"I": 46,
+	"name": "RegOpenKeyExW",
+	"type": "info",
+	"category": "registry",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"base_handle",
+			"p"
+		],
+		"regkey_r",
+		"options",
+		[
+			"access",
+			"x"
+		],
+		[
+			"key_handle",
+			"p"
+		],
+		"regkey"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5ec"
+	},
+	"I": 46,
+	"T": 1844,
+	"t": 8109,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-2147483646,
+		"SOFTWARE\\Microsoft\\Wbem\\CIMOM",
+		0,
+		1,
+		344,
+		"HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Wbem\\CIMOM"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5ed"
+	},
+	"I": 50,
+	"name": "RegQueryValueExW",
+	"type": "info",
+	"category": "registry",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"key_handle",
+			"p"
+		],
+		"regkey_r",
+		"reg_type",
+		"regkey",
+		"value"
+	],
+	"flags_value": {
+		"reg_type": [
+			[
+				0,
+				"REG_NONE"
+			],
+			[
+				1,
+				"REG_SZ"
+			],
+			[
+				2,
+				"REG_EXPAND_SZ"
+			],
+			[
+				3,
+				"REG_BINARY"
+			],
+			[
+				4,
+				"REG_DWORD"
+			],
+			[
+				5,
+				"REG_DWORD_BIG_ENDIAN"
+			],
+			[
+				6,
+				"REG_LINK"
+			],
+			[
+				7,
+				"REG_MULTI_SZ"
+			],
+			[
+				8,
+				"REG_RESOURCE_LIST"
+			],
+			[
+				9,
+				"REG_FULL_RESOURCE_DESCRIPTOR"
+			],
+			[
+				10,
+				"REG_RESOURCE_REQUIREMENTS_LIST"
+			],
+			[
+				11,
+				"REG_QWORD"
+			]
+		]
+	},
+	"flags_bitmask": {
+		"reg_type": []
+	}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5ee"
+	},
+	"I": 50,
+	"T": 1844,
+	"t": 8109,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		344,
+		"Logging",
+		1,
+		"HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\WBEM\\CIMOM\\Logging",
+		"0"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5ef"
+	},
+	"I": 50,
+	"T": 1844,
+	"t": 8109,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		344,
+		"Logging Directory",
+		2,
+		"HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\WBEM\\CIMOM\\Logging Directory",
+		""
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5f0"
+	},
+	"I": 50,
+	"T": 1844,
+	"t": 8125,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		344,
+		"Logging Directory",
+		2,
+		"HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\WBEM\\CIMOM\\Logging Directory",
+		"%systemroot%\\system32\\wbem\\Logs\\"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5f1"
+	},
+	"I": 50,
+	"T": 1844,
+	"t": 8125,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		344,
+		"Log File Max Size",
+		1,
+		"HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\WBEM\\CIMOM\\Log File Max Size",
+		"65536"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5f2"
+	},
+	"I": 33,
+	"name": "RegCloseKey",
+	"type": "info",
+	"category": "registry",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"key_handle",
+			"p"
+		]
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5f3"
+	},
+	"I": 33,
+	"T": 1844,
+	"t": 8125,
+	"h": 0,
+	"e": 0,
+	"E": 0,
+	"args": [
+		0,
+		6,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5f4"
+	},
+	"I": 251,
+	"T": 1844,
+	"t": 8140,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		"{f6d90f12-9c73-11d3-b32e-00c04f990bb4}",
+		1,
+		"{2933bf95-7b36-11d2-b20e-00c04f983e60}"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5f5"
+	},
+	"I": 175,
+	"T": 1844,
+	"t": 8140,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-1,
+		39079936,
+		12288,
+		4096,
+		4,
+		0,
+		0,
+		0,
+		832
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5f6"
+	},
+	"I": 175,
+	"T": 1844,
+	"t": 8140,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-1,
+		39092224,
+		12288,
+		4096,
+		4,
+		0,
+		0,
+		0,
+		832
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5f7"
+	},
+	"I": 171,
+	"name": "LdrGetDllHandle",
+	"type": "info",
+	"category": "system",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"module_address",
+			"p"
+		],
+		"module_name",
+		"stack_pivoted"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5f8"
+	},
+	"I": 171,
+	"T": 1844,
+	"t": 8140,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1986527232,
+		"kernel32.dll",
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5f9"
+	},
+	"I": 172,
+	"T": 1844,
+	"t": 8140,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1986527232,
+		"GetModuleHandleW",
+		0,
+		1986606256,
+		"kernel32"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5fa"
+	},
+	"I": 171,
+	"T": 1844,
+	"t": 8140,
+	"h": 0,
+	"e": 0,
+	"E": -1073741772,
+	"args": [
+		0,
+		3221225781,
+		0,
+		"svchost.exe",
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5fb"
+	},
+	"I": 171,
+	"T": 1844,
+	"t": 8140,
+	"h": 0,
+	"e": 0,
+	"E": -1073741772,
+	"args": [
+		0,
+		3221225781,
+		0,
+		"svchost.exe",
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5fc"
+	},
+	"I": 171,
+	"T": 1844,
+	"t": 8140,
+	"h": 0,
+	"e": 126,
+	"E": -1073741515,
+	"args": [
+		0,
+		3221225781,
+		0,
+		"taskhost.exe",
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5fd"
+	},
+	"I": 171,
+	"T": 1844,
+	"t": 8140,
+	"h": 0,
+	"e": 126,
+	"E": -1073741515,
+	"args": [
+		0,
+		3221225781,
+		0,
+		"taskhost.exe",
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5fe"
+	},
+	"I": 117,
+	"T": 1844,
+	"t": 8422,
+	"h": 0,
+	"args": [
+		1,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a5ff"
+	},
+	"I": 45,
+	"name": "RegOpenKeyExA",
+	"type": "info",
+	"category": "registry",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"base_handle",
+			"p"
+		],
+		"regkey_r",
+		"options",
+		[
+			"access",
+			"x"
+		],
+		[
+			"key_handle",
+			"p"
+		],
+		"regkey"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a600"
+	},
+	"I": 45,
+	"T": 1844,
+	"t": 8422,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-2147483646,
+		"SYSTEM\\CurrentControlSet\\Services\\crypt32",
+		0,
+		131097,
+		384,
+		"HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\crypt32"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a601"
+	},
+	"I": 49,
+	"name": "RegQueryValueExA",
+	"type": "info",
+	"category": "registry",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"key_handle",
+			"p"
+		],
+		"regkey_r",
+		"reg_type",
+		"regkey",
+		"value"
+	],
+	"flags_value": {
+		"reg_type": [
+			[
+				0,
+				"REG_NONE"
+			],
+			[
+				1,
+				"REG_SZ"
+			],
+			[
+				2,
+				"REG_EXPAND_SZ"
+			],
+			[
+				3,
+				"REG_BINARY"
+			],
+			[
+				4,
+				"REG_DWORD"
+			],
+			[
+				5,
+				"REG_DWORD_BIG_ENDIAN"
+			],
+			[
+				6,
+				"REG_LINK"
+			],
+			[
+				7,
+				"REG_MULTI_SZ"
+			],
+			[
+				8,
+				"REG_RESOURCE_LIST"
+			],
+			[
+				9,
+				"REG_FULL_RESOURCE_DESCRIPTOR"
+			],
+			[
+				10,
+				"REG_RESOURCE_REQUIREMENTS_LIST"
+			],
+			[
+				11,
+				"REG_QWORD"
+			]
+		]
+	},
+	"flags_bitmask": {
+		"reg_type": []
+	}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a602"
+	},
+	"I": 49,
+	"T": 1844,
+	"t": 8422,
+	"h": 0,
+	"e": 126,
+	"E": -1073741772,
+	"args": [
+		0,
+		2,
+		384,
+		"DebugHeapFlags",
+		0,
+		"HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\crypt32\\DebugHeapFlags",
+		""
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a603"
+	},
+	"I": 33,
+	"T": 1844,
+	"t": 8422,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		384
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a604"
+	},
+	"I": 175,
+	"T": 1844,
+	"t": 8422,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-1,
+		4268032,
+		4096,
+		4096,
+		4,
+		0,
+		0,
+		0,
+		832
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a605"
+	},
+	"I": 175,
+	"T": 1844,
+	"t": 8422,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-1,
+		4272128,
+		4096,
+		4096,
+		4,
+		0,
+		0,
+		0,
+		832
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a606"
+	},
+	"I": 175,
+	"T": 1844,
+	"t": 8422,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-1,
+		4276224,
+		4096,
+		4096,
+		4,
+		0,
+		0,
+		0,
+		832
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a607"
+	},
+	"I": 175,
+	"T": 1844,
+	"t": 8422,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-1,
+		4280320,
+		4096,
+		4096,
+		4,
+		0,
+		0,
+		0,
+		832
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a608"
+	},
+	"I": 175,
+	"T": 1844,
+	"t": 8422,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-1,
+		4284416,
+		4096,
+		4096,
+		4,
+		0,
+		0,
+		0,
+		832
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a609"
+	},
+	"I": 45,
+	"T": 1844,
+	"t": 8547,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-2147483646,
+		"Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings",
+		0,
+		1,
+		384,
+		"HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a60a"
+	},
+	"I": 49,
+	"T": 1844,
+	"t": 8547,
+	"h": 0,
+	"e": 126,
+	"E": -1073741772,
+	"args": [
+		0,
+		2,
+		384,
+		"DisableImprovedZoneCheck",
+		0,
+		"HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\DisableImprovedZoneCheck",
+		""
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a60b"
+	},
+	"I": 33,
+	"T": 1844,
+	"t": 8547,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		384
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a60c"
+	},
+	"I": 46,
+	"T": 1844,
+	"t": 8547,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-2147483646,
+		"Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings",
+		0,
+		1,
+		384,
+		"HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a60d"
+	},
+	"I": 50,
+	"T": 1844,
+	"t": 8547,
+	"h": 0,
+	"e": 0,
+	"E": -1073741772,
+	"args": [
+		0,
+		2,
+		384,
+		"Security_HKLM_only",
+		0,
+		"HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Security_HKLM_only",
+		""
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a60e"
+	},
+	"I": 33,
+	"T": 1844,
+	"t": 8547,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		384
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a60f"
+	},
+	"I": 173,
+	"T": 1844,
+	"t": 8547,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		0,
+		1973813248,
+		"urlmon.dll",
+		"urlmon",
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a610"
+	},
+	"I": 172,
+	"T": 1844,
+	"t": 8547,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1973813248,
+		"DllCanUnloadNow",
+		0,
+		1973825930,
+		"urlmon"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a611"
+	},
+	"I": 172,
+	"T": 1844,
+	"t": 8547,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1973813248,
+		"IEDllLoader",
+		0,
+		1973897477,
+		"urlmon"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a612"
+	},
+	"I": 172,
+	"T": 1844,
+	"t": 8547,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1973813248,
+		"CoInternetCreateZoneManager",
+		0,
+		1973872349,
+		"urlmon"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a613"
+	},
+	"I": 172,
+	"T": 1844,
+	"t": 8547,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1973813248,
+		"CoInternetGetSession",
+		0,
+		1973903775,
+		"urlmon"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a614"
+	},
+	"I": 172,
+	"T": 1844,
+	"t": 8547,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1973813248,
+		"CopyBindInfo",
+		0,
+		1973939646,
+		"urlmon"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a615"
+	},
+	"I": 172,
+	"T": 1844,
+	"t": 8547,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1973813248,
+		"CreateURLMoniker",
+		0,
+		1973931136,
+		"urlmon"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a616"
+	},
+	"I": 172,
+	"T": 1844,
+	"t": 8547,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1973813248,
+		"RegisterBindStatusCallback",
+		0,
+		1973905081,
+		"urlmon"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a617"
+	},
+	"I": 172,
+	"T": 1844,
+	"t": 8547,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1973813248,
+		"ReleaseBindInfo",
+		0,
+		1973836089,
+		"urlmon"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a618"
+	},
+	"I": 172,
+	"T": 1844,
+	"t": 8547,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1973813248,
+		"RevokeBindStatusCallback",
+		0,
+		1973941376,
+		"urlmon"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a619"
+	},
+	"I": 172,
+	"T": 1844,
+	"t": 8547,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1973813248,
+		"UrlMkGetSessionOption",
+		0,
+		1973984980,
+		"urlmon"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a61a"
+	},
+	"I": 172,
+	"T": 1844,
+	"t": 8547,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1973813248,
+		"CoInternetCreateSecurityManager",
+		0,
+		1973940481,
+		"urlmon"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a61b"
+	},
+	"I": 172,
+	"T": 1844,
+	"t": 8547,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1973813248,
+		"CreateUri",
+		0,
+		1973827653,
+		"urlmon"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a61c"
+	},
+	"I": 172,
+	"T": 1844,
+	"t": 8547,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1973813248,
+		"CoInternetCombineUrl",
+		0,
+		1973988927,
+		"urlmon"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a61d"
+	},
+	"I": 172,
+	"T": 1844,
+	"t": 8562,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1973813248,
+		"CoInternetGetSecurityUrl",
+		0,
+		1974239626,
+		"urlmon"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a61e"
+	},
+	"I": 172,
+	"T": 1844,
+	"t": 8562,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1973813248,
+		"IsValidURL",
+		0,
+		1974083177,
+		"urlmon"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a61f"
+	},
+	"I": 173,
+	"T": 1844,
+	"t": 8562,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		0,
+		1972764672,
+		"wininet.dll",
+		"wininet",
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a620"
+	},
+	"I": 172,
+	"T": 1844,
+	"t": 8562,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1972764672,
+		"InternetCrackUrlW",
+		0,
+		1973061936,
+		"WININET"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a621"
+	},
+	"I": 172,
+	"T": 1844,
+	"t": 8562,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1972764672,
+		"InternetCreateUrlW",
+		0,
+		1973127222,
+		"WININET"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a622"
+	},
+	"I": 171,
+	"T": 1844,
+	"t": 8672,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1986527232,
+		"kernel32.dll",
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a623"
+	},
+	"I": 172,
+	"T": 1844,
+	"t": 8672,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1986527232,
+		"InitializeSRWLock",
+		0,
+		1996522582,
+		"kernel32"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a624"
+	},
+	"I": 172,
+	"T": 1844,
+	"t": 8672,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1986527232,
+		"AcquireSRWLockExclusive",
+		0,
+		1996499441,
+		"kernel32"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a625"
+	},
+	"I": 172,
+	"T": 1844,
+	"t": 8672,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1986527232,
+		"AcquireSRWLockShared",
+		0,
+		1996498272,
+		"kernel32"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a626"
+	},
+	"I": 172,
+	"T": 1844,
+	"t": 8828,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1986527232,
+		"ReleaseSRWLockExclusive",
+		0,
+		1996499371,
+		"kernel32"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a627"
+	},
+	"I": 172,
+	"T": 1844,
+	"t": 8828,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1986527232,
+		"ReleaseSRWLockShared",
+		0,
+		1996498345,
+		"kernel32"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a628"
+	},
+	"I": 46,
+	"T": 1844,
+	"t": 8828,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-2147483646,
+		"Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings",
+		0,
+		131097,
+		384,
+		"HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a629"
+	},
+	"I": 50,
+	"T": 1844,
+	"t": 8828,
+	"h": 0,
+	"e": 0,
+	"E": -1073741772,
+	"args": [
+		0,
+		2,
+		384,
+		"CreateUriCacheSize",
+		0,
+		"HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\CreateUriCacheSize",
+		""
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a62a"
+	},
+	"I": 46,
+	"T": 1844,
+	"t": 8828,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-2147483647,
+		"Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings",
+		0,
+		131097,
+		388,
+		"HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a62b"
+	},
+	"I": 50,
+	"T": 1844,
+	"t": 8828,
+	"h": 0,
+	"e": 0,
+	"E": -1073741772,
+	"args": [
+		0,
+		2,
+		388,
+		"CreateUriCacheSize",
+		0,
+		"HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\CreateUriCacheSize",
+		""
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a62c"
+	},
+	"I": 46,
+	"T": 1844,
+	"t": 8828,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-2147483647,
+		"Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings",
+		0,
+		131097,
+		396,
+		"HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a62d"
+	},
+	"I": 50,
+	"T": 1844,
+	"t": 8828,
+	"h": 0,
+	"e": 0,
+	"E": -1073741772,
+	"args": [
+		0,
+		2,
+		396,
+		"CreateUriCacheSize",
+		0,
+		"HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\CreateUriCacheSize",
+		""
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a62e"
+	},
+	"I": 46,
+	"T": 1844,
+	"t": 8828,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-2147483646,
+		"Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings",
+		0,
+		131097,
+		400,
+		"HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a62f"
+	},
+	"I": 50,
+	"T": 1844,
+	"t": 8828,
+	"h": 0,
+	"e": 0,
+	"E": -1073741772,
+	"args": [
+		0,
+		2,
+		400,
+		"CreateUriCacheSize",
+		0,
+		"HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\CreateUriCacheSize",
+		""
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a630"
+	},
+	"I": 171,
+	"T": 1844,
+	"t": 8828,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1986527232,
+		"kernel32.dll",
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a631"
+	},
+	"I": 172,
+	"T": 1844,
+	"t": 8828,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1986527232,
+		"InitializeSRWLock",
+		0,
+		1996522582,
+		"kernel32"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a632"
+	},
+	"I": 172,
+	"T": 1844,
+	"t": 8828,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1986527232,
+		"AcquireSRWLockExclusive",
+		0,
+		1996499441,
+		"kernel32"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a633"
+	},
+	"I": 172,
+	"T": 1844,
+	"t": 8828,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1986527232,
+		"AcquireSRWLockShared",
+		0,
+		1996498272,
+		"kernel32"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a634"
+	},
+	"I": 172,
+	"T": 1844,
+	"t": 8828,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1986527232,
+		"ReleaseSRWLockExclusive",
+		0,
+		1996499371,
+		"kernel32"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a635"
+	},
+	"I": 172,
+	"T": 1844,
+	"t": 8828,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1986527232,
+		"ReleaseSRWLockShared",
+		0,
+		1996498345,
+		"kernel32"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a636"
+	},
+	"I": 50,
+	"T": 1844,
+	"t": 8828,
+	"h": 0,
+	"e": 0,
+	"E": -1073741772,
+	"args": [
+		0,
+		2,
+		384,
+		"EnablePunycode",
+		0,
+		"HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\EnablePunycode",
+		""
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a637"
+	},
+	"I": 50,
+	"T": 1844,
+	"t": 8828,
+	"h": 0,
+	"e": 0,
+	"E": -1073741772,
+	"args": [
+		0,
+		2,
+		388,
+		"EnablePunycode",
+		0,
+		"HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\EnablePunycode",
+		""
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a638"
+	},
+	"I": 50,
+	"T": 1844,
+	"t": 8953,
+	"h": 0,
+	"e": 0,
+	"E": -1073741772,
+	"args": [
+		0,
+		2,
+		396,
+		"EnablePunycode",
+		0,
+		"HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\EnablePunycode",
+		""
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a639"
+	},
+	"I": 50,
+	"T": 1844,
+	"t": 8953,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		400,
+		"EnablePunycode",
+		4,
+		"HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\EnablePunycode",
+		1
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a63a"
+	},
+	"I": 46,
+	"T": 1844,
+	"t": 8953,
+	"h": 0,
+	"e": 0,
+	"E": -1073741772,
+	"args": [
+		0,
+		2,
+		-2147483647,
+		"Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_HTTP_USERNAME_PASSWORD_DISABLE",
+		0,
+		131097,
+		0,
+		"HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_HTTP_USERNAME_PASSWORD_DISABLE"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a63b"
+	},
+	"I": 46,
+	"T": 1844,
+	"t": 8953,
+	"h": 0,
+	"e": 0,
+	"E": -1073741772,
+	"args": [
+		0,
+		2,
+		-2147483647,
+		"Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_HTTP_USERNAME_PASSWORD_DISABLE",
+		0,
+		131097,
+		0,
+		"HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_HTTP_USERNAME_PASSWORD_DISABLE"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a63c"
+	},
+	"I": 46,
+	"T": 1844,
+	"t": 8969,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-2147483646,
+		"Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_HTTP_USERNAME_PASSWORD_DISABLE",
+		0,
+		131097,
+		404,
+		"HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_HTTP_USERNAME_PASSWORD_DISABLE"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a63d"
+	},
+	"I": 50,
+	"T": 1844,
+	"t": 8969,
+	"h": 0,
+	"e": 0,
+	"E": -1073741772,
+	"args": [
+		0,
+		2,
+		404,
+		"WMIC.exe",
+		0,
+		"HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Internet Explorer\\MAIN\\FeatureControl\\FEATURE_HTTP_USERNAME_PASSWORD_DISABLE\\WMIC.exe",
+		""
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a63e"
+	},
+	"I": 50,
+	"T": 1844,
+	"t": 8969,
+	"h": 0,
+	"e": 0,
+	"E": -1073741772,
+	"args": [
+		0,
+		2,
+		404,
+		"*",
+		0,
+		"HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Internet Explorer\\MAIN\\FeatureControl\\FEATURE_HTTP_USERNAME_PASSWORD_DISABLE\\*",
+		""
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a63f"
+	},
+	"I": 46,
+	"T": 1844,
+	"t": 8969,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-2147483646,
+		"Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings",
+		0,
+		1,
+		408,
+		"HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a640"
+	},
+	"I": 50,
+	"T": 1844,
+	"t": 8984,
+	"h": 0,
+	"e": 0,
+	"E": -1073741772,
+	"args": [
+		0,
+		2,
+		408,
+		"Security_HKLM_only",
+		0,
+		"HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Security_HKLM_only",
+		""
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a641"
+	},
+	"I": 33,
+	"T": 1844,
+	"t": 8984,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		408
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a642"
+	},
+	"I": 46,
+	"T": 1844,
+	"t": 8984,
+	"h": 0,
+	"e": 0,
+	"E": -1073741772,
+	"args": [
+		0,
+		2,
+		-2147483646,
+		"Software\\Policies\\Microsoft\\Internet Explorer\\Main\\FeatureControl",
+		0,
+		1,
+		0,
+		"HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Internet Explorer\\Main\\FeatureControl"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a643"
+	},
+	"I": 46,
+	"T": 1844,
+	"t": 8984,
+	"h": 0,
+	"e": 0,
+	"E": -1073741772,
+	"args": [
+		0,
+		2,
+		-2147483647,
+		"Software\\Policies\\Microsoft\\Internet Explorer\\Main\\FeatureControl",
+		0,
+		1,
+		0,
+		"HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Internet Explorer\\Main\\FeatureControl"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a644"
+	},
+	"I": 46,
+	"T": 1844,
+	"t": 8984,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-2147483646,
+		"Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl",
+		0,
+		1,
+		408,
+		"HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a645"
+	},
+	"I": 46,
+	"T": 1844,
+	"t": 8984,
+	"h": 0,
+	"e": 0,
+	"E": -1073741772,
+	"args": [
+		0,
+		2,
+		-2147483647,
+		"Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl",
+		0,
+		1,
+		0,
+		"HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a646"
+	},
+	"I": 46,
+	"T": 1844,
+	"t": 8984,
+	"h": 0,
+	"e": 0,
+	"E": -1073741772,
+	"args": [
+		0,
+		2,
+		408,
+		"FEATURE_ALLOW_REVERSE_SOLIDUS_IN_USERINFO_KB932562",
+		0,
+		1,
+		0,
+		"HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Internet Explorer\\MAIN\\FeatureControl\\FEATURE_ALLOW_REVERSE_SOLIDUS_IN_USERINFO_KB932562"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a647"
+	},
+	"I": 33,
+	"T": 1844,
+	"t": 8984,
+	"h": 0,
+	"e": 0,
+	"E": -1073741772,
+	"args": [
+		0,
+		6,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a648"
+	},
+	"I": 33,
+	"T": 1844,
+	"t": 8984,
+	"h": 0,
+	"e": 0,
+	"E": -1073741772,
+	"args": [
+		0,
+		6,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a649"
+	},
+	"I": 33,
+	"T": 1844,
+	"t": 8984,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		408
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a64a"
+	},
+	"I": 33,
+	"T": 1844,
+	"t": 8984,
+	"h": 0,
+	"e": 0,
+	"E": -1073741772,
+	"args": [
+		0,
+		6,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a64b"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 8984,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		408
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a64c"
+	},
+	"I": 175,
+	"T": 1844,
+	"t": 8984,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-1,
+		4288512,
+		4096,
+		4096,
+		4,
+		0,
+		0,
+		0,
+		832
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a64d"
+	},
+	"I": 320,
+	"name": "InternetCrackUrlW",
+	"type": "info",
+	"category": "network",
+	"args": [
+		"is_success",
+		"retval",
+		"flags",
+		"url"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a64e"
+	},
+	"I": 320,
+	"T": 1844,
+	"t": 9297,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		0,
+		"file:///C:/Windows/system32/wbem/XSL-Mappings.xml"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a64f"
+	},
+	"I": 320,
+	"T": 1844,
+	"t": 9297,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		0,
+		"file:///C:/Windows/system32/wbem/XSL-Mappings.xml"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a650"
+	},
+	"I": 46,
+	"T": 1844,
+	"t": 9297,
+	"h": 0,
+	"e": 0,
+	"E": -1073741772,
+	"args": [
+		0,
+		2,
+		-2147483647,
+		"Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_MIME_HANDLING",
+		0,
+		131097,
+		0,
+		"HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_MIME_HANDLING"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a651"
+	},
+	"I": 46,
+	"T": 1844,
+	"t": 9297,
+	"h": 0,
+	"e": 0,
+	"E": -1073741772,
+	"args": [
+		0,
+		2,
+		-2147483647,
+		"Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_MIME_HANDLING",
+		0,
+		131097,
+		0,
+		"HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_MIME_HANDLING"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a652"
+	},
+	"I": 46,
+	"T": 1844,
+	"t": 9297,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-2147483646,
+		"Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_MIME_HANDLING",
+		0,
+		131097,
+		616,
+		"HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_MIME_HANDLING"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a653"
+	},
+	"I": 50,
+	"T": 1844,
+	"t": 9297,
+	"h": 0,
+	"e": 0,
+	"E": -1073741772,
+	"args": [
+		0,
+		2,
+		616,
+		"WMIC.exe",
+		0,
+		"HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Internet Explorer\\MAIN\\FeatureControl\\FEATURE_MIME_HANDLING\\WMIC.exe",
+		""
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a654"
+	},
+	"I": 50,
+	"T": 1844,
+	"t": 9297,
+	"h": 0,
+	"e": 0,
+	"E": -1073741772,
+	"args": [
+		0,
+		2,
+		616,
+		"*",
+		0,
+		"HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Internet Explorer\\MAIN\\FeatureControl\\FEATURE_MIME_HANDLING\\*",
+		""
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a655"
+	},
+	"I": 175,
+	"T": 1844,
+	"t": 9297,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-1,
+		4329472,
+		4096,
+		4096,
+		4,
+		0,
+		0,
+		0,
+		832
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a656"
+	},
+	"I": 175,
+	"T": 1844,
+	"t": 9344,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-1,
+		41156608,
+		1310720,
+		8192,
+		4,
+		0,
+		0,
+		0,
+		832
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a657"
+	},
+	"I": 195,
+	"name": "NtFreeVirtualMemory",
+	"type": "info",
+	"category": "process",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"process_handle",
+			"p"
+		],
+		[
+			"base_address",
+			"p"
+		],
+		"size",
+		"free_type",
+		"process_identifier"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a658"
+	},
+	"I": 195,
+	"T": 1844,
+	"t": 9344,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-1,
+		41156608,
+		1048576,
+		32768,
+		832
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a659"
+	},
+	"I": 175,
+	"T": 1844,
+	"t": 9344,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-1,
+		42205184,
+		4096,
+		4096,
+		4,
+		0,
+		0,
+		0,
+		832
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a65a"
+	},
+	"I": 173,
+	"T": 1844,
+	"t": 9344,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		0,
+		1953234944,
+		"C:\\Windows\\system32\\uxtheme.dll",
+		"uxtheme",
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a65b"
+	},
+	"I": 172,
+	"T": 1844,
+	"t": 9344,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1953234944,
+		"ThemeInitApiHook",
+		0,
+		1953318257,
+		"uxtheme"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a65c"
+	},
+	"I": 128,
+	"name": "IsDebuggerPresent",
+	"type": "info",
+	"category": "system",
+	"args": [
+		"is_success",
+		"retval"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a65d"
+	},
+	"I": 128,
+	"T": 1844,
+	"t": 9344,
+	"h": 0,
+	"e": 0,
+	"E": -1073741772,
+	"args": [
+		0,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a65e"
+	},
+	"I": 284,
+	"name": "GetSystemMetrics",
+	"type": "info",
+	"category": "misc",
+	"args": [
+		"is_success",
+		"retval",
+		"index"
+	],
+	"flags_value": {
+		"index": [
+			[
+				0,
+				"SM_CXSCREEN"
+			],
+			[
+				1,
+				"SM_CYSCREEN"
+			],
+			[
+				2,
+				"SM_CXVSCROLL"
+			],
+			[
+				3,
+				"SM_CYHSCROLL"
+			],
+			[
+				4,
+				"SM_CYCAPTION"
+			],
+			[
+				5,
+				"SM_CXBORDER"
+			],
+			[
+				6,
+				"SM_CYBORDER"
+			],
+			[
+				7,
+				"SM_CXDLGFRAME"
+			],
+			[
+				8,
+				"SM_CYDLGFRAME"
+			],
+			[
+				9,
+				"SM_CYVTHUMB"
+			],
+			[
+				10,
+				"SM_CXHTHUMB"
+			],
+			[
+				11,
+				"SM_CXICON"
+			],
+			[
+				12,
+				"SM_CYICON"
+			],
+			[
+				13,
+				"SM_CXCURSOR"
+			],
+			[
+				14,
+				"SM_CYCURSOR"
+			],
+			[
+				15,
+				"SM_CYMENU"
+			],
+			[
+				16,
+				"SM_CXFULLSCREEN"
+			],
+			[
+				17,
+				"SM_CYFULLSCREEN"
+			],
+			[
+				18,
+				"SM_CYKANJIWINDOW"
+			],
+			[
+				19,
+				"SM_MOUSEPRESENT"
+			],
+			[
+				20,
+				"SM_CYVSCROLL"
+			],
+			[
+				21,
+				"SM_CXHSCROLL"
+			],
+			[
+				22,
+				"SM_DEBUG"
+			],
+			[
+				23,
+				"SM_SWAPBUTTON"
+			],
+			[
+				24,
+				"SM_RESERVED1"
+			],
+			[
+				25,
+				"SM_RESERVED2"
+			],
+			[
+				26,
+				"SM_RESERVED3"
+			],
+			[
+				27,
+				"SM_RESERVED4"
+			],
+			[
+				28,
+				"SM_CXMIN"
+			],
+			[
+				29,
+				"SM_CYMIN"
+			],
+			[
+				30,
+				"SM_CXSIZE"
+			],
+			[
+				31,
+				"SM_CYSIZE"
+			],
+			[
+				32,
+				"SM_CXFRAME"
+			],
+			[
+				33,
+				"SM_CYFRAME"
+			],
+			[
+				34,
+				"SM_CXMINTRACK"
+			],
+			[
+				35,
+				"SM_CYMINTRACK"
+			],
+			[
+				36,
+				"SM_CXDOUBLECLK"
+			],
+			[
+				37,
+				"SM_CYDOUBLECLK"
+			],
+			[
+				38,
+				"SM_CXICONSPACING"
+			],
+			[
+				39,
+				"SM_CYICONSPACING"
+			],
+			[
+				40,
+				"SM_MENUDROPALIGNMENT"
+			],
+			[
+				41,
+				"SM_PENWINDOWS"
+			],
+			[
+				42,
+				"SM_DBCSENABLED"
+			],
+			[
+				43,
+				"SM_CMOUSEBUTTONS"
+			],
+			[
+				44,
+				"SM_SECURE"
+			],
+			[
+				45,
+				"SM_CXEDGE"
+			],
+			[
+				46,
+				"SM_CYEDGE"
+			],
+			[
+				47,
+				"SM_CXMINSPACING"
+			],
+			[
+				48,
+				"SM_CYMINSPACING"
+			],
+			[
+				49,
+				"SM_CXSMICON"
+			],
+			[
+				50,
+				"SM_CYSMICON"
+			],
+			[
+				51,
+				"SM_CYSMCAPTION"
+			],
+			[
+				52,
+				"SM_CXSMSIZE"
+			],
+			[
+				53,
+				"SM_CYSMSIZE"
+			],
+			[
+				54,
+				"SM_CXMENUSIZE"
+			],
+			[
+				55,
+				"SM_CYMENUSIZE"
+			],
+			[
+				56,
+				"SM_ARRANGE"
+			],
+			[
+				57,
+				"SM_CXMINIMIZED"
+			],
+			[
+				58,
+				"SM_CYMINIMIZED"
+			],
+			[
+				59,
+				"SM_CXMAXTRACK"
+			],
+			[
+				60,
+				"SM_CYMAXTRACK"
+			],
+			[
+				61,
+				"SM_CXMAXIMIZED"
+			],
+			[
+				62,
+				"SM_CYMAXIMIZED"
+			],
+			[
+				63,
+				"SM_NETWORK"
+			],
+			[
+				67,
+				"SM_CLEANBOOT"
+			],
+			[
+				68,
+				"SM_CXDRAG"
+			],
+			[
+				69,
+				"SM_CYDRAG"
+			],
+			[
+				70,
+				"SM_SHOWSOUNDS"
+			],
+			[
+				71,
+				"SM_CXMENUCHECK"
+			],
+			[
+				72,
+				"SM_CYMENUCHECK"
+			],
+			[
+				73,
+				"SM_SLOWMACHINE"
+			],
+			[
+				74,
+				"SM_MIDEASTENABLED"
+			],
+			[
+				75,
+				"SM_MOUSEWHEELPRESENT"
+			],
+			[
+				76,
+				"SM_XVIRTUALSCREEN"
+			],
+			[
+				77,
+				"SM_YVIRTUALSCREEN"
+			],
+			[
+				78,
+				"SM_CXVIRTUALSCREEN"
+			],
+			[
+				79,
+				"SM_CYVIRTUALSCREEN"
+			],
+			[
+				80,
+				"SM_CMONITORS"
+			],
+			[
+				81,
+				"SM_SAMEDISPLAYFORMAT"
+			],
+			[
+				82,
+				"SM_IMMENABLED"
+			],
+			[
+				83,
+				"SM_CXFOCUSBORDER"
+			],
+			[
+				84,
+				"SM_CYFOCUSBORDER"
+			],
+			[
+				86,
+				"SM_TABLETPC"
+			],
+			[
+				87,
+				"SM_MEDIACENTER"
+			],
+			[
+				88,
+				"SM_STARTER"
+			],
+			[
+				89,
+				"SM_SERVERR2"
+			],
+			[
+				4096,
+				"SM_REMOTESESSION"
+			],
+			[
+				8192,
+				"SM_SHUTTINGDOWN"
+			],
+			[
+				8193,
+				"SM_REMOTECONTROL"
+			],
+			[
+				8194,
+				"SM_CARETBLINKINGENABLED"
+			]
+		]
+	},
+	"flags_bitmask": {
+		"index": []
+	}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a65f"
+	},
+	"I": 284,
+	"T": 1844,
+	"t": 9359,
+	"h": 0,
+	"args": [
+		1,
+		21,
+		31
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a660"
+	},
+	"I": 203,
+	"name": "NtMapViewOfSection",
+	"type": "info",
+	"category": "process",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"section_handle",
+			"p"
+		],
+		[
+			"process_handle",
+			"p"
+		],
+		[
+			"base_address",
+			"p"
+		],
+		"commit_size",
+		"section_offset",
+		"view_size",
+		"allocation_type",
+		"win32_protect",
+		"process_identifier",
+		"buffer"
+	],
+	"flags_value": {
+		"allocation_type": [],
+		"win32_protect": []
+	},
+	"flags_bitmask": {
+		"allocation_type": [
+			[
+				4096,
+				"MEM_COMMIT"
+			],
+			[
+				8192,
+				"MEM_RESERVE"
+			],
+			[
+				524288,
+				"MEM_RESET"
+			],
+			[
+				536870912,
+				"MEM_LARGE_PAGES"
+			],
+			[
+				4194304,
+				"MEM_PHYSICAL"
+			],
+			[
+				1048576,
+				"MEM_TOP_DOWN"
+			],
+			[
+				2097152,
+				"MEM_WRITE_WATCH"
+			]
+		],
+		"win32_protect": [
+			[
+				16,
+				"PAGE_EXECUTE"
+			],
+			[
+				32,
+				"PAGE_EXECUTE_READ"
+			],
+			[
+				64,
+				"PAGE_EXECUTE_READWRITE"
+			],
+			[
+				128,
+				"PAGE_EXECUTE_WRITECOPY"
+			],
+			[
+				1,
+				"PAGE_NOACCESS"
+			],
+			[
+				2,
+				"PAGE_READONLY"
+			],
+			[
+				4,
+				"PAGE_READWRITE"
+			],
+			[
+				8,
+				"PAGE_WRITECOPY"
+			],
+			[
+				256,
+				"PAGE_GUARD"
+			],
+			[
+				512,
+				"PAGE_NOCACHE"
+			],
+			[
+				1024,
+				"PAGE_WRITECOMBINE"
+			]
+		]
+	}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a661"
+	},
+	"I": 203,
+	"T": 1844,
+	"t": 9359,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		632,
+		-1,
+		41156608,
+		0,
+		0,
+		913408,
+		0,
+		2,
+		832,
+		{
+			"$binary": {
+				"base64": "",
+				"subType": "00"
+			}
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a662"
+	},
+	"I": 171,
+	"T": 1844,
+	"t": 9359,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1978204160,
+		"user32.dll",
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a663"
+	},
+	"I": 172,
+	"T": 1844,
+	"t": 9359,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1978204160,
+		"IsProcessDPIAware",
+		0,
+		1978302886,
+		"USER32"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a664"
+	},
+	"I": 175,
+	"T": 1844,
+	"t": 9359,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-1,
+		42209280,
+		16384,
+		4096,
+		4,
+		0,
+		0,
+		0,
+		832
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a665"
+	},
+	"I": 175,
+	"T": 1844,
+	"t": 9359,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-1,
+		42225664,
+		69632,
+		4096,
+		4,
+		0,
+		0,
+		0,
+		832
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a666"
+	},
+	"I": 175,
+	"T": 1844,
+	"t": 9359,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-1,
+		42295296,
+		4096,
+		4096,
+		4,
+		0,
+		0,
+		0,
+		832
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a667"
+	},
+	"I": 284,
+	"T": 1844,
+	"t": 9359,
+	"h": 0,
+	"args": [
+		1,
+		21,
+		31
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a668"
+	},
+	"I": 284,
+	"T": 1844,
+	"t": 9359,
+	"h": 0,
+	"args": [
+		1,
+		21,
+		31
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a669"
+	},
+	"I": 175,
+	"T": 1844,
+	"t": 9359,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-1,
+		4333568,
+		12288,
+		4096,
+		4,
+		0,
+		0,
+		0,
+		832
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a66a"
+	},
+	"I": 45,
+	"T": 1844,
+	"t": 9359,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-2147483648,
+		"PROTOCOLS\\Name-Space Handler\\",
+		0,
+		131097,
+		642,
+		"HKEY_CLASSES_ROOT\\PROTOCOLS\\Name-Space Handler\\"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a66b"
+	},
+	"I": 45,
+	"T": 1844,
+	"t": 9359,
+	"h": 0,
+	"e": 0,
+	"E": -1073741772,
+	"args": [
+		0,
+		2,
+		-2147483648,
+		"PROTOCOLS\\Name-Space Handler\\file\\",
+		0,
+		131097,
+		0,
+		"HKEY_CLASSES_ROOT\\PROTOCOLS\\Name-Space Handler\\file\\"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a66c"
+	},
+	"I": 45,
+	"T": 1844,
+	"t": 9359,
+	"h": 0,
+	"e": 0,
+	"E": -1073741772,
+	"args": [
+		0,
+		2,
+		-2147483648,
+		"PROTOCOLS\\Name-Space Handler\\*\\",
+		0,
+		131097,
+		0,
+		"HKEY_CLASSES_ROOT\\PROTOCOLS\\Name-Space Handler\\*\\"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a66d"
+	},
+	"I": 33,
+	"T": 1844,
+	"t": 9359,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		642
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a66e"
+	},
+	"I": 175,
+	"T": 1844,
+	"t": 9359,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-1,
+		4345856,
+		4096,
+		4096,
+		4,
+		0,
+		0,
+		0,
+		832
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a66f"
+	},
+	"I": 104,
+	"name": "GetFileAttributesW",
+	"type": "info",
+	"category": "file",
+	"args": [
+		"is_success",
+		"retval",
+		"filepath",
+		"filepath_r",
+		"file_attributes"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a670"
+	},
+	"I": 104,
+	"T": 1844,
+	"t": 9437,
+	"h": 0,
+	"args": [
+		1,
+		32,
+		"C:\\Windows\\System32\\wbem\\XSL-Mappings.xml",
+		"C:\\Windows\\system32\\wbem\\XSL-Mappings.xml",
+		32
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a671"
+	},
+	"I": 94,
+	"name": "FindFirstFileExW",
+	"type": "info",
+	"category": "file",
+	"args": [
+		"is_success",
+		"retval",
+		"filepath",
+		"filepath_r"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a672"
+	},
+	"I": 94,
+	"T": 1844,
+	"t": 9437,
+	"h": 0,
+	"args": [
+		1,
+		4269904,
+		"C:\\Windows\\System32\\wbem\\XSL-Mappings.xml",
+		"C:\\Windows\\system32\\wbem\\XSL-Mappings.xml"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a673"
+	},
+	"I": 204,
+	"name": "NtOpenDirectoryObject",
+	"type": "info",
+	"category": "file",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"directory_handle",
+			"p"
+		],
+		[
+			"desired_access",
+			"x"
+		],
+		"dirpath",
+		"dirpath_r"
+	],
+	"flags_value": {
+		"desired_access": []
+	},
+	"flags_bitmask": {
+		"desired_access": [
+			[
+				2031616,
+				"STANDARD_RIGHTS_ALL"
+			],
+			[
+				983040,
+				"STANDARD_RIGHTS_REQUIRED"
+			],
+			[
+				65536,
+				"DELETE"
+			],
+			[
+				131072,
+				"READ_CONTROL"
+			],
+			[
+				262144,
+				"WRITE_DAC"
+			],
+			[
+				524288,
+				"WRITE_OWNER"
+			],
+			[
+				1048576,
+				"SYNCHRONIZE"
+			],
+			[
+				65535,
+				"SPECIFIC_RIGHTS_ALL"
+			],
+			[
+				16777216,
+				"ACCESS_SYSTEM_SECURITY"
+			],
+			[
+				33554432,
+				"MAXIMUM_ALLOWED"
+			],
+			[
+				-2147483648,
+				"GENERIC_READ"
+			],
+			[
+				1073741824,
+				"GENERIC_WRITE"
+			],
+			[
+				536870912,
+				"GENERIC_EXECUTE"
+			],
+			[
+				268435456,
+				"GENERIC_ALL"
+			]
+		]
+	}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a674"
+	},
+	"I": 204,
+	"T": 1844,
+	"t": 9500,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		644,
+		1,
+		"C:\\??",
+		"\\??"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a675"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 9500,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		644
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a676"
+	},
+	"I": 46,
+	"T": 1844,
+	"t": 9500,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-2147483648,
+		".xml",
+		0,
+		131097,
+		646,
+		"HKEY_CLASSES_ROOT\\.xml"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a677"
+	},
+	"I": 50,
+	"T": 1844,
+	"t": 9500,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		646,
+		"Content Type",
+		1,
+		"HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\.xml\\Content Type",
+		""
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a678"
+	},
+	"I": 50,
+	"T": 1844,
+	"t": 9500,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		646,
+		"Content Type",
+		1,
+		"HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\.xml\\Content Type",
+		"text/xml"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a679"
+	},
+	"I": 46,
+	"T": 1844,
+	"t": 9500,
+	"h": 0,
+	"e": 2,
+	"E": -1073741772,
+	"args": [
+		0,
+		2,
+		-2147483647,
+		"SOFTWARE\\Classes\\PROTOCOLS\\Filter\\text/xml",
+		0,
+		131097,
+		0,
+		"HKEY_CURRENT_USER\\SOFTWARE\\Classes\\PROTOCOLS\\Filter\\text/xml"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a67a"
+	},
+	"I": 175,
+	"T": 1844,
+	"t": 9500,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-1,
+		4349952,
+		8192,
+		4096,
+		4,
+		0,
+		0,
+		0,
+		832
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a67b"
+	},
+	"I": 46,
+	"T": 1844,
+	"t": 9500,
+	"h": 0,
+	"e": 2,
+	"E": -1073741772,
+	"args": [
+		0,
+		2,
+		-2147483646,
+		"SOFTWARE\\Classes\\PROTOCOLS\\Filter\\text/xml",
+		0,
+		131097,
+		0,
+		"HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\PROTOCOLS\\Filter\\text/xml"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a67c"
+	},
+	"I": 178,
+	"name": "NtCreateFile",
+	"type": "info",
+	"category": "file",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"file_handle",
+			"p"
+		],
+		[
+			"desired_access",
+			"x"
+		],
+		"file_attributes",
+		"create_disposition",
+		"create_options",
+		"share_access",
+		"filepath",
+		"filepath_r",
+		"status_info"
+	],
+	"flags_value": {
+		"desired_access": [],
+		"file_attributes": [],
+		"share_access": [],
+		"create_disposition": [
+			[
+				0,
+				"FILE_SUPERSEDE"
+			],
+			[
+				2,
+				"FILE_CREATE"
+			],
+			[
+				1,
+				"FILE_OPEN"
+			],
+			[
+				3,
+				"FILE_OPEN_IF"
+			],
+			[
+				4,
+				"FILE_OVERWRITE"
+			],
+			[
+				5,
+				"FILE_OVERWRITE_IF"
+			]
+		],
+		"create_options": [],
+		"status_info": [
+			[
+				2,
+				"FILE_CREATED"
+			],
+			[
+				1,
+				"FILE_OPENED"
+			],
+			[
+				3,
+				"FILE_OVERWRITTEN"
+			],
+			[
+				0,
+				"FILE_SUPERSEDED"
+			],
+			[
+				4,
+				"FILE_EXISTS"
+			],
+			[
+				5,
+				"FILE_DOES_NOT_EXIST"
+			]
+		]
+	},
+	"flags_bitmask": {
+		"desired_access": [
+			[
+				1,
+				"FILE_READ_DATA"
+			],
+			[
+				128,
+				"FILE_READ_ATTRIBUTES"
+			],
+			[
+				8,
+				"FILE_READ_EA"
+			],
+			[
+				2,
+				"FILE_WRITE_DATA"
+			],
+			[
+				256,
+				"FILE_WRITE_ATTRIBUTES"
+			],
+			[
+				16,
+				"FILE_WRITE_EA"
+			],
+			[
+				4,
+				"FILE_APPEND_DATA"
+			],
+			[
+				32,
+				"FILE_EXECUTE"
+			],
+			[
+				1,
+				"FILE_LIST_DIRECTORY"
+			],
+			[
+				32,
+				"FILE_TRAVERSE"
+			],
+			[
+				2031616,
+				"STANDARD_RIGHTS_ALL"
+			],
+			[
+				983040,
+				"STANDARD_RIGHTS_REQUIRED"
+			],
+			[
+				65536,
+				"DELETE"
+			],
+			[
+				131072,
+				"READ_CONTROL"
+			],
+			[
+				262144,
+				"WRITE_DAC"
+			],
+			[
+				524288,
+				"WRITE_OWNER"
+			],
+			[
+				1048576,
+				"SYNCHRONIZE"
+			],
+			[
+				65535,
+				"SPECIFIC_RIGHTS_ALL"
+			],
+			[
+				16777216,
+				"ACCESS_SYSTEM_SECURITY"
+			],
+			[
+				33554432,
+				"MAXIMUM_ALLOWED"
+			],
+			[
+				-2147483648,
+				"GENERIC_READ"
+			],
+			[
+				1073741824,
+				"GENERIC_WRITE"
+			],
+			[
+				536870912,
+				"GENERIC_EXECUTE"
+			],
+			[
+				268435456,
+				"GENERIC_ALL"
+			]
+		],
+		"file_attributes": [
+			[
+				32,
+				"FILE_ATTRIBUTE_ARCHIVE"
+			],
+			[
+				16384,
+				"FILE_ATTRIBUTE_ENCRYPTED"
+			],
+			[
+				2,
+				"FILE_ATTRIBUTE_HIDDEN"
+			],
+			[
+				128,
+				"FILE_ATTRIBUTE_NORMAL"
+			],
+			[
+				4096,
+				"FILE_ATTRIBUTE_OFFLINE"
+			],
+			[
+				1,
+				"FILE_ATTRIBUTE_READONLY"
+			],
+			[
+				4,
+				"FILE_ATTRIBUTE_SYSTEM"
+			],
+			[
+				256,
+				"FILE_ATTRIBUTE_TEMPORARY"
+			],
+			[
+				33554432,
+				"FILE_FLAG_BACKUP_SEMANTICS"
+			],
+			[
+				67108864,
+				"FILE_FLAG_DELETE_ON_CLOSE"
+			],
+			[
+				536870912,
+				"FILE_FLAG_NO_BUFFERING"
+			],
+			[
+				1048576,
+				"FILE_FLAG_OPEN_NO_RECALL"
+			],
+			[
+				2097152,
+				"FILE_FLAG_OPEN_REPARSE_POINT"
+			],
+			[
+				1073741824,
+				"FILE_FLAG_OVERLAPPED"
+			],
+			[
+				16777216,
+				"FILE_FLAG_POSIX_SEMANTICS"
+			],
+			[
+				268435456,
+				"FILE_FLAG_RANDOM_ACCESS"
+			],
+			[
+				8388608,
+				"FILE_FLAG_SESSION_AWARE"
+			],
+			[
+				134217728,
+				"FILE_FLAG_SEQUENTIAL_SCAN"
+			],
+			[
+				-2147483648,
+				"FILE_FLAG_WRITE_THROUGH"
+			]
+		],
+		"share_access": [
+			[
+				1,
+				"FILE_SHARE_READ"
+			],
+			[
+				2,
+				"FILE_SHARE_WRITE"
+			],
+			[
+				4,
+				"FILE_SHARE_DELETE"
+			]
+		],
+		"create_disposition": [],
+		"create_options": [
+			[
+				1,
+				"FILE_DIRECTORY_FILE"
+			],
+			[
+				64,
+				"FILE_NON_DIRECTORY_FILE"
+			],
+			[
+				2,
+				"FILE_WRITE_THROUGH"
+			],
+			[
+				4,
+				"FILE_SEQUENTIAL_ONLY"
+			],
+			[
+				2048,
+				"FILE_RANDOM_ACCESS"
+			],
+			[
+				8,
+				"FILE_NO_INTERMEDIATE_BUFFERING"
+			],
+			[
+				16,
+				"FILE_SYNCHRONOUS_IO_ALERT"
+			],
+			[
+				32,
+				"FILE_SYNCHRONOUS_IO_NONALERT"
+			],
+			[
+				128,
+				"FILE_CREATE_TREE_CONNECTION"
+			],
+			[
+				256,
+				"FILE_COMPLETE_IF_OPLOCKED"
+			],
+			[
+				512,
+				"FILE_NO_EA_KNOWLEDGE"
+			],
+			[
+				2097152,
+				"FILE_OPEN_REPARSE_POINT"
+			],
+			[
+				4096,
+				"FILE_DELETE_ON_CLOSE"
+			],
+			[
+				8192,
+				"FILE_OPEN_BY_FILE_ID"
+			],
+			[
+				16384,
+				"FILE_OPEN_FOR_BACKUP_INTENT"
+			],
+			[
+				1048576,
+				"FILE_RESERVE_OPFILTER"
+			]
+		],
+		"status_info": []
+	}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a67d"
+	},
+	"I": 178,
+	"T": 1844,
+	"t": 9500,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		648,
+		-2146434944,
+		128,
+		1,
+		96,
+		3,
+		"C:\\Windows\\System32\\wbem\\XSL-Mappings.xml",
+		"\\??\\C:\\Windows\\system32\\wbem\\XSL-Mappings.xml",
+		1
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a67e"
+	},
+	"I": 223,
+	"name": "NtReadFile",
+	"type": "info",
+	"category": "file",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"file_handle",
+			"p"
+		],
+		"length",
+		"offset",
+		"buffer"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a67f"
+	},
+	"I": 223,
+	"T": 1844,
+	"t": 9500,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		648,
+		8192,
+		0,
+		{
+			"$binary": {
+				"base64": "//48ACEALQAtACAAQwBvAHAAeQByAGkAZwBoAHQAIAAoAGMAKQAgAE0AaQBjAHIAbwBzAG8AZgB0ACAAQwBvAHIAcABvAHIAYQB0AGkAbwBuAC4AIAAgAEEAbABsACAAcgBpAGcAaAB0AHMAIAByAGUAcwBlAHIAdgBlAGQALgAgAC0ALQA+AA0ACgANAAoAPABYAFMATABNAEEAUABQAEkATgBHAFMAPgANAAoAPABYAFMATABGAE8AUgBNAEEAVAAgAEsARQBZAFcATwBSAEQAPQAiAFQAQQBCAEwARQAiAD4AdABlAHgAdAB0AGEAYgBsAGUALgB4AHMAbAA8AC8AWABTAEwARgBPAFIATQBBAFQAPgANAAoAPABYAFMATABGAE8AUgBNAEEAVAAgAEsARQBZAFcATwBSAEQAPQAiAFYAQQBMAFUARQAiAD4AdABlAHgAdAB2AGEAbAB1AGUAbABpAHMAdAAuAHgAcwBsADwALwBYAFMATABGAE8AUgBNAEEAVAA+AA0ACgA8AFgAUwBMAEYATwBSAE0AQQBUACAASwBFAFkAVwBPAFIARAA9ACIATABJAFMAVAAiAD4AdABlAHgAdAB2AGEAbAB1AGUAbABpAHMAdAAuAHgAcwBsADwALwBYAFMATABGAE8AUgBNAEEAVAA+AA0ACgA8AFgAUwBMAEYATwBSAE0AQQBUACAASwBFAFkAVwBPAFIARAA9ACIAUgBBAFcAWABNAEwAIgA+AHIAYQB3AHgAbQBsAC4AeABzAGwAPAAvAFgAUwBMAEYATwBSAE0AQQBUAD4ADQAKADwAWABTAEwARgBPAFIATQBBAFQAIABLAEUAWQBXAE8AUgBEAD0AIgBIAFQAQQBCAEwARQAiAD4AaAB0AGEAYgBsAGUALgB4AHMAbAA8AC8AWABTAEwARgBPAFIATQBBAFQAPgAgAA0ACgA8AFgAUwBMAEYATwBSAE0AQQBUACAASwBFAFkAVwBPAFIARAA9ACIASABGAE8AUgBNACIAPgBoAGYAbwByAG0ALgB4AHMAbAA8AC8AWABTAEwARgBPAFIATQBBAFQAPgAgAA0ACgA8AFgAUwBMAEYATwBSAE0AQQBUACAASwBFAFkAVwBPAFIARAA9ACIAWABNAEwAIgA+AHgAbQBsAC4AeABzAGwAPAAvAFgAUwBMAEYATwBSAE0AQQBUAD4ADQAKADwAWABTAEwARgBPAFIATQBBAFQAIABLAEUAWQBXAE8AUgBEAD0AIgBNAE8ARgAiAD4AbQBvAGYALgB4AHMAbAA8AC8AWABTAEwARgBPAFIATQBBAFQAPgANAAoAPABYAFMATABGAE8AUgBNAEEAVAAgAEsARQBZAFcATwBSAEQAPQAiAEMAUwBWACIAPgBjAHMAdgAuAHgAcwBsADwALwBYAFMATABGAE8AUgBNAEEAVAA+ACAADQAKADwAIQAtAC0AIABEAGUAcAByAGUAYwBhAHQAZQBkACAAbQBhAHAAcABpAG4AZwBzACAALQAtAD4ADQAKADwAWABTAEwARgBPAFIATQBBAFQAIABLAEUAWQBXAE8AUgBEAD0AIgB0AGUAeAB0AHQAYQBiAGwAZQB3AHMAeQBzAC4AeABzAGwAIgA+AHQAZQB4AHQAdABhAGIAbABlAC4AeABzAGwAPAAvAFgAUwBMAEYATwBSAE0AQQBUAD4ADQAKADwAWABTAEwARgBPAFIATQBBAFQAIABLAEUAWQBXAE8AUgBEAD0AIgB0AGUAeAB0AHQAYQBiAGwAZQB3AHMAeQBzACIAPgB0AGUAeAB0AHQAYQBiAGwAZQAuAHgAcwBsADwALwBYAFMATABGAE8AUgBNAEEAVAA+AA0ACgA8AFgAUwBMAEYATwBSAE0AQQBUACAASwBFAFkAVwBPAFIARAA9ACIAdwBtAGkAYwBsAGkAdABhAGIAbABlAGYAbwByAG0AYQB0AC4AeABzAGwAIgA+AHQAZQB4AHQAdABhAGIAbABlAC4AeABzAGwAPAAvAFgAUwBMAEYATwBSAE0AQQBUAD4ADQAKADwAWABTAEwARgBPAFIATQBBAFQAIABLAEUAWQBXAE8AUgBEAD0AIgB3AG0AaQBjAGwAaQB0AGEAYgBsAGUAZgBvAHIAbQBhAHQAIgA+AHQAZQB4AHQAdABhAGIAbABlAC4AeABzAGwAPAAvAFgAUwBMAEYATwBSAE0AQQBUAD4ADQAKADwAWABTAEwARgBPAFIATQBBAFQAIABLAEUAWQBXAE8AUgBEAD0AIgB3AG0AaQBjAGwAaQB0AGEAYgBsAGUAZgBvAHIAbQBhAHQAbgBvAHMAeQBzAC4AeABzAGwAIgA+AHQAZQB4AHQAdABhAGIAbABlAC4AeABzAGwAPAAvAFgAUwBMAEYATwBSAE0AQQBUAD4ADQAKADwAWABTAEwARgBPAFIATQBBAFQAIABLAEUAWQBXAE8AUgBEAD0AIgB3AG0AaQBjAGwAaQB0AGEAYgBsAGUAZgBvAHIAbQBhAHQAbgBvAHMAeQBzACIAPgB0AGUAeAB0AHQAYQBiAGwAZQAuAHgAcwBsADwALwBYAFMATABGAE8AUgBNAEEAVAA+AA0ACgA8AFgAUwBMAEYATwBSAE0AQQBUACAASwBFAFkAVwBPAFIARAA9ACIAaAB0AGEAYgBsAGUALQBzAG8AcgB0AGIAeQAuAHgAcwBsACIAPgBoAHQAYQBiAGwAZQAuAHgAcwBsADwALwBYAFMATABGAE8AUgBNAEEAVAA+ACAADQAKADwAWABTAEwARgBPAFIATQBBAFQAIABLAEUAWQBXAE8AUgBEAD0AIgBoAHQAYQBiAGwAZQAtAHMAbwByAHQAYgB5ACIAPgBoAHQAYQBiAGwAZQAuAHgAcwBsADwALwBYAFMATABGAE8AUgBNAEEAVAA+AA0ACgA8AFgAUwBMAEYATwBSAE0AQQBUACAASwBFAFkAVwBPAFIARAA9ACIAdwBtAGkAYwBsAGkAbQBvAGYAZgBvAHIAbQBhAHQALgB4AHMAbAAiAD4AbQBvAGYALgB4AHMAbAA8AC8AWABTAEwARgBPAFIATQBBAFQAPgANAAoAPABYAFMATABGAE8AUgBNAEEAVAAgAEsARQBZAFcATwBSAEQAPQAiAHcAbQBpAGMAbABpAG0AbwBmAGYAbwByAG0AYQB0ACIAPgBtAG8AZgAuAHgAcwBsADwALwBYAFMATABGAE8AUgBNAEEAVAA+AA0ACgA8AFgAUwBMAEYATwBSAE0AQQBUACAASwBFAFkAVwBPAFIARAA9ACIAdwBtAGkAYwBsAGkAdgBhAGwAdQBlAGYAbwByAG0AYQB0AC4AeABzAGwAIgA+AHQAZQB4AHQAdgBhAGwAdQBlAGwAaQBzAHQALgB4AHMAbAA8AC8AWABTAEwARgBPAFIATQBBAFQAPgANAAoAPABYAFMATABGAE8AUgBNAEEAVAAgAEsARQBZAFcATwBSAEQAPQAiAHcAbQBpAGMAbABpAHYAYQBsAHUAZQBmAG8AcgBtAGEAdAAiAD4AdABlAHgAdAB2AGEAbAB1AGUAbABpAHMAdAAuAHgAcwBsADwALwBYAFMATABGAE8AUgBNAEEAVAA+AA0ACgA8ACEALQAtACAAIABFAG4AZAAgAG8AZgAgAEQAZQBwAHIAZQBjAGEAdABlAGQAIABtAGEAcABwAGkAbgBnAHMAIAAgACAALQAtAD4AIAANAAoAPAAvAFgAUwBMAE0AQQBQAFAASQBOAEcAUwA+AA==",
+				"subType": "00"
+			}
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a680"
+	},
+	"I": 45,
+	"T": 1844,
+	"t": 9500,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-2147483647,
+		"Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings",
+		0,
+		1,
+		652,
+		"HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a681"
+	},
+	"I": 49,
+	"T": 1844,
+	"t": 9500,
+	"h": 0,
+	"e": 0,
+	"E": -1073741772,
+	"args": [
+		0,
+		2,
+		652,
+		"IsTextPlainHonored",
+		0,
+		"HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\IsTextPlainHonored",
+		""
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a682"
+	},
+	"I": 33,
+	"T": 1844,
+	"t": 9500,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		652
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a683"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 9500,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		640
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a684"
+	},
+	"I": 223,
+	"T": 1844,
+	"t": 9500,
+	"h": 0,
+	"e": 0,
+	"E": -1073741772,
+	"args": [
+		0,
+		3221225489,
+		648,
+		1229,
+		0,
+		{
+			"$binary": {
+				"base64": "",
+				"subType": "00"
+			}
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a685"
+	},
+	"I": 175,
+	"T": 1844,
+	"t": 9500,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-1,
+		39104512,
+		20480,
+		4096,
+		4,
+		0,
+		0,
+		0,
+		832
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a686"
+	},
+	"I": 223,
+	"T": 1844,
+	"t": 9500,
+	"h": 0,
+	"e": 0,
+	"E": -1073741772,
+	"args": [
+		0,
+		3221225489,
+		648,
+		8177,
+		0,
+		{
+			"$binary": {
+				"base64": "",
+				"subType": "00"
+			}
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a687"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 9500,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		648
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a688"
+	},
+	"I": 171,
+	"T": 1844,
+	"t": 9515,
+	"h": 0,
+	"e": 0,
+	"E": -1073741772,
+	"args": [
+		0,
+		3221225781,
+		0,
+		"wmisvc.dll",
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a689"
+	},
+	"I": 171,
+	"T": 1844,
+	"t": 9515,
+	"h": 0,
+	"e": 0,
+	"E": -1073741772,
+	"args": [
+		0,
+		3221225781,
+		0,
+		"wmisvc.dll",
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a68a"
+	},
+	"I": 206,
+	"name": "NtOpenKey",
+	"type": "info",
+	"category": "registry",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"key_handle",
+			"p"
+		],
+		[
+			"desired_access",
+			"x"
+		],
+		"regkey"
+	],
+	"flags_value": {
+		"desired_access": []
+	},
+	"flags_bitmask": {
+		"desired_access": [
+			[
+				2031616,
+				"STANDARD_RIGHTS_ALL"
+			],
+			[
+				983040,
+				"STANDARD_RIGHTS_REQUIRED"
+			],
+			[
+				65536,
+				"DELETE"
+			],
+			[
+				131072,
+				"READ_CONTROL"
+			],
+			[
+				262144,
+				"WRITE_DAC"
+			],
+			[
+				524288,
+				"WRITE_OWNER"
+			],
+			[
+				1048576,
+				"SYNCHRONIZE"
+			],
+			[
+				65535,
+				"SPECIFIC_RIGHTS_ALL"
+			],
+			[
+				16777216,
+				"ACCESS_SYSTEM_SECURITY"
+			],
+			[
+				33554432,
+				"MAXIMUM_ALLOWED"
+			],
+			[
+				-2147483648,
+				"GENERIC_READ"
+			],
+			[
+				1073741824,
+				"GENERIC_WRITE"
+			],
+			[
+				536870912,
+				"GENERIC_EXECUTE"
+			],
+			[
+				268435456,
+				"GENERIC_ALL"
+			]
+		]
+	}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a68b"
+	},
+	"I": 206,
+	"T": 1844,
+	"t": 9515,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		648,
+		131097,
+		"HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Services\\Tcpip\\Parameters"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a68c"
+	},
+	"I": 221,
+	"name": "NtQueryValueKey",
+	"type": "info",
+	"category": "registry",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"key_handle",
+			"p"
+		],
+		"information_class",
+		"regkey",
+		"key_name",
+		"reg_type",
+		"value"
+	],
+	"flags_value": {
+		"information_class": [
+			[
+				0,
+				"KeyValueBasicInformation"
+			],
+			[
+				1,
+				"KeyValueFullInformation"
+			],
+			[
+				2,
+				"KeyValuePartialInformation"
+			],
+			[
+				3,
+				"KeyValueFullInformationAlign64"
+			],
+			[
+				4,
+				"KeyValuePartialInformationAlign64"
+			],
+			[
+				5,
+				"MaxKeyValueInfoClass"
+			]
+		],
+		"reg_type": [
+			[
+				0,
+				"REG_NONE"
+			],
+			[
+				1,
+				"REG_SZ"
+			],
+			[
+				2,
+				"REG_EXPAND_SZ"
+			],
+			[
+				3,
+				"REG_BINARY"
+			],
+			[
+				4,
+				"REG_DWORD"
+			],
+			[
+				5,
+				"REG_DWORD_BIG_ENDIAN"
+			],
+			[
+				6,
+				"REG_LINK"
+			],
+			[
+				7,
+				"REG_MULTI_SZ"
+			],
+			[
+				8,
+				"REG_RESOURCE_LIST"
+			],
+			[
+				9,
+				"REG_FULL_RESOURCE_DESCRIPTOR"
+			],
+			[
+				10,
+				"REG_RESOURCE_REQUIREMENTS_LIST"
+			],
+			[
+				11,
+				"REG_QWORD"
+			]
+		]
+	},
+	"flags_bitmask": {
+		"information_class": [],
+		"reg_type": []
+	}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a68d"
+	},
+	"I": 221,
+	"T": 1844,
+	"t": 9515,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		648,
+		1,
+		"HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\Tcpip\\Parameters\\Hostname",
+		"Hostname",
+		1,
+		"None"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a68e"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 9515,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		648
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a68f"
+	},
+	"I": 206,
+	"T": 1844,
+	"t": 9515,
+	"h": 0,
+	"e": 203,
+	"E": -1073741568,
+	"args": [
+		0,
+		3221225524,
+		0,
+		131097,
+		"HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\System\\DNSclient"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a690"
+	},
+	"I": 206,
+	"T": 1844,
+	"t": 9515,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		648,
+		131097,
+		"HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Services\\Tcpip\\Parameters"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a691"
+	},
+	"I": 221,
+	"T": 1844,
+	"t": 9515,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		648,
+		1,
+		"HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\Tcpip\\Parameters\\Domain",
+		"Domain",
+		1,
+		""
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a692"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 9515,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		648
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a693"
+	},
+	"I": 206,
+	"T": 1844,
+	"t": 9515,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		648,
+		131097,
+		"HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Services\\Tcpip\\Parameters"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a694"
+	},
+	"I": 221,
+	"T": 1844,
+	"t": 9515,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		648,
+		1,
+		"HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\Tcpip\\Parameters\\Hostname",
+		"Hostname",
+		1,
+		"None"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a695"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 9515,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		648
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a696"
+	},
+	"I": 206,
+	"T": 1844,
+	"t": 9515,
+	"h": 0,
+	"e": 203,
+	"E": -1073741568,
+	"args": [
+		0,
+		3221225524,
+		0,
+		131097,
+		"HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\System\\DNSclient"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a697"
+	},
+	"I": 206,
+	"T": 1844,
+	"t": 9515,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		648,
+		131097,
+		"HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Services\\Tcpip\\Parameters"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a698"
+	},
+	"I": 221,
+	"T": 1844,
+	"t": 9687,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		648,
+		1,
+		"HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\Tcpip\\Parameters\\Domain",
+		"Domain",
+		1,
+		""
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a699"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 9687,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		648
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a69a"
+	},
+	"I": 252,
+	"name": "CoCreateInstanceEx",
+	"type": "info",
+	"category": "ole",
+	"args": [
+		"is_success",
+		"retval",
+		"clsid",
+		"class_context",
+		"iid"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a69b"
+	},
+	"I": 252,
+	"T": 1844,
+	"t": 10000,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		"{8bc3f05e-d86b-11d0-a075-00c04fb68820}",
+		20,
+		[
+			"{f309ad18-d86a-11d0-a075-00c04fb68820}"
+		]
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a69c"
+	},
+	"I": 100,
+	"T": 1844,
+	"t": 10031,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"NONE"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a69d"
+	},
+	"I": 251,
+	"T": 1844,
+	"t": 10078,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		"{674b6698-ee92-11d0-ad71-00c04fd8fdff}",
+		1,
+		"{44aca674-e8fc-11d0-a07c-00c04fb68820}"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a69e"
+	},
+	"I": 253,
+	"name": "CoGetClassObject",
+	"type": "info",
+	"category": "ole",
+	"args": [
+		"is_success",
+		"retval",
+		"clsid",
+		"class_context",
+		"iid"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a69f"
+	},
+	"I": 253,
+	"T": 1844,
+	"t": 10125,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		"{7c857801-7381-11cf-884d-00aa004b2e24}",
+		3,
+		"{d5f569d0-593b-101a-b569-08002b2dbf7a}"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6a0"
+	},
+	"I": 171,
+	"T": 1844,
+	"t": 10125,
+	"h": 0,
+	"e": 0,
+	"E": -1073741700,
+	"args": [
+		0,
+		3221225781,
+		0,
+		"wmisvc.dll",
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6a1"
+	},
+	"I": 171,
+	"T": 1844,
+	"t": 10125,
+	"h": 0,
+	"e": 0,
+	"E": -1073741700,
+	"args": [
+		0,
+		3221225781,
+		0,
+		"wmisvc.dll",
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6a2"
+	},
+	"I": 206,
+	"T": 1844,
+	"t": 10125,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		648,
+		131097,
+		"HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Services\\Tcpip\\Parameters"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6a3"
+	},
+	"I": 221,
+	"T": 1844,
+	"t": 10125,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		648,
+		1,
+		"HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\Tcpip\\Parameters\\Hostname",
+		"Hostname",
+		1,
+		"None"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6a4"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 10125,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		648
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6a5"
+	},
+	"I": 206,
+	"T": 1844,
+	"t": 10125,
+	"h": 0,
+	"e": 203,
+	"E": -1073741568,
+	"args": [
+		0,
+		3221225524,
+		0,
+		131097,
+		"HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\System\\DNSclient"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6a6"
+	},
+	"I": 206,
+	"T": 1844,
+	"t": 10125,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		648,
+		131097,
+		"HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Services\\Tcpip\\Parameters"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6a7"
+	},
+	"I": 221,
+	"T": 1844,
+	"t": 10140,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		648,
+		1,
+		"HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\Tcpip\\Parameters\\Domain",
+		"Domain",
+		1,
+		""
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6a8"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 10140,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		648
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6a9"
+	},
+	"I": 206,
+	"T": 1844,
+	"t": 10140,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		648,
+		131097,
+		"HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Services\\Tcpip\\Parameters"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6aa"
+	},
+	"I": 221,
+	"T": 1844,
+	"t": 10140,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		648,
+		1,
+		"HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\Tcpip\\Parameters\\Hostname",
+		"Hostname",
+		1,
+		"None"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6ab"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 10140,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		648
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6ac"
+	},
+	"I": 206,
+	"T": 1844,
+	"t": 10140,
+	"h": 0,
+	"e": 203,
+	"E": -1073741568,
+	"args": [
+		0,
+		3221225524,
+		0,
+		131097,
+		"HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\System\\DNSclient"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6ad"
+	},
+	"I": 206,
+	"T": 1844,
+	"t": 10140,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		648,
+		131097,
+		"HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Services\\Tcpip\\Parameters"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6ae"
+	},
+	"I": 221,
+	"T": 1844,
+	"t": 10140,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		648,
+		1,
+		"HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\Tcpip\\Parameters\\Domain",
+		"Domain",
+		1,
+		""
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6af"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 10140,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		648
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6b0"
+	},
+	"I": 252,
+	"T": 1844,
+	"t": 10234,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		"{8bc3f05e-d86b-11d0-a075-00c04fb68820}",
+		20,
+		[
+			"{f309ad18-d86a-11d0-a075-00c04fb68820}"
+		]
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6b1"
+	},
+	"I": 100,
+	"T": 1844,
+	"t": 10281,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"NONE"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6b2"
+	},
+	"I": 251,
+	"T": 1844,
+	"t": 10297,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		"{674b6698-ee92-11d0-ad71-00c04fd8fdff}",
+		1,
+		"{44aca674-e8fc-11d0-a07c-00c04fb68820}"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6b3"
+	},
+	"I": 253,
+	"T": 1844,
+	"t": 10390,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		"{7c857801-7381-11cf-884d-00aa004b2e24}",
+		3,
+		"{d5f569d0-593b-101a-b569-08002b2dbf7a}"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6b4"
+	},
+	"I": 173,
+	"T": 1844,
+	"t": 10484,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		0,
+		1976631296,
+		"OLEAUT32.dll",
+		"OLEAUT32",
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6b5"
+	},
+	"I": 172,
+	"T": 1844,
+	"t": 10484,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1976631296,
+		"",
+		283,
+		1976660989,
+		"OLEAUT32"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6b6"
+	},
+	"I": 172,
+	"T": 1844,
+	"t": 10594,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1976631296,
+		"",
+		284,
+		1976661038,
+		"OLEAUT32"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6b7"
+	},
+	"I": 251,
+	"T": 1844,
+	"t": 10672,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		"{4590f812-1d3a-11d0-891f-00aa004b2e24}",
+		1027,
+		"{00000003-0000-0000-c000-000000000046}"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6b8"
+	},
+	"I": 175,
+	"T": 1844,
+	"t": 10672,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-1,
+		32534528,
+		53248,
+		4096,
+		4,
+		0,
+		0,
+		0,
+		832
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6b9"
+	},
+	"I": 172,
+	"T": 1844,
+	"t": 10672,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1986527232,
+		"RegOpenKeyExW",
+		0,
+		1986601745,
+		"kernel32"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6ba"
+	},
+	"I": 46,
+	"T": 1844,
+	"t": 10672,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-2147483646,
+		"Software\\Microsoft\\WBEM\\CIMOM",
+		0,
+		131097,
+		648,
+		"HKEY_LOCAL_MACHINE\\Software\\Microsoft\\WBEM\\CIMOM"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6bb"
+	},
+	"I": 50,
+	"T": 1844,
+	"t": 10672,
+	"h": 0,
+	"e": 1008,
+	"E": -1073741772,
+	"args": [
+		0,
+		2,
+		648,
+		"EnableObjectValidation",
+		0,
+		"HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\WBEM\\CIMOM\\EnableObjectValidation",
+		""
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6bc"
+	},
+	"I": 33,
+	"T": 1844,
+	"t": 10672,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		648
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6bd"
+	},
+	"I": 251,
+	"T": 1844,
+	"t": 10781,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		"{4590f812-1d3a-11d0-891f-00aa004b2e24}",
+		1027,
+		"{00000003-0000-0000-c000-000000000046}"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6be"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 10781,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		648
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6bf"
+	},
+	"I": 171,
+	"T": 1844,
+	"t": 10797,
+	"h": 0,
+	"e": 0,
+	"E": 0,
+	"args": [
+		0,
+		3221225781,
+		0,
+		"wmisvc.dll",
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6c0"
+	},
+	"I": 171,
+	"T": 1844,
+	"t": 10797,
+	"h": 0,
+	"e": 0,
+	"E": 0,
+	"args": [
+		0,
+		3221225781,
+		0,
+		"wmisvc.dll",
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6c1"
+	},
+	"I": 206,
+	"T": 1844,
+	"t": 10797,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		648,
+		131097,
+		"HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Services\\Tcpip\\Parameters"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6c2"
+	},
+	"I": 221,
+	"T": 1844,
+	"t": 10797,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		648,
+		1,
+		"HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\Tcpip\\Parameters\\Hostname",
+		"Hostname",
+		1,
+		"None"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6c3"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 10797,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		648
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6c4"
+	},
+	"I": 206,
+	"T": 1844,
+	"t": 10797,
+	"h": 0,
+	"e": 203,
+	"E": -1073741568,
+	"args": [
+		0,
+		3221225524,
+		0,
+		131097,
+		"HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\System\\DNSclient"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6c5"
+	},
+	"I": 206,
+	"T": 1844,
+	"t": 10797,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		648,
+		131097,
+		"HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Services\\Tcpip\\Parameters"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6c6"
+	},
+	"I": 221,
+	"T": 1844,
+	"t": 10797,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		648,
+		1,
+		"HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\Tcpip\\Parameters\\Domain",
+		"Domain",
+		1,
+		""
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6c7"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 10797,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		648
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6c8"
+	},
+	"I": 206,
+	"T": 1844,
+	"t": 10797,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		648,
+		131097,
+		"HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Services\\Tcpip\\Parameters"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6c9"
+	},
+	"I": 221,
+	"T": 1844,
+	"t": 10797,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		648,
+		1,
+		"HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\Tcpip\\Parameters\\Hostname",
+		"Hostname",
+		1,
+		"None"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6ca"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 10797,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		648
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6cb"
+	},
+	"I": 206,
+	"T": 1844,
+	"t": 10797,
+	"h": 0,
+	"e": 203,
+	"E": -1073741568,
+	"args": [
+		0,
+		3221225524,
+		0,
+		131097,
+		"HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\System\\DNSclient"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6cc"
+	},
+	"I": 206,
+	"T": 1844,
+	"t": 10797,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		648,
+		131097,
+		"HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Services\\Tcpip\\Parameters"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6cd"
+	},
+	"I": 221,
+	"T": 1844,
+	"t": 10797,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		648,
+		1,
+		"HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\Tcpip\\Parameters\\Domain",
+		"Domain",
+		1,
+		""
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6ce"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 10797,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		648
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6cf"
+	},
+	"I": 100,
+	"T": 1844,
+	"t": 10797,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"NONE"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6d0"
+	},
+	"I": 252,
+	"T": 1844,
+	"t": 10969,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		"{8bc3f05e-d86b-11d0-a075-00c04fb68820}",
+		20,
+		[
+			"{f309ad18-d86a-11d0-a075-00c04fb68820}"
+		]
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6d1"
+	},
+	"I": 100,
+	"T": 1844,
+	"t": 10984,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		"NONE"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6d2"
+	},
+	"I": 251,
+	"T": 1844,
+	"t": 11109,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		"{674b6698-ee92-11d0-ad71-00c04fd8fdff}",
+		1,
+		"{44aca674-e8fc-11d0-a07c-00c04fb68820}"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6d3"
+	},
+	"I": 253,
+	"T": 1844,
+	"t": 11203,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		"{7c857801-7381-11cf-884d-00aa004b2e24}",
+		3,
+		"{d5f569d0-593b-101a-b569-08002b2dbf7a}"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6d4"
+	},
+	"I": 8,
+	"name": "IWbemServices_ExecQuery",
+	"type": "info",
+	"category": "misc",
+	"args": [
+		"is_success",
+		"retval",
+		"query_language",
+		"query",
+		"flags"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6d5"
+	},
+	"I": 8,
+	"T": 1844,
+	"t": 15547,
+	"h": 0,
+	"e": 0,
+	"E": -1072365560,
+	"args": [
+		0,
+		2147749908,
+		"WQL",
+		"SELECT * FROM Win32_ShadowCopy",
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6d6"
+	},
+	"I": 251,
+	"T": 1844,
+	"t": 15547,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		"{eb87e1bd-3233-11d2-aec9-00c04fb68820}",
+		1,
+		"{eb87e1bc-3233-11d2-aec9-00c04fb68820}"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6d7"
+	},
+	"I": 178,
+	"T": 1844,
+	"t": 15547,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		648,
+		-2146434944,
+		0,
+		1,
+		0,
+		5,
+		"C:\\Windows\\System32\\wbem\\en-US\\wmiutils.dll.mui",
+		"\\??\\C:\\Windows\\system32\\wbem\\en-US\\wmiutils.dll.mui",
+		1
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6d8"
+	},
+	"I": 183,
+	"name": "NtCreateSection",
+	"type": "info",
+	"category": "process",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"section_handle",
+			"p"
+		],
+		[
+			"desired_access",
+			"x"
+		],
+		"protection",
+		[
+			"file_handle",
+			"p"
+		],
+		[
+			"object_handle",
+			"p"
+		],
+		"section_name"
+	],
+	"flags_value": {
+		"desired_access": []
+	},
+	"flags_bitmask": {
+		"desired_access": [
+			[
+				2031616,
+				"STANDARD_RIGHTS_ALL"
+			],
+			[
+				983040,
+				"STANDARD_RIGHTS_REQUIRED"
+			],
+			[
+				65536,
+				"DELETE"
+			],
+			[
+				131072,
+				"READ_CONTROL"
+			],
+			[
+				262144,
+				"WRITE_DAC"
+			],
+			[
+				524288,
+				"WRITE_OWNER"
+			],
+			[
+				1048576,
+				"SYNCHRONIZE"
+			],
+			[
+				65535,
+				"SPECIFIC_RIGHTS_ALL"
+			],
+			[
+				16777216,
+				"ACCESS_SYSTEM_SECURITY"
+			],
+			[
+				33554432,
+				"MAXIMUM_ALLOWED"
+			],
+			[
+				-2147483648,
+				"GENERIC_READ"
+			],
+			[
+				1073741824,
+				"GENERIC_WRITE"
+			],
+			[
+				536870912,
+				"GENERIC_EXECUTE"
+			],
+			[
+				268435456,
+				"GENERIC_ALL"
+			]
+		]
+	}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6d9"
+	},
+	"I": 183,
+	"T": 1844,
+	"t": 15547,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		640,
+		983045,
+		8,
+		648,
+		0,
+		""
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6da"
+	},
+	"I": 203,
+	"T": 1844,
+	"t": 15547,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		640,
+		-1,
+		31522816,
+		0,
+		0,
+		20480,
+		0,
+		8,
+		832,
+		{
+			"$binary": {
+				"base64": "",
+				"subType": "00"
+			}
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6db"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 15562,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		640
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6dc"
+	},
+	"I": 173,
+	"T": 1844,
+	"t": 15562,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		0,
+		1976631296,
+		"OLEAUT32.dll",
+		"OLEAUT32",
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6dd"
+	},
+	"I": 172,
+	"T": 1844,
+	"t": 15562,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1976631296,
+		"",
+		2,
+		1976649282,
+		"OLEAUT32"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6de"
+	},
+	"I": 173,
+	"T": 1844,
+	"t": 15562,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		0,
+		1978204160,
+		"USER32.dll",
+		"USER32",
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6df"
+	},
+	"I": 172,
+	"T": 1844,
+	"t": 15562,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1978204160,
+		"LoadStringW",
+		0,
+		1978306233,
+		"USER32"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6e0"
+	},
+	"I": 286,
+	"name": "LoadStringW",
+	"type": "info",
+	"category": "ui",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"module_handle",
+			"p"
+		],
+		"id",
+		"string"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6e1"
+	},
+	"I": 286,
+	"T": 1844,
+	"t": 15562,
+	"h": 0,
+	"e": 1813,
+	"E": -1073741686,
+	"args": [
+		0,
+		0,
+		1931608064,
+		450,
+		""
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6e2"
+	},
+	"I": 286,
+	"T": 1844,
+	"t": 15562,
+	"h": 0,
+	"args": [
+		1,
+		24,
+		0,
+		47091,
+		"ERROR:\r\nDescription = %1"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6e3"
+	},
+	"I": 175,
+	"T": 1844,
+	"t": 15562,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-1,
+		2138112,
+		24576,
+		4096,
+		4,
+		0,
+		0,
+		0,
+		832
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6e4"
+	},
+	"I": 153,
+	"name": "WriteConsoleA",
+	"type": "info",
+	"category": "misc",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"console_handle",
+			"p"
+		],
+		"buffer"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6e5"
+	},
+	"I": 153,
+	"T": 1844,
+	"t": 15625,
+	"h": 0,
+	"args": [
+		1,
+		1,
+		11,
+		"ERROR:\r\r\nDescription = Initialization failure\r\r\n"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6e6"
+	},
+	"I": 256,
+	"name": "CoUninitialize",
+	"type": "info",
+	"category": "ole",
+	"args": [
+		"is_success",
+		"retval"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6e7"
+	},
+	"I": 256,
+	"T": 1844,
+	"t": 15922,
+	"h": 0,
+	"args": [
+		1,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6e8"
+	},
+	"I": 171,
+	"T": 1844,
+	"t": 15922,
+	"h": 0,
+	"e": 0,
+	"E": -1073741686,
+	"args": [
+		0,
+		3221225781,
+		0,
+		"mscoree.dll",
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6e9"
+	},
+	"I": 171,
+	"T": 1844,
+	"t": 15922,
+	"h": 0,
+	"e": 0,
+	"E": -1073741686,
+	"args": [
+		0,
+		3221225781,
+		0,
+		"mscoree.dll",
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6ea"
+	},
+	"I": 235,
+	"name": "NtTerminateProcess",
+	"type": "info",
+	"category": "process",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"process_handle",
+			"p"
+		],
+		[
+			"status_code",
+			"x"
+		],
+		"process_identifier"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6eb"
+	},
+	"I": 235,
+	"T": 1844,
+	"t": 15922,
+	"h": 0,
+	"e": 126,
+	"E": -1073741515,
+	"args": [
+		0,
+		0,
+		0,
+		-2147217388,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6ec"
+	},
+	"I": 235,
+	"T": 1844,
+	"t": 15922,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		0,
+		-2147217388,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6ed"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 15953,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		624
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6ee"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 15953,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		620
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6ef"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 15953,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		592
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6f0"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 15953,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		596
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6f1"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 15953,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		544
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6f2"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 15953,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		548
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6f3"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 15953,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		552
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6f4"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 15953,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		556
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6f5"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 15953,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		560
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6f6"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 15953,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		564
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6f7"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 15953,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		568
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6f8"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 15953,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		572
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6f9"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 15953,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		532
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6fa"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 15953,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		496
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6fb"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 15953,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		476
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6fc"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 15953,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		464
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6fd"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 15953,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		468
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6fe"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 15953,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		472
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a6ff"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 15953,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		480
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a700"
+	},
+	"I": 238,
+	"name": "NtUnmapViewOfSection",
+	"type": "info",
+	"category": "process",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"process_handle",
+			"p"
+		],
+		[
+			"base_address",
+			"p"
+		],
+		"process_identifier",
+		"region_size"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a701"
+	},
+	"I": 238,
+	"T": 1844,
+	"t": 15953,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-1,
+		30605312,
+		832,
+		8192
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a702"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 15953,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		428
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a703"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 15969,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		424
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a704"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 15969,
+	"h": 0,
+	"e": 1412,
+	"E": -1073741515,
+	"args": [
+		0,
+		3221225480,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a705"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 15969,
+	"h": 0,
+	"e": 6,
+	"E": -1073741816,
+	"args": [
+		0,
+		3221225480,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a706"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 15969,
+	"h": 0,
+	"e": 6,
+	"E": -1073741816,
+	"args": [
+		0,
+		3221225480,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a707"
+	},
+	"I": 175,
+	"T": 1844,
+	"t": 15969,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-1,
+		4358144,
+		65536,
+		4096,
+		4,
+		0,
+		0,
+		0,
+		832
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a708"
+	},
+	"I": 33,
+	"T": 1844,
+	"t": 15969,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		384
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a709"
+	},
+	"I": 33,
+	"T": 1844,
+	"t": 15969,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		388
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a70a"
+	},
+	"I": 33,
+	"T": 1844,
+	"t": 15969,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		396
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a70b"
+	},
+	"I": 33,
+	"T": 1844,
+	"t": 15969,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		400
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a70c"
+	},
+	"I": 33,
+	"T": 1844,
+	"t": 15969,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		404
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a70d"
+	},
+	"I": 33,
+	"T": 1844,
+	"t": 15969,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		616
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a70e"
+	},
+	"I": 33,
+	"T": 1844,
+	"t": 15969,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		646
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a70f"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 15969,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		252
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a710"
+	},
+	"I": 238,
+	"T": 1844,
+	"t": 15969,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-1,
+		3538944,
+		832,
+		4096
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a711"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 15969,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		256
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a712"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 15969,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		72
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a713"
+	},
+	"I": 238,
+	"T": 1844,
+	"t": 15969,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-1,
+		30539776,
+		832,
+		4096
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a714"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 15969,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		484
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a715"
+	},
+	"I": 33,
+	"T": 1844,
+	"t": 15969,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		492
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a716"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 15969,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		140
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a717"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 15969,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		136
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a718"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 15969,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		132
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a719"
+	},
+	"I": 117,
+	"T": 1844,
+	"t": 15969,
+	"h": 0,
+	"args": [
+		1,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a71a"
+	},
+	"I": 46,
+	"T": 1844,
+	"t": 15969,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		-2147483646,
+		"SOFTWARE\\Microsoft\\WBEM\\CIMOM",
+		0,
+		131097,
+		132,
+		"HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\WBEM\\CIMOM"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a71b"
+	},
+	"I": 48,
+	"name": "RegQueryInfoKeyW",
+	"type": "info",
+	"category": "registry",
+	"args": [
+		"is_success",
+		"retval",
+		[
+			"key_handle",
+			"p"
+		],
+		"class",
+		"subkey_count",
+		"subkey_max_length",
+		"class_max_length",
+		"value_count",
+		"value_name_max_length",
+		"value_max_length",
+		"regkey"
+	],
+	"flags_value": {},
+	"flags_bitmask": {}
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a71c"
+	},
+	"I": 48,
+	"T": 1844,
+	"t": 15969,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		132,
+		"",
+		2,
+		23,
+		0,
+		25,
+		30,
+		78,
+		"HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\WBEM\\CIMOM"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a71d"
+	},
+	"I": 50,
+	"T": 1844,
+	"t": 15969,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		132,
+		"Logging",
+		1,
+		"HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\WBEM\\CIMOM\\Logging",
+		"0"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a71e"
+	},
+	"I": 33,
+	"T": 1844,
+	"t": 15969,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		132
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a71f"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 15969,
+	"h": 0,
+	"e": 1008,
+	"E": 0,
+	"args": [
+		0,
+		3221225480,
+		0
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a720"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 15969,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		312
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a721"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 15969,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		100
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a722"
+	},
+	"I": 172,
+	"T": 1844,
+	"t": 15969,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1930493952,
+		"CryptReleaseContext",
+		0,
+		1930505968,
+		"CRYPTSP"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a723"
+	},
+	"I": 174,
+	"T": 1844,
+	"t": 15969,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1975779328,
+		"IMM32"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a724"
+	},
+	"I": 206,
+	"T": 1844,
+	"t": 15969,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		100,
+		131097,
+		"HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\GRE_Initialize"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a725"
+	},
+	"I": 221,
+	"T": 1844,
+	"t": 15969,
+	"h": 0,
+	"e": 0,
+	"E": -1073741816,
+	"args": [
+		0,
+		3221225524,
+		100,
+		2,
+		"HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\GRE_Initialize\\DisableMetaFiles",
+		"",
+		0,
+		""
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a726"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 15969,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		100
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a727"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 15969,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		56
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a728"
+	},
+	"I": 174,
+	"T": 1844,
+	"t": 15969,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		1929641984,
+		"ntmarta"
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a729"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 15969,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		180
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a72a"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 15969,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		48
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a72b"
+	},
+	"I": 176,
+	"T": 1844,
+	"t": 15969,
+	"h": 0,
+	"args": [
+		1,
+		0,
+		52
+	]
+}
+{
+	"_id": {
+		"$oid": "63a1e8c14a64ac102901a72c"
+	},
+	"I": 235,
+	"T": 1844,
+	"t": 29375,
+	"h": 0,
+	"e": 0,
+	"E": -1073741816,
+	"args": [
+		0,
+		0,
+		-1,
+		-2147217388,
+		832
+	]
+}
